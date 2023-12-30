@@ -1,0 +1,3733 @@
+{
+  "name" : "blood, trinity, & coin",
+  "logo_image_uri" : "https://iili.io/JRnPnbj.png",
+  "banner_image_uri" : "https://iili.io/JRnUFLP.png",
+  "total_supply" : 120,
+  "slug" : "blood-trinity-coin",
+  "description" : "An ongoing 1 to 1 collection undertaken by a solo artist and designer - the main objective of this project is to exercise and explore the depths of his psyche and ever-expanding creativity. With resolve and passion, he hopes to achieve something monumental and forever lasting.",
+  "website_link" : "https://www.instagram.com/blood_trinity_and_coin/",
+  "twitter_link" : "https://twitter.com/blood_trin_coin",
+  "background_color" : "#070808",
+  "collection_items" : [ {
+    "id" : 0,
+    "name" : "Xantum Knight",
+    "ethscription_id" : "0x48d8d91bff34b4360504c9a67ee447ed007c45cc5c2f46691fd04d934ce758ac",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Void"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Greatswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Foreign"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00000-3463512"
+    } ],
+    "description" : "A knight whose dark past remains shrouded in mystery...",
+    "hash" : "7541592614fa4af6813637622e0b727566aa77f3e79f70d0654c8af840d234d9"
+  }, {
+    "id" : 0,
+    "name" : "Saint Panore",
+    "ethscription_id" : "0xf3b5a14019a3c8d5b024a8da7aad8464c56ca0a29c4c459bed96526958a01208",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Polearms"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Methodical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00001-3462764"
+    } ],
+    "description" : "Outer purity masks hidden darkness... A legendary paladin said to have fought demons from the dawn of time... ",
+    "hash" : "623c46e79bba77829b246af4a3a4ab6bdb2abb6e5a729f2171c9f2ecb475a5cf"
+  }, {
+    "id" : 0,
+    "name" : "Lord Middlemarch",
+    "ethscription_id" : "0x5c73359514e205fc11cf7e28c48fe862f68e0695cf3ba37ba75081acdadb5eed",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Champion (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Chaos"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Calculated"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00002-3191176"
+    } ],
+    "description" : "A commander beloved by his men, but rumors say a darker power fuels his mind...",
+    "hash" : "ef5c8c2b71bf939a9e0761e24fc36bc753e01a4c89937d4dcb4ee7b210b9b2d1"
+  }, {
+    "id" : 0,
+    "name" : "Saolee Xuo",
+    "ethscription_id" : "0x6a71e49f15d2a245a14df2a31f580d0b77c83db7a7e9ef8ccbd9094decce35f1",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Champion (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Foreign"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00003-1993655"
+    } ],
+    "description" : "Behind mystery lurks vulnerability, an enigmatic champion whose expressionless face reveals nothing...",
+    "hash" : "3f5cb08b78dcc7a4853f2838b399d252e7e9bb98e5fdd9d063020890ff07e981"
+  }, {
+    "id" : 0,
+    "name" : "Swordmaster Melody",
+    "ethscription_id" : "0xb7da57f7ae555a2adbce9a72632c975646fbd52765bc73716a2dd599d26c9f7b",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Cardinal"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Graceful"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00004-3460662"
+    } ],
+    "description" : "Though hailed as liberator, whispers suggest insecurity hides behind this swordmaster's skill...",
+    "hash" : "f240800342a33769a9c77e0cb5018c734a7e74a0f28ec3b078d2d328cbcc49f0"
+  }, {
+    "id" : 0,
+    "name" : "Kris the Valiant",
+    "ethscription_id" : "0xadbc39c5649fdf6d8c0430c5038ef6cf6df5f1e03074ce343f57b445fa99b142",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Greatswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Calculated"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00005-3460521"
+    } ],
+    "description" : "A brave knight bearing a cursed ancestral blade said to steal the souls of fallen foes...",
+    "hash" : "db3711db4319195a178a7a50b343b200b53860d96a003bd72b7cafa8da712ee5"
+  }, {
+    "id" : 0,
+    "name" : "Young Yustin",
+    "ethscription_id" : "0xf85e8d1cbe7aed854ba4a5cc8e1fe49500f6ae8208a090ca516e8cd7d524c453",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Shortswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Defensive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00006-3460339"
+    } ],
+    "description" : "A squire's journey from youthful caution to chivalric bravery, with every lesson etching deeper resolve.",
+    "hash" : "ecddb0940e4c7be39533b4c702bd1c2cf856796364e723bbdb313fe7ecca3098"
+  }, {
+    "id" : 0,
+    "name" : "Quovix the Strong",
+    "ethscription_id" : "0x8af6f003d34d3db91d6ac738ea7341ae229dfb0e02d92481872ca4fe137f8295",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Resistance"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Greatswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Barbaric"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00007-3460299"
+    } ],
+    "description" : "A voice for all yet void of warmth, one wonders what shadows spawn such passionless, principled strength...",
+    "hash" : "bc02a1df990fd246914efa0c0c699788c6eeb755e16667c870f8a37b964e769f"
+  }, {
+    "id" : 0,
+    "name" : "Juan the Mystical",
+    "ethscription_id" : "0x2f7b0049d05656e9d56cd08a20dfc28bdc0f5a261a53fc1af64cff0e40480cfc",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Mage (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Resistance"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Magic"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Mystical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00008-3460367"
+    } ],
+    "description" : "A mage of great power, but whispers in the night question whether knowledge or ego guides his ambitions...",
+    "hash" : "04f0cf7a934d1e427c6429a9fec53d6007f329e1cb07e7ae8ffa3c86594e4c93"
+  }, {
+    "id" : 0,
+    "name" : "Knight Jadeakin",
+    "ethscription_id" : "0x2507707c4e2afea1e35656ae512975c51b848b02d19eb416d30c579879f052d5",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Evasive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00009-3461230"
+    } ],
+    "description" : "A virtuous knight loyal to the end, or so it seems - what dark forces Manipulate her from the shadows?",
+    "hash" : "6da95619d30bbc60751379c2f72e4ee3b2b8f7016d10ddcdb0603af90c34fa30"
+  }, {
+    "id" : 0,
+    "name" : "Soldier of Umbria",
+    "ethscription_id" : "0xa844ee8715a837c9ae071284a436d311a446aa642fef697c02a91ad3534f1416",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Chaos"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Barbaric"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00010-3461184"
+    } ],
+    "description" : "Umbria is a land of chaos and brutality... and its Soldier equally so.",
+    "hash" : "ca9e25b73fc11e077e9c59ceb37c45dd4ed97d32d31fa7877fd759ae5937b6dc"
+  }, {
+    "id" : 0,
+    "name" : "Warmaiden Otsna",
+    "ethscription_id" : "0x06e84827eda3d4861fadac4e5da0233eb5df4c93c52a5ba3c1ae4add97425541",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Cardinal"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Calculated"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00011-3052722"
+    } ],
+    "description" : "A maiden of war whose every action seems calculated, one wonders what nightmares spawn each calculated step.",
+    "hash" : "5c3dde8c54b158dedab2467a454e539fb81590d894b694c5d857709384aea3fc"
+  }, {
+    "id" : 0,
+    "name" : "Princess Erani",
+    "ethscription_id" : "0x83dc9505d5150fcda43fe9fe12d659e1a3b0004abb32834f0f95fd6aeade35ba",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Noble (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Null"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Null"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00012-3120828"
+    } ],
+    "description" : "A princess celebrated for her kindness.",
+    "hash" : "64ce2830ba2dff72d044250cba00d63e45b91d94448421a1f6bd30ad5ade3510"
+  }, {
+    "id" : 0,
+    "name" : "Warmaiden Idamee",
+    "ethscription_id" : "0x761ff4b0b039f9c61dcda171072e354fcdb1cdd458954a7da6eea146a9fa1581",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Cautious"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00013-3183497"
+    } ],
+    "description" : "A renowned shieldmaiden.",
+    "hash" : "17ce3f5ad459038586569dbc76e23a0fa061e2b8a2a9e2fb3f3866d60af1fba8"
+  }, {
+    "id" : 0,
+    "name" : "Lord Michael",
+    "ethscription_id" : "0x173d031eabd8f3d079904c6f1c0912718843ed0c7279ecc180ae8df44fc1e632",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Champion (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Greataxes"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Graceful"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00014-3141337"
+    } ],
+    "description" : "Chaos and strength define this champion.",
+    "hash" : "b4200dcad756d6a68a61472de50e51e1fb84524cf1a6f94af2d9e41da196e63f"
+  }, {
+    "id" : 0,
+    "name" : "Knight Sharlet",
+    "ethscription_id" : "0x9eca8f58e5776bba0723474b56136cc48f9b32e39f2ed59e0457eb14f133f3f0",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Resistance"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Calculated"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00015-3141347"
+    } ],
+    "description" : "A paladin whose skills and loyalty are beyond question.",
+    "hash" : "e60e11a29c09fb7e679feab248c7eb26b7751b0fae46cd61bfd5a409d4e013d0"
+  }, {
+    "id" : 0,
+    "name" : "Gloria of Xescarda",
+    "ethscription_id" : "0x74f677607c6b426f739d6eb1194ea6bffa10da509a7faa398af42a89c42509f6",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Champion (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Tactical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00016-3147145"
+    } ],
+    "description" : "A champion shrouded in mystery - what eldritch powers grant her preternatural skills and prowess?",
+    "hash" : "7955abaa8de9a22916772f763733829349ac32b250d0e102bd918da9d893b5a8"
+  }, {
+    "id" : 0,
+    "name" : "Dorrok of Ages",
+    "ethscription_id" : "0x9c51777a90ec9d1f9bfe47364b1f07fd68e405208c7c353bfbc80789846c481c",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Champion (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Greataxes"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Mystical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00017-3156267"
+    } ],
+    "description" : "Stories tell of a demigod’s wrath and glory - his true nature remains a mystery to all but a hidden cabal.",
+    "hash" : "ba9343d705e12d7bd6abb33b756bdcc0118f2162024b155c1308ec5575ba62a5"
+  }, {
+    "id" : 0,
+    "name" : "Lord Anthony",
+    "ethscription_id" : "0x4f8ed152c576697f7f9a2c9e2058a9632e094ec9f32f07f1d15bdc16d5870641",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Tactical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00018-3140581"
+    } ],
+    "description" : "A noble commander whose ambitions are whispered to surpass all mortal men, what unholy pact fuels his drive for domination?",
+    "hash" : "15b74666ec06337b1420e64f827dc51134ae16b054daec8049912c53a7690414"
+  }, {
+    "id" : 0,
+    "name" : "Countess Danielle",
+    "ethscription_id" : "0x9c8c29b018a29e4775a08aba0399ba332ce8372e99519a76a2370dbd58e62eae",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Barbaric"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00019-3140521"
+    } ],
+    "description" : "A leader whose charisma inspires all but even so - dark whispers hint at nameless sacrileges of her shadowed past.",
+    "hash" : "b8d77d1f2fb2801ed115b01632508fca0eb328589f0d8859d884039b2063db05"
+  }, {
+    "id" : 0,
+    "name" : "Kathera of Imor",
+    "ethscription_id" : "0x7fb41f7778b9e9458fd355c2d9ea561762943bf3520d44621e949621ae3974f2",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Noble (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Cardinal"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Evasive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00020-3140846"
+    } ],
+    "description" : "Though praised for courage, something in her eyes hints at storms within, and trials not yet faced.",
+    "hash" : "03c737996cedccb755a6dfe1a6c97a5b1f9707915aedb38a2115f67669d31ad9"
+  }, {
+    "id" : 0,
+    "name" : "Ressna of Shadows",
+    "ethscription_id" : "0xcb74117193914fa12de35aa5218d166266e8903dd7611143110d1447e551714f",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Rogue (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Shortswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Graceful"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00021-3723828"
+    } ],
+    "description" : "Beauty and skill define this rogue.",
+    "hash" : "1763e77338e8997a5395eb182f529ac128284d4ab24c5acc4c6e5203172d82c1"
+  }, {
+    "id" : 0,
+    "name" : "Captain Laeowitch",
+    "ethscription_id" : "0x04cbbf1dfad31f55d8fd527d2fb005cd690dc3a4ff4a08be6f2a817e708fb422",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Cardinal"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Tactical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00022-3146547"
+    } ],
+    "description" : "A captain cloaked - prowess proves power yet purpose perspires darkness.",
+    "hash" : "f5916c76f49ccc4020c912b5e32921da09627a9b5bec9546515bb8f6f018a0dc"
+  }, {
+    "id" : 0,
+    "name" : "Itoria of Iuonia",
+    "ethscription_id" : "0xa18960c5ed9e0e0227b4009badbf4383765312c1502a2ff12ac63d044bbd3a7f",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Resistance"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Defensive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00023-3146707"
+    } ],
+    "description" : "A warrior of moonlight - mystery masks a secret mission.",
+    "hash" : "fa8419a63de820d1953e44b603ccd460238e98fdc46c6e6b8ac5a3aba1811ab5"
+  }, {
+    "id" : 0,
+    "name" : "Natell of Aumbsu",
+    "ethscription_id" : "0x48dd94380e5c35acaa62f9108726a312b98c2a7052f32b61ab633b4218300261",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Rogue (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Trinity"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Shortswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Tactical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00024-3183644"
+    } ],
+    "description" : "A cunning infiltrator whose skills seem too sharp to be mundane - what sinister patrons grant sponser?",
+    "hash" : "9068c5748a6355c4311e0038aa2f4b736e3226db77428d33bcd852df41089193"
+  }, {
+    "id" : 0,
+    "name" : "Merc Velno",
+    "ethscription_id" : "0xd6befe9ce8c3f62a45c34a1d1bd42dd5842d5e168f939ec1dcc402b7fbd85ce5",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Battleaxes"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Mystical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00025-3183729"
+    } ],
+    "description" : "A sellsword whose prowess inspires allies and terrifies foes.",
+    "hash" : "4328e800b376fda9c629d66717b9421083a1d376569c42e1af1a9a4b775a0ef6"
+  }, {
+    "id" : 0,
+    "name" : "Dawnseer Orenna",
+    "ethscription_id" : "0x9f08650195834839fb8ee282b74e25f287903e85a78b0c9bbeb1e45d759416fd",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Mage (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Magic"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Defensive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00026-3183567"
+    } ],
+    "description" : "A mystic whose foresight and incantations can turn the tide of battle.",
+    "hash" : "d7412b96665e0882b091e8ad47f2327731b6fe7e67ff96890f286fae181f413d"
+  }, {
+    "id" : 0,
+    "name" : "Cragnok",
+    "ethscription_id" : "0xba67cc126da7865f8e6a431c8eb4dbcb292b26384debe25e5e0a39923f095da1",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Monster"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Void"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Null"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Null"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Mystical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00027-2284591"
+    } ],
+    "description" : "A primordial monster...",
+    "hash" : "5bb72ae8d01a9ab857ba9a55abaac1310633cb1bc811c2eca650e5aeb9cd8ec6"
+  }, {
+    "id" : 0,
+    "name" : "Simon of Estenworth",
+    "ethscription_id" : "0x3882c6432767b1fe1f4ee81bc650a3be7c8321158635e304934c2254ed239e6d",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Void"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Tactical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00028-3155700"
+    } ],
+    "description" : "A stoic knight bearing arms against the dark... the void in his eyes betrays nameless horrors that still consume his soul.",
+    "hash" : "9f974447c15b30142f6a270b7139bb54d3168621d61d7c4887b99dcd973ad279"
+  }, {
+    "id" : 0,
+    "name" : "Rogue Gnona",
+    "ethscription_id" : "0xc368f11b27763d4de628e6b43e7c2e37babf471dfaed94962409f94543213aa2",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Mage (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Magic"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Defensive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00029-3147208"
+    } ],
+    "description" : "A mage who escaped from captivity... her magic carries the scent of curiosity and madness.",
+    "hash" : "86f53551fde110caea8dbbe620c6cfa46707651f29a2d3103173efa83ba8ecc9"
+  }, {
+    "id" : 0,
+    "name" : "Scalefin",
+    "ethscription_id" : "0xea17632164cc719ae4c60ff26c4c08197e6096588ff3e2319132f2d5db0591e5",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Monster"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Null"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Null"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Barbaric"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00030-3146484"
+    } ],
+    "description" : "A serpentine abomination said to herald a nameless King beneath the waves.",
+    "hash" : "56c2d6d0d9da4197b92ea6ab96614be1648983b6cb5abc5b9468796d6bcf0683"
+  }, {
+    "id" : 0,
+    "name" : "Lord Fennar",
+    "ethscription_id" : "0x9d357c07894534dad62466512371c103146152ae171838f9778e875d528ff37d",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Noble (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Shortswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Cautious"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00031-3142900"
+    } ],
+    "description" : "A noble whose court masks schemes whispered to enrich a dark cult beneath shining spires.",
+    "hash" : "3ae874ae43642d23ab58002ce66ec9e725c5e78982c5888ae6bd7d86b791d7eb"
+  }, {
+    "id" : 0,
+    "name" : "Geusma the Runeknight",
+    "ethscription_id" : "0xbc9f328c93b7bfb8c91e56d6b2ef4ab886b520aca24692a82a80107b3ceab588",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Evasive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00032-3142859"
+    } ],
+    "description" : "A knight without light - a tool of terror that triumphs lofty ambitions.",
+    "hash" : "a1a6b38f7e78bc2992638a955b5eccf51c19d8b7af3b192735797db0b2865037"
+  }, {
+    "id" : 0,
+    "name" : "Lady Heskiema",
+    "ethscription_id" : "0xb625f4454871e486ed54d735f716fe0ffab1e65ab05e5be2d785b339baba56bc",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Noble (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Magic"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Defensive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00033-3142801"
+    } ],
+    "description" : "A regal sorceress whose beauty hides ruthless cunning.",
+    "hash" : "7b66367242a5d66d1e527be36eac2f03e197362775e565cb279ec34fa0491c74"
+  }, {
+    "id" : 0,
+    "name" : "Merc Corvek",
+    "ethscription_id" : "0x76ce7735db998688366c668890332a07aafbb4889e9cec6642c532443c3ccb8d",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Greatswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Calculated"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00034-3142389"
+    } ],
+    "description" : "A veteran mercenary, his sorrow burns behind eyes that have seen too much.",
+    "hash" : "948d6777fd9023bfbaa05041c95b2c24a1b90cb8b631c20e0d27887188334177"
+  }, {
+    "id" : 0,
+    "name" : "Sinhunter Prista",
+    "ethscription_id" : "0x64fd8e772b67e9d474325e7ca5b34788145427a9c0e96b2de69ed67390cfcf8d",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Calculated"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00035-3142352"
+    } ],
+    "description" : "A paladin sinhunter, a title given to appease a dark obsession.",
+    "hash" : "ae9db5678537acb8d468394eb8574a92e432f8578bfd0067c1d484a2cf8c42a4"
+  }, {
+    "id" : 0,
+    "name" : "Lord Payne",
+    "ethscription_id" : "0x2a6b4bd2058c0bd71b28692a34592351881fa297fee8fb04ed9c1f7668af402c",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Noble (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Chaos"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Barbaric"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00036-3142304"
+    } ],
+    "description" : "A crimson warlord, uniting allies through fear and brutality.",
+    "hash" : "dfb4cdab3c42d5404d726b72572d8c18d75532bfe9b5cfb9c16b9a45c10ba6ab"
+  }, {
+    "id" : 0,
+    "name" : "Paladin Ntorri",
+    "ethscription_id" : "0x1ee71ad841b7ccb40c8046a57015e4061dd6cd445f81f211a717a06c31da5cf4",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Resistance"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Cautious"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00037-3142300"
+    } ],
+    "description" : "A virtuous guardian, a fanatic whose wrath would see all unbelievers perish.",
+    "hash" : "a3e62840f5b0ec8dcfb51bfa4124badc26b24644af7be5774e0fea70b314d356"
+  }, {
+    "id" : 0,
+    "name" : "Safari of Hunt",
+    "ethscription_id" : "0xbc2be6eb91b9df1bbbd4b150f38033b1ff98a8cc00030be1fbc2d0d8db02a421",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Rogue (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Void"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Crossbows"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Aggressive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00038-3142297"
+    } ],
+    "description" : "A proud monster hunter.",
+    "hash" : "2f911c47da23b754ddc3aad6d1771a961100c6cde0bae60ce6d5d20136e02082"
+  }, {
+    "id" : 0,
+    "name" : "Dwafthunter Eleejinn",
+    "ethscription_id" : "0xd2b34e2639d342b6e97978327a2829ebc725d1978d1244fcdafb2d6df5011508",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Monster"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Polearms"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Aggressive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00039-3141359"
+    } ],
+    "description" : "A warrior from one of the last tribes of Lizardmen.",
+    "hash" : "f7d28d30476c59d547aeaf09ee7ae39e9fdc41c9553fff839c8f2247420f133e"
+  }, {
+    "id" : 0,
+    "name" : "Darklight Torgomo",
+    "ethscription_id" : "0xe99bf301899277491ab505e696906ed6c61fe854fbb7cf6e57c9c553f549a32f",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Monster"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Void"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Greatswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Cautious"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00040-3130093"
+    } ],
+    "description" : "A mysterious hybrid abomination, the first of a new blasphemous race whose emergence may mark the return of an ancient power...",
+    "hash" : "fb2c3976e0408ba31fe56b531a6ffcd7a931b7b0396b3b4afd35608204b671a1"
+  }, {
+    "id" : 0,
+    "name" : "Syiann the Forsaken",
+    "ethscription_id" : "0xa4c6394a725bc567154012ce48712878d1525e13667950d55fd9b36c1338ef35",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Rogue (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Resistance"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Shortswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Calculated"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00041-3121827"
+    } ],
+    "description" : "An exiled thief whose skills could dismantle nations.",
+    "hash" : "ed52f802386fd23aeb9bdfbf8656c0cdc0e44a90bf1b782b1a53ed6844f88eb4"
+  }, {
+    "id" : 0,
+    "name" : "Naidea the Gambit",
+    "ethscription_id" : "0x9884173939d3f8e13a22368243b67f4e6b47ff677534a3e3dcd04c77a3c095fd",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Cardinal"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Daggers"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Aggressive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00042-3121696"
+    } ],
+    "description" : "A warrior who weaves the fabric of fate - time flows to the questions that remain for her standing.",
+    "hash" : "2ffa312f4da80643307867b629474f2f2cb473b6e4235fa53e1f18569e2e5a6b"
+  }, {
+    "id" : 0,
+    "name" : "Dwarven Raider",
+    "ethscription_id" : "0x3e0d2351c4ff0c601500a09d37030a29892b09618557f8cd3a0e5d74dfca59bc",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Monster"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Void"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Battleaxes"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Barbaric"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00043-3460774"
+    } ],
+    "description" : "Dwarven folk are regarded throughout the lands as extremely violent and sadistic... be warned...",
+    "hash" : "ede0627c797d4e44a843037dcbecc7a2e97b716544025dff2f3ceadb4c929ee2"
+  }, {
+    "id" : 0,
+    "name" : "Countess Minia",
+    "ethscription_id" : "0x3f3e75d21e6c0e3fd974e66015f55c80e22ccc550c8dae1692c7fcb970ee8ff5",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Noble (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Trinity"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Magic"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Tactical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00044-3460712"
+    } ],
+    "description" : "A regal mystic guiding allies to glory through incantations older than names.",
+    "hash" : "07a1dd1cbf54eb7ce4a4f83d7ea1674a74f3ca14beb8949ae112c3648a28f072"
+  }, {
+    "id" : 0,
+    "name" : "Winstin",
+    "ethscription_id" : "0xbd1c334a43dea765aa349d2a70bec9d89092a1bc4b371f89931b1a2b42a6eb51",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Cautious"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00045-3734742"
+    } ],
+    "description" : "Legacy bides behind bladesong, what ambitions hone such hitwork?",
+    "hash" : "3952b351104436266b422d7679dee609edcd4eda2bd742476a6d5cdd15a41ae2"
+  }, {
+    "id" : 0,
+    "name" : "Yuvanna",
+    "ethscription_id" : "0x38037057e30cfc43e319a0c9c8455fe19c348230ea4c8484592ac0c41b905fe8",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Defensive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00046-3460388"
+    } ],
+    "description" : "A stalwart Soldier shielding hope against all darkness, or a flesh puppet enacting an inhuman plot?",
+    "hash" : "c420c5c220749263872c1248640e2abc1e0094853e0dc5520bf0a6858512f71f"
+  }, {
+    "id" : 0,
+    "name" : "Battlemage Esteray",
+    "ethscription_id" : "0x9267d0efc7d6701d38b98ce2a81eda039a619205c874936b3bc577b09de19042",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Mage (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Magic"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Barbaric"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00047-3354649"
+    } ],
+    "description" : "A prodigious mage wielding sorcery like steel.",
+    "hash" : "d6921b169bac2d2d90e42bb8569167811a6480fbce5b70a4e5866a3f6c909842"
+  }, {
+    "id" : 0,
+    "name" : "Antonius of Renown",
+    "ethscription_id" : "0x0a886463e1341f6cb136be126f02cfba5ec5e7deb776cfd709d4e8e54a87a801",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Mage (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Magic"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Calculated"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00048-3353752"
+    } ],
+    "description" : "A renowned sage educating and instilling wisdom in a new generation of mages.",
+    "hash" : "30ebf7d036272b59b161b33e9397ad7ef07b0949f9da93d51bb021b412847f7d"
+  }, {
+    "id" : 0,
+    "name" : "Battlemage Delamay",
+    "ethscription_id" : "0x1a862b268f4e69ac46b4e123f73fdccb5df13857e0273c6b36ad2553172ebbc2",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Mage (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Flow"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Shortswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Evasive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00049-3353302"
+    } ],
+    "description" : "Power corrupts, as this mage knows - but confronting shadows demands confronting one's place among them.",
+    "hash" : "10086b34dd704855a6021a1e27f7494a622d6b7382da6d30fa3c23fbf48478bb"
+  }, {
+    "id" : 0,
+    "name" : "Justicar Gavin",
+    "ethscription_id" : "0x9f009b69947f3059cf4ff42860ca56b8c9ae61d62d644ab05e89cfabcc09d2af",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Flow"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Defensive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00050-3353148"
+    } ],
+    "description" : "An honorable enforcer upholding royal justice.",
+    "hash" : "13e5b52c38b97dbeae3a24b0c6881824a0dbb056646fa31f7a0954df2e7d236b"
+  }, {
+    "id" : 0,
+    "name" : "Methus Kale",
+    "ethscription_id" : "0x0dd8acad8b412be6db89859da54cb5ff4c81523455cbd627f2ae9474497a5cb2",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Champion (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Greatswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Methodical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00051-1993655"
+    } ],
+    "description" : "A great hero defending the innocent against evil.",
+    "hash" : "3ea0511e212e7858fe6689c3b4ab4ae827d50889029e61748e58b4c0ebaf8c12"
+  }, {
+    "id" : 0,
+    "name" : "Wanderer Yaska",
+    "ethscription_id" : "0xc82782606c26d0503943d5ef3730a83dd3c362257aa19284889e1458e929d875",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Cardinal"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Methodical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00052-3120392"
+    } ],
+    "description" : "A nomad warrior exploring and traveling through the land.",
+    "hash" : "898f971dfee27306be6400457b0703fe1246cd4224aa40168277cb11cd921c3e"
+  }, {
+    "id" : 0,
+    "name" : "Ivonis",
+    "ethscription_id" : "0xfde057c9daaab823171249eec6791daf42e611016462101c3b974bb2ef5f9edf",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Champion (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Cardinal"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Greatswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Mystical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00053-1978546"
+    } ],
+    "description" : "A legendary champion whose triumphs echo throughout the land.",
+    "hash" : "24ab46b94771b4c413279325127ac1018c77a0565c97ac31a4ccd77768393f8e"
+  }, {
+    "id" : 0,
+    "name" : "Guinaveen",
+    "ethscription_id" : "0x73f1c521118fc617353f78a7b985b5e0cbe61db84188c0045749050c918947d8",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Cautious"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00054-3121606"
+    } ],
+    "description" : "A guardian whose shield seems to be as breakless as her indomitable will.",
+    "hash" : "722063af18174c6e07edbe9b645dfbbfaadd2908966c58ec0269b06c8c1cb59e"
+  }, {
+    "id" : 0,
+    "name" : "Scout Linfey",
+    "ethscription_id" : "0x98ca4632d16199c0edf0d4bdbc5aaf2fa91effa4ff2ef3461b0d9318442d4c5e",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Crossbows"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Tactical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00055-1978549"
+    } ],
+    "description" : "A swift infiltrator preserving allies through stealth and skill.",
+    "hash" : "7402371c12c4d2195d799e73285195fe5dad7c3b0fa2420b3652d9a79f90b990"
+  }, {
+    "id" : 0,
+    "name" : "Navigator Salean",
+    "ethscription_id" : "0x696ce28d5385d680d3a252ebc7ef45874eb0f195a0c40b4102ad77c72bf9da8a",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Rogue (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Cardinal"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Crossbows"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Tactical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00056-2006973"
+    } ],
+    "description" : "A cunning guide navigating harsh air currents towards fortune.",
+    "hash" : "eb6c3ba2760c13de268de962d615510ef29f810b46eb60f4414d5b43e5565cb6"
+  }, {
+    "id" : 0,
+    "name" : "Zerra",
+    "ethscription_id" : "0x90f1f23e55f3e5f73a0fd84e0097ec6235acf980cceab2316ec83bde82c6ccff",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Calculated"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00057-3352981"
+    } ],
+    "description" : "A daring knight exploring mysteries and unanswered questions at swordpoint.",
+    "hash" : "d26f704853ceeac4e92c88716f0f62f59a6b7e706bf0f162a74ccbf1026ff1ca"
+  }, {
+    "id" : 0,
+    "name" : "Narlsa",
+    "ethscription_id" : "0xa56a968091b6655306896ed43d1388a9b5aad01a2af85ebe2b05e4fd51e3ecdd",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Flow"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Shortswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Aggressive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00058-2006990"
+    } ],
+    "description" : "A fierce warrior who embraces her predatory spirit in battle.",
+    "hash" : "ad77686cc1ada5eca43567717f512519cf695bb2df70757d78f7c3807a18df3f"
+  }, {
+    "id" : 0,
+    "name" : "Merc Jasmin",
+    "ethscription_id" : "0x0bc46c0298c964aa4de96dc5cebb8c4127ae641d6759732d6912ad355455352a",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Defensive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00059-3735769"
+    } ],
+    "description" : "A battle-hardened sellsword fighting for coin and glory.",
+    "hash" : "a1e7be82bd4845c81fb19d7d3d47f5c697fd4d5e4ad0df4ec4b8017899bf5f73"
+  }, {
+    "id" : 0,
+    "name" : "Knight Jakarde",
+    "ethscription_id" : "0x1d3408575cf5d2e5c650753c9bc95ca667ce1c3d12999a3c6700ceddb4c0b512",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Evasive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00060-2007017"
+    } ],
+    "description" : "An evasive knight who turns foes' strength against them.",
+    "hash" : "2d554615d852e9f18ba21612a7fdf2c70660d9327e7f3b200f428598a097dc88"
+  }, {
+    "id" : 0,
+    "name" : "Headhunter Zelfua",
+    "ethscription_id" : "0x8968f93d5409ec127dd96115bd1f5f02c04a4fee86083a93a1d3b8f4a233e573",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Mage (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Magic"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Methodical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00061-3351956"
+    } ],
+    "description" : "A formidable sorceress with unknown motivations.",
+    "hash" : "07de5605657abb55b8990549451ccd2c0de7d0322c5e28764e5c978125035d3e"
+  }, {
+    "id" : 0,
+    "name" : "Velna",
+    "ethscription_id" : "0x357e8b191479c40b16cb0f2cc43cfaff0c210a91d907e5c726c7b5bce4d677e3",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Rogue (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Daggers"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Cautious"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00062-2284534"
+    } ],
+    "description" : "A virtuous rogue whose skill equals her discretion.",
+    "hash" : "2be03e32ff8cb499f6b3f01196d2e82a84cc2c27fbbb85df817eda6506300d44"
+  }, {
+    "id" : 0,
+    "name" : "Captain Rainy",
+    "ethscription_id" : "0xe796071f3355f8ee0e39ca810812a3d71c0fd898b1bc05a749bfa7304b9fdafb",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Shortswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Cautious"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00063-3351806"
+    } ],
+    "description" : "A captain defending the kingdom through strength, skill, and loyalty.",
+    "hash" : "43048dd839b3175662eebb1109699ff36ce7fc752d41e0471e4843113ad99a10"
+  }, {
+    "id" : 0,
+    "name" : "Lagartha",
+    "ethscription_id" : "0xea77fc826eb1e4a9d0c4f9cc40c8f42b90653cb496b61fb71ba162a78e8c8566",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Trinity"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Greataxes"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Deceitful"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00064-2284680"
+    } ],
+    "description" : "A deceptive warrior who exploits guile as readily as steel.",
+    "hash" : "b51184fc7d1acca9120bc5679ea09fa4f6b2103ace17a505c4728217841400dc"
+  }, {
+    "id" : 0,
+    "name" : "Captain Qesse",
+    "ethscription_id" : "0xab252809a984fe4ea65bdf34fbbcc4a78e05b894445d61cbbbacfc2ea52b6d81",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Aggressive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00065-3351534"
+    } ],
+    "description" : "An aggressive soldier commanding through fury and fear.",
+    "hash" : "e6f048bdcf07d945d1faaec6a46260086276f30ece6a3171d123cd273d65bc04"
+  }, {
+    "id" : 0,
+    "name" : "Lady Brene",
+    "ethscription_id" : "0xc1b923e423a4268696c95be82f1ac2cd3d376867ffad1c5d59230ef552ed1c06",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Noble (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Magic"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Mystical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00066-2284723"
+    } ],
+    "description" : "An eccentric mystic guided by ancient incantations.",
+    "hash" : "643ff950b67f77fe24f1491a80eb45459c1236c12d280622f6b427fcd599447b"
+  }, {
+    "id" : 0,
+    "name" : "Merc Blair",
+    "ethscription_id" : "0x7adaaabf4a9627769a2836a424fd2f994ef409a19f95cce97a817aff32e0fddf",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Cautious"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00067-3351360"
+    } ],
+    "description" : "A cautious fighter navigating war's tides with care.",
+    "hash" : "b6d3f9d83abeac3498f4dde5eec8986b464b910c6549bb0b489106d9d0d37cb9"
+  }, {
+    "id" : 0,
+    "name" : "Lady Loria",
+    "ethscription_id" : "0x6956b5a54f08a9a0b60f4d0a4e2c6fac1f40c76964a1b2650b2d40228a7bfc3f",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Noble (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Magic"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Tactical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00068-2284736"
+    } ],
+    "description" : "A tactful sorceress subtly guiding events through magic's weave.",
+    "hash" : "9457191252e05799480d2b40196e819a4ac3cdcc8dd873a1168d0f9e70dd7a07"
+  }, {
+    "id" : 0,
+    "name" : "Militant Armen",
+    "ethscription_id" : "0xa23ec9ca834e2055f87398fae33bc8060e88ed1924fe54a3438c57e57740bafb",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Shortswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Evasive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00069-3204842"
+    } ],
+    "description" : "A swift soldier dancing between foes' blows.",
+    "hash" : "a74238ee126167f65aadde25f705eb487b65fadb098f892cb3240af58a3877c4"
+  }, {
+    "id" : 0,
+    "name" : "Trader Xuenfet",
+    "ethscription_id" : "0xbbc6b5ac0455acd6f7fcf9f6084018899a78ed7cd15b1213c406b876083789eb",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Rogue (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Magic"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Foreign"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00070-2284748"
+    } ],
+    "description" : "An exotic mage practicing strange foreign magics.",
+    "hash" : "1fbe78e2fb070e012c9b535de94b795dcd7f1ad8df1e24235e0c1299d4feb5c7"
+  }, {
+    "id" : 0,
+    "name" : "Paladin Vance",
+    "ethscription_id" : "0x7e91744c5d993c2454e196770064ae3f078e30b3a5f7cbc3d858608f0e94f4a7",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Cardinal"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Defensive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00071-3191293"
+    } ],
+    "description" : "A stalwart sentinel devoted to shielding the innocent.",
+    "hash" : "df415f2f2b8089f6c39c3335c4c4788d82132565dd82eae2c2c25130c80bd3b5"
+  }, {
+    "id" : 0,
+    "name" : "Ailifona",
+    "ethscription_id" : "0x5f1558ef76477400b7b67888d19bab5f1a4e44cbd8715384c12e7373d999bc2a",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Trinity"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Defensive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00072-3191256"
+    } ],
+    "description" : "A steadfast guardian faithfully upholding her vows.",
+    "hash" : "7ee15e691c7bb4f34a9f96c12b2f55647e12b8782a322565a400be91dc87c90f"
+  }, {
+    "id" : 0,
+    "name" : "Commander Ismosic",
+    "ethscription_id" : "0xee935f7db7d59692cd30cd15f821f2fd9b7c734efab35d2760595261398eb525",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Champion (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Cardinal"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Battleaxes"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Barbaric"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00073-3190134"
+    } ],
+    "description" : "A barbarous warlord dominating all in his path.",
+    "hash" : "0e893e6fa61049faed8c2c29ade8a07c2b0a47d6dcc8c7b988af43ef7a4b3c11"
+  }, {
+    "id" : 0,
+    "name" : "Lady Geusma",
+    "ethscription_id" : "0xb1b12881dfa9b382cc71828190f0a83bdd42c9aa7569347e73d92af5f5e8eab4",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Noble (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Daggers"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Methodical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00074-284915"
+    } ],
+    "description" : "A noble mystic pursuing hidden knowledge.",
+    "hash" : "16c31d3c0d8d9d935b2d34c07e465b3d78a5bb04f776b946b7f06228d46d8cf4"
+  }, {
+    "id" : 0,
+    "name" : "Countess Vivian",
+    "ethscription_id" : "0xc37de971066c65d7c88b2c33ef9cc7e7c28a2fe2f0fc62b8853e018c9160733e",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Noble (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Shortswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Aggressive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00075-3190106"
+    } ],
+    "description" : "An aggressive sorceress hungry for power and riches.",
+    "hash" : "a6625b988af164b8e473c5b3b8bd2482e6611cfb1ec78c0c173dd8cb32ce9205"
+  }, {
+    "id" : 0,
+    "name" : "Countess Ivona",
+    "ethscription_id" : "0x447f35368033a716186f2a75fa4c346682ecc7491d6423cdc699933d50052bb6",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Noble (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Chaos"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Deceitful"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00076-2285052"
+    } ],
+    "description" : "A ruthless noble using guile and betrayal in pursuit of power.",
+    "hash" : "f0078389bc4009516dd32032e6fea54ee2882fc856fd12eb92fc0381535e6f91"
+  }, {
+    "id" : 0,
+    "name" : "Lautia of Umbria",
+    "ethscription_id" : "0x5061e63c41d411a076130505f758edb0f5f4d63281492ffd41eebc4a87062504",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Shortswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Evasive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00077-3190047"
+    } ],
+    "description" : "A cunning warrior from a land of chaos and deceit.",
+    "hash" : "554aa09f0488361c4d91d025064c75123988e488e223fcea6aee501db70a7ee4"
+  }, {
+    "id" : 0,
+    "name" : "Headhunter Deshna",
+    "ethscription_id" : "0x226222be6a8f221ec0463d8cb068f5817f30848f56700d0bb33a484df25d3b69",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Rogue (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Trinity"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Crossbows"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Aggressive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00078-2285175"
+    } ],
+    "description" : "A ruthless monster hunter stalking creatures in darkness.",
+    "hash" : "3157a64dfc7048f07d37b43863884ca78d564b31f829f72504177f307c9deffb"
+  }, {
+    "id" : 0,
+    "name" : "Demigod Evermoore",
+    "ethscription_id" : "0x7237c689ef3319347946e98af802d56dc40b11b12a808df409f901b425a044f7",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Champion (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Resistance"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Greatswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Methodical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00079-3190021"
+    } ],
+    "description" : "An ancient hero whose triumphs become legend.",
+    "hash" : "ab8cec0d271694611979c7326c1600bda713759892be6cb91a72e049801a8607"
+  }, {
+    "id" : 0,
+    "name" : "Vaulta Redblade",
+    "ethscription_id" : "0x903f1c6a477d480146df67e676f31a2dbc629f056166d51180747c991191b13b",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Rogue (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Shortswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Foreign"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00080-3734781"
+    } ],
+    "description" : "An exotic thief who plunders riches through sorcery and guile.",
+    "hash" : "b9d5705dd0db7eb81e61c3d9eb8cd833a876428e33697c62624aefd102718486"
+  }, {
+    "id" : 0,
+    "name" : "Demigod Gladmoore",
+    "ethscription_id" : "0xee22ffa158ded10d3d91e9530dd2b45b756b58fed46d402aaa4e973ab0e561ab",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Champion (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Greataxes"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Graceful"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00081-3189997"
+    } ],
+    "description" : "An ancient armored champion of mythic strength.",
+    "hash" : "b39a92163d67b74f864e5ea5b6e1c9728d32c8e21e76f8ad6dba7a5c1c23e00f"
+  }, {
+    "id" : 0,
+    "name" : "Enchantress Monika",
+    "ethscription_id" : "0x56bb6179661e5850c9a4d07513466c95d5f1781d9caacd8610daa2d3d7f76241",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Mage (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Magic"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Evasive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00082-2408826"
+    } ],
+    "description" : "A mystical battlemage bending magical currents to her will.",
+    "hash" : "40cbf1997e9a489b49645f6f0d1b24349deff195f9ed1e95b5dce9e5e51cb9c3"
+  }, {
+    "id" : 0,
+    "name" : "Geralt of Mecil",
+    "ethscription_id" : "0xb08c02dc697aca555f56a4e219381b2766fdfa54123d7185af4bc6c0672407a4",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Resistance"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Greatswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Aggressive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00083-3189971"
+    } ],
+    "description" : "A wrathful warrior who crushes foes with relentless force.",
+    "hash" : "12ceaf5bbbb4e7f634b4dea3fe7083df73a6c7785b867a3e990d67576af158bf"
+  }, {
+    "id" : 0,
+    "name" : "Veteran Frano",
+    "ethscription_id" : "0xa9708592e43095f54eaf39f222153933e83cd8ca070e546135fd9610ef7e0074",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Cautious"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00084-2408934"
+    } ],
+    "description" : "A cautious knight who carefully measures each strike in battle.",
+    "hash" : "351d616eadab5eca0fd9d862ec148b51e781f7a785170d91fb9032df9bee95d8"
+  }, {
+    "id" : 0,
+    "name" : "Milady Vixen",
+    "ethscription_id" : "0xd3320a04023bb051bf7de644cbf59bc7c1abb451a798b6a930a213cf3ed95f91",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Rogue (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Deceitful"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00085-3189953"
+    } ],
+    "description" : "A cunning rogue who exploits guile to claim riches and power.",
+    "hash" : "ac91ebbeb0b300bdf5b6643e668b4adf53752ad30a45d401a1c106ba12d40b6f"
+  }, {
+    "id" : 0,
+    "name" : "Merc Isodore",
+    "ethscription_id" : "0x100b06e3a445562dfc014b9064469e24a07197cf3d7f28a53993572dd499434f",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Cardinal"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Shortswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Foreign"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00086-2416697"
+    } ],
+    "description" : "A worldly fighter employing exotic foreign techniques in battle.",
+    "hash" : "062a1b1612e1f262bb39c1e841c1f0ceb0ae8d93b3a83e72a6f00e91a66b92e1"
+  }, {
+    "id" : 0,
+    "name" : "Ira Spellsword",
+    "ethscription_id" : "0x2c8bfaf392616d73f76f52b72bf6aaf81379779f719f67b1ca810bb860a39dc4",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Mage (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Shortswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Tactical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00087-3189724"
+    } ],
+    "description" : "A tactical spellblade combining sorcery and steel.",
+    "hash" : "6da345e1d36ecdd57e24bac8ced7e21bed78923434a2a21b70f1a4dfcde90bd5"
+  }, {
+    "id" : 0,
+    "name" : "Militant Kalmo",
+    "ethscription_id" : "0xf6f1c8649b143fe38138810016508b4439f018754ce1638222d47cd8f959aab5",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Deceitful"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00088-2416796"
+    } ],
+    "description" : "A deceitful soldier who uses trickery to triumph in war.",
+    "hash" : "501c1ae0de0f43a8afd768185784fee5d229bc7a4b1c4caf33b059dcee44ffed"
+  }, {
+    "id" : 0,
+    "name" : "Wendi of Descarda",
+    "ethscription_id" : "0x9fa3a086da9b0053d98f213ee94bc00049ee5ecc8acc7daec0d9f5428b3e54fa",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Daggers"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Methodical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00089-3189702"
+    } ],
+    "description" : "A methodical warrior meditating upon each movement in combat.",
+    "hash" : "53bb6303dc2634370f77b600896fe1e049151b76beb94aad14c25641615ceb9d"
+  }, {
+    "id" : 0,
+    "name" : "Veteran Roland",
+    "ethscription_id" : "0xa17e1df90eaa72eec1cd73872e8a9f6c8e551fb0aa0fccfeb028246317b17b39",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Crossbows"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Evasive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00090-3189687"
+    } ],
+    "description" : "A skilled archer who evades foes while raining lethal arrows.",
+    "hash" : "d557eed866fc7863545f29cba71214534245852c33fb1f0369db0f5fc9fb6b2e"
+  }, {
+    "id" : 0,
+    "name" : "Naga Warrior",
+    "ethscription_id" : "0x4c15c19b4b4c0f3dbfe0568234a7a3c562aa9b84a0115ac8a6d5d6c93c80ad22",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Monster"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Resistance"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Null"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Polearms"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Cautious"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00091-3121994"
+    } ],
+    "description" : "A mystical serpentine fighter defending ancient ruins.",
+    "hash" : "937d149f8817aa286875a65019051238c0d2be14ace7c7af708da1bfa7f1d2d1"
+  }, {
+    "id" : 0,
+    "name" : "Enchanter Mistra",
+    "ethscription_id" : "0xb1532a84b4f821837e325674eeec864a3c95d42112a4a9df19960163f9a6d026",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Mage (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Cardinal"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Magic"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Mystical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00092-3121530"
+    } ],
+    "description" : "An occult sorcerer weaving ancient spells to sway war's tides.",
+    "hash" : "ae8d5ffbcc0d0af70370fd624a0b12e120347b19b42436fbca91fa4a256f5921"
+  }, {
+    "id" : 0,
+    "name" : "Veteran Zezima",
+    "ethscription_id" : "0xc803ca0c3c9561a3a816e98f48576ee669782bb3156a8c342bb4d93267f62d81",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Barbaric"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00093-3121427"
+    } ],
+    "description" : "A barbarous warrior relying on fury and power to crush enemies.",
+    "hash" : "209cf661d3f790dac17ac79ffa05f84630c564f213f54f3ac43deb8b47cb6526"
+  }, {
+    "id" : 0,
+    "name" : "Veteran Gregor",
+    "ethscription_id" : "0x1aa357e4de7b2f23d198f05b2678d87b1f3ceba43ec9464536cdba31d8364a9a",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Resistance"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Defensive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00094-3121341"
+    } ],
+    "description" : "A stalwart soldier weathering all trials with shield and faith.",
+    "hash" : "909c90a42c149afacae447ca60deeb9ed59c624c004639066844b56ae8e0bbff"
+  }, {
+    "id" : 0,
+    "name" : "Epharie of Twilight",
+    "ethscription_id" : "0x1fd438da9569650911a52ff500f47956887c3834ab2596d89e9f3aff729ba838",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Shortswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Tactical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00095-2007036"
+    } ],
+    "description" : "A tactical warrior using the shadows as a cloak and weapon.",
+    "hash" : "58d26b7066cd22cd8522bd899314a412681bd45173451861596aea612b967f26"
+  }, {
+    "id" : 0,
+    "name" : "Tailiya Songsword",
+    "ethscription_id" : "0xb7596f37e1799526f3e4ebffcfe6d4c864ea45ba383b1bb9f014ee9a7e346049",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Flow"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Foreign"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00096-2006927"
+    } ],
+    "description" : "An exotic dervish wielding blade and dance in hypnotic harmony.",
+    "hash" : "05cd3be050a13ce8a6111e0597328cc04205b7f9cd5f179876ba3a166cc26a6a"
+  }, {
+    "id" : 0,
+    "name" : "Young Stella",
+    "ethscription_id" : "0x8f2691df99206ec29b9fc7f37a804f1858f8feca431f262b0841b686a158505e",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Noble (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Null"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Evasive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00097-2029973"
+    } ],
+    "description" : "A gentle-hearted royal pursuing kindness rather than power.",
+    "hash" : "97019772622a4d82053c9721d5a3255dbd4c6951ae131b0696d7c9dc03a04b7d"
+  }, {
+    "id" : 0,
+    "name" : "Pathfinder Velmont",
+    "ethscription_id" : "0x9ae682c4bd2f0b1c3035b93e0e182a6e28e833677c50b87988a9e1f1c708ce64",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Foreign"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00098-3463313"
+    } ],
+    "description" : "A questing knight exploring the world's mysteries and secrets.",
+    "hash" : "d506b452ffe9a13e0fe01cbb4ad4461349f46a6ca774d8eebb2e0e87e5a81881"
+  }, {
+    "id" : 0,
+    "name" : "Countess Cassia",
+    "ethscription_id" : "0xd32063820f2dcf3cb0c02745f298653b0cc1400da08a9ce1ce6b969e6307b1b6",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Mage (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Mystical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "First Light (0-99)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00099-1984392"
+    } ],
+    "description" : "An eccentric mystic blending spell and steel in an unorthodox style.",
+    "hash" : "93c2b1ae9d3786e7cadf45153f22b99b0ce667f9e170f1ef092003d1a6dd6a02"
+  }, {
+    "id" : 0,
+    "name" : "Delva",
+    "ethscription_id" : "0xf7a66fa35045b5a2aa606769f7b180d7095804946b4ca702a4d85a191f71a5c5",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Void"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Aggressive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00100-3723189"
+    } ],
+    "description" : "A stalwart soldier whose shield protects the innocent from all shadow.",
+    "hash" : "c987e45c62df4fc30e93e7e932dad13a9c46516c2bf5690d08bbbb6d37800100"
+  }, {
+    "id" : 0,
+    "name" : "Lyandra",
+    "ethscription_id" : "0x225b2519fb2b6164c5481b91ed059c16130438752f4dc94ee809bf208b189c16",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Soldier (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Trinity"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Daggers"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Evasive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00101-3723228"
+    } ],
+    "description" : "A cunning rogue who strikes from the darkness before foes detect her presence.",
+    "hash" : "3e6cbe91ff396ff0bfe403bc613e6b26143ec5506868e495d2f10e39f9850fd3"
+  }, {
+    "id" : 0,
+    "name" : "Liora",
+    "ethscription_id" : "0xc3c3102dc65e1ab9f3564608d56b8fda16051502b64b67c996a44c7f4b35f145",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Polearms"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Defensive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00102-3723317"
+    } ],
+    "description" : "A steadfast knight wielding ancient magics to smite evil forces.",
+    "hash" : "867a786fda1545f188e9d6f486e9e6ce06b906477887712703e16dbe0defbd04"
+  }, {
+    "id" : 0,
+    "name" : "Iron Knight",
+    "ethscription_id" : "0x161339f1f6da66b6d0fab7eeead8f0f37bf890e18557a4e56713961c89f36a77",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Void"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Tactical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00103-3723354"
+    } ],
+    "description" : "Iron Knight's are unyielding champions whose heavy plate turns aside most blows.",
+    "hash" : "8f4749c2ccd36faeb69abd0328e66220baf5b0b4389243d29a7032efed3a46cb"
+  }, {
+    "id" : 0,
+    "name" : "Battlemage Fayin",
+    "ethscription_id" : "0xf31f3704e4a326f6e57f05113f9eb848ce2e9530b52ba0c90a25651f6a9a67c2",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Mage (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Magic"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Aggressive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00104-3723809"
+    } ],
+    "description" : "A wrathful sorcerer channeling chaotic energies against all those who oppose him.",
+    "hash" : "942e289ad08207cd1849eca933c549d809c991a001b5b6d237639f79668985c3"
+  }, {
+    "id" : 0,
+    "name" : "Nyxaril",
+    "ethscription_id" : "0x5e52608ecdeb42051b5e31abf92d91846790003a83b9c22780511edf61b1b270",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Void"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Greatswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Graceful"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00105-3723408"
+    } ],
+    "description" : "An elegant warrior whose graceful bladework conceals masterful skill.",
+    "hash" : "e8166cca08f4442545b68dc97fe0b0a16734397116c6fbfaea7a44c6c05819af"
+  }, {
+    "id" : 0,
+    "name" : "Dravolo",
+    "ethscription_id" : "0x298ab789837a2815202122fae4a7de776d2747da271f0bc5d4c41957f1c201cb",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Trinity"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Greataxes"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Barbaric"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00106-3723980"
+    } ],
+    "description" : "A fearsome knight whose massive axe cleaves foes in a storm of gore.",
+    "hash" : "57ab78f308598477e7fd8043b575d2137736c850cc5281bb4611a508dc3e6fa8"
+  }, {
+    "id" : 0,
+    "name" : "Zhorvax",
+    "ethscription_id" : "0xd3336e29d979bb3dd45bc799076da8b487d79a55da90f0f85bad09af7089a1fe",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Mage (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Cardinal"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Magic"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Mystical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00107-3730197"
+    } ],
+    "description" : "An occult magus communing with eldritch powers beyond mortal reckoning.",
+    "hash" : "9b984cb25ea17328ede98001e665fb0867a320059460934b131f64dddce9fef6"
+  }, {
+    "id" : 0,
+    "name" : "Blue Knight",
+    "ethscription_id" : "0x335afde9590dcc0ce08a3527758f795d8362fc7e8db3121694cc09ad1e1a67d6",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Void"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Defensive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00108-3730227"
+    } ],
+    "description" : "A virtuous knight upholding honor with shield, sword, and unbreakable will.",
+    "hash" : "14714671097e741009915e6f3aa92e417d8d3b7e4f4158c2d2294a78e0b5f87f"
+  }, {
+    "id" : 0,
+    "name" : "Corvexia",
+    "ethscription_id" : "0x77780bc1906bb865919f6f9fca82bde3e5ed8d1218b53c682a4db755688db64f",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Polearms"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Tactical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00109-3730381"
+    } ],
+    "description" : "A cunning skirmisher maneuvering foes into vulnerable positions for the kill.",
+    "hash" : "27a5659685bd2e6bb514dd17ce3b24a2ba6327ac142fd362f916b6fc68c618a2"
+  }, {
+    "id" : 0,
+    "name" : "Yonelee",
+    "ethscription_id" : "0x15ce753176635ef89da2fa85f51bb22a91d506d195a39938d9f2cf00a04bef77",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Flow"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Battleaxes"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Cautious"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00110-3731100"
+    } ],
+    "description" : "A vigilant guardian patiently awaiting the perfect moment to counterattack.",
+    "hash" : "b5048a8e31ff8092a0fa28d22b2dcad97b02084b61f33964169f2d14a21ad119"
+  }, {
+    "id" : 0,
+    "name" : "Vyndrae",
+    "ethscription_id" : "0x3310cf91b1019298a175a3d5c81c21efd3b1942aa4dd8a39abec8b64eccb6a80",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Longswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Evasive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00111-3733841"
+    } ],
+    "description" : "A swift warrior evading all blows while pursuing lethal strikes.",
+    "hash" : "af38370e9ccf0bbb8b02957da97aa6740d0f58007e3397bb9e47eab899b6541b"
+  }, {
+    "id" : 0,
+    "name" : "Bronze Knight",
+    "ethscription_id" : "0x3d5d6292eb979ea00ed4a5c2516e7a612e4402e1223138bee61ae31c91cd55ab",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Maces"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Methodical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00112-3734268"
+    } ],
+    "description" : "Bronze Knight's are methodical crusaders dismantling enemies with heavy mace swings.",
+    "hash" : "b21437324b3677bb41325229ae1806a00b249db76a78a4f62c03e9c416f9d352"
+  }, {
+    "id" : 0,
+    "name" : "Enchanted Knight",
+    "ethscription_id" : "0x990649ece38381f2f9d6d49b67ba7e64e6c157b22936dbc99517cd70dd147ec6",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Trinity"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Broadswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Mystical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00113-3734311"
+    } ],
+    "description" : "Enchanted Knight's are empowered by ancient magics to smite enemy forces.",
+    "hash" : "aef63ebad0407fd8175a817676bbf40735b6992f603fda6ec77ab9a07434bbb7"
+  }, {
+    "id" : 0,
+    "name" : "Nyxarila",
+    "ethscription_id" : "0x0ddc55efe13e9ff92fa01e240a0cbf2dd3e131bba2458e07d0838d7bc0c2a29a",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Champion (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Arcane"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Greatswords"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Deceitful"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Ethershards"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00114-3734333"
+    } ],
+    "description" : "A ruthless champion exploiting guile and brutality to crush enemies and ambitions alike.",
+    "hash" : "531ae5bae03a46a6271693f2678814ec113031e0658f1f84e8d753c22e64e1ec"
+  }, {
+    "id" : 0,
+    "name" : "Dancer Eaxomi",
+    "ethscription_id" : "0xa981dd8acd8bf68f3901584ac7927314b2d83701fa471224def633b21da149a9",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Rogue (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Daggers"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Graceful"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00115-3734530"
+    } ],
+    "description" : "A graceful dervish employing hypnotic dance and daggers in perfect synchronicity.",
+    "hash" : "2ead22d68e5b4004c182d8c769b7e618e45042fa4967511c016267e8bc0a6c9f"
+  }, {
+    "id" : 0,
+    "name" : "Battlemage Wynvul",
+    "ethscription_id" : "0x5fa01273681551006337c1265cfda6d0527bff5ea2c186fb07bfa6af707c2668",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Mage (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Flow"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Fullplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Maces"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Tactical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Coinage"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00116-3734715"
+    } ],
+    "description" : "A tactical spellcaster subtly shaping battles through occult manipulations.",
+    "hash" : "72964e3577642dbd36abf40ab09ca63d3acf6298c149d4dc8b78c8f7e34d939b"
+  }, {
+    "id" : 0,
+    "name" : "Brystan",
+    "ethscription_id" : "0x7f784cc14a4d75f856b24b6c807b06bf23c29ea09fe23f4e77ad886ea5421485",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Rogue (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Cardinal"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Leather"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Magic"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Aggressive"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Bloodgems"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00117-3790828"
+    } ],
+    "description" : "A cunning rogue adept at exploitation and deception in pursuit of wealth.",
+    "hash" : "4d3c410b99aabf19a2ad6da0529e2eee06deacfac029111a49de710dc89796e7"
+  }, {
+    "id" : 0,
+    "name" : "Tyrvan",
+    "ethscription_id" : "0x9572dac97f2d9ec232803b470057231746714236ab108b2e9b61647ea9ba539c",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Warrior (Male)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Valor"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Halfplate"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Maces"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Methodical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00118-3740102"
+    } ],
+    "description" : "A rampaging warrior-berserker overwhelming foes through sheer fury.",
+    "hash" : "5e1e6fea4af8c38cd8a429d78186e475cb752659526f78dc3c0dcdaa46fd5ea1"
+  }, {
+    "id" : 0,
+    "name" : "Fiona",
+    "ethscription_id" : "0xe01a32f44d108f4497b749656115c48a48a8f3f4c03c499f769a7e070c5bb353",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Noble (Female)"
+    }, {
+      "trait_type" : "Aura",
+      "value" : "Chaos"
+    }, {
+      "trait_type" : "Outfit",
+      "value" : "Cloth"
+    }, {
+      "trait_type" : "Proficiency",
+      "value" : "Magic"
+    }, {
+      "trait_type" : "Combat Style",
+      "value" : "Methodical"
+    }, {
+      "trait_type" : "Acquired",
+      "value" : "Relics"
+    }, {
+      "trait_type" : "Set",
+      "value" : "December Passing (100-119)"
+    }, {
+      "trait_type" : "I.D",
+      "value" : "BTRC-00119-3778251"
+    } ],
+    "description" : "Fiona is a royal mage whose mastery over the arcane arts is whispered to be unrivaled.",
+    "hash" : "37c994f6bb0c113146462c521d1909ad8239b4a511416a08633fde5ad974df13"
+  } ],
+  "hash" : "fce8ae3c59bb898a617be673767d61557b7da453eeed37a748a3957d061810c1"
+}
