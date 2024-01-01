@@ -9,7 +9,7 @@ data class EthscriptionCollectionMeta(
     val logoImageUri: String,
 
     @JsonProperty("banner_image_uri")
-    val bannerImageUri: String?,
+    val bannerImageUri: String,
 
     @JsonProperty("total_supply")
     val totalSupply: Int,
