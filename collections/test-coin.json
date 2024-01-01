@@ -1,0 +1,23 @@
+{
+  "name" : "test coin",
+  "logo_image_uri" : "",
+  "banner_image_uri" : "",
+  "total_supply" : 1,
+  "slug" : "test-coin",
+  "description" : "",
+  "website_link" : "",
+  "twitter_link" : "",
+  "background_color" : "",
+  "collection_items" : [ {
+    "id" : 0,
+    "name" : "test 1",
+    "ethscription_id" : "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "item_attributes" : [ {
+      "trait_type" : "Class",
+      "value" : "Knight (Male)"
+    } ],
+    "description" : null,
+    "hash" : "4da1b4ac9941ec5922a5464d5f260f4e28e5e7bdc96816004ebbed9c872f52a7"
+  } ],
+  "hash" : "f6d34b4b86310c32f47422115c092572d1e1d02d111c771a17555524de61be40"
+}
