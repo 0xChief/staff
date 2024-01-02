@@ -10,9 +10,9 @@ fun main(args: Array<String>) = runBlocking<Unit> {
     val repository = CollectionRepository()
     val rest = RestTemplate()
 
-    listOf("mfpurrs")
-        .map { repository.get(it) }
-        .mapNotNull { it?.collectionItems }
+    listOf("on-chain-photography")
+        .map { repository.get(it)!! }
+        .map { it.collectionItems }
         .flatten()
         .chunked(100)
         .map { chunk ->
