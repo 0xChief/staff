@@ -1,0 +1,235 @@
+{
+  "name" : "Photography / @photography ",
+  "logo_image_uri" : "esc://ethscriptions/0xef52dc307bd9800a9e5bc4d1f4856af04c9d7363f6c284ad142d968e186f73e0/data",
+  "banner_image_uri" : "https://freeimage.host/i/JJcvRPn",
+  "total_supply" : 6,
+  "slug" : "on-chain-photography",
+  "description" : "Drew Harrison Marshall's on-chain photography collection built on the Ethscriptions protocol. Drew is the founder of Hydrate Labs and an early pioneer of photography projects with customized metadata on Ethereum.",
+  "website_link" : "https://cryptohydrate.medium.com/",
+  "twitter_link" : "https://twitter.com/cryptohydrate",
+  "background_color" : "#28282B",
+  "collection_items" : [ {
+    "id" : 0,
+    "name" : "Footsteps on Baker Beach",
+    "ethscription_id" : "0x58df13990b8a3c0eb82685feba1ca1a981425d0eb02ad7740f5be04a8d93b32e",
+    "item_attributes" : [ {
+      "trait_type" : "Year",
+      "value" : "2022"
+    }, {
+      "trait_type" : "Month",
+      "value" : "November"
+    }, {
+      "trait_type" : "City",
+      "value" : "San Francisco"
+    }, {
+      "trait_type" : "Location",
+      "value" : "Baker Beach"
+    }, {
+      "trait_type" : "Horizontal",
+      "value" : "1049"
+    }, {
+      "trait_type" : "Vertical",
+      "value" : "787"
+    }, {
+      "trait_type" : "Ethscribed File Size",
+      "value" : "90.7kb"
+    }, {
+      "trait_type" : "Raw File Size",
+      "value" : "2.4 MB"
+    }, {
+      "trait_type" : "Mint Cost",
+      "value" : "0.027Ξ"
+    }, {
+      "trait_type" : "Gwei Cost",
+      "value" : "13.89Ξ"
+    } ],
+    "description" : "Sunset on Baker Beach, on the Northwest side of San Francisco. I held my camera low to the ground to capture the reflection of the sky on the sand.",
+    "hash" : "966fdd01a3abc7f6c2ecebe80a77e13f26ba56727212e19f4e662e905fcaca54"
+  }, {
+    "id" : 0,
+    "name" : "Downtown San Francisco",
+    "ethscription_id" : "0x79f26dd6ae31fdee309550895256973137190e560c602feeb661bd98cbd5c70b",
+    "item_attributes" : [ {
+      "trait_type" : "Year",
+      "value" : "2022"
+    }, {
+      "trait_type" : "Month",
+      "value" : "November"
+    }, {
+      "trait_type" : "Vicinity",
+      "value" : "Marin County"
+    }, {
+      "trait_type" : "Location",
+      "value" : "Mount Tamalpais"
+    }, {
+      "trait_type" : "Horizontal",
+      "value" : "767"
+    }, {
+      "trait_type" : "Vertical",
+      "value" : "565"
+    }, {
+      "trait_type" : "Ethscribed File Size",
+      "value" : "92.4kb"
+    }, {
+      "trait_type" : "Raw File Size",
+      "value" : "4 MB"
+    }, {
+      "trait_type" : "Mint Cost",
+      "value" : "0.027Ξ"
+    }, {
+      "trait_type" : "Gwei Cost",
+      "value" : "13.89Ξ"
+    } ],
+    "description" : "Old Railroad Grade trail, descending from the east peak of Mount Tamalpais. Downtown San Francisco can be seen in the center of the image.",
+    "hash" : "74d8975dbfd1967e90b1b8105cc7f7be7b598262d115bcc935c3086bd1fdc164"
+  }, {
+    "id" : 0,
+    "name" : "Love Shack",
+    "ethscription_id" : "0xef52dc307bd9800a9e5bc4d1f4856af04c9d7363f6c284ad142d968e186f73e0",
+    "item_attributes" : [ {
+      "trait_type" : "Year",
+      "value" : "2023"
+    }, {
+      "trait_type" : "Month",
+      "value" : "May"
+    }, {
+      "trait_type" : "City",
+      "value" : "Asheville"
+    }, {
+      "trait_type" : "Location",
+      "value" : "Jarrett St"
+    }, {
+      "trait_type" : "Horizontal",
+      "value" : "968"
+    }, {
+      "trait_type" : "Vertical",
+      "value" : "726"
+    }, {
+      "trait_type" : "Ethscribed File Size",
+      "value" : "91kb"
+    }, {
+      "trait_type" : "Raw File Size",
+      "value" : "2.28 MB"
+    }, {
+      "trait_type" : "Mint Cost",
+      "value" : "0.028Ξ"
+    }, {
+      "trait_type" : "Gwei Cost",
+      "value" : "13Ξ"
+    } ],
+    "description" : "Check the house number. Love is in the air.",
+    "hash" : "b5793460dd690709f3df87f725e5061c35d2fbdc47c828a5aa6fddaab776438d"
+  }, {
+    "id" : 0,
+    "name" : "Tilted Trek",
+    "ethscription_id" : "0xfffd9ab4bb16317d77c3b15aa3510c8753ea33f3b1cd02dc3865de909575175e",
+    "item_attributes" : [ {
+      "trait_type" : "Year",
+      "value" : "2022"
+    }, {
+      "trait_type" : "Month",
+      "value" : "November"
+    }, {
+      "trait_type" : "Vicinity",
+      "value" : "Marin County"
+    }, {
+      "trait_type" : "Location",
+      "value" : "Matt Davis Trail"
+    }, {
+      "trait_type" : "Horizontal",
+      "value" : "680"
+    }, {
+      "trait_type" : "Vertical",
+      "value" : "510"
+    }, {
+      "trait_type" : "Ethscribed File Size",
+      "value" : "92.4kb"
+    }, {
+      "trait_type" : "Raw File Size",
+      "value" : "5.94 MB"
+    }, {
+      "trait_type" : "Mint Cost",
+      "value" : "0.014Ξ"
+    }, {
+      "trait_type" : "Gwei Cost",
+      "value" : "6.98Ξ"
+    } ],
+    "description" : "We took a cab from downtown San Francisco to the East Peak of Mount Tamalpais. These grassy hills descend into lush rainforest valleys where massive redwoods reside.",
+    "hash" : "94511c7b9a5e4038c9b12acd89f8b476b6cf2dcb2b0daf410b92bc0631adb092"
+  }, {
+    "id" : 0,
+    "name" : "Michael Yamashita Signing Photography Prints",
+    "ethscription_id" : "0xf20b7eec3c55795b06477c6446f19675379bbc4039550afacce727dc458793bd",
+    "item_attributes" : [ {
+      "trait_type" : "Year",
+      "value" : "2021"
+    }, {
+      "trait_type" : "Month",
+      "value" : "October"
+    }, {
+      "trait_type" : "City",
+      "value" : "Chester"
+    }, {
+      "trait_type" : "Photographer",
+      "value" : "Drew Marshall"
+    }, {
+      "trait_type" : "Location",
+      "value" : "Yamashita Studio"
+    }, {
+      "trait_type" : "Horizontal",
+      "value" : "545"
+    }, {
+      "trait_type" : "Vertical",
+      "value" : "726"
+    }, {
+      "trait_type" : "Ethscribed File Size",
+      "value" : "94.57kb"
+    }, {
+      "trait_type" : "Raw File Size",
+      "value" : "3.5 MB"
+    } ],
+    "description" : "A visit to Michael Yamashita's studio. He spent 40 years as a full time photographer at National Geographic, and was a pioneer for people of color at the magazine. In this action shot, he signs prints capturing the Pamir mountains of Afghanistan, and Jiuzhaigou National Park in China.",
+    "hash" : "335b014bb3f4cf971c71dafa627264184cd6704d97d018e366cb4e5e460dbc45"
+  }, {
+    "id" : 0,
+    "name" : "Him, Her & Broadway",
+    "ethscription_id" : "0xef836775bbde3a1be8232a6e135d2a3e358ef2aab46041ac6ef1908d4693c703",
+    "item_attributes" : [ {
+      "trait_type" : "Year",
+      "value" : "2022"
+    }, {
+      "trait_type" : "Month",
+      "value" : "June"
+    }, {
+      "trait_type" : "City",
+      "value" : "New York"
+    }, {
+      "trait_type" : "Photographer",
+      "value" : "Drew Marshall"
+    }, {
+      "trait_type" : "Location",
+      "value" : "Broadway"
+    }, {
+      "trait_type" : "Horizontal",
+      "value" : "484"
+    }, {
+      "trait_type" : "Vertical",
+      "value" : "646"
+    }, {
+      "trait_type" : "Ethscribed File Size",
+      "value" : "93.5kb"
+    }, {
+      "trait_type" : "Raw File Size",
+      "value" : "4.33 MB"
+    }, {
+      "trait_type" : "Mint Cost",
+      "value" : "0.022Ξ"
+    }, {
+      "trait_type" : "Gwei Cost",
+      "value" : "11Ξ"
+    } ],
+    "description" : "A rendezvous with the mysterious Oona. She was joined by Creatrix, another performance artist, to celebrate her PLAYOONA art series. The background features the iconic H&M Tower and bleachers overlooking Father Duffy square.",
+    "hash" : "6f19457a268166561a12299b7712176e89b0cf5faa2d0036196574eedf17884e"
+  } ],
+  "hash" : "acd369e71630df2aa19e1ebb45f8eb27204f797d26673971825bb60ec5964244"
+}
