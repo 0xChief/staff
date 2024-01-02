@@ -1,6 +1,6 @@
 {
   "name" : "Photography / @photography ",
-  "logo_image_uri" : "esc://ethscriptions/0xef52dc307bd9800a9e5bc4d1f4856af04c9d7363f6c284ad142d968e186f73e0/data",
+  "logo_image_uri" : "0xef52dc307bd9800a9e5bc4d1f4856af04c9d7363f6c284ad142d968e186f73e0",
   "banner_image_uri" : "https://freeimage.host/i/JJcvRPn",
   "total_supply" : 6,
   "slug" : "on-chain-photography",
@@ -231,5 +231,5 @@
     "description" : "A rendezvous with the mysterious Oona. She was joined by Creatrix, another performance artist, to celebrate her PLAYOONA art series. The background features the iconic H&M Tower and bleachers overlooking Father Duffy square.",
     "hash" : "6f19457a268166561a12299b7712176e89b0cf5faa2d0036196574eedf17884e"
   } ],
-  "hash" : "acd369e71630df2aa19e1ebb45f8eb27204f797d26673971825bb60ec5964244"
+  "hash" : "132ccc97128da648c2f6ce446c9d5bdd17d26e954981938616c5b38221a4e6de"
 }

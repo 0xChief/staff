@@ -1,6 +1,6 @@
 {
   "name" : "Scribble's Games",
-  "logo_image_uri" : "esc://ethscriptions/0x94f9fc53993f7b404ee1fb71e5189b7326dd98139b1a18c5f8cab53790b7a6c9/data",
+  "logo_image_uri" : "0x94f9fc53993f7b404ee1fb71e5189b7326dd98139b1a18c5f8cab53790b7a6c9",
   "banner_image_uri" : "",
   "total_supply" : 8,
   "slug" : "scribble-games",
@@ -113,5 +113,5 @@
     "description" : "",
     "hash" : "8b8dabba6bf4f93d1e7fb1cd9eba1b135b93c1b5e67a3e626e95627d8af374c2"
   } ],
-  "hash" : "3bd1a272aba931a8188d3af2980874be40f68c3f88030f1ff4d1e54f9711e7d2"
+  "hash" : "efd1cd1e15ddf1f422bf797f1451caec445ce75ce18191fb60404404c6c7e906"
 }
