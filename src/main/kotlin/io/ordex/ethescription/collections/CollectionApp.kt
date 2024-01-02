@@ -11,7 +11,7 @@ fun main() = runBlocking<Unit> {
     val collectionHashes = mutableListOf<String>()
 
     repository.getAll().collect { collectionMeta ->
-        println("name: ${collectionMeta.name}, items: ${collectionMeta.collectionItems.size}")
+        println("slug: ${collectionMeta.slug}, items: ${collectionMeta.collectionItems.size}")
         collectionMeta.collectionItems.forEach { item ->
             EthscriptionItemValidator.validate(item)
         }
