@@ -1,9 +1,9 @@
 {
-  "name" : "Photography / @photography ",
+  "name" : "On-Chain Photography",
   "logo_image_uri" : "0xef52dc307bd9800a9e5bc4d1f4856af04c9d7363f6c284ad142d968e186f73e0",
   "banner_image_uri" : "https://freeimage.host/i/JJcvRPn",
   "total_supply" : 6,
-  "slug" : "on-chain-photography",
+  "slug" : "photography",
   "description" : "Drew Harrison Marshall's on-chain photography collection built on the Ethscriptions protocol. Drew is the founder of Hydrate Labs and an early pioneer of photography projects with customized metadata on Ethereum.",
   "website_link" : "https://cryptohydrate.medium.com/",
   "twitter_link" : "https://twitter.com/cryptohydrate",
@@ -231,5 +231,5 @@
     "description" : "A rendezvous with the mysterious Oona. She was joined by Creatrix, another performance artist, to celebrate her PLAYOONA art series. The background features the iconic H&M Tower and bleachers overlooking Father Duffy square.",
     "hash" : "6f19457a268166561a12299b7712176e89b0cf5faa2d0036196574eedf17884e"
   } ],
-  "hash" : "132ccc97128da648c2f6ce446c9d5bdd17d26e954981938616c5b38221a4e6de"
+  "hash" : "be8c3e4e493f6dfa3fa1d975d750573de6ce3276e6a330c035690f0bd132f022"
 }

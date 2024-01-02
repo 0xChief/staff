@@ -3,7 +3,7 @@
   "logo_image_uri" : "0x647ff8349f024400184382f18876b6e06df3f757def06856ce37cfccbb7df6a0",
   "banner_image_uri" : "",
   "total_supply" : 179,
-  "slug" : "0xneko",
+  "slug" : "0xneko-og",
   "description" : "",
   "website_link" : null,
   "twitter_link" : null,
@@ -1262,5 +1262,5 @@
     "description" : null,
     "hash" : "fc8b760af4640e0e73f7947534adbd6bae788268ccab7703c99bf34b7ce0c2b2"
   } ],
-  "hash" : "64dba020cf74876f16e2e9ecc93fe89c1f52125c5e6c4bf51971545e54448879"
+  "hash" : "2453d4a135bafa4bede6329eb5b71abb705524d227f596a5f6c9bf405de8c77b"
 }
