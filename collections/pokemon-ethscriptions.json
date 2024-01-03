@@ -580,14 +580,944 @@
     "hash" : "c954d3044e56cb3324fa761656a5caac6a2a596b7dd19049b171cb6f37bd1bbc"
   }, {
     "id" : 0,
-    "name" : "058 Growlith",
+    "name" : "058 Growlithe",
     "ethscription_id" : "0xf61714d997daa2b795adf7d2c59d67ab4bb5db0ca4c23ae0bf0c69d799e8fc68",
     "item_attributes" : [ {
       "trait_type" : "Rarity",
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "f535a97cfa6a4e37563f1006280c368a65c9482d93be7743cd491a739b748e5a"
+    "hash" : "445b0916fe118b58119af06ef794e0c88477d18de139b239b0cf7689a298c98a"
+  }, {
+    "id" : 0,
+    "name" : "059 Arcanine",
+    "ethscription_id" : "0xf2285cc24aab31af733cf183e1d854c4c4fcd3faf18043bb42e6e7290e17811a",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "f0049bc9a56ac26e713bab8314981d3802f35a7e7545909cffe351b6d1afbfe4"
+  }, {
+    "id" : 0,
+    "name" : "060 Poliwag",
+    "ethscription_id" : "0x9bf17cf925b13e74b1474cde79520ad32277a9fa8fba0b8ae3d500c7b62fa355",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Common"
+    } ],
+    "description" : "",
+    "hash" : "081e08b8dd221e436e4f11611eaa19fa9b23968cc4ccc6efd19d296be9a10052"
+  }, {
+    "id" : 0,
+    "name" : "061 Poliwhirl",
+    "ethscription_id" : "0x58e7ff22ebb2bf5fd0ed43aea474b2ad7a9991619e61c1307e420e686269e875",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "c7c16885bb2a3ea72d680ecd36f5b026d731aa7c754172b2eb08ccfb3240043a"
+  }, {
+    "id" : 0,
+    "name" : "062 Poliwrath",
+    "ethscription_id" : "0xbabf9454b880d871ce36d3a277fb3c1d5f09a532cc59271a39b03dba08188fa2",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "514c93b053b2a4418f28f9d961d3065da93a7dedf2dbc1cab1a948161b1959f7"
+  }, {
+    "id" : 0,
+    "name" : "063 Abra",
+    "ethscription_id" : "0x4296a55427d1f49d7d85d1c65ab9091a700bf336075db132366a4f3ba9cd6b58",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "e358697ac87eda2db44485b69bf2cd4f7c7c54cf58263b6c7543956e5f3d1866"
+  }, {
+    "id" : 0,
+    "name" : "064 Kadabra",
+    "ethscription_id" : "0x0c2a42e19237fe4c1b87393af81bb46289a6335fb4af2f888b6e6da1528c31db",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "a47523b3300337d38011af006b0f2123b272791bbd3e45a0d7c007bf81a465f3"
+  }, {
+    "id" : 0,
+    "name" : "065 Alakazam",
+    "ethscription_id" : "0x2f3f083b73dd2743ff83ef19171e4362836e120ca7ce4b0fac766370b85490e4",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "19097307aa85dee7a745d047c69fa91e8aacf9224377835923d2e2e0b4403267"
+  }, {
+    "id" : 0,
+    "name" : "066 Machop",
+    "ethscription_id" : "0x9c9e23ca495224f3a8eee5017fe919187b67620ca9b34d250548105c540a99e9",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Common"
+    } ],
+    "description" : "",
+    "hash" : "011c32757e02cdbdcb72d3f9b5a3686d7ddecd5e125113647f720de3bd2a183c"
+  }, {
+    "id" : 0,
+    "name" : "067 Machoke",
+    "ethscription_id" : "0x8e6a5413c988294c1122277944ead649485e12946e508f2c027af89ddbb6b261",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "c46a0cdb50eb92662ff37ad380804527a0fd3309e584ff3c912769f36860ee3f"
+  }, {
+    "id" : 0,
+    "name" : "068 Machamp",
+    "ethscription_id" : "0xb51237c383b90af2b5273ea7148cedfd07dc8c6fbe945c5aab60d3e922ff6874",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "1f8f67e4b4f7303a45591b5d7f2ac5fffdc5e4c7b041ddfc264599ce3ce07971"
+  }, {
+    "id" : 0,
+    "name" : "069 Bellsprout",
+    "ethscription_id" : "0xdaed6dc7c21c4169f8f601374c44daab19940a281821fb9b5a64d55a9de930c5",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Common"
+    } ],
+    "description" : "",
+    "hash" : "bbc27d0878bb1d885b7d0d3c2d6dd60687f2793fa4ccd20a76d16508643c8d08"
+  }, {
+    "id" : 0,
+    "name" : "070 Weepinbell",
+    "ethscription_id" : "0xadc3f28e3e5ab88015d08b5eed3608e1a7ab6749947b32c5f9e40c39036cf709",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "f538f3d0bf1d7e6afb0d8ed0b0b45843df87cf98aef12c84027d4edc37b0f6eb"
+  }, {
+    "id" : 0,
+    "name" : "071 Victreebel",
+    "ethscription_id" : "0x52af66e0b02873d066f319cfada0b149c1eaca6e7e4a3464de9b2f1df14d9e9b",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "58238cf86b9f649170addccb709e23a02f43efeb8bb395c8a9692d6c48fee82c"
+  }, {
+    "id" : 0,
+    "name" : "072 Tentacool",
+    "ethscription_id" : "0x9de9d871d070b2c261ad3bb3d44e78cca7d49609f6d6949a0785ee77c44c5760",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Common"
+    } ],
+    "description" : "",
+    "hash" : "40cf74369ef3d52e6976d5c8a4ac0e45709560a3886d0d4140b8b22940dfd16a"
+  }, {
+    "id" : 0,
+    "name" : "073 Tentacruel",
+    "ethscription_id" : "0xbc1ddb4cbbf0e6470f78c2382b14d447387524096126ffe4c310ca4fda24f792",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "599b8c682ebd6326482269a0df286da90e6fe18206b16b4c172be5625570fad8"
+  }, {
+    "id" : 0,
+    "name" : "074 Geodude",
+    "ethscription_id" : "0xa3b9dbc7f6da7438f82abdab779df51cb7f6d767a3079cadccfaa62c8959df22",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Common"
+    } ],
+    "description" : "",
+    "hash" : "af0b84a5c42e8752822bf07a7fe666a0c997a43671cd544e4af840538ca2c4a4"
+  }, {
+    "id" : 0,
+    "name" : "075 Graveler",
+    "ethscription_id" : "0x758d451f8062e094d83eaa19e1e1e21329a66ac1fd4be2ad6235ba3622041161",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "443fa9551daf800b0110431e5f832545ea45eba23f1b9cb20b49e706bf203659"
+  }, {
+    "id" : 0,
+    "name" : "076 Golem",
+    "ethscription_id" : "0x7332e96dd8c77ceda2f690ffc2623ed78ed266dd37f88b1373f14b415229cb42",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "db62580b03b9eb52854abdd3bb2e345d5c7a2563c9b22bd16546438c9f49342b"
+  }, {
+    "id" : 0,
+    "name" : "077 Ponyta",
+    "ethscription_id" : "0x23e3d9388b5868895289ef456bbec2ee73143c4aac40f698aaca8e2eb7198cfe",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "70a711baf5a3c92216c38a03a9a487340e33c2b2c3c745e516610dc8bf697bc7"
+  }, {
+    "id" : 0,
+    "name" : "078 Rapidash",
+    "ethscription_id" : "0xb644f2145cc1a709fc7138454b3c4ee138f1b929842d3d3ad8916ab01b7972c0",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "5227812f13c31791d52d97e5e71c0adab945f9018f04c434c584bae051fe8092"
+  }, {
+    "id" : 0,
+    "name" : "079 Slowpoke",
+    "ethscription_id" : "0x9951d7b9bea058a8fdfcfd589fedec57b174893b3530af6232b7dff375192a15",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Common"
+    } ],
+    "description" : "",
+    "hash" : "a1805082bee598596092be04d5324853de004e1e8b2b9d6f52d4da9deff56db1"
+  }, {
+    "id" : 0,
+    "name" : "080 Slowbro",
+    "ethscription_id" : "0x0d9ac570f0acbcfa6cc208f38f8e31bf986443835d1e57af71dc71db36af270e",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "4c83589eb697c47477012160fb552b1c8015669b6d7b8bcb5ee2e901bd10d9f1"
+  }, {
+    "id" : 0,
+    "name" : "081 Magnemite",
+    "ethscription_id" : "0x690282e01befb42fb497904e6185a30351f55a48d85123834124345a64cbb2bf",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Common"
+    } ],
+    "description" : "",
+    "hash" : "2266861ec0451847b42bb9da09d4114d9fe510f4df41cb222e5561bd73bb448c"
+  }, {
+    "id" : 0,
+    "name" : "082 Magneton",
+    "ethscription_id" : "0xc1f578a891f927e353e6b747d30fbb98a7ac6a857087ffdfd48eaf7e1f86bfe2",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "699c2d6795ca65186b7c47c88bbd7322ff2eae95e36e3ffcadf8c553d9128d8e"
+  }, {
+    "id" : 0,
+    "name" : "083 Farfetch'd",
+    "ethscription_id" : "0x7b55b54374358740bda25275ba34bfff82003c01fc881e31164d2c4692c83bda",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "680e9372a6bd1f4d72f6aed93f212e9853bae145e054abdc53533fb8d857a44d"
+  }, {
+    "id" : 0,
+    "name" : "084 Doduo",
+    "ethscription_id" : "0x1e8599faf33b3274307559459066eb952e9e2032a76dfef6ce241d3b4e23bed8",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Common"
+    } ],
+    "description" : "",
+    "hash" : "618b05a98a53f2e06918246d60ec4a2c9fef9ad06367c712852143901b08188c"
+  }, {
+    "id" : 0,
+    "name" : "085 Dodrio",
+    "ethscription_id" : "0xa711588cb0edf7e8587c52784b1d2ebc0b7544a808b8d4c5acaee093dc97e2eb",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "a7626b0281b4905c151e9f7fc15c8d5959ad97eb378f634e0b9a0ae5bcc7608f"
+  }, {
+    "id" : 0,
+    "name" : "086 Seel",
+    "ethscription_id" : "0x664b963955b41de9b7bb4da0bbfdbf919316536258735a2654a8b1f96d7841f3",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "a889b75c98386484a227b7c704f4a12572a7c8b504dfa470badb331b11fed903"
+  }, {
+    "id" : 0,
+    "name" : "087 Dewgong",
+    "ethscription_id" : "0x63c5cd1dac09b79d01d12aa10c8b1ff052e57baf0ce6761278186f213444809e",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "6750e6de50aa9e779f9c599528c2163ce433bbf880498229d6d25915dc81fd2a"
+  }, {
+    "id" : 0,
+    "name" : "088 Grimer",
+    "ethscription_id" : "0x32532c27b76665f43b8ab89da9bee85b6a2c2338596f400abfeb6723cc258c7a",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Common"
+    } ],
+    "description" : "",
+    "hash" : "528bbbd97501ee33ca1568cfb5bebb3a3de1aed93d0319e1bec1a22dc742425d"
+  }, {
+    "id" : 0,
+    "name" : "089 Muk",
+    "ethscription_id" : "0x6115ff7ae8c534a802007ac6d13fba71c471e622d911bf89f531c7f6d4f4e8f4",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "8d49a978fc45eda96c1627fdec6275f73f28df8df70fb4949b7b3e31ab79f78f"
+  }, {
+    "id" : 0,
+    "name" : "090 Shellder",
+    "ethscription_id" : "0x6010fc01e16191c6283f99034e80c3095d794a279db51085bd0c9f7d12aa8711",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "e66b0bc841fe964e26ca009eac817babf3ba34926faf36dfedfa8747ac9bb102"
+  }, {
+    "id" : 0,
+    "name" : "091 Cloyster",
+    "ethscription_id" : "0x603e81f16e2826b48284eac4929dd162bcd435ee18883222a4d23efab2858e97",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "069e12d02942ddfc4dd23baf38095b78faa6f93410edf1ebdf1109cb6931c9b0"
+  }, {
+    "id" : 0,
+    "name" : "092 Gastly",
+    "ethscription_id" : "0xa35f2ce638564838af3d1ff6913024b576dea407d40eef347d24ded0a28251e9",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Common"
+    } ],
+    "description" : "",
+    "hash" : "319c7ff48448626832eed3480c8f42579a3f7b5a44b0d7d4283e87e46c077103"
+  }, {
+    "id" : 0,
+    "name" : "093 Haunter",
+    "ethscription_id" : "0xf13cecf2c8b10a98f7ca5c9126e61bdc67e5e7e314230762b7ad6cb4a6b4c003",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "9b8f379e9dcf4279dd2e078d217779a93b612b0c2f2ff4ae67cff304c4a31c89"
+  }, {
+    "id" : 0,
+    "name" : "094 Gengar",
+    "ethscription_id" : "0xc73aa26934e39d1773265abd22244daf7fbdd34c984d55bf912d8f9eadc95d04",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "b6a5763d041dab4dbd1f170b2caadafbbc720c0e76ead16e489d8d915ee3c2a9"
+  }, {
+    "id" : 0,
+    "name" : "095 Onix",
+    "ethscription_id" : "0x5d6c0024fe9d0f9ac9846098d525cb3e3389d28004659b3f1cf286e0bc299ff7",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "bcb16c3ab13f4cd325b0a9a662638a30d940334392b8a9b89ce24723af934f0e"
+  }, {
+    "id" : 0,
+    "name" : "096 Drowzee",
+    "ethscription_id" : "0xcfd93b9e2af25597e0cb271d866d8f42d9f6301307109db3ab2a6fe21c04b962",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Common"
+    } ],
+    "description" : "",
+    "hash" : "afdb3b816ca5580515a8ae4335e7ae4788cf3ee96df33d0c86de539f67db960a"
+  }, {
+    "id" : 0,
+    "name" : "097 Hypno",
+    "ethscription_id" : "0xb4ddcb495a72503f50acc0cfffc25244ee8ff8af255edbffa472600b17d58c92",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "609ade1d243a37f3704ecadd5901ae4628d6f30ab51d09df0101bf875c9f9dd9"
+  }, {
+    "id" : 0,
+    "name" : "098 Krabby",
+    "ethscription_id" : "0x5d8cdcfe338a80a23232ddf545ac0c0715c1145009d6bb4c9014c20607a49fcf",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Common"
+    } ],
+    "description" : "",
+    "hash" : "6fa012357ead54ad04fb320db687d0c1db01ba29f4225da3aae58a7fa41ad798"
+  }, {
+    "id" : 0,
+    "name" : "099 Kingler",
+    "ethscription_id" : "0x175a94c4b0d71bc61519c7b2bd9c261c8253d1a11b2b8ca74c739d9afa4cba2a",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "dfddc95a315b4140a11f9a704a02925bd4cd1ae09e21030ba0546c4c7b02fa43"
+  }, {
+    "id" : 0,
+    "name" : "100 Voltorb",
+    "ethscription_id" : "0x3a76839b814becef97beee833fe99f9db9823492a364f1b91505286264fd84bc",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Common"
+    } ],
+    "description" : "",
+    "hash" : "54156b25ea3a8048f62481612b7334ab67fc15405a0e189ac2a78b1f2c280352"
+  }, {
+    "id" : 0,
+    "name" : "101 Electrode",
+    "ethscription_id" : "0x086b2b91f49597eef068a4b2abdb19019fc2faddecccc301b35f5e8f7cf7c613",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "5038cc4873ecd9fe5855b1193a5ec4935dc5341629ba45e73e6447df42550a2e"
+  }, {
+    "id" : 0,
+    "name" : "102 Exeggcute",
+    "ethscription_id" : "0x8f08aaa9f7cb363b3a77e0bc2ffbc7da0d15022ea32f61e0b0beb2f1168ef1ec",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "da5271b0b72204da1d14cc068a34e7ae8fcfeeb2960fa8dc4cfed06fe3ebe1c6"
+  }, {
+    "id" : 0,
+    "name" : "103 Exeggutor",
+    "ethscription_id" : "0x966f63ca1713ed46616ef6aa142b4764e92620e0e2a308efd76405fabb889d80",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "37184a63e4ba07f10e954fcc1394e643bcaa38341cdc61ba73a67f2f33f6dff9"
+  }, {
+    "id" : 0,
+    "name" : "104 Cubone",
+    "ethscription_id" : "0x56969d667a8e6e4a3438780098006439ec22bfa671bcf4cc3fd3f1994523311d",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "cb9e53a67c0cf60e109526407a92990c20ecca8ffde41e5e491b9ef260a63aa2"
+  }, {
+    "id" : 0,
+    "name" : "105 Marowak",
+    "ethscription_id" : "0x89d9524a8b442099ba881296eecdd8bfb2cb96b3506d3367c39d3b17d9e310d6",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "31d26cfea358f191db5043c59ad1c325760e652796a099821e0cebce05b61a68"
+  }, {
+    "id" : 0,
+    "name" : "106 Hitmonlee",
+    "ethscription_id" : "0x99d898ecc038f893ac5264ccefd4d6225afd2bf402a6203353be00d705251eb0",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "fe3c58062b7e196d47aa245164d3ce81d5cbe07240c2ed81e8c7f3bdafdd5d61"
+  }, {
+    "id" : 0,
+    "name" : "107 Hitmonchan",
+    "ethscription_id" : "0xb22730feda40947015fcaf70c65cc6acca0057e91929ef6099416e3381b75290",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "cb182a2bafe6e0e3b9e81674cda5858871998ae3230544d9149fd07f1e931c78"
+  }, {
+    "id" : 0,
+    "name" : "108 Lickitung",
+    "ethscription_id" : "0x3ffc221a237cd1077ef0e64b593ed9fff29d8b5fee4081a525c6d1358167d829",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "02d7bfd95a2fc2e9268f81201f4447304e30aad4e4b61b3f2a5b9a97bb867147"
+  }, {
+    "id" : 0,
+    "name" : "109 Koffing",
+    "ethscription_id" : "0x582411bd553a521eeebf3d3eccc036ab30faad4379e20fec474a32c55f1e2532",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Common"
+    } ],
+    "description" : "",
+    "hash" : "df28de2c0b2805037112dcfec3f30fe4228a8ebd7df26e8e467198318894d8b4"
+  }, {
+    "id" : 0,
+    "name" : "110 Weezing",
+    "ethscription_id" : "0x61e1eeabb5ecaf7031020dccd777ce6ac81b9b711d8aff9c2a0f1eae9dc8d2d4",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "91ea2fd81fd2a1039a31486fcda317859f90776670a29dba8632071564044e35"
+  }, {
+    "id" : 0,
+    "name" : "111 Rhyhorn",
+    "ethscription_id" : "0xc246957fef4aba99d197e72e0e0c124ca4f31fcaabf0d4db9a10b586fdfe6d85",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "73e7432bf95526c86a519354b550ddb77c2fd75a74ced490eece432d45cdb394"
+  }, {
+    "id" : 0,
+    "name" : "112 Rhydon",
+    "ethscription_id" : "0xeeff5f8489fd0ab16697260be289a68984a149249cc819013e94faefde4f4c90",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "79eba957f8421bff75d1e38ce283e9bd8876ac433525ff1ed0c18a8c61ee8461"
+  }, {
+    "id" : 0,
+    "name" : "113 Chansey",
+    "ethscription_id" : "0x9c90167f3838d20952dd6fad17d66c10a8859727230ebe79ae268c230a15c4ed",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "13c8e0e5b13475764307e040d0d9b660434589755b1b57218f714fbcc52e8ee2"
+  }, {
+    "id" : 0,
+    "name" : "114 Tangela",
+    "ethscription_id" : "0x51015f6cd5004eb5b1b31aafb3cb0c38b5e2996d44d554c29ad2be3b68da380b",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "6e7b77a87d93ab4ef3ed0b8a699020413d14f1beb4f4d90b07c7dca8fda0a324"
+  }, {
+    "id" : 0,
+    "name" : "115 Kangaskhan",
+    "ethscription_id" : "0xdc485b760b9b6fc5680355e23187bc3b478ff67810e6e086498912ff104f999a",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "1adf7bea1cf0c6b49ff74c267c38dad64b2328f978a32b9ae7cbd71dd7d20be7"
+  }, {
+    "id" : 0,
+    "name" : "116 Horsea",
+    "ethscription_id" : "0xc7001fc5dfc73d983af072ac70e2659bae5e29dc5c6915d2020218bd29651e75",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "6812c8d57e098d5aedad51859f15d4420b5ff67e69678fcad83f88dfa6d610c1"
+  }, {
+    "id" : 0,
+    "name" : "117 Seadra",
+    "ethscription_id" : "0xa68511fbf38bfb821c995a65b1832c95935bf5895fe29d72117d925505572644",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "c3399555c32e468855c0cc00012736f31e443e761dcd1ff88501d632323b34ea"
+  }, {
+    "id" : 0,
+    "name" : "118 Goldeen",
+    "ethscription_id" : "0x93f24b443e54199b203ffa976cd9018dac9a31f198f9ee0a54e4b2234138f70c",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Common"
+    } ],
+    "description" : "",
+    "hash" : "71c500a6e7a996e76aa0b7cd45056a53c705ef7431fa2f3dd946a5d890d53947"
+  }, {
+    "id" : 0,
+    "name" : "119 Seaking",
+    "ethscription_id" : "0x3e9da8b862a1b586901224e94e029e04bb605d77f9d8ed29c354ee8fd433e656",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "8d5776921e830fd82f2b3b08535d7aef466c38e2b37a173dfa3ca3d4a37533ed"
+  }, {
+    "id" : 0,
+    "name" : "120 Staryu",
+    "ethscription_id" : "0xa0b1f2cc4dd93b3352574f3bf9b20477fbea7eeb715e0d510038660c3c3c3abc",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "df30c76041c4b34b6f8bb434d0322b2fb6468723081cb9a7deb96dae05b99c11"
+  }, {
+    "id" : 0,
+    "name" : "121 Starmie",
+    "ethscription_id" : "0xe920856e3f827a15f12025467a0a890261334c94e5f6edfe88b851923fb2cf7d",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "b93dc4ebb08c2b7a4935c83af14287434f7cd37136c3ac5e2871c7b07ea3aefc"
+  }, {
+    "id" : 0,
+    "name" : "122 Mr. Mime",
+    "ethscription_id" : "0x49e47ee81b4b516f2554f1e128e70de326e3fdbb5a854a8471705050aad8cf53",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "aa17d600efc0c83f908956976896d02cf146d8dab8ec4ffe23a55e82b3944160"
+  }, {
+    "id" : 0,
+    "name" : "123 Scyther",
+    "ethscription_id" : "0x44e18e5d50bf8d1d782bc3668a0402918c0e148b107e65f0c6acb524eef6eed9",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "d8b630a6a2e08087128e2fe087275197758476253edbca689f0de8f93473835e"
+  }, {
+    "id" : 0,
+    "name" : "124 Jynx",
+    "ethscription_id" : "0x524669cf0f3ae41ac8a49858e94428a58f929d8e70715b9a6b1aedc6ccccd3ec",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "c7edd0a6b0f9461910df638d3dad10fdad166a335dcf7ae1e6c939f4109e6ea1"
+  }, {
+    "id" : 0,
+    "name" : "125 Electabuzz",
+    "ethscription_id" : "0x9505e4e94fc5b25545ed27ab5a910bd33620d12faf56f05dbaa6b4d906a5b1a8",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "4c81c46f3b8019f1cec06cdcda46f6676cd895be7c72e48e8390ad44377fad5a"
+  }, {
+    "id" : 0,
+    "name" : "126 Magmar",
+    "ethscription_id" : "0x6973389af2e40424504c4f672d647081755f282d60ce31d686d05b986f94b86b",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "369340f3bda0aa26211d5405dd53f46857837f8b86102be0a0d058a0263aa36f"
+  }, {
+    "id" : 0,
+    "name" : "127 Pinsir",
+    "ethscription_id" : "0xeda996296b0212f62ed53f379e3c29b9281a38f5cd506917c609bb42e2d00c24",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "0df5b72ab5f9f4dabc328087bbc8fef70ef503cbdebd4f4e3d9659e8e24f8a12"
+  }, {
+    "id" : 0,
+    "name" : "128 Tauros",
+    "ethscription_id" : "0xcce1ed5f1c254728be199e30d7dd963f945a52c6a5d3de11bb456f96c13bda15",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "6077ef1691df41e0f4b7b3df3ba0d9e8950917c931cb9e1368de2f03f145d20c"
+  }, {
+    "id" : 0,
+    "name" : "129 Magikarp",
+    "ethscription_id" : "0x9bc72c7483da3d67ed417152407f89c4d8a27759cf62a20317398f88c428fc65",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Common"
+    } ],
+    "description" : "",
+    "hash" : "952c12b9491a3bec9f70c3774d435b97b5451e638a04b9686c5e2bd2cae6f834"
+  }, {
+    "id" : 0,
+    "name" : "130 Gyarados",
+    "ethscription_id" : "0x3b30e0218f19104d35e180390e34158f42c18056a238eb48386b684241563559",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "f4bdf638c134f3abf668529b16fab146d96d716b8790046c4490d9942499c58f"
+  }, {
+    "id" : 0,
+    "name" : "131 Lapras",
+    "ethscription_id" : "0x592c80d51a055bc25ad0dcce2d48d653eced72d37a3bd3d62cc730701737686f",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "d683b7505c7c778a18e71c045298d60ee87dde6a1ee68ff4d5af6d943e889669"
+  }, {
+    "id" : 0,
+    "name" : "132 Ditto",
+    "ethscription_id" : "0x040a4ee9bcb035b6d5b154f9456c5c52d5e1b7a8c082abccf188ff133547e263",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "68d8ca5cd4ac96fd357a72a2a8a53a46b80b739bb09903cd1533dbd70f8194ad"
+  }, {
+    "id" : 0,
+    "name" : "133 Eevee",
+    "ethscription_id" : "0x11486f6d1310d787f48c37d91854a1d3524762a7801683cf10f94e2230bfd8ee",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Uncommon"
+    } ],
+    "description" : "",
+    "hash" : "1f35e47df9431793362eed9e5c0b32a76a0008018c021053efdbf78e70cd3a31"
+  }, {
+    "id" : 0,
+    "name" : "134 Vaporeon",
+    "ethscription_id" : "0x195efa2f61bf91249e028e564c018bd408d540b1043868106fd804d191c3252c",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "620a364c9bd14a75781550a36404b0d25f5b53d584bd358926ec43cd9389deca"
+  }, {
+    "id" : 0,
+    "name" : "135 Jolteon",
+    "ethscription_id" : "0x5071a7b2fe762a98058265f4dfa479b823a6ca27135e96073800e99805b376d7",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "7a7210be1120e07f19e01072555592b737ca814dbcef60b0880a61acc4ce2d7a"
+  }, {
+    "id" : 0,
+    "name" : "136 Flareon",
+    "ethscription_id" : "0xaee81c26c95261f64c5b2ba19c30dca2ccd5b69ba4c394331d60b24adda37561",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "87312bb8992e780f8b53c75bfeb82c12ff6dcbce72bfeaeac68ea76e1dff5678"
+  }, {
+    "id" : 0,
+    "name" : "137 Porygon",
+    "ethscription_id" : "0x68efbb5614694df1110bf0ac65030021cc8d43e32655c92b9bf10a324ffa2d3e",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "09cbe2f33a2331063ed71acd06bdb7c5b386cea24751c59751c200d9d8625379"
+  }, {
+    "id" : 0,
+    "name" : "138 Omanyte",
+    "ethscription_id" : "0x6a14cb74fe98a3c7e722b51db4573eb7350666ed5518b681304d7b9a059df25a",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Fossil"
+    } ],
+    "description" : "",
+    "hash" : "aac1f68d7a2fa1386dd1b321ef071b65e05a587fe741d0cd82533faeee5e7636"
+  }, {
+    "id" : 0,
+    "name" : "139 Omastar",
+    "ethscription_id" : "0x73d2732dc74a153095f51427a4561746e28850ecc41e14411a8e4e4d5a2fd06e",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Fossil"
+    } ],
+    "description" : "",
+    "hash" : "8945e7188792e53cf4776c3eb2bdc47ca171aa130c186ef0014da2c6c0daace0"
+  }, {
+    "id" : 0,
+    "name" : "140 Kabuto",
+    "ethscription_id" : "0xe2ba494dc7184e772af60a71c3f91136f49933c902c5b88ebe1beb98cf52d19a",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Fossil"
+    } ],
+    "description" : "",
+    "hash" : "b84bba9c617610b73091cef0f6dc52753c17d6b08eb60d1c8c3960e5c61a22cf"
+  }, {
+    "id" : 0,
+    "name" : "141 Kabutops",
+    "ethscription_id" : "0x8b4d693b3b53815783582188a4dd3248c7ab9f045ef4305d6543ad29734cce08",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Fossil"
+    } ],
+    "description" : "",
+    "hash" : "1b997add4da9fad2f3d1c09f242d3a559c1a8d4b55083635494cac3a59d79647"
+  }, {
+    "id" : 0,
+    "name" : "142 Aerodactyl",
+    "ethscription_id" : "0x4e7214276dd203fdc177fd9cbc753cb2a6399dac8330fe66b00feae797f04ea1",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Fossil"
+    } ],
+    "description" : "",
+    "hash" : "2300ee5e7f3e32c032f1b76b296a8693d62b1dc91916d73f4166e467192fae89"
+  }, {
+    "id" : 0,
+    "name" : "143 Snorlax",
+    "ethscription_id" : "0x0ef5e90d8676fe7c0bdc47e4066d9fcda42d832237c3a61e4c9855133408ae18",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "87339fa22dcc2a1c2412be24403ded71de7ba65228524252c8818538a6e0cfaa"
+  }, {
+    "id" : 0,
+    "name" : "144 Articuno",
+    "ethscription_id" : "0xf996e8e902872456336da7d1a04edfc9209b4492de9ff1f4215ca87e07cd5537",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Legendary"
+    } ],
+    "description" : "",
+    "hash" : "1b866a6d921eedb2dbe58db6b48b5cc63047bb793f23a6f1f6596769b45c92ee"
+  }, {
+    "id" : 0,
+    "name" : "145 Zapdos",
+    "ethscription_id" : "0xf1835cdabd61eda57b6c6cf111f924d618e26e92133deb28f377df58614d94d2",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Legendary"
+    } ],
+    "description" : "",
+    "hash" : "00464b033ffd9a9bd52e21e83a850e69f5993e8ed4818f641c23b62adef16c63"
+  }, {
+    "id" : 0,
+    "name" : "146 Moltres",
+    "ethscription_id" : "0x95e235e3ad4c540f5dec79e726b49329c1cca09b4132a379e7acf5bda4215853",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Legendary"
+    } ],
+    "description" : "",
+    "hash" : "0c9b19f43926856f4f333744a634f9dd6fb8dd229f3748e2d525aac321536c15"
+  }, {
+    "id" : 0,
+    "name" : "147 Dratini",
+    "ethscription_id" : "0x071f9e2c5b848ac8b5d12dc0ff7866db06c8ea3e357d16a63343e5bdaab3b47c",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "151a8d3fc992d4122a3d07bbbb8e09f0a42df9fa1b1356de06854fe53ca15073"
+  }, {
+    "id" : 0,
+    "name" : "148 Dragonair",
+    "ethscription_id" : "0x5b5cd99e56e6c8052a16e3ec93b12fce3c24b39455d7f9da86aad3dd0f38a5e3",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "9e9c65ae16420a701024cd2c935d52656a5447586d2f5363008cf3fa543d305b"
+  }, {
+    "id" : 0,
+    "name" : "149 Dragonite",
+    "ethscription_id" : "0x4661ce1f8cfc8fe8f7bd0fdff89f1d909990ce59d52889f3ce8183a1d6c1441f",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Rare"
+    } ],
+    "description" : "",
+    "hash" : "357c0f5d7b1e7c108ae72a2e68745e19150524a2e0ba242011934a97519bf58a"
+  }, {
+    "id" : 0,
+    "name" : "150 Mewtwo",
+    "ethscription_id" : "0x4c35be596d86867e319cc9c9d52fe1fcc9eb97e0943a3b728b7f7f05cba1ef30",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Legendary"
+    } ],
+    "description" : "",
+    "hash" : "0cd2746e660bd18d907f694a6245ff196366a216430f10507f32e0eb6b8c3180"
+  }, {
+    "id" : 0,
+    "name" : "151 Mew",
+    "ethscription_id" : "0xc4f1cc467cae45df9e04346366df5f1951248b476dcc7b9bd6dc0f1a23f4b861",
+    "item_attributes" : [ {
+      "trait_type" : "Rarity",
+      "value" : "Mythical"
+    } ],
+    "description" : "",
+    "hash" : "b92fbc3876f737be751c96d674e014662d9cef4a5969bd9bf5889a1e94bc7667"
   } ],
-  "hash" : "d11f375847e1f93d21fd3fe0bac0b56cdd8a4833d2d25868187b4c30011d3d45"
+  "hash" : "5ad88e31137b4d37bf5f18b67e110253d75e7e12029f6ac1ba34714146362e0e"
 }
