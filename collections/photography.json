@@ -187,9 +187,15 @@
     }, {
       "trait_type" : "Raw File Size",
       "value" : "3.5 MB"
+    }, {
+      "trait_type" : "Mint Cost",
+      "value" : "0.022Ξ"
+    }, {
+      "trait_type" : "Gwei Cost",
+      "value" : "11Ξ"
     } ],
     "description" : "A visit to Michael Yamashita's studio. He spent 40 years as a full time photographer at National Geographic, and was a pioneer for people of color at the magazine. In this action shot, he signs prints capturing the Pamir mountains of Afghanistan, and Jiuzhaigou National Park in China.",
-    "hash" : "335b014bb3f4cf971c71dafa627264184cd6704d97d018e366cb4e5e460dbc45"
+    "hash" : "2eec9f80cc4f12440c86bb693e8c3ac1028c1622c5840b600c568debab0c60fe"
   }, {
     "id" : 0,
     "name" : "Him, Her & Broadway",
@@ -230,6 +236,126 @@
     } ],
     "description" : "A rendezvous with the mysterious Oona. She was joined by Creatrix, another performance artist, to celebrate her PLAYOONA art series. The background features the iconic H&M Tower and bleachers overlooking Father Duffy square.",
     "hash" : "6f19457a268166561a12299b7712176e89b0cf5faa2d0036196574eedf17884e"
+  }, {
+    "id" : 0,
+    "name" : "The moment Alex noticed me.",
+    "ethscription_id" : "0x3f2790e921eb494da790b6b103b39d7562e8513dea5c605c4f19eb9e311e1f61",
+    "item_attributes" : [ {
+      "trait_type" : "Year",
+      "value" : "2023"
+    }, {
+      "trait_type" : "Month",
+      "value" : "April"
+    }, {
+      "trait_type" : "City",
+      "value" : "New York"
+    }, {
+      "trait_type" : "Photographer",
+      "value" : "Drew Marshall"
+    }, {
+      "trait_type" : "Location",
+      "value" : "Perfect 10 Shoe Repair"
+    }, {
+      "trait_type" : "Horizontal",
+      "value" : "438"
+    }, {
+      "trait_type" : "Vertical",
+      "value" : "584"
+    }, {
+      "trait_type" : "Ethscribed File Size",
+      "value" : "95.99kb"
+    }, {
+      "trait_type" : "Raw File Size",
+      "value" : "3.67 MB"
+    }, {
+      "trait_type" : "Mint Cost",
+      "value" : "0.021Ξ"
+    }, {
+      "trait_type" : "Gwei Cost",
+      "value" : "10Ξ"
+    } ],
+    "description" : "Alex the Cobbler. Perfect 10 Shoe Repair, 9th Avenue, Manhattan New York. This photograph shows the very moment Alex noticed me, peaking out from under his thick spectacles, a yarmulke atop his head. He encouraged my curiousity, and stated boldly that he could craft a belt that would last 100 years. Mine had just broken, and he removed the buckle and repaired it for me. A final evening in New York staying on the Upper West Side, this memory preserved forever on blockchain by Drew Harrison Marshall.",
+    "hash" : "f5a9b52a30621f7d66b82cf1d075effee577063ac29a20c961c9357d6fa821b9"
+  }, {
+    "id" : 0,
+    "name" : "Ozomatli",
+    "ethscription_id" : "0x6c18ea154e7fe40d7a8da66d39a0525dafd7000eea568a2d696ab6898d77e5ee",
+    "item_attributes" : [ {
+      "trait_type" : "Year",
+      "value" : "2023"
+    }, {
+      "trait_type" : "Month",
+      "value" : "September"
+    }, {
+      "trait_type" : "City",
+      "value" : "Philadelphia"
+    }, {
+      "trait_type" : "Photographer",
+      "value" : "Drew Marshall"
+    }, {
+      "trait_type" : "Location",
+      "value" : "Home"
+    }, {
+      "trait_type" : "Horizontal",
+      "value" : "515"
+    }, {
+      "trait_type" : "Vertical",
+      "value" : "686"
+    }, {
+      "trait_type" : "Ethscribed File Size",
+      "value" : "91.21kb"
+    }, {
+      "trait_type" : "Raw File Size",
+      "value" : "2.9 MB"
+    }, {
+      "trait_type" : "Mint Cost",
+      "value" : "0.018Ξ"
+    }, {
+      "trait_type" : "Gwei Cost",
+      "value" : "9Ξ"
+    } ],
+    "description" : "Two Ozomatli, or monkeys in the Aztec's Nauhautl language. Deep in their slumber on a fall morning, the light kissed their golden skin as I raised the curtains and captured this moment before their waking.",
+    "hash" : "87ee224265e50c8386ec1b4a4c0ceeda61c897bd05fcbddd7e036188b87366a3"
+  }, {
+    "id" : 0,
+    "name" : "Ashokawna",
+    "ethscription_id" : "0x9f0892d1bb64920b635429b2c08f918a6a6b44f364091038126f61bb9564a013",
+    "item_attributes" : [ {
+      "trait_type" : "Year",
+      "value" : "2022"
+    }, {
+      "trait_type" : "Month",
+      "value" : "November"
+    }, {
+      "trait_type" : "City",
+      "value" : "Jenner"
+    }, {
+      "trait_type" : "Photographer",
+      "value" : "Drew Marshall"
+    }, {
+      "trait_type" : "Location",
+      "value" : "Russian River"
+    }, {
+      "trait_type" : "Horizontal",
+      "value" : "664"
+    }, {
+      "trait_type" : "Vertical",
+      "value" : "883"
+    }, {
+      "trait_type" : "Ethscribed File Size",
+      "value" : "95.51kb"
+    }, {
+      "trait_type" : "Raw File Size",
+      "value" : "3.3 MB"
+    }, {
+      "trait_type" : "Mint Cost",
+      "value" : "0.016Ξ"
+    }, {
+      "trait_type" : "Gwei Cost",
+      "value" : "8.97Ξ"
+    } ],
+    "description" : "The Russian river, known as Ashowkawna by the native Pomo people, welled around Penny Island, failing to empty into the ocean. In the middle of the channel, logs and debris were strewn about, and a log dome had been constructed. I climbed in the door and took this shot of the ocean.",
+    "hash" : "85fddc8d514e9742fcef638753f1c6d0591b013edd2bce4a1c43a64f925b237c"
   } ],
-  "hash" : "be8c3e4e493f6dfa3fa1d975d750573de6ce3276e6a330c035690f0bd132f022"
+  "hash" : "a1d2279d42131561574c5eee01ed65bc88c221af8f1362d9e9b57d1e5b68d10d"
 }
