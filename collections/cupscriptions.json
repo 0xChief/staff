@@ -9987,6 +9987,31 @@
     "hash" : "e461e0bc760a73e70de3f0da51381c4b72130c798c37677e8f4c4aa0fa435b4d"
   }, {
     "id" : 0,
+    "name" : "Cupscription #375",
+    "ethscription_id" : "0x134eccee720a84575626058f1813774215b39a5fef85e8f4c5d25c0209f4e3b5",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Bitcoin orange"
+    }, {
+      "trait_type" : "Cup color",
+      "value" : "Glow"
+    }, {
+      "trait_type" : "Straws",
+      "value" : "Yellow plain"
+    }, {
+      "trait_type" : "Random",
+      "value" : "Evol sprite"
+    }, {
+      "trait_type" : "Mouths",
+      "value" : "Buck teeth"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Alien"
+    } ],
+    "description" : "",
+    "hash" : "589ff02059e1b33ea9773a0dff1ea39462616cd9d7531dab1e84424a02f7fd70"
+  }, {
+    "id" : 0,
     "name" : "Cupscription #376",
     "ethscription_id" : "0xf867d30f84b94a44bd1ef0f316f9745c03bf3dffef56084b062f66d1ae9ec943",
     "item_attributes" : [ {
@@ -133159,5 +133184,5 @@
     "description" : "",
     "hash" : "bbdc0eb6bcf58ee203c9f9f98b6d1b1b861431f589024bedb9dae425e7a85f1b"
   } ],
-  "hash" : "d2ff44b58ed1367077ad9abbf1bde2a9d26ebde48925baee6be6cd24152f9f65"
+  "hash" : "1bc935e0be24f80d38f23d58cd0ca5f7528afd83defbb0fbf0ad72456c2c1cf4"
 }
