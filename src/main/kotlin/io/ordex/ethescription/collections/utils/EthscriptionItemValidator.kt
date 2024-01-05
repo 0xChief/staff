@@ -8,7 +8,7 @@ object EthscriptionItemValidator {
         try {
             Word.apply(item.ethscriptionId)
         } catch (ex: Throwable) {
-            throw IllegalArgumentException("Invalid item: ${item.ethscriptionId}")
+            throw IllegalArgumentException("Invalid item: id=${item.id}, ethscriptionId=${item.ethscriptionId}")
         }
     }
 }
