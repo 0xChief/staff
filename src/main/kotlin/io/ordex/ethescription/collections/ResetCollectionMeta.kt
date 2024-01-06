@@ -10,7 +10,7 @@ fun main(args: Array<String>) = runBlocking<Unit> {
     val repository = CollectionRepository()
     val rest = RestTemplate()
 
-    listOf("on-chain-photography")
+    listOf("pepepunks")
         .map { repository.get(it)!! }
         .map { it.collectionItems }
         .flatten()
@@ -21,6 +21,7 @@ fun main(args: Array<String>) = runBlocking<Unit> {
                     while (true) {
                         try {
                             rest.delete("https://api.ordex.ai/v0.1/items/ETHEREUM_ETHSCRIPTION:${it.ethscriptionId}/resetMeta")
+                            println("Updated for ${it.ethscriptionId}")
                             break
                         } catch (ex: Throwable) {
                             println("Can't reset ${it.ethscriptionId}")
