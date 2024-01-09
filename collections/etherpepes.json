@@ -1,0 +1,127 @@
+{
+  "name" : "Etherpepes",
+  "logo_image_uri" : "https://etherpepes.xyz/logo.png",
+  "banner_image_uri" : "https://etherpepes.xyz/banner.png",
+  "total_supply" : 0,
+  "slug" : "etherpepes",
+  "description" : "Etherpepes, the blockchain celebrity.",
+  "website_link" : "https://etherpepes.xyz",
+  "twitter_link" : "https://twitter.com/etherpepes",
+  "background_color" : "#C4FF02",
+  "collection_items" : [ {
+    "id" : 0,
+    "name" : "etherpepe #1071",
+    "ethscription_id" : "0xa930905419f226d1d1f41f67d93caea8e13b5b48b4c7d874bc821e28892456ad",
+    "item_attributes" : [ {
+      "trait_type" : "Type",
+      "value" : "Pale"
+    }, {
+      "trait_type" : "Bottom",
+      "value" : "Great Goat"
+    }, {
+      "trait_type" : "Top",
+      "value" : "Nerd Glasses"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Front Spike"
+    } ],
+    "description" : "Etherpepes, The blockchain celebrity.",
+    "hash" : "00be87eae84990fd3a598b797b8840962ee7fb90b5412184ab00074f04b4a4a5"
+  }, {
+    "id" : 0,
+    "name" : "etherpepe #2505",
+    "ethscription_id" : "0x7a5f7913eb920a4dea180ff7831669882ddd4523725b87fe21d3ba8452b539a5",
+    "item_attributes" : [ {
+      "trait_type" : "Type",
+      "value" : "Zombie"
+    }, {
+      "trait_type" : "Bottom",
+      "value" : "thug"
+    }, {
+      "trait_type" : "Top",
+      "value" : "VR"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Vampire Hai"
+    } ],
+    "description" : "Etherpepes, The blockchain celebrity.",
+    "hash" : "495231ed5c9abb5407127a8208364e1ff664ba347a2deabb9448195b975c54c0"
+  }, {
+    "id" : 0,
+    "name" : "etherpepe #3151",
+    "ethscription_id" : "0xeba5bda08bf8942a24972adc8a4a0437c9f0e493f894a8f9daa2864d5f62fcc1",
+    "item_attributes" : [ {
+      "trait_type" : "Type",
+      "value" : "Dark"
+    }, {
+      "trait_type" : "Bottom",
+      "value" : "Fast"
+    }, {
+      "trait_type" : "Pink Liners",
+      "value" : "VR"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Mohawk Thin"
+    } ],
+    "description" : "Etherpepes, The blockchain celebrity.",
+    "hash" : "21ce9b73915b93df7d0a2319b8cc5b497bcc290af8591b0ee1a9d590d64f77b1"
+  }, {
+    "id" : 0,
+    "name" : "etherpepe #3610",
+    "ethscription_id" : "0x478a700352346a20919ce1c4da41b48bebdaaa9e6549c44d492d789b14edd8fa",
+    "item_attributes" : [ {
+      "trait_type" : "Type",
+      "value" : "Green"
+    }, {
+      "trait_type" : "Bottom",
+      "value" : "Chinbeads"
+    }, {
+      "trait_type" : "Top",
+      "value" : "Pink Liners"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Pilot Helme"
+    } ],
+    "description" : "Etherpepes, The blockchain celebrity.",
+    "hash" : "8f9adbcba31313d0d97450d25af22f6acf01259b0590e86026926d037ad97d9a"
+  }, {
+    "id" : 0,
+    "name" : "etherpepe #4292",
+    "ethscription_id" : "0x9ed8543e620b2e02e7e8c14d2adb6fff3ce7082105541de66f92223fb5b21fec",
+    "item_attributes" : [ {
+      "trait_type" : "Type",
+      "value" : "Ape"
+    }, {
+      "trait_type" : "Bottom",
+      "value" : "Goat"
+    }, {
+      "trait_type" : "Top",
+      "value" : "Green Liners"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Bandana"
+    } ],
+    "description" : "Etherpepes, The blockchain celebrity.",
+    "hash" : "f3f7a6fbbb9d32b29140b62e92986a96cca94d654851cf55ce7840378f7a0a26"
+  }, {
+    "id" : 0,
+    "name" : "etherpepe #4691",
+    "ethscription_id" : "0xbc4413ea5a39a7ceb519295b6c8ef8b0c4228babfa7ec1dffe7eeca46d60cd88",
+    "item_attributes" : [ {
+      "trait_type" : "Type",
+      "value" : "Zombie"
+    }, {
+      "trait_type" : "Bottom",
+      "value" : "Notway"
+    }, {
+      "trait_type" : "Top",
+      "value" : "VR"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Wild Hair"
+    } ],
+    "description" : "Etherpepes, The blockchain celebrity.",
+    "hash" : "7ff2e40f20f1454b9d8483159ae5f5befa2b4ecbac3af218b98104ce4a667757"
+  } ],
+  "hash" : "eb4664055c1aa564f4b52f107c10b894a8f0de1a71a4721c4d9843bfed05b94e"
+}
