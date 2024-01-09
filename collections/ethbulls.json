@@ -1,0 +1,464 @@
+{
+  "name" : "EthBulls",
+  "logo_image_uri" : "0x199483df11f76af2cefd98280f20975ba49d5baf24e2754a751b001ef1a9436a",
+  "banner_image_uri" : "",
+  "total_supply" : 43,
+  "slug" : "ethbulls",
+  "description" : "Phunky Bulls inscribed on Ethereum",
+  "website_link" : "",
+  "twitter_link" : "",
+  "background_color" : "#C3FF00",
+  "collection_items" : [ {
+    "id" : 0,
+    "name" : "EthBull #1",
+    "ethscription_id" : "0x94f9fc53993f7b404ee1fb71e5189b7326dd98139b1a18c5f8cab53790b7a6c9",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "C3ff00"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Ethscriber"
+    } ],
+    "description" : "",
+    "hash" : "3f2b9bcf433b0208dd549660326513312de1f47e0b05045076e0cc6c7fa86341"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #2",
+    "ethscription_id" : "0xa1126ab2e405ef91a73d1875a0711751e07b24dd661422cc9d519609e3e579a7",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "Bobbyzoo"
+    } ],
+    "description" : "",
+    "hash" : "b04630a929d0477a09549e2d4b39abfc9c839f55a1df956f719bfa255b601920"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #3",
+    "ethscription_id" : "0x0301f025240d3d8fd9c33ac9520d456d706a8bd852e13642beb3045533d9d201",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "Middlemarch"
+    } ],
+    "description" : "",
+    "hash" : "e77f037ed4c673e64436535d38f5b27049b87bda4496b4f29e575a27d91efbb8"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #4",
+    "ethscription_id" : "0xf69fff7c42271c5665f42f7fb531a0f7373e87956e9f6486147956e1ba47dfb4",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "Hirsch"
+    } ],
+    "description" : "",
+    "hash" : "68c255f8830bf93b5931fa4a2ee3800f65025b01e5d6597cf76c9999286d1034"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #5",
+    "ethscription_id" : "0xfaec73eb5a4a1d8c461adfd2e5110bd9fc96cee4179e3b287bbd6899032e6876",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "Chopper"
+    } ],
+    "description" : "",
+    "hash" : "4810091292048271da4416e026cbd2f209f3395e6ee8b4f3f56a53627ac2355b"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #6",
+    "ethscription_id" : "0xcf81daa579c301b4e726b06653abbfdf76ce0ddf8d8a87e9192dc19fe2d4d528",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "Chris"
+    } ],
+    "description" : "",
+    "hash" : "bb653e8a5e6a41e5f1931c5360db21d9d50500c07d3aa757bcaa8ef8c5a31800"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #7",
+    "ethscription_id" : "0x7220623b3c290c155c02160e7d7cadf8eb3eb8f6954e7c559c48dbc0a31f5b36",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "Jeni"
+    } ],
+    "description" : "",
+    "hash" : "bfdf981d8fcac0bf57e7634a7a0067b483953bce98551437262b5df0300ad6b6"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #8",
+    "ethscription_id" : "0xc7e3a7644acff4f6319f74a0ab3d35971e9dfa47004275c0d0d2458e4bb2700c",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "Tomismeta"
+    } ],
+    "description" : "",
+    "hash" : "ee5d4c80f8487b5d66ac57f435cc597c80aac36aa755afabb71624093d2842d4"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #9",
+    "ethscription_id" : "0x142ce49bc3925cb0a026e718b7476de5fbaa10f2cc28b5386966f3c360316964",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "Christiano"
+    } ],
+    "description" : "",
+    "hash" : "360b9962425733a86b518bc799755edfc6887b5044707c9b044fe805bc044c96"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #10",
+    "ethscription_id" : "0x9133c1ddb303568fbb2d874b024a169bc650aa8900871d3f953aca2952bc7891",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Cosmic Purple"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Alien"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Space helmet"
+    } ],
+    "description" : "",
+    "hash" : "29afd5c0d12443aafbeffea46ccadd8d338ef3bb5b848ed9f316d224cdfdc9ca"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #11",
+    "ethscription_id" : "0x5fa0dd886da5e87a9152ee5baf45656d721f7b01d4eb9e7739d1294c6c7a7acf",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "Virtual Alaska"
+    } ],
+    "description" : "",
+    "hash" : "13c764486631a7e37a94542b930005ffec7695107196af872052f60a34c416b4"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #12",
+    "ethscription_id" : "0x7a89f0dd9999ec14aec3a159fb6f88f31de3dae982d4ca957d4051a7ec20a62e",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Cosmic Purple"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cosmic"
+    } ],
+    "description" : "",
+    "hash" : "f3c36e320dc3bb9c7ce99ce4c9cc8101bec0dba393aa55ba625d30b1e4ea7d0c"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #13",
+    "ethscription_id" : "0x7edfc4f6770b2c99a89fdcad08ce274a13acddf94b246d1ee2dc4c00c9af0c67",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Enlightened Purple"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Enlightened"
+    } ],
+    "description" : "",
+    "hash" : "e8b181d75b17655ab65e840ae99d83851ef56a3118616cc0409b5c0a29a26eab"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #14",
+    "ethscription_id" : "0xcdffb3d226b9670f2ba52768797e67fe83ef50b783c76c58654648bad7138171",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Grinding"
+    } ],
+    "description" : "",
+    "hash" : "4f5ac3bf6008936b28596d994cbdd5a9353eed78201c7217e22014e31b501bd1"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #15",
+    "ethscription_id" : "0x5f26f40202e1a0be320d2d5eac37468883bbdb8361a8f83b2a0ef0c7d5e4f46b",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Ghost Bones"
+    } ],
+    "description" : "",
+    "hash" : "5b55101ae608ef7419e18a92819d7d8411d34b33bae31cb51f742a229d3c3cf2"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #16",
+    "ethscription_id" : "0xedb7bba9ac70a31e5dd75c89878a4770643ad4b00f7fcd622d388015b384c94d",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Ghost"
+    } ],
+    "description" : "",
+    "hash" : "bbe39aff5b23aaeb8846c65434b92f108316603ab48fc649295ddf2bcd760c90"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #17",
+    "ethscription_id" : "0x7a66d12dbd77a82ebf508334090d83f9da7a150dfcc7a62d93a9c2e39bdc8baf",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Space"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Ape"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Space helmet"
+    } ],
+    "description" : "",
+    "hash" : "9db494694193a6c67ede68e4ea8d155ed9633502e39fdc4fb0562446bac628bb"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #18",
+    "ethscription_id" : "0x76d842b8ab9640d258493dbe0bfe3fa82635475a638de9d42edf922947143ebf",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Xcopy"
+    } ],
+    "description" : "",
+    "hash" : "174b9d820f09db3630090ce4f7117b87cc0a03c4e732c6b0a67a2ef6beca002a"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #19",
+    "ethscription_id" : "0xac597f252eb4f8f28335a8da881217abc1be79d3cc25c4d3690f1935d77a8c14",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Ash"
+    } ],
+    "description" : "",
+    "hash" : "dad7c2fb091213146a82e150de73b773d2947c2b1d3d13712f29dd1d07ae61f2"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #20",
+    "ethscription_id" : "0x2223eaae046e38ef512833243aa5345db6d0afa9ba3553f2d2c382af532be21d",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Lit"
+    } ],
+    "description" : "",
+    "hash" : "4d931a6ffecd6a8efd5974ff7666a9024ff9bcc236e1564fdfbbb409ed4dff2d"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #21",
+    "ethscription_id" : "0x344f5e6c480f193d9dfd384ad3a4359b590e7e6e4322412e6a2def409efee27e",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Johnny"
+    } ],
+    "description" : "",
+    "hash" : "5367f626a91b572e773f18c58b7c8c76ed2087725b027ea3c843225ebb71f613"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #22",
+    "ethscription_id" : "0x0f6850d949c430cfdc79c9d6a4a3734280f3264f8d2c88512fa84d0b091b0755",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "One Piece"
+    } ],
+    "description" : "",
+    "hash" : "f6bb061505583a6ca6cf4b64f08525ecbf4c82f28d80b44b2a4fe9a4fbc68734"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #23",
+    "ethscription_id" : "0xc306f855429253f6589335b80e456c5798e7aff53008c95cd1ddbeab8692f4ff",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "Inscripigeon"
+    } ],
+    "description" : "",
+    "hash" : "211477c76fa004065a8abb09a4e2a4642f9b2e453842ac34588990028ff4e412"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #24",
+    "ethscription_id" : "0xcd68db8c055a7a13424dee4b4e454f03d3019d817c1c626ddf15cf9f3ad84a07",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Joker"
+    } ],
+    "description" : "",
+    "hash" : "328afd091a971d9aa558e6239dcb38492f76b8e13af686203e8181351d57d5d6"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #25",
+    "ethscription_id" : "0x3a67cdf6ac5e9562b6efefbcaa09f211b40854eb7536c0b303e9eefd0022bb69",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Vader"
+    } ],
+    "description" : "",
+    "hash" : "1231d5dd16ae5619f6d177be025553a130684e9355525248cdd78a54e4ca0613"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #26",
+    "ethscription_id" : "0xa51fb7e6c4d66a39d8078771f6aea8fbf1a14c72a04ef38eeb99b7af676a6aed",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Red Plumber"
+    } ],
+    "description" : "",
+    "hash" : "8eb50a0ac4c4ce94992688046e48cd4da494451e9dcf51760a08151f9b658f2d"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #27",
+    "ethscription_id" : "0x187ee0e03ee7bbfc87ded8ebc9d7430fdffb45925c6697d0bd34112cea0be729",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Green Plumber"
+    } ],
+    "description" : "",
+    "hash" : "570d0dda8e3947f0425789a79c96e526b1201325e1cccc08cf375fc6d2767e58"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #28",
+    "ethscription_id" : "0xd441dece8a36147e67f470993c964dd0f7e52b44ba6cc0b0943cafaf31e27035",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Invincible Plumber"
+    } ],
+    "description" : "",
+    "hash" : "f5386c54b533bd3932fbb5891dfb2fad0ef26f54e02888f38bdeabbc7cb337e5"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #29",
+    "ethscription_id" : "0x1d0fe167cd1d05b14a54311d5e4aa2de56a9beed1edb4cafd958499f77be01a5",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "Chris Torres"
+    } ],
+    "description" : "",
+    "hash" : "06fd4e96b4bcb43a1abb16025febdc5fa389eec203d5f0ed340a1ed6705f3986"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #30",
+    "ethscription_id" : "0x6fbbc84c69ac74e626ed981b37dcd9ab69dab1e26c53b13fd1afcfa1e9abeb11",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "NyanBull"
+    } ],
+    "description" : "",
+    "hash" : "1c88610188fa27dc4aa49059c87b375ee6f6c828cef90872e94d0901972daaa5"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #31",
+    "ethscription_id" : "0x0d8267ea0a99f550d17b224e88a088d33f209f63532459e5cf5911f540a7480c",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Blue Gnome"
+    } ],
+    "description" : "",
+    "hash" : "ff9e9ae756cfa04d716419c9c6349cade0920aaac490ca58d128f3630f94a587"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #32",
+    "ethscription_id" : "0x199483df11f76af2cefd98280f20975ba49d5baf24e2754a751b001ef1a9436a",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Charging Ethscriber"
+    } ],
+    "description" : "",
+    "hash" : "bde40eed0b3a027cc284d3089ba347ee1270a76297b762e1d91cfc6d77bab6d3"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #33",
+    "ethscription_id" : "0x18d49c9ad56cbf6e8c5ce6d931c6c667cbd39684a805e0f667f26986691d0100",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "NVMD"
+    } ],
+    "description" : "",
+    "hash" : "5bf69b119c6053c0c225c10c8103e42c180140d4e6bd7e854fe2b5150eb44205"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #34",
+    "ethscription_id" : "0x6426c557bb261a832623a4c144cf145c34e7896c491f3517c1afa3b3f12f2cd2",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Dark Magician"
+    } ],
+    "description" : "",
+    "hash" : "248d717ba626b389ae1248a44f75d526ad86bb21be1f8da7860a0d627deabeb1"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #35",
+    "ethscription_id" : "0x5cae6166c83f7c5605cbb53a09f9a9dea05ff6636282bea05b021228bcbdc476",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "Macs"
+    } ],
+    "description" : "",
+    "hash" : "2c9e0b1107ad020322b38f6b141617e80d8f2c2516e67535750a4240f400b126"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #36",
+    "ethscription_id" : "0x82ff18851eeb57ef39607dd73f25a479ec25cf0dda3553485dd08ea185cf7b05",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Pepe"
+    } ],
+    "description" : "",
+    "hash" : "6175b1f803b1f1451550aa13f65591eec5fef70306b2b0caeb4a2f89f250c0a8"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #37",
+    "ethscription_id" : "0x7d578395da4e8d90412b657e0b4fbe2a360c44eb829daa31280d3499c25aff4c",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "Ariana"
+    } ],
+    "description" : "",
+    "hash" : "29f734d1b5daa91306d83ba604bf3bc8cde1e053e912b2172207788ead151fee"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #38",
+    "ethscription_id" : "0x8a86cec68ba6f77a678da10824781bc329eab7fdc5320e8ba621628f1ec8f8be",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "Aft3rparty"
+    } ],
+    "description" : "",
+    "hash" : "ce00fe00921c42f0e9f74e48255e8c9528bcd07ebcf63192e770e635cc8f4c75"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #39",
+    "ethscription_id" : "0xa37c31861638b22961c48fa04c95dd357f3928e5486be77c8eff955469def9b2",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "AUXVI"
+    } ],
+    "description" : "",
+    "hash" : "aaa5daf733f659b30165dbad24462633092b54fd54cd69c8276977a9f8662230"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #40",
+    "ethscription_id" : "0xa08c91b45ca11cf4f0ca5a69ec7d91e64265959ff677cebd6794de71f61fc04b",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "Wiggles"
+    } ],
+    "description" : "",
+    "hash" : "9b056432a829489935f24523543802d1411a4e3af3acfd617cedbc2f4c49dae2"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #41",
+    "ethscription_id" : "0xec2a2264a9a903edebdae8efada1661c75edae66ee36b11363f5648f8db6d17e",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "9999999333"
+    } ],
+    "description" : "",
+    "hash" : "b01a9edd9ab21b408f4763758218ed6dc63b544a61753139efee992330692122"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #42",
+    "ethscription_id" : "0x647be0feb6425eedb75ce5ff1b5832d408237f00cb38ff468275fbd76e3820be",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Static Color"
+    } ],
+    "description" : "",
+    "hash" : "65e88a9c482057fce3302f48d9b631e57803d0e1657e862341fb2b1484e97237"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #43",
+    "ethscription_id" : "0xe236f288614d8d80c9e52f0e210a8ed18d03261c13a35a249d7b5309f1ce1ab8",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Static Monochrome"
+    } ],
+    "description" : "",
+    "hash" : "0cce7f0ff8e92ea4fbe491e1257de3cd0a5adf2941119815be07e87701b84c25"
+  } ],
+  "hash" : "edc61d5be5757f661c160f574621d68f26a27c88c9d333dbe8bcf61aa71fea0e"
+}
