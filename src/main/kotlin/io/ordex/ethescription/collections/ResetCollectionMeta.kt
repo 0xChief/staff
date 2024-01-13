@@ -10,7 +10,7 @@ fun main(args: Array<String>) = runBlocking<Unit> {
     val repository = CollectionRepository()
     val rest = RestTemplate()
 
-    listOf("punks12px")
+    listOf("nodepurrs")
         .map { repository.get(it)!! }
         .map { it.collectionItems }
         .flatten()
