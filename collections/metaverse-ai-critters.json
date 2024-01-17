@@ -1,0 +1,323 @@
+{
+  "name" : "Metaverse A.I. Critters",
+  "logo_image_uri" : "https://drive.google.com/file/d/1p_C3PhAWt6H1FDIbAFoSW_AbBFSvq6MM/view?usp=sharing?width=486&height=486",
+  "banner_image_uri" : "https://drive.google.com/file/d/1pe1Rx8lqbpkgCI-lkxo6OpmM9TRfjNF3/view?usp=sharing?width=1277&height=638",
+  "total_supply" : 2,
+  "slug" : "metaverse-ai-critters",
+  "description" : "Metaverse AI Critters gotta collect them all. There's no official use case or inherent functionality for each Critter; the community decides their roles, their stories, and their part in the evolving metaverse. Your Critters are your canvas – they can be incorporated into your platforms, games, or creations in any way you imagine. This narrative flexibility means that the Metaverse AI Critters can grow and evolve with the community, creating a dynamic and interactive metaverse that is truly driven by its inhabitants.",
+  "website_link" : "https://maritimevintage.com/pages/metaverse-ai-critters-collection",
+  "twitter_link" : "https://twitter.com/TheBananaRat",
+  "background_color" : "#CFE3E5",
+  "collection_items" : [ {
+    "id" : 0,
+    "name" : "The Crypto Crow",
+    "ethscription_id" : "0x874e76ab951ce4b30c0036ee9387bc433e38eb7f53d27fccd4c83f8975527b09",
+    "item_attributes" : [ {
+      "trait_type" : "Artist",
+      "value" : "Blaise x AI Collaboration"
+    }, {
+      "trait_type" : "Clan",
+      "value" : "The Murder Syndicate"
+    }, {
+      "trait_type" : "Clothing",
+      "value" : "Murder Cloak"
+    }, {
+      "trait_type" : "Multiverse Home World",
+      "value" : "Hitchcock"
+    }, {
+      "trait_type" : "Power",
+      "value" : "Mind Control"
+    }, {
+      "trait_type" : "Rarity",
+      "value" : "1 of 1 Artist Proof Ethscription"
+    }, {
+      "trait_type" : "Weakness",
+      "value" : "Enchanted Ruby"
+    }, {
+      "trait_type" : "Weapon",
+      "value" : "The Source"
+    } ],
+    "description" : "The Crypto Crow",
+    "hash" : "5ea196e108199f17b47a741214e4aa49f22f7b7e4d89992d20c4839a3c299950"
+  }, {
+    "id" : 0,
+    "name" : "Frostbite",
+    "ethscription_id" : "0x24d7daf004de5902d35028f36467d9b66ef5d0f530b36c356db1ed48390eddaa",
+    "item_attributes" : [ {
+      "trait_type" : "Artist",
+      "value" : "Blaise x AI Collaboration"
+    }, {
+      "trait_type" : "Clan",
+      "value" : "The North"
+    }, {
+      "trait_type" : "Clothing",
+      "value" : "Yeti Wool Coat"
+    }, {
+      "trait_type" : "Multiverse Home World",
+      "value" : "Winter Storm"
+    }, {
+      "trait_type" : "Power",
+      "value" : "Super Strength"
+    }, {
+      "trait_type" : "Rarity",
+      "value" : "1 of 1 Artist Proof Ethscription"
+    }, {
+      "trait_type" : "Weakness",
+      "value" : "Fire & Heat"
+    }, {
+      "trait_type" : "Weapon",
+      "value" : "Ability to Control Winter Weather"
+    } ],
+    "description" : "Frostbite",
+    "hash" : "e52f85ad3e52f136898e488815d3c2ece6e328fb839020c9b9490ebd7e57be90"
+  }, {
+    "id" : 0,
+    "name" : "Dragon Defender",
+    "ethscription_id" : "0xbcb4dacb15baae2f2f86d475d106afe1b6e6c612e3cc41c76817bc3c2e24c799",
+    "item_attributes" : [ {
+      "trait_type" : "Artist",
+      "value" : "Blaise x AI Collaboration"
+    }, {
+      "trait_type" : "Clan",
+      "value" : "The Dragon Clan"
+    }, {
+      "trait_type" : "Clothing",
+      "value" : "Armored Scales"
+    }, {
+      "trait_type" : "Multiverse Home World",
+      "value" : "Beyond the Vale"
+    }, {
+      "trait_type" : "Power",
+      "value" : "Ancient Magic"
+    }, {
+      "trait_type" : "Rarity",
+      "value" : "1 of 1 Artist Proof Ethscription"
+    }, {
+      "trait_type" : "Weakness",
+      "value" : "Dark Magic"
+    }, {
+      "trait_type" : "Weapon",
+      "value" : "Dragon Fire"
+    } ],
+    "description" : "Dragon Defender",
+    "hash" : "a4df5f1d1315ba00a535084c78dfbadd07f42980ec62fd63efb3303fd9abd7a4"
+  }, {
+    "id" : 0,
+    "name" : "Aurora",
+    "ethscription_id" : "0x1d2b500eb79542cd0d0d9e8a5b1746bfb698f775df2c7cb21cfa6f1055d2fd30",
+    "item_attributes" : [ {
+      "trait_type" : "Artist",
+      "value" : "Blaise x AI Collaboration"
+    }, {
+      "trait_type" : "Clan",
+      "value" : "Equestrian"
+    }, {
+      "trait_type" : "Clothing",
+      "value" : "Flight Harness"
+    }, {
+      "trait_type" : "Multiverse Home World",
+      "value" : "Pegasus Dimension"
+    }, {
+      "trait_type" : "Power",
+      "value" : "Flight"
+    }, {
+      "trait_type" : "Rarity",
+      "value" : "1 of 1 Artist Proof Ethscription"
+    }, {
+      "trait_type" : "Weakness",
+      "value" : "Dark Magic"
+    }, {
+      "trait_type" : "Weapon",
+      "value" : "Magic Shielding"
+    } ],
+    "description" : "Aurora",
+    "hash" : "dbfc0cd6bd5d0eb589bed11673c796743c04fb47c38d5d026c75f52aaffeb7aa"
+  }, {
+    "id" : 0,
+    "name" : "Dark Marauder",
+    "ethscription_id" : "0x6810fa8e30a7717564d8245275206eca9517355b1603bcc7d1a384a8ac008d6d",
+    "item_attributes" : [ {
+      "trait_type" : "Artist",
+      "value" : "Blaise x AI Collaboration"
+    }, {
+      "trait_type" : "Clan",
+      "value" : "Canine"
+    }, {
+      "trait_type" : "Clothing",
+      "value" : "Spartan Collar"
+    }, {
+      "trait_type" : "Multiverse Home World",
+      "value" : "Wolf Haven"
+    }, {
+      "trait_type" : "Power",
+      "value" : "Super Bite"
+    }, {
+      "trait_type" : "Rarity",
+      "value" : "1 of 1 Artist Proof Ethscription"
+    }, {
+      "trait_type" : "Weakness",
+      "value" : "Silver"
+    }, {
+      "trait_type" : "Weapon",
+      "value" : "Magic Shielding"
+    } ],
+    "description" : "Dark Marauder",
+    "hash" : "4f51ab988371e463cd48face4c0403ef42513d0f92c024ee1c30b6c323023301"
+  }, {
+    "id" : 0,
+    "name" : "The Calavera, The Skeleton Queen",
+    "ethscription_id" : "0x583a7fb36de6881d9ed5b9f2aa47c20b8909037543d814c9d93fee6fbe01ba25",
+    "item_attributes" : [ {
+      "trait_type" : "Artist",
+      "value" : "Blaise x AI Collaboration"
+    }, {
+      "trait_type" : "Clan",
+      "value" : "Calavera"
+    }, {
+      "trait_type" : "Clothing",
+      "value" : "Skeleton Armour"
+    }, {
+      "trait_type" : "Multiverse Home World",
+      "value" : "The Underworld"
+    }, {
+      "trait_type" : "Power",
+      "value" : "Immortality"
+    }, {
+      "trait_type" : "Rarity",
+      "value" : "1 of 1 Artist Proof Ethscription"
+    }, {
+      "trait_type" : "Weakness",
+      "value" : "Iron"
+    }, {
+      "trait_type" : "Weapon",
+      "value" : "Necromancy"
+    } ],
+    "description" : "The Calavera, The Skeleton Queen",
+    "hash" : "a0d4c94e70abf8ec3088bb106650262692adde3978eb5474ab62d9b846ee435f"
+  }, {
+    "id" : 0,
+    "name" : "Quillfire",
+    "ethscription_id" : "0x367d47dcc8847fab6159aa6970838ea69e89ef7ef4e1a94244b4a2e12f51db3a",
+    "item_attributes" : [ {
+      "trait_type" : "Artist",
+      "value" : "Blaise x AI Collaboration"
+    }, {
+      "trait_type" : "Clan",
+      "value" : "Quills"
+    }, {
+      "trait_type" : "Clothing",
+      "value" : "Quill Cloak"
+    }, {
+      "trait_type" : "Multiverse Home World",
+      "value" : "Quill Haven"
+    }, {
+      "trait_type" : "Power",
+      "value" : "Quill Projection"
+    }, {
+      "trait_type" : "Rarity",
+      "value" : "1 of 1 Artist Proof Ethscription"
+    }, {
+      "trait_type" : "Weakness",
+      "value" : "Chocolate Cake"
+    }, {
+      "trait_type" : "Weapon",
+      "value" : "Quill Short Blade"
+    } ],
+    "description" : "Quillfire",
+    "hash" : "474fe715cd89aa0cc533312325177da872a864c92d2170f3173dfd6981d50ea3"
+  }, {
+    "id" : 0,
+    "name" : "The Oni Malphas",
+    "ethscription_id" : "0xf247a5fb4480c9e4b7dbd30d3177954039ae5ecd6e5e0c2d6406fe77cc1ff811",
+    "item_attributes" : [ {
+      "trait_type" : "Artist",
+      "value" : "Blaise x AI Collaboration"
+    }, {
+      "trait_type" : "Clan",
+      "value" : "Hellfire"
+    }, {
+      "trait_type" : "Clothing",
+      "value" : "Nothing But His Beard"
+    }, {
+      "trait_type" : "Multiverse Home World",
+      "value" : "Hades"
+    }, {
+      "trait_type" : "Power",
+      "value" : "Enervation"
+    }, {
+      "trait_type" : "Rarity",
+      "value" : "1 of 1 Artist Proof Ethscription"
+    }, {
+      "trait_type" : "Weakness",
+      "value" : "Symbols of the Light"
+    }, {
+      "trait_type" : "Weapon",
+      "value" : "Dark Magic"
+    } ],
+    "description" : "The Oni Malphas",
+    "hash" : "c22c4b4c224102735d7c78d46b5b27e0de16b1c6b51a1373bbb6ee2de53a37c5"
+  }, {
+    "id" : 0,
+    "name" : "Björn - The Moon Hunter",
+    "ethscription_id" : "0xf247a5fb4480c9e4b7dbd30d3177954039ae5ecd6e5e0c2d6406fe77cc1ff811",
+    "item_attributes" : [ {
+      "trait_type" : "Artist",
+      "value" : "Blaise x AI Collaboration"
+    }, {
+      "trait_type" : "Clan",
+      "value" : "Moon"
+    }, {
+      "trait_type" : "Clothing",
+      "value" : "Moon Light"
+    }, {
+      "trait_type" : "Multiverse Home World",
+      "value" : "Lunaar"
+    }, {
+      "trait_type" : "Power",
+      "value" : "Bringer of Light to the Darkest of Places"
+    }, {
+      "trait_type" : "Rarity",
+      "value" : "1 of 1 Artist Proof Ethscription"
+    }, {
+      "trait_type" : "Weakness",
+      "value" : "Shadow"
+    }, {
+      "trait_type" : "Weapon",
+      "value" : "Moonlight"
+    } ],
+    "description" : "Björn - The Moon Hunter",
+    "hash" : "5b9afcdc27e1ae8c16616a7d0e7cb34e6a20004f575309c7afdf0f924c548882"
+  }, {
+    "id" : 0,
+    "name" : "Chumley",
+    "ethscription_id" : "0x589efe7870dd6fd85e02110bc4497c6734a7dc117ea13b4556ed44e8f5fc8d2b",
+    "item_attributes" : [ {
+      "trait_type" : "Artist",
+      "value" : "Blaise x AI Collaboration"
+    }, {
+      "trait_type" : "Clan",
+      "value" : "Jawsome Family"
+    }, {
+      "trait_type" : "Clothing",
+      "value" : "Graffiti"
+    }, {
+      "trait_type" : "Multiverse Home World",
+      "value" : "Deapsea Prime"
+    }, {
+      "trait_type" : "Power",
+      "value" : "Super Chomp"
+    }, {
+      "trait_type" : "Rarity",
+      "value" : "1 of 1 Artist Proof Ethscription"
+    }, {
+      "trait_type" : "Weakness",
+      "value" : "Fear of Enclosed Spaces"
+    }, {
+      "trait_type" : "Weapon",
+      "value" : "Mithril Teeth"
+    } ],
+    "description" : "Chumley",
+    "hash" : "54a5838b63f584fd5d9a67a87800b2325e973debb2925a768b7c216dde325028"
+  } ],
+  "hash" : "4e102980ecf194ec8c850b1d1475f71d40ef53b548502b929b71a8f1ad6ebaf5"
+}
