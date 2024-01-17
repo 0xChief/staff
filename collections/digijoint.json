@@ -1,12 +1,12 @@
 {
   "name" : "Digijoint",
-  "logo_image_uri" : "https://link.to.image.png",
+  "logo_image_uri" : "https://media.discordapp.net/attachments/1080929393460916255/1197212771289399296/x7rh2Xw.jpg?ex=65ba7247&is=65a7fd47&hm=b82cc0a0bfda49d13de7defba2b0979cc7548db5244d4165329f19630459a073&=&format=webp&width=1448&height=1404",
   "banner_image_uri" : "https://link.to/image.png",
   "total_supply" : 10000,
   "slug" : "digijoint",
   "description" : "10000 Digijoint Ethscriptions",
-  "website_link" : "",
-  "twitter_link" : "",
+  "website_link" : "https://digijoint.vercel.app",
+  "twitter_link" : "https://twitter.com/donofrio_blake",
   "background_color" : "#C3FF00",
   "collection_items" : [ {
     "id" : 0,
