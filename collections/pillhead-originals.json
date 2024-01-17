@@ -1,0 +1,125 @@
+{
+  "name" : "Pillhead: Originals",
+  "logo_image_uri" : "https://i.seadn.io/gae/cKQ5w4cDhRid2MdT46gSXGzLdyc78lI_QfOBxoWg3uRkOTsR2GG_9BWlU2adcQlZhI-n7Lc8U3SVPNQT86w9pd-Bcj1TGXJrkjrFGw?auto=format&dpr=1&w=3840",
+  "banner_image_uri" : "https://i.seadn.io/gae/zG1B1aQQ39IMD7JTNsrwEwkD-_LaxmuJTqhyNTscbSIlXlN46dS1bVbW9PstqIkrKiqz-Nl1bhDuy8HvZXGTsabR5-PvzqktInS1jQ?auto=format&dpr=1&w=3840",
+  "total_supply" : 16,
+  "slug" : "pillhead-originals",
+  "description" : "'Pillhead: Originals' is the official inscription collection of uniquely crafted entities from the Stacyverse, designed by CFW. The Original Ethereum NFT collection is minted on a custom ERC-721 smart contract powered by manifold.xyz",
+  "website_link" : "https://pillheads.art",
+  "twitter_link" : "https://x.com/iamcfw",
+  "background_color" : null,
+  "collection_items" : [ {
+    "id" : 1,
+    "name" : "Founder",
+    "ethscription_id" : "0x2c3198e7de29206fd58fe46b70465497beb864b31fe194ee4b96a7ecd67c106e",
+    "item_attributes" : [ ],
+    "description" : "by CFW",
+    "hash" : "4c26f0bf1ec4353cf67484ce131236fbae8e74b999a8752d6bbc5a69a6e040c5"
+  }, {
+    "id" : 2,
+    "name" : "Menhir",
+    "ethscription_id" : "0x59fc3a38e1723c4851a5f4978f316faee27d784c4019abcf3c03aa91a937fa57",
+    "item_attributes" : [ ],
+    "description" : "by CFW",
+    "hash" : "77b6aa5c66a64e14e677af62d70432bde61f42fab43a6ba442c92f61feb37fb7"
+  }, {
+    "id" : 3,
+    "name" : "DUDE",
+    "ethscription_id" : "0x6e72ed150ed53768575292688c7ecb7cf8dad3c8bf852703f8df42bfc68c316e",
+    "item_attributes" : [ ],
+    "description" : "by CFW",
+    "hash" : "07df8157ff9b52f237864b28960e0a830cf7882c94318f702c88845a0760a1e1"
+  }, {
+    "id" : 4,
+    "name" : "Ancestor",
+    "ethscription_id" : "0x604cbba1d3f1aa66102fa4e87524562479e7ea3f3bbc7a6bef1f2d007c218a1c",
+    "item_attributes" : [ ],
+    "description" : "by CFW",
+    "hash" : "032662f3682c19978bd3df1786a75da01a480d96c53db7c16e912cf709242fa6"
+  }, {
+    "id" : 5,
+    "name" : "Nox",
+    "ethscription_id" : "0x5743d32c77a1daf827be4427409cec3b625f14efeaf8fc3dba9a43a2196e7f32",
+    "item_attributes" : [ ],
+    "description" : "by CFW",
+    "hash" : "2cf97e423437690cbe61f048b34c27de9a69405adeee7be0d37751d9d14f3462"
+  }, {
+    "id" : 6,
+    "name" : "Drip",
+    "ethscription_id" : "0x52f3a3292c3a93848f6dea169977a8dc21ffa7696b5dc87e3a4bb518ea584cc5",
+    "item_attributes" : [ ],
+    "description" : "by CFW",
+    "hash" : "964be9ab71eefe7e6efa34a7063f5ae271e69c6927f3a934bfb8053c58894676"
+  }, {
+    "id" : 7,
+    "name" : "Mother",
+    "ethscription_id" : "0xb030f03e3291e1b0e633b641769283230f3c3c59306a18ee0ee06ac6b1a2719f",
+    "item_attributes" : [ ],
+    "description" : "by CFW",
+    "hash" : "8337dc29a01df431303eab3347a52f866849b8ce9f4368459235d03418810a45"
+  }, {
+    "id" : 8,
+    "name" : "pop",
+    "ethscription_id" : "0xb06bc0cd67b64045c1829164c023a3e5d3df9b281f392dc7c1bd4baa7a1f4cb0",
+    "item_attributes" : [ ],
+    "description" : "by CFW",
+    "hash" : "5cd680bc8ce9dc0e9090799e01ba1b38e4c17ecce7d5f99119c23836bfe11e38"
+  }, {
+    "id" : 9,
+    "name" : "Bep",
+    "ethscription_id" : "0x24dfcedf0507db6cbeea062e8812c28b9147315c3b13db4c09f0641286f26ce9",
+    "item_attributes" : [ ],
+    "description" : "CFW x Zack Ritchie",
+    "hash" : "2cee7abf7672d58786fbfec15437b7dd9657b91d8ba46bc3b3b569eb63e86764"
+  }, {
+    "id" : 10,
+    "name" : "Layout",
+    "ethscription_id" : "0x95879b56b4594468d722a66223d65783fde4f651e438e8ada6c57fef31c1730b",
+    "item_attributes" : [ ],
+    "description" : "CFW x Foxrockett",
+    "hash" : "185a4f0207db3e009a1e5d298d58bd465c7b0d6943d22a7714ee875f24134cbe"
+  }, {
+    "id" : 11,
+    "name" : "+BOI",
+    "ethscription_id" : "0x6efb5d731800b721de13261cf71c0f1b020ac45599ee1d98ee443648059cf7f0",
+    "item_attributes" : [ ],
+    "description" : "CFW x La+ch",
+    "hash" : "98953ace54e8aac0d152b0c5bfbcf2ea5f5dc7da8377a9f7a8b25baf6dd28aea"
+  }, {
+    "id" : 12,
+    "name" : "Normal",
+    "ethscription_id" : "0x74d2e95a318e86e52cf8efddfe60d85c0673176b4e3198ed0032a82cfb93b8d3",
+    "item_attributes" : [ ],
+    "description" : "CFW x Waxbones",
+    "hash" : "765a9721dd983fdcfd242eef61874ab14a9c4015f637899ce3cabbe8e47ba211"
+  }, {
+    "id" : 13,
+    "name" : "ROM",
+    "ethscription_id" : "0x596f9581e0e3ced02cbe13ee1155d7dd017f7db1b10fd8a8c94895082b2dccd1",
+    "item_attributes" : [ ],
+    "description" : "CFW x ROMbrandt",
+    "hash" : "bf7dcdef0aa86791c9d12f18cbd0f3d1fcda4be8ec185e7b0cd7bd06d404e604"
+  }, {
+    "id" : 14,
+    "name" : "Bloom",
+    "ethscription_id" : "0xd550629e89c798bd126d1bc0c57843f86403091652873df67e2c5d2c3799621b",
+    "item_attributes" : [ ],
+    "description" : "CFW x Liquid Density",
+    "hash" : "6b8f69423979def0407f6c2eacdb6cbb6dbbbacb97c450174a66bd6ea4f67985"
+  }, {
+    "id" : 15,
+    "name" : "Spacegirl",
+    "ethscription_id" : "0xe2803eb6bde0d5f48de07d420ca7dd2a0b7c30324e9bd1eb2589d67b462671ac",
+    "item_attributes" : [ ],
+    "description" : "CFW x Diela Maharanie",
+    "hash" : "ae585ef30315f11a98b7e09a67ed3d844447d1b834745fd5a61c04dae74f642f"
+  }, {
+    "id" : 16,
+    "name" : "Dreamer",
+    "ethscription_id" : "0x95ad34270dece6cf0730f34438ec08a5c96173263647029a5ed7708be4bb6811",
+    "item_attributes" : [ ],
+    "description" : "CFW x Tedslittledream",
+    "hash" : "b01d61882da630bb6be7d6849947f0a0a73719b1c0a79319a75c085a9690d761"
+  } ],
+  "hash" : "5d7d1e39b617b1497837b5a892fbec5d9717749daa88ba58cd9adf6d61d50cbb"
+}

@@ -16,29 +16,11 @@
       "trait_type" : "Type",
       "value" : "1/1"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
-      "trait_type" : "Headwear",
-      "value" : ""
-    }, {
       "trait_type" : "Face",
       "value" : "Undead Noun"
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "e539bbb45e39e1ede3d8c42e8520ac8a13c4e759b889f9527a45da5bf2d5f283"
+    "hash" : "b06c525797c9370d2210e565db7619f7f8bd6345d5a8ffb73e73d1604d1e1950"
   }, {
     "id" : 0,
     "name" : "Unpunk #2",
@@ -47,29 +29,11 @@
       "trait_type" : "Type",
       "value" : "1/1"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
-      "trait_type" : "Headwear",
-      "value" : ""
-    }, {
       "trait_type" : "Face",
       "value" : "Licked a Toadz"
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "2af7e8a2da0e8d03a55935cb79ffdd824421a01e3740bc776e03adc41a7d68e7"
+    "hash" : "d8699a8ee20b23563b9d36e4fd8f13fe6d8dc00d53f4d477a3592b9ba5cf1a27"
   }, {
     "id" : 0,
     "name" : "Unpunk #3",
@@ -78,29 +42,11 @@
       "trait_type" : "Type",
       "value" : "1/1"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
-      "trait_type" : "Headwear",
-      "value" : ""
-    }, {
       "trait_type" : "Face",
       "value" : "Ice Cold Larva"
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "457a985b2a8115dcefff1819220ff36b41601f237b7114029948ce8180e0bd2e"
+    "hash" : "b4128b64470347035c808ad062fb2e7ead82db129a283954a685082125475132"
   }, {
     "id" : 0,
     "name" : "Unpunk #4",
@@ -109,60 +55,30 @@
       "trait_type" : "Type",
       "value" : "Undead"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
       "trait_type" : "Headwear",
       "value" : "Hoodie Black"
     }, {
       "trait_type" : "Face",
       "value" : "Luxurious Beard"
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "e5b4062e0ecb97a0d226daa4e16010a53f888324257920e5b748ca25618f9e68"
+    "hash" : "0cfab5cbfbced2a24bc99f62a521bb9f3c2dbda45c40591a3f84a3c3f441cc97"
   }, {
     "id" : 0,
     "name" : "Unpunk #5",
     "ethscription_id" : "0xc69826a65e0b08943733c730b12186750343d23edd27e65e42301935c3ddf86f",
     "item_attributes" : [ {
-      "trait_type" : "Wight",
-      "value" : "1/1"
-    }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
+      "trait_type" : "Type",
+      "value" : "Wight"
     }, {
       "trait_type" : "Headwear",
       "value" : "Headphones"
     }, {
       "trait_type" : "Face",
       "value" : "Gum"
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "e9b00a7f5638699f65f853c91ca3439c46d57aa25f82ce35308ce89d88cdb9f4"
+    "hash" : "2f48f6d93dd889af78be2cd55d6a1dd6973ff1755416987e9707cd6fa6aeb81c"
   }, {
     "id" : 0,
     "name" : "Unpunk #6",
@@ -171,29 +87,14 @@
       "trait_type" : "Type",
       "value" : "Pyro"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
       "trait_type" : "Headwear",
       "value" : "Torch"
     }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
       "trait_type" : "Tops",
       "value" : "Blue Shirt"
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "a6c9fe853d24953d55a1b5b5a478cadced95fc6b00a29959566097267463f9a0"
+    "hash" : "efb8e8d2ee2b5784e8498bb5729ffcc7eef677ca00c8eef7a5e9f77ca4658328"
   }, {
     "id" : 0,
     "name" : "Unpunk #7",
@@ -202,20 +103,8 @@
       "trait_type" : "Type",
       "value" : "Undead"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
       "trait_type" : "Headwear",
       "value" : "Halo"
-    }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
     }, {
       "trait_type" : "Tops",
       "value" : "Green Shirt"
@@ -224,7 +113,7 @@
       "value" : "Gold Chain"
     } ],
     "description" : "",
-    "hash" : "aba11fddd2a306665b79c81dff5ea164c6b7b62431a9385758216918614f4497"
+    "hash" : "274cf7fb9aec56a0126fdebcd55446d1d2d61d2b59f9454a22aa647d41d2c302"
   }, {
     "id" : 0,
     "name" : "Unpunk #8",
@@ -234,28 +123,13 @@
       "value" : "Pyro"
     }, {
       "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
-      "trait_type" : "Headwear",
-      "value" : ""
-    }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
+      "value" : "VVR"
     }, {
       "trait_type" : "Tops",
       "value" : "Black Shirt"
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "6b7d63c45fa987ba28de1aa2b82063f52164d8c3728ac3e6591ccd1090e56919"
+    "hash" : "f23b255dee661e83bb9a2a99d53db10da28fd40c2b8b6af76ec825f3838a4bfb"
   }, {
     "id" : 0,
     "name" : "Unpunk #9",
@@ -264,29 +138,17 @@
       "trait_type" : "Type",
       "value" : "Pyro"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
       "trait_type" : "Hair",
       "value" : "Samurai"
-    }, {
-      "trait_type" : "Headwear",
-      "value" : ""
     }, {
       "trait_type" : "Face",
       "value" : "Magic Smoke"
     }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
       "trait_type" : "Tops",
       "value" : "Blue Shirt"
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "5e692300a4d6535a2391f2dcff3e04b12b1a7238d40310b49e12779f3dff9bd6"
+    "hash" : "a44b38a5a3e67c6c56757589e2f36f25f11a9c3c01c111f79fefa27d81328a15"
   }, {
     "id" : 0,
     "name" : "Unpunk #10",
@@ -295,29 +157,14 @@
       "trait_type" : "Type",
       "value" : "Wight"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
       "trait_type" : "Headwear",
       "value" : "Paper Boy"
     }, {
       "trait_type" : "Face",
       "value" : "Squiggle Jaw"
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "1bcc9507800f31ef57794589fe6cbe29f6d4bffcaecd3d007d4799b25cd16b89"
+    "hash" : "bdf91a7eeafcf0f83ec25502724567e2f994fa9f8d7c4d163adbc53e974a808f"
   }, {
     "id" : 0,
     "name" : "Unpunk #11",
@@ -328,27 +175,9 @@
     }, {
       "trait_type" : "Eyewear",
       "value" : "Nounish Red"
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
-      "trait_type" : "Headwear",
-      "value" : ""
-    }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "4648b488ae53d88e5fc432dab7e49c509a8f7b3e1f9c32e58e4eafde3635fe50"
+    "hash" : "9903cf9a3f50a820add487d93a16febd05e9a2acd05c00f665e640fb90a32cbd"
   }, {
     "id" : 0,
     "name" : "Unpunk #12",
@@ -357,29 +186,14 @@
       "trait_type" : "Type",
       "value" : "Undead"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
       "trait_type" : "Headwear",
       "value" : "Beanie Red"
     }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
       "trait_type" : "Tops",
       "value" : "Red Shirt"
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "d10aed0a232ed2d9ffc4dc550b741bbde749fd176dbc49658697036a13cf841e"
+    "hash" : "c4c57f06ddc5138407cca622db7f49c287c6823448eed2e614634d6b8f0ccfd5"
   }, {
     "id" : 0,
     "name" : "Unpunk #13",
@@ -388,29 +202,11 @@
       "trait_type" : "Type",
       "value" : "Pyro"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
       "trait_type" : "Headwear",
       "value" : "Hoodie Oddities"
-    }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "9a406256939fe2375c55590ce7a8d0090357fadc5ba1cdbbd2c76d2cec611261"
+    "hash" : "7e6d81912256b8f72b9ad59f4b10d5500be4b489ffd5f65b634816ca058879fc"
   }, {
     "id" : 0,
     "name" : "Unpunk #14",
@@ -419,29 +215,14 @@
       "trait_type" : "Type",
       "value" : "Pyro"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
       "trait_type" : "Headwear",
       "value" : "Beanie Black"
     }, {
       "trait_type" : "Face",
       "value" : "Bandana Black"
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "0cd6026c19c88d5ef6f70239c195d29c7f9dd1fc28509c16c08e59cf4c84f677"
+    "hash" : "a49ce45513274c867cbbd07dbb35e6dcfd12db9fbae53b3e1c9c8384f90a8cd9"
   }, {
     "id" : 0,
     "name" : "Unpunk #15",
@@ -449,15 +230,6 @@
     "item_attributes" : [ {
       "trait_type" : "Type",
       "value" : "Undead"
-    }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
-      "trait_type" : "Headwear",
-      "value" : ""
     }, {
       "trait_type" : "Face",
       "value" : "Infected"
@@ -467,12 +239,9 @@
     }, {
       "trait_type" : "Tops",
       "value" : "Black Shirt"
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "21ee3690a996da4f83ce9da8413d0892d7df93715f0fd5c07d64154430043789"
+    "hash" : "300e724da7909b5c0906a4bc598f2c1c3eef8906e763f8e0415dea944853b0e0"
   }, {
     "id" : 0,
     "name" : "Unpunk #16",
@@ -481,29 +250,14 @@
       "trait_type" : "Type",
       "value" : "Pyro"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
       "trait_type" : "Headwear",
       "value" : "Headband Green"
     }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
       "trait_type" : "Tops",
       "value" : "Green Shirt"
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "90ec2b0ec7bd744bc2dc958441a29fe1ec36e33b0a3ca4472ece1af891091212"
+    "hash" : "4ac540bcc474a16f95aaa5a8675575b5c5eec9e4535276ce3ce03b6fa43ab665"
   }, {
     "id" : 0,
     "name" : "Unpunk #17",
@@ -512,29 +266,11 @@
       "trait_type" : "Type",
       "value" : "Wight"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
-      "trait_type" : "Headwear",
-      "value" : ""
-    }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
       "trait_type" : "Eyes",
       "value" : "Nounish"
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "5309431f531ddedddd3649b0e667d0fcdee8893623c82ab40fe4e29d6cd2ec85"
+    "hash" : "5872f38bfb2b22f8f632dd86c3225e2c91fdba3365a73f396b0968798efdf55d"
   }, {
     "id" : 0,
     "name" : "Unpunk #18",
@@ -543,29 +279,11 @@
       "trait_type" : "Type",
       "value" : "Wight"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
       "trait_type" : "Headwear",
       "value" : "Hoodie Camo"
-    }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "5744c66a4188fe5abf71d0b25d7d3adf7ed2202deec8f8338e806043cfcfd404"
+    "hash" : "3e2b1afd6051b9af56b06041168d6c8b90dc27f859792fd0f03e01f56056e714"
   }, {
     "id" : 0,
     "name" : "Unpunk #19",
@@ -574,29 +292,14 @@
       "trait_type" : "Type",
       "value" : "Pyro"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
       "trait_type" : "Headwear",
       "value" : "Dad Cap Black"
     }, {
       "trait_type" : "Face",
       "value" : "Luxurious Beard"
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "ff29a4ffc394ccd107be7e93dc90635bedf058d501300dd7efcf84b83d2eb9cc"
+    "hash" : "c9074381997911f658eb5d23eb8d87370df4dd9481d36c1bf2d14497e06e456d"
   }, {
     "id" : 0,
     "name" : "Unpunk #20",
@@ -605,29 +308,14 @@
       "trait_type" : "Type",
       "value" : "Undead"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
       "trait_type" : "Hair",
       "value" : "Mo Red"
     }, {
-      "trait_type" : "Headwear",
-      "value" : ""
-    }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
       "trait_type" : "Tops",
       "value" : "Red Shirt"
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "a6372e0a1d7a4abd0c8e190f1ceb110fe7f9b626139b8c232424709283c423c8"
+    "hash" : "893ecadbcfc043b5a250be1eaa305cf3ac8b61c3f3fa0975815194615dc466cb"
   }, {
     "id" : 0,
     "name" : "Unpunk #21",
@@ -636,29 +324,11 @@
       "trait_type" : "Type",
       "value" : "Pyro"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
-      "trait_type" : "Headwear",
-      "value" : ""
-    }, {
       "trait_type" : "Face",
       "value" : "Kintsugi"
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "ba7bc30acceb009a3301b4e4fc48c255cb8fdfdd4dcba7928534987c57fe6447"
+    "hash" : "e25401ce2cd5698af958f010188140b505238a84f6a694905ff4d5bcca07f5f3"
   }, {
     "id" : 0,
     "name" : "Unpunk #22",
@@ -667,29 +337,14 @@
       "trait_type" : "Type",
       "value" : "Wight"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
       "trait_type" : "Headwear",
       "value" : "Hoodie Cool Blue"
-    }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
     }, {
       "trait_type" : "Bling",
       "value" : "Gold Chain"
     } ],
     "description" : "",
-    "hash" : "ba3bed13c8d053ebd1e183c8ca721e892e382065860cd10c1774982594b381c0"
+    "hash" : "f9ef2436c4128cab46d8639db00316f8d5317aeb87050be60594893ad87c30e0"
   }, {
     "id" : 0,
     "name" : "Unpunk #23",
@@ -698,29 +353,14 @@
       "trait_type" : "Type",
       "value" : "Undead"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
-      "trait_type" : "Headwear",
-      "value" : ""
-    }, {
       "trait_type" : "Face",
       "value" : "Magic Smoke"
     }, {
       "trait_type" : "Eyes",
       "value" : "God Mode"
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "8cddc4fd0fdb4d2af210d397e7aa3eb58f77bdad42834019dd23df1768706cdf"
+    "hash" : "e51685d07f646fa94c9bd13311276e795f7f4e2e3b687c5bc7166f396d1282d4"
   }, {
     "id" : 0,
     "name" : "Unpunk #24",
@@ -730,28 +370,16 @@
       "value" : "Pyro"
     }, {
       "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
-      "trait_type" : "Headwear",
-      "value" : ""
+      "value" : "Tough Guy Shades"
     }, {
       "trait_type" : "Face",
       "value" : "Aura"
     }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
       "trait_type" : "Tops",
       "value" : "Black Shirt"
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "087bbc13e4c67c5fe25fb0de2022a1fe15ed42706ebdcc7fe17985f4ad7054f7"
+    "hash" : "2230e6979e015d4ea895641d5e4b8f956e81fe3ab8625731f8cae86c8d49870d"
   }, {
     "id" : 0,
     "name" : "Unpunk #25",
@@ -766,23 +394,11 @@
       "trait_type" : "Hair",
       "value" : "Silver"
     }, {
-      "trait_type" : "Headwear",
-      "value" : ""
-    }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
       "trait_type" : "Tops",
       "value" : "Blue Shirt"
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "587d947cf8d67a7e3e0fca480802d7e480e88bf8eef3591eba08448c78ab737b"
+    "hash" : "91ed4cdf32a5cab0790d1a52b09d26360f7db49f2482a0856489bd5afea95181"
   }, {
     "id" : 0,
     "name" : "Unpunk #26",
@@ -791,29 +407,14 @@
       "trait_type" : "Type",
       "value" : "Undead"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
       "trait_type" : "Hair",
       "value" : "Punk"
     }, {
-      "trait_type" : "Headwear",
-      "value" : ""
-    }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
       "trait_type" : "Eyes",
       "value" : "Cyclops Green"
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "b40bc0f53ee23cc67fcf5ee9030aa59206801fee916cf574d40e8fea4fce5844"
+    "hash" : "a07c1f3a42d2386a9bddfd2eecb67b4cf69e4fc2c80948501d8664b2c270d207"
   }, {
     "id" : 0,
     "name" : "Unpunk #27",
@@ -823,28 +424,13 @@
       "value" : "Wight"
     }, {
       "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
-      "trait_type" : "Headwear",
-      "value" : ""
-    }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
+      "value" : "Blue Noggles"
     }, {
       "trait_type" : "Tops",
       "value" : "Blue Shirt"
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "a4413547c2f53cbe620558b0c4da9686b1c38a307b9af971819d8bb478a2ed5f"
+    "hash" : "397714f667078cfef7a8ec7cd5ff3fbc8a689cd1d99e6e406bf5f0966e841a87"
   }, {
     "id" : 0,
     "name" : "Unpunk #28",
@@ -858,24 +444,9 @@
     }, {
       "trait_type" : "Hair",
       "value" : "Wild Hair"
-    }, {
-      "trait_type" : "Headwear",
-      "value" : ""
-    }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "1da2ca6b9786f7b4dd3a82e4d679d487808537ef01a1012ea6c49170867eabfc"
+    "hash" : "07af1f5618af7d998147727b2041a01b2581da6ab2c99d3d22a6c06b47d40af7"
   }, {
     "id" : 0,
     "name" : "Unpunk #29",
@@ -886,27 +457,9 @@
     }, {
       "trait_type" : "Eyewear",
       "value" : "Blue Laser"
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
-      "trait_type" : "Headwear",
-      "value" : ""
-    }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "644647211a9cca779d8ee2bdd37559a258b70b942fccb6f2113080919fa6b449"
+    "hash" : "79f91b2a20db718f996aa8f46593a8bacf0876f7a153abbf980779ac082e24ce"
   }, {
     "id" : 0,
     "name" : "Unpunk #30",
@@ -915,29 +468,14 @@
       "trait_type" : "Type",
       "value" : "Undead"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
-      "trait_type" : "Headwear",
-      "value" : ""
-    }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
       "trait_type" : "Eyes",
       "value" : "Cross Eyed"
     }, {
       "trait_type" : "Tops",
       "value" : "Yellow Shirt"
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "5328a1ff86977b07d75785c887639b83f21b5f6dfaada4f630960d757f699d7e"
+    "hash" : "f4b05d8be7d37af1aa67e728a3e57f1ca1e1dac94a54f63b170c6df896d6209e"
   }, {
     "id" : 0,
     "name" : "Unpunk #31",
@@ -946,29 +484,11 @@
       "trait_type" : "Type",
       "value" : "Wight"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
       "trait_type" : "Headwear",
       "value" : "Hoodie X-Copy"
-    }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "616b1becd87033a452d82b43022ebab993c4ff9da4f084acdd22f7de4660b5fe"
+    "hash" : "9fc2a1021e7f5fc32944c56938874bd69851b53c4acb6818e66fe39f5449e63d"
   }, {
     "id" : 0,
     "name" : "Unpunk #32",
@@ -977,29 +497,14 @@
       "trait_type" : "Type",
       "value" : "Undead"
     }, {
-      "trait_type" : "Eyewear",
-      "value" : ""
-    }, {
-      "trait_type" : "Hair",
-      "value" : ""
-    }, {
       "trait_type" : "Headwear",
       "value" : "Army Cap"
     }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
       "trait_type" : "Eyes",
       "value" : "Nounish"
-    }, {
-      "trait_type" : "Tops",
-      "value" : ""
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "db4ac3bd1ca831af43458a30a9128ae265463d81192c386355bbdeae3c21e15f"
+    "hash" : "07b3fe1a78aeaf7cf0a83bc65f4d4a16e8e39cbb7f939a78dc7c386483fad178"
   }, {
     "id" : 0,
     "name" : "Unpunk #33",
@@ -1014,23 +519,11 @@
       "trait_type" : "Hair",
       "value" : "Quiff"
     }, {
-      "trait_type" : "Headwear",
-      "value" : ""
-    }, {
-      "trait_type" : "Face",
-      "value" : ""
-    }, {
-      "trait_type" : "Eyes",
-      "value" : ""
-    }, {
       "trait_type" : "Tops",
       "value" : "Black Shirt"
-    }, {
-      "trait_type" : "Bling",
-      "value" : ""
     } ],
     "description" : "",
-    "hash" : "de8e89b92c72a0b27dd378a8ce2f2fce3b77fdc951b23ced9e2cdde8238bba12"
+    "hash" : "c7ae496a5a7ac61f00891e430b39a046d31c11557c4f9372c2df98d74ac04c4a"
   } ],
-  "hash" : "95878b86c836eebbc1faeadfcd6b6886e2af14f53f4312351bccd869973ded1f"
+  "hash" : "d98f0b32cdff55a219f9f148fb893d2cd63105cf5e1ea33941de41dcdbe831eb"
 }

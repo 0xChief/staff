@@ -8,9 +8,8 @@ import org.springframework.web.client.RestTemplate
 
 fun main(args: Array<String>) = runBlocking<Unit> {
     val repository = CollectionRepository()
-    val rest = RestTemplate()
 
-    listOf("eth-punks")
+    listOf("eth-punks", "unpunks")
         .map { repository.get(it)!! }
         .map { it.collectionItems }
         .flatten()
@@ -20,7 +19,7 @@ fun main(args: Array<String>) = runBlocking<Unit> {
                 async {
                     while (true) {
                         try {
-                            rest.delete("https://api.ordex.ai/v0.1/items/ETHEREUM_ETHSCRIPTION:${it.ethscriptionId}/resetMeta")
+                            RestTemplate().delete("https://api.ordex.ai/v0.1/items/ETHEREUM_ETHSCRIPTION:${it.ethscriptionId}/resetMeta")
                             println("Updated for ${it.ethscriptionId}")
                             break
                         } catch (ex: Throwable) {
