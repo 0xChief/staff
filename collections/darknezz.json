@@ -10501,7 +10501,7 @@
   }, {
     "id" : 0,
     "name" : "darknezz #375",
-    "ethscription_id" : "0x3ebef368bed46c9839b2a298f26bf7c4e227eb3a38f592a520fbc4f479f779f4",
+    "ethscription_id" : "0x8a261fd388911ae45da74772acd10f325a381e802a741afad39741fb2c7394cc",
     "item_attributes" : [ {
       "trait_type" : "Background",
       "value" : "Red"
@@ -10522,11 +10522,11 @@
       "value" : "137"
     } ],
     "description" : "darknezz gonna darkest",
-    "hash" : "ada6c88d7f3a22aeab96ff0d6552cacb393e5a1fd3e38452dae694b5e97982d4"
+    "hash" : "4bd6f3630773aa2d1374fd901b127d0fad1764288f0ba3ab11d2cc32b2cf5db5"
   }, {
     "id" : 0,
     "name" : "darknezz #376",
-    "ethscription_id" : "0x0aabfd8ce239e1329ac71c369be504f4b3e04638eedd1ab7ecbcb6952838ebe1",
+    "ethscription_id" : "0x9a79d1ec10d2b7a3c43d9429fecc2bab16e84a4943e6d633d40b6a010f451ecf",
     "item_attributes" : [ {
       "trait_type" : "Background",
       "value" : "Gray"
@@ -10547,11 +10547,11 @@
       "value" : "532"
     } ],
     "description" : "darknezz gonna darkest",
-    "hash" : "45af414b3b263eb221072a509aef293b868213459d02215e16993c0447a862dd"
+    "hash" : "22b1271383e0d037af4c66f9772e9bc082786b77bd1dfa30bf22439a038b11c2"
   }, {
     "id" : 0,
     "name" : "darknezz #377",
-    "ethscription_id" : "0xd0b7ce2cf6595b8c0829b8dea8b039473d92c596943c1ac006de8ee6e3ddb125",
+    "ethscription_id" : "0xb2e3d081c0856e1bd343a8042c49681461ce68a80ff316e7fc7883d64e186339",
     "item_attributes" : [ {
       "trait_type" : "Background",
       "value" : "Red"
@@ -10578,7 +10578,7 @@
       "value" : "387"
     } ],
     "description" : "darknezz gonna darkest",
-    "hash" : "5759f21b4f866e66bb2f4d324a6112bfd283eee3c8b8da35849d7107f6e961b2"
+    "hash" : "79f783b67c5cf48a703ef844c6325f870d27ba67ae28b3a3ccad796d6992dc74"
   }, {
     "id" : 0,
     "name" : "darknezz #378",
@@ -15585,5 +15585,5 @@
     "description" : "darknezz gonna darkest",
     "hash" : "0234142f69c6fd7aa2a7b1c79426958384288bb739ec8de51b4168ac9a655b66"
   } ],
-  "hash" : "2ddfbdd869cad6e49bc786e31cab702457c5b9d68f8df91c6d283dff200efc08"
+  "hash" : "73706bb76209ce5aed0b3db889c69bcdb2aed6508c8f81457aca888a3023f47b"
 }
