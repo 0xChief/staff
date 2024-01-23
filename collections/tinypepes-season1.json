@@ -1,0 +1,651 @@
+{
+  "name" : "tiny pepes season 1",
+  "logo_image_uri" : "0xf2f3f1faa874173fe30712675722d3a15696f99907e738825cfce8613d337ed4",
+  "banner_image_uri" : "",
+  "total_supply" : 29,
+  "slug" : "tinypepes-season1",
+  "description" : "pepes but tiny. 29 unique 12x12 pixel perfect tiny pepes!",
+  "website_link" : "",
+  "twitter_link" : "https://x.com/basewtf",
+  "background_color" : "#4AA935",
+  "collection_items" : [ {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #1",
+    "ethscription_id" : "0x1a8c1521dda8b51fe0b2fafae205ecc3ffe64a722fe0305869d6145c7fecc937",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "outer space with earth"
+    }, {
+      "trait_type" : "type",
+      "value" : "zombie alien"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "direct"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "zombie"
+    } ],
+    "description" : "",
+    "hash" : "3bf60855e1f6cbe501e4fc4acf56e45586fae2790fd91c8d2d3135e9d23060c9"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #2",
+    "ethscription_id" : "0xa12bd88ddd72a45ec76a17d80a821c9226cf91f0d8c44cf79a82cd2bc4ad72f5",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "yellow"
+    }, {
+      "trait_type" : "type",
+      "value" : "pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "gaze right"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "regular"
+    } ],
+    "description" : "",
+    "hash" : "f9e527ba9c76b2704852c542107f5d1a8e27306d1094428f7d6330f2361ae83d"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #3",
+    "ethscription_id" : "0x95241799dc146d7f60c8c863ca3ce992a94d433c66c0f4e49e38ae7769e50a33",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "jungle"
+    }, {
+      "trait_type" : "type",
+      "value" : "ape pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "stare right"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "regular"
+    } ],
+    "description" : "",
+    "hash" : "0a8491afda86d1e149719517993e832a4ddf543e926101d0bd11ee45edbc01ce"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #4",
+    "ethscription_id" : "0x654cb5bbed960556afd45aa01f14803f28d3a9748fd39fe47b55854fb28dc58f",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "space with moon"
+    }, {
+      "trait_type" : "type",
+      "value" : "alien pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "direct"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "regular"
+    } ],
+    "description" : "",
+    "hash" : "755d1bf9f3c90ba7b5702027b1ec2bf752f3ddd47b358a3ee1e8f24635bbf13f"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #5",
+    "ethscription_id" : "0x0e9a1fedb0edc437a5c1e35c284b64bcf0808a4ee76bea77aaa845945adb92da",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "jungle"
+    }, {
+      "trait_type" : "type",
+      "value" : "zombie ape pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "direct"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "zombie"
+    } ],
+    "description" : "",
+    "hash" : "f71e696fa00777717eb0e7ba1ad9113766ac7ba6035c88876721dda36a594b99"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #6",
+    "ethscription_id" : "0xccdbcfcbf6da2029216a3730c4c9cdc0c3b288d213b1bb8c5c9a970fd5e33e95",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "yellow"
+    }, {
+      "trait_type" : "type",
+      "value" : "lady pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "gaze left"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "normal"
+    } ],
+    "description" : "",
+    "hash" : "2faff7d800d99d982bbe42551fec81a47e427ceab45d6c9d3349094a410c94ad"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #7",
+    "ethscription_id" : "0x17d4eb2d160f2be89882dd8c55d7c7caf3a85d39c643b3be61303b656e6b9505",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "space with moon"
+    }, {
+      "trait_type" : "type",
+      "value" : "alien pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "stare right"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "half open"
+    } ],
+    "description" : "",
+    "hash" : "807001086cf438bc99cb57848a5970d482a053277e15c5575f0cb96883b02a23"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #8",
+    "ethscription_id" : "0x3f5a16ff2f5894bfa5d71e8caa5a3d6542886e6f6f05d0093c585ea96e798404",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "space with earth"
+    }, {
+      "trait_type" : "type",
+      "value" : "zombie alien pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "gaze left"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "zombie"
+    } ],
+    "description" : "",
+    "hash" : "ed0dc874af36f935f36fc502f0d207acd5b019ee8c47bdfd7f8f51c8fffdcfda"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #9",
+    "ethscription_id" : "0xc755a40f19877424b64d2505c6ead97b5f42919e509ddff02e1cca10964f8faa",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "gray"
+    }, {
+      "trait_type" : "type",
+      "value" : "zombie pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "gaze right"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "zombie"
+    } ],
+    "description" : "",
+    "hash" : "f29c5df01c513be4171e5067ac0a35d26802a732b279cdb6371a566e9f725949"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #10",
+    "ethscription_id" : "0xa863c1d85ddc0b8b7c880998dcbe0756abc95348fe1e05ff0f39e56cdd2bc90a",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "yellow"
+    }, {
+      "trait_type" : "type",
+      "value" : "pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "gaze left"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "normal"
+    } ],
+    "description" : "",
+    "hash" : "6d0d1b365b5894211a46ae0ac7e689c1a6e2ad80909f5699efd0801710a4e6a4"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #11",
+    "ethscription_id" : "0xd755d87843b39b6d21b6a7789422b8ee4b81879103a4538e25dbcdbdfc9499a5",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "outer space"
+    }, {
+      "trait_type" : "type",
+      "value" : "alien pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "direct"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "normal"
+    } ],
+    "description" : "",
+    "hash" : "d16cc27acba4739e4a4dabcfe7568b5ea46293487d50842da7610b75c1847408"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #12",
+    "ethscription_id" : "0xcc0116ee5ade6439d147281b27ea17fcb63c66ad321c4f4e0e73de4d3daf0076",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "jungle"
+    }, {
+      "trait_type" : "type",
+      "value" : "ape pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "direct"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "normal"
+    } ],
+    "description" : "",
+    "hash" : "ebdf6143c88e6112606c6ae32df0aea3116643454271806b3960c4ccf90c0a3b"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #13",
+    "ethscription_id" : "0x264cb272f53a6d54acf7588708216dfb30a4f113a566938d615accc045efba91",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "gray"
+    }, {
+      "trait_type" : "type",
+      "value" : "zombie pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "gaze left"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "zombie"
+    } ],
+    "description" : "",
+    "hash" : "583aef9d072c4305eacfe0028e136f16e91ecaa2e1c791b0eb78dbc36f97414d"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #14",
+    "ethscription_id" : "0xecc12c300d042a826380de7b3fc24f04bd696c16c41e1a036975768785c29eaf",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "gray"
+    }, {
+      "trait_type" : "type",
+      "value" : "zombie pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "stare right"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "zombie"
+    } ],
+    "description" : "",
+    "hash" : "8c04a4c5b28c95fcff86bd09f2467754429ee6094fc6dc631ec514310dd34edf"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #15",
+    "ethscription_id" : "0xbe959712aabe9609f9b7de1446561f98ce068d3cd5d653bf9ffc80668aea2656",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "yellow"
+    }, {
+      "trait_type" : "type",
+      "value" : "pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "stare left"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "half open"
+    } ],
+    "description" : "",
+    "hash" : "18b171251b2f9769f5ac4505a62f8b4070eee7d985a6ab266b75dae67f7e653e"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #16",
+    "ethscription_id" : "0xf71b1b524be65337d9b8129103b68161ec3e6748f30a8b06840aa718e51dafdb",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "yellow"
+    }, {
+      "trait_type" : "type",
+      "value" : "lady pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "stare right"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "normal"
+    } ],
+    "description" : "",
+    "hash" : "2fc75fe8013241681b489bf0dca47d20dcfa874994122bbfd1f5ebe024f84b84"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #17",
+    "ethscription_id" : "0x9b82710a93c4a48b19c085b54b8e19f067964112503fc2a0402a3d543f56c030",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "yellow"
+    }, {
+      "trait_type" : "type",
+      "value" : "lady pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "direct"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "normal"
+    } ],
+    "description" : "",
+    "hash" : "c2cb6f656f7370faad35436706b0745b183be188d074d20c7d6336a99f5419a4"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #18",
+    "ethscription_id" : "0xf2f3f1faa874173fe30712675722d3a15696f99907e738825cfce8613d337ed4",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "yellow"
+    }, {
+      "trait_type" : "type",
+      "value" : "pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "direct"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "normal"
+    } ],
+    "description" : "",
+    "hash" : "2515ee112d1730e7a395b8b573941c5209acdca29b0403d82cc6b25c1583da2d"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #19",
+    "ethscription_id" : "0xd2d78a11b39030de952475c3de6752f0fecbf11acaf23564d6b79548d67e1211",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "yellow"
+    }, {
+      "trait_type" : "type",
+      "value" : "pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "none"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "3d glasses"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "normal"
+    } ],
+    "description" : "",
+    "hash" : "96a50f5327b64cae32d0914dd457d2a82080abd018d224af08a2d1f016ec22b9"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #20",
+    "ethscription_id" : "0x10e4d4bba70772736d930f46769f76e991f2bc037a9427fdb9b6bca77894d723",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "outer space with earth"
+    }, {
+      "trait_type" : "type",
+      "value" : "zombie alien pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "stare right"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "zombie"
+    } ],
+    "description" : "",
+    "hash" : "e6ab44a2073d9b444f2bc45384ce2e89addb6ca39be5c4660e7bdae5252f7ed3"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #21",
+    "ethscription_id" : "0xd6c53d033a21d516b9227e71af4cc8e7ac146f50b6b78076a89a3f1d82669266",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "white"
+    }, {
+      "trait_type" : "type",
+      "value" : "pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "direct"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "normal"
+    } ],
+    "description" : "",
+    "hash" : "ba9b8492b591e24a9d34fd7c97f7db4fa577a62acdc79bfb7c0889a6508ae918"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #22",
+    "ethscription_id" : "0xae4ae8aa995494997020f94d82c8c6c4c3464cd8b9f0a8406616215988f96693",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "yellow"
+    }, {
+      "trait_type" : "type",
+      "value" : "pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "stare left"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "normal"
+    } ],
+    "description" : "",
+    "hash" : "bc998b66a60d3720ce1c07cc60cb29bfb2a1bc9c6aa6fde4b29d852d8e448764"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #23",
+    "ethscription_id" : "0xd4a05575ece0412fc8838f47a6e60d8eba4560260680cbf999693078f62a1e11",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "yellow"
+    }, {
+      "trait_type" : "type",
+      "value" : "pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "stare right"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "half open"
+    } ],
+    "description" : "",
+    "hash" : "cc892bc718e5d7ed5c2d6ad68e2c07d3be3649124e610a2b5978c36c317321ff"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #24",
+    "ethscription_id" : "0xd0dc92cd8b12bd7cb92b29116debc64da886f01137b9e4b5b63db87f0b95cad7",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "yellow"
+    }, {
+      "trait_type" : "type",
+      "value" : "pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "stare right"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "normal"
+    } ],
+    "description" : "",
+    "hash" : "9aefa7c6aa22eb1d410a6cce341ed47bedd7ad535959b76a7fcc682bee82fe13"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #25",
+    "ethscription_id" : "0xe62e25b2ea71959b362069b45f5c14a33be8e04cba7e1061e1aa6e84fa29999f",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "outer space"
+    }, {
+      "trait_type" : "type",
+      "value" : "alien pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "gaze left"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "normal"
+    } ],
+    "description" : "",
+    "hash" : "d55b3885420d595143774f7d47a8aa3cc5c7ce4458bb574dc1e9504cf348a868"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #26",
+    "ethscription_id" : "0xcdf5747791414f7bb057a73cd36f88ec6c07719fa5668cf8d152fe9eec24f812",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "yellow"
+    }, {
+      "trait_type" : "type",
+      "value" : "pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "direct"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "half open"
+    } ],
+    "description" : "",
+    "hash" : "9dae8cd695f379dd4cfbf461bc149c4d7a8d27d0ead7b6d92ff99931ec5b47bb"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #27",
+    "ethscription_id" : "0x362a9fa4fb59c009ad3ce31ba4d44add7f54e9f94deac66191e1a3db5a446fe7",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "gray"
+    }, {
+      "trait_type" : "type",
+      "value" : "zombie pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "direct"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "zombie"
+    } ],
+    "description" : "",
+    "hash" : "ea1811c34bbc79a5c144daac7bb78c1d7e3164b2692eeccc32f44680e0616380"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #28",
+    "ethscription_id" : "0x5c11d6404581730f81123c4180f03900d4f863da679898d6681d49964ddc57f4",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "jungle"
+    }, {
+      "trait_type" : "type",
+      "value" : "zombie ape pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "stare left"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "zombie"
+    } ],
+    "description" : "",
+    "hash" : "f2792dd3f3b0e4b2edd8d0219b3664902323d50616284536f027d90fb0823075"
+  }, {
+    "id" : 0,
+    "name" : "tiny pepes series 1 #29",
+    "ethscription_id" : "0xa1b3a92ca46ffaadc0fb61372ccc031fa34eb3704ccc87253fd2fd16c91308c9",
+    "item_attributes" : [ {
+      "trait_type" : "background",
+      "value" : "gold"
+    }, {
+      "trait_type" : "type",
+      "value" : "hafftka honorary pepe"
+    }, {
+      "trait_type" : "eyes",
+      "value" : "direct"
+    }, {
+      "trait_type" : "eyewear",
+      "value" : "none"
+    }, {
+      "trait_type" : "mouth",
+      "value" : "normal"
+    } ],
+    "description" : "",
+    "hash" : "85af72b45b464a3fb041427f53cf662bbf21df2162dcfef36fa6d8b0ed02a289"
+  } ],
+  "hash" : "ea14e0baa73f853cb7731556856a283366285f2a3800ad5b8c805fd442000f3d"
+}
