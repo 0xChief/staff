@@ -1,6 +1,6 @@
 {
   "name" : "Artifact Cards",
-  "logo_image_uri" : "esc://ethscriptions/0x16909dab5a6cfe06e3c52f96a4792771bf457eee1479c5daf7f7add4e93bb8db/data",
+  "logo_image_uri" : "0x16909dab5a6cfe06e3c52f96a4792771bf457eee1479c5daf7f7add4e93bb8db",
   "banner_image_uri" : "",
   "total_supply" : 8888,
   "slug" : "artifact-cards",
