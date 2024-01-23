@@ -1,0 +1,749 @@
+{
+  "name" : "Artifact Cards",
+  "logo_image_uri" : "esc://ethscriptions/0x16909dab5a6cfe06e3c52f96a4792771bf457eee1479c5daf7f7add4e93bb8db/data",
+  "banner_image_uri" : "",
+  "total_supply" : 8888,
+  "slug" : "artifact-cards",
+  "description" : "Artifacts are collectible trading cards collection on Ethscriptions that bring the X timeline to life and provide a commentary of vibes built for the community by the community.",
+  "website_link" : "https://artifact.cards",
+  "twitter_link" : "https://twitter.com/ArtifactsOG69",
+  "background_color" : "#001",
+  "collection_items" : [ {
+    "id" : 1,
+    "name" : "Artifact Cards #1",
+    "ethscription_id" : "0x764d5d81152ac59e2e6d375e50686b74696cd8a5a33da21afe79e5d6c6a91c44",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Beemer"
+    }, {
+      "trait_type" : "supply",
+      "value" : "430"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "b53b91b2c316329e747798512a0ab10a9c2b24f5688bbb47b988631ebab63748"
+    } ],
+    "description" : null,
+    "hash" : "656cfd4b347948271cffa89667477322c71113854b796d69af36421cbcef59a3"
+  }, {
+    "id" : 2,
+    "name" : "Artifact Cards #2",
+    "ethscription_id" : "0xe2ea38093c06fe307116c519c59f092e700e0843297024eb169f21391c9eddb5",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Bitcoin Maxi"
+    }, {
+      "trait_type" : "supply",
+      "value" : "175"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "35102f474b35eff25c5fc45f0cdee6a77d9a5752e1a67b1d5d8b41349c741ace"
+    } ],
+    "description" : null,
+    "hash" : "84b27f59704958491d23fc2334787d04ddbd2614eba390879443d91af7739f6a"
+  }, {
+    "id" : 3,
+    "name" : "Artifact Cards #3",
+    "ethscription_id" : "0x01ddb26cf17dff48d30e96b44b917e19e445c68b951cec85e96ccc0e959c1c00",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Pleb Watch"
+    }, {
+      "trait_type" : "supply",
+      "value" : "505"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "e91bbbb60e5790f2ac67b6c927d722cc6b5b1d6007a3c0b93e9f4428888617b7"
+    } ],
+    "description" : null,
+    "hash" : "ad62e5d6da0fe0903f61e8e504d29291753ddda33c6fc0902206527ae3d3a12e"
+  }, {
+    "id" : 4,
+    "name" : "Artifact Cards #4",
+    "ethscription_id" : "0x779e8c7cc407adc94dc751976a255718f93ba497602b7ecb88c32b1f7264e781",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Al Tima"
+    }, {
+      "trait_type" : "supply",
+      "value" : "580"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "1f8faa52a63289440f886bb7278ba7a830c8fa8b7aa62edb137fcf638cf53c7a"
+    } ],
+    "description" : null,
+    "hash" : "665b14569f7c0ecf44529240d58a53ce119de79628064ef813e2b868ec49e649"
+  }, {
+    "id" : 5,
+    "name" : "Artifact Cards #5",
+    "ethscription_id" : "0x4fdddfa680a645646ed1dd2584ef2bced403a11bd53cb75f61fc32d4590bfb1b",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Satoshi Nakamoto"
+    }, {
+      "trait_type" : "supply",
+      "value" : "663"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "a6b864e7dc491406e20427fa4f3f4a5a2a1cdfe86660d67e0a442226e8e40bac"
+    } ],
+    "description" : null,
+    "hash" : "117cc8eaffd69fcd4a1a5d1d59fb03a0c5fc60a1801f46663b750ad480b7115d"
+  }, {
+    "id" : 6,
+    "name" : "Artifact Cards #6",
+    "ethscription_id" : "0x16909dab5a6cfe06e3c52f96a4792771bf457eee1479c5daf7f7add4e93bb8db",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Pepe Maxi"
+    }, {
+      "trait_type" : "supply",
+      "value" : "390"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "217c7fc26e4f2c7387204c6293326083e658153f265917c748cf49f3bcbc6f2f"
+    } ],
+    "description" : null,
+    "hash" : "9daaa92f67dcbd7765389facf236b1ca279700d73cf993ae3a867a8b9527bde3"
+  }, {
+    "id" : 7,
+    "name" : "Artifact Cards #7",
+    "ethscription_id" : "0x5279ad737c9570a238b3529a457092f8424b531118c095a173775d049d026e09",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Ruggie"
+    }, {
+      "trait_type" : "supply",
+      "value" : "130"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "3a72475f064d5eecbca96a854f0ee56016104dbd1a38bae0857392312e80a9cb"
+    } ],
+    "description" : null,
+    "hash" : "a0427723ce0c00a06fa2574870352bef869d5005259058cd4d8d76bb563c547f"
+  }, {
+    "id" : 8,
+    "name" : "Artifact Cards #8",
+    "ethscription_id" : "0x7d8d792c8f30c41fd33789c0bcb5a19b6c020c5273b4d24574ee5393c1a144d8",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Al Tima"
+    }, {
+      "trait_type" : "supply",
+      "value" : "580"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "06a69a4554ca2f9f3091e3a7d622c59e8d9a30ce96aa6bce833812f675190d1d"
+    } ],
+    "description" : null,
+    "hash" : "b675e831a7d0e70c040bb9590f9e63672864df9b8bb365ae4d340923aef8e3b7"
+  }, {
+    "id" : 9,
+    "name" : "Artifact Cards #9",
+    "ethscription_id" : "0x5db69fcce48b2f78d0c4b24c50f9174c2c3428eeda8e78443a7b3286879822b3",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Influencooor"
+    }, {
+      "trait_type" : "supply",
+      "value" : "160"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "411c8b4e33074ac2dc705cd61364867fc27df9bb2f67d0e28e2d88dc45055f20"
+    } ],
+    "description" : null,
+    "hash" : "a65690a5b5fe45525c663f3e5a3cb90255c31a83d4a187be0aa8cfba729cc725"
+  }, {
+    "id" : 10,
+    "name" : "Artifact Cards #10",
+    "ethscription_id" : "0x908cd43f75558531b832edda455b970bffc13378b79e3ebcc358afde3a68f5c8",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Ai Artist Bro"
+    }, {
+      "trait_type" : "supply",
+      "value" : "460"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "bffbe6849429ade6c6981665ab16e023bd1dae411abf39e88c66d52725fc5640"
+    } ],
+    "description" : null,
+    "hash" : "9be6c054e5486612f69d159f20bb7ab1b10b5064f751029100fb4995c9551f93"
+  }, {
+    "id" : 11,
+    "name" : "Artifact Cards #11",
+    "ethscription_id" : "0x17b9e2da17b0ab6f7c1f844a7b7f38071ed5fc949533411ad2ae0eda27ff597c",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Gatekeeper Bros"
+    }, {
+      "trait_type" : "supply",
+      "value" : "350"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "0b51814f79f2729864a245aaceea5241b0f42b251cddf3789f978f024d5b7e4f"
+    } ],
+    "description" : null,
+    "hash" : "1a78a0ae6d5b59d67f80f70d9cbe71c4d34a0df3947e7f87b7630fccc41a42e7"
+  }, {
+    "id" : 12,
+    "name" : "Artifact Cards #12",
+    "ethscription_id" : "0x38d3a9a91bca2d0d60345875e2f37a48a37c31789363c995dd36555f6142d64b",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Satoshi Nakamoto"
+    }, {
+      "trait_type" : "supply",
+      "value" : "663"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "b7faf3edd11f8c996f508b53f5f61e00c4a9f4210607489c4cb34930c439b5cb"
+    } ],
+    "description" : null,
+    "hash" : "27b3afb8c945ee6b0f8e5d53e008fb7fc9e445422fadb086efb2e429e72b94fc"
+  }, {
+    "id" : 13,
+    "name" : "Artifact Cards #13",
+    "ethscription_id" : "0xd60f63cfd8790e0e5c54197ce05525f1fc1f81364a366eefedd23fc76fcf2c32",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Ai Artist Bro"
+    }, {
+      "trait_type" : "supply",
+      "value" : "460"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "d51015f2d69680b15283508f148aa205473630e61cd3ba3753d5841dd30186be"
+    } ],
+    "description" : null,
+    "hash" : "0a6c25c1f1157cd2595280868ebce33a77d599633107b8c08ba93c82a6f94976"
+  }, {
+    "id" : 14,
+    "name" : "Artifact Cards #14",
+    "ethscription_id" : "0x1e290deffe4c3a6ffd0b18f71f8732140f8534df2719c0d2289db4f6bb97f974",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Al Tima"
+    }, {
+      "trait_type" : "supply",
+      "value" : "580"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "a20e0a84d8b8162ada2140d9efd9172aa2d8bd51180a964fb635314b3a3a5631"
+    } ],
+    "description" : null,
+    "hash" : "aa83002ad32df3f7e356cc65db6c4ed7710bfc0d4d07a28ea57849b74ea28f71"
+  }, {
+    "id" : 15,
+    "name" : "Artifact Cards #15",
+    "ethscription_id" : "0x171f6b1c7ee9709468c8a68fc80c1cbd1c5e14dff37484456182e54ecf70eefb",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Ev Bro"
+    }, {
+      "trait_type" : "supply",
+      "value" : "330"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "dfd3b4d2672de2f527f761a78c757052da0fd98310e667ab7a7ae929a84af34d"
+    } ],
+    "description" : null,
+    "hash" : "6dc4329a19fd13cde9b3ea4131105338dc26418a001cf38ed39e81fe7f187474"
+  }, {
+    "id" : 16,
+    "name" : "Artifact Cards #16",
+    "ethscription_id" : "0x4a301c2a85027cce7e80f75be2ef3ba6eb8fc8fb8302e1b7d9cce88135742e43",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Al Tima"
+    }, {
+      "trait_type" : "supply",
+      "value" : "580"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "a20e0a84d8b8162ada2140d9efd9172aa2d8bd51180a964fb635314b3a3a5631"
+    } ],
+    "description" : null,
+    "hash" : "7aa56b57cf29287790d5ff50d18b173a198bb00b14a1c7d5379d335542ebfd5a"
+  }, {
+    "id" : 17,
+    "name" : "Artifact Cards #17",
+    "ethscription_id" : "0x5ed8f1a24ef516beaa71c0b819e00456cb3de31462a317486b3f7f67b830acc6",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Satoshi Nakamoto"
+    }, {
+      "trait_type" : "supply",
+      "value" : "663"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "b7faf3edd11f8c996f508b53f5f61e00c4a9f4210607489c4cb34930c439b5cb"
+    } ],
+    "description" : null,
+    "hash" : "6fe264b055c909bc26159216d2eb24ca0cb356595645ebb78add25673afef7f2"
+  }, {
+    "id" : 18,
+    "name" : "Artifact Cards #18",
+    "ethscription_id" : "0x854f7ad60356f2e9d81788cd9728a5bda1ca8272024496c8a239e50c5d6598db",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Shitcoin Dev"
+    }, {
+      "trait_type" : "supply",
+      "value" : "640"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "804c13cba60eda0ffde775c3a60da50109c99be32ccfdd80c5f7788eb557b8de"
+    } ],
+    "description" : null,
+    "hash" : "29f537751144f27026f1d5ed882f120241c851487f27d08898f98495d4e71fc8"
+  }, {
+    "id" : 19,
+    "name" : "Artifact Cards #19",
+    "ethscription_id" : "0xcbb6ba1d2bfa2f42ebb0135d68a77fabb46e17d90e748ac056d13dc1ee9d5469",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Beemer"
+    }, {
+      "trait_type" : "supply",
+      "value" : "430"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "73e64e6dc367bfc54d545e0db91e02f4d50b3ac2755e5013fa9cc1c2d4710db1"
+    } ],
+    "description" : null,
+    "hash" : "95bc511e11235686d94e7603fffb6c100d21c9171b427f30db717b15808844cf"
+  }, {
+    "id" : 20,
+    "name" : "Artifact Cards #20",
+    "ethscription_id" : "0x6745635c384315edebd4fc50a00e0be5af8ea78da6fd8be61a8656f0bda7e06c",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Satoshi Nakamoto"
+    }, {
+      "trait_type" : "supply",
+      "value" : "663"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "b7faf3edd11f8c996f508b53f5f61e00c4a9f4210607489c4cb34930c439b5cb"
+    } ],
+    "description" : null,
+    "hash" : "1ce762978b9322cc42d060e79422ccb378851ede331aa1f6e12c2d65a02441ab"
+  }, {
+    "id" : 21,
+    "name" : "Artifact Cards #21",
+    "ethscription_id" : "0xeae9c2844417e2064cd15332befcc2328b9280a9a3696151d69bf6f2403fc096",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Satoshi Nakamoto"
+    }, {
+      "trait_type" : "supply",
+      "value" : "663"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "b7faf3edd11f8c996f508b53f5f61e00c4a9f4210607489c4cb34930c439b5cb"
+    } ],
+    "description" : null,
+    "hash" : "f849faa260012e505eefeb736859a1fd6f35a08f41280e4f9eb91af6ced7f705"
+  }, {
+    "id" : 22,
+    "name" : "Artifact Cards #22",
+    "ethscription_id" : "0xe3b06cda327e693eb7e8cdf8a00b15b45319e37eb76a5f3f36433e4532c31ce0",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Influencooor"
+    }, {
+      "trait_type" : "supply",
+      "value" : "160"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "b62cd2953fad0a586a9be53087be57ce8df436df335ab973b8a84ef7e0a34710"
+    } ],
+    "description" : null,
+    "hash" : "e9512728eae309c1aecb433d5a1b1506683fc1ffefd5cee7ae6e22ed7a49ab4c"
+  }, {
+    "id" : 23,
+    "name" : "Artifact Cards #23",
+    "ethscription_id" : "0x4f5656b54080857721f57a4b23a362d907f7d3f86996e15d8c3744473f631675",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Moms Basement"
+    }, {
+      "trait_type" : "supply",
+      "value" : "540"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "865010c32c9324dcf920c3dd0868db8c00e9a914f4a31667717dbff52eb63e35"
+    } ],
+    "description" : null,
+    "hash" : "d5c22009bb03ff8f1f17b3f42fb7b1f9be76edb27298e7ce00e04c9abbe57a13"
+  }, {
+    "id" : 24,
+    "name" : "Artifact Cards #24",
+    "ethscription_id" : "0xec0cbcf685836e35096e7a3ec8495b4fe21827e6bf53770a8e3d7f480b674646",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Gold Bros"
+    }, {
+      "trait_type" : "supply",
+      "value" : "220"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "849014a4907c9df7c42d75db6f29fb893c9d122133302643a0df109b14d608ce"
+    } ],
+    "description" : null,
+    "hash" : "59a4c43372f9dc74f53c878a7aa2656192af5d3f5b1633df5011e6a909b27a80"
+  }, {
+    "id" : 25,
+    "name" : "Artifact Cards #25",
+    "ethscription_id" : "0x9c75dbcdf6ea0126913065152722d8d6c2ac785150b1907e0163003a7ab31b24",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Pleb Watch"
+    }, {
+      "trait_type" : "supply",
+      "value" : "505"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "c55cc87677b2d4116f6e001b371c0e6c13a3e3053789a3f6ad2179cbee51dc3e"
+    } ],
+    "description" : null,
+    "hash" : "562b8eb25c5fd380c9ff87ef62dbd5c6ac8395bc4aa17a1cdc6657e273c86ccd"
+  }, {
+    "id" : 26,
+    "name" : "Artifact Cards #26",
+    "ethscription_id" : "0x0f44942cf48253b3764d5d75cc1d11acecc2a4b1ee56c84566d08cd259fb67c6",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Reply Bro"
+    }, {
+      "trait_type" : "supply",
+      "value" : "250"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "9b8847cb08f5fb1c5a059e44167a2bb4e5f2831f2dd0ee0414c16c5755e84c46"
+    } ],
+    "description" : null,
+    "hash" : "0d58a3d3ff1f0eeceede015337d3e85626f766e6f27aabc46db1b6fc9aa83843"
+  }, {
+    "id" : 27,
+    "name" : "Artifact Cards #27",
+    "ethscription_id" : "0xc7f82217d84f919c2b77047eb6c3dc2caeb37bd00bed61c698f704e0b2c628f3",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Satoshi Nakamoto"
+    }, {
+      "trait_type" : "supply",
+      "value" : "663"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "b7faf3edd11f8c996f508b53f5f61e00c4a9f4210607489c4cb34930c439b5cb"
+    } ],
+    "description" : null,
+    "hash" : "1558f2b0fd06982df581dc53b040799abb73e7468eaccb05f5b0e5a35718187c"
+  }, {
+    "id" : 28,
+    "name" : "Artifact Cards #28",
+    "ethscription_id" : "0xc55fb6cbd60b69e320e783a62fc7fc9b241dcfdbb30815751c651453def8a0fb",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Eth Maxi"
+    }, {
+      "trait_type" : "supply",
+      "value" : "190"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "21ba52db3babf3eb1a12b0518fbde81919d6e3cb45c37ab8d683e782dea122aa"
+    } ],
+    "description" : null,
+    "hash" : "4777993b2e637f238716ae831b9f516cd23c420a1bdbc9927dc2b87a98635e57"
+  }, {
+    "id" : 29,
+    "name" : "Artifact Cards #29",
+    "ethscription_id" : "0x3108623345131ff7cfa9b047ccac99846a0a25fcf4c5ddfe34ce8bda54ba20e4",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Al Tima"
+    }, {
+      "trait_type" : "supply",
+      "value" : "580"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "a20e0a84d8b8162ada2140d9efd9172aa2d8bd51180a964fb635314b3a3a5631"
+    } ],
+    "description" : null,
+    "hash" : "f1ea5f152ee9a23123a2d3add11928bc1e721696eb322725d104f52325b88458"
+  }, {
+    "id" : 30,
+    "name" : "Artifact Cards #30",
+    "ethscription_id" : "0xad5e51a5649b3d7cfc621f27e57da4b03cdfd0154663d25698a8c93eafafb4ee",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Al Tima"
+    }, {
+      "trait_type" : "supply",
+      "value" : "580"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "a20e0a84d8b8162ada2140d9efd9172aa2d8bd51180a964fb635314b3a3a5631"
+    } ],
+    "description" : null,
+    "hash" : "835e1d83db419345be99232d791ed30d1dc5ca95c1a9f871379843aa52cfb9d5"
+  }, {
+    "id" : 31,
+    "name" : "Artifact Cards #31",
+    "ethscription_id" : "0x87c92ee44eeb9ee4fda4acc2cb92c7b0938625309a91b81afb7ce0301ba305e9",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Cabal Bros"
+    }, {
+      "trait_type" : "supply",
+      "value" : "310"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "2073c6fe1f7d2f949b3785ff98127aa072f1e02c845f5e0f7d4b46e41218f3e3"
+    } ],
+    "description" : null,
+    "hash" : "d844150d54ea583321372a4d27a4eeab5e94989533e015ab615ee68d608a8dc0"
+  }, {
+    "id" : 32,
+    "name" : "Artifact Cards #32",
+    "ethscription_id" : "0xadf5a93a8386d856e080f7a5a06339c0ade657deef9fb3f3dadef79fc9198130",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Shitcoin Dev"
+    }, {
+      "trait_type" : "supply",
+      "value" : "640"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "804c13cba60eda0ffde775c3a60da50109c99be32ccfdd80c5f7788eb557b8de"
+    } ],
+    "description" : null,
+    "hash" : "b8543dbce6966e5420a48a7c93136a472ed71d0c52dd4278b7542b1f43575611"
+  }, {
+    "id" : 33,
+    "name" : "Artifact Cards #33",
+    "ethscription_id" : "0x4031c8b4dfdbae484a8296709c291a1c42f88bcad88102d95183c162af5bd528",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Al Tima"
+    }, {
+      "trait_type" : "supply",
+      "value" : "580"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "a20e0a84d8b8162ada2140d9efd9172aa2d8bd51180a964fb635314b3a3a5631"
+    } ],
+    "description" : null,
+    "hash" : "f78b76522d8b7438f4a27cca921a42703602ce9aca36af4685996cbad8a9c52c"
+  }, {
+    "id" : 34,
+    "name" : "Artifact Cards #34",
+    "ethscription_id" : "0xdc5295b1aa3b0783ff26c46df840e5d3a3013df7e023af237d069891aa29346b",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Pleb Watch"
+    }, {
+      "trait_type" : "supply",
+      "value" : "505"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "c55cc87677b2d4116f6e001b371c0e6c13a3e3053789a3f6ad2179cbee51dc3e"
+    } ],
+    "description" : null,
+    "hash" : "4c2d653fae84c4275399f523b5fa3407d34bc42d197a416919c3a02131bb0575"
+  }, {
+    "id" : 35,
+    "name" : "Artifact Cards #35",
+    "ethscription_id" : "0xdd200bfca5d5281965793ed5befbd4b7c04c65daf0f2dd138736291723ab2439",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Ai Artist Bro"
+    }, {
+      "trait_type" : "supply",
+      "value" : "460"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "d51015f2d69680b15283508f148aa205473630e61cd3ba3753d5841dd30186be"
+    } ],
+    "description" : null,
+    "hash" : "64e46bac6617a809926e7aa74a095fca563c7e29c2a89b361e0b4dc600026557"
+  }, {
+    "id" : 36,
+    "name" : "Artifact Cards #36",
+    "ethscription_id" : "0x26d86fcd88ee525aa8d04cc3ce12c21bce65451bf790626ceee9713ae871fad8",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Bitcoin Maxi"
+    }, {
+      "trait_type" : "supply",
+      "value" : "175"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "a931275f173f7ae91fb1a87aac7e36f8f19a58c84c6e9cc3b34b242c2084ef48"
+    } ],
+    "description" : null,
+    "hash" : "3c73162571d2c6dbdc04879b245d9a9d674e67afb0846ef378867905a28ed2d5"
+  }, {
+    "id" : 37,
+    "name" : "Artifact Cards #37",
+    "ethscription_id" : "0xce913e613c1de3bdad00faf6862a8f102ba51147a2b44121213c9b6e528ee235",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Cabal Bros"
+    }, {
+      "trait_type" : "supply",
+      "value" : "310"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "2073c6fe1f7d2f949b3785ff98127aa072f1e02c845f5e0f7d4b46e41218f3e3"
+    } ],
+    "description" : null,
+    "hash" : "1eccb4ee1334eaad31460d4faecd7d272a1fa32af9be10bfb785c7e597ca2da3"
+  }, {
+    "id" : 38,
+    "name" : "Artifact Cards #38",
+    "ethscription_id" : "0x7c5d35bbdd5acca5eb05337e384bf5a17a4e5f9b81616417263f8cfbf6a1699f",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Al Tima"
+    }, {
+      "trait_type" : "supply",
+      "value" : "580"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "a20e0a84d8b8162ada2140d9efd9172aa2d8bd51180a964fb635314b3a3a5631"
+    } ],
+    "description" : null,
+    "hash" : "fa27801ddb8d221874ac397e2ee83a59afc1e647c20009f563d3ff8bbdf2ffd5"
+  }, {
+    "id" : 39,
+    "name" : "Artifact Cards #39",
+    "ethscription_id" : "0x89523edebbfefb17718923d749eb700c98a17e3178281edc5c022fbaf693c303",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Pleb Watch"
+    }, {
+      "trait_type" : "supply",
+      "value" : "505"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "c55cc87677b2d4116f6e001b371c0e6c13a3e3053789a3f6ad2179cbee51dc3e"
+    } ],
+    "description" : null,
+    "hash" : "323f25cdf6c03d367f1cfeb3f1cc75d4fda53f3f883ed2df4260fdcb7c417496"
+  }, {
+    "id" : 40,
+    "name" : "Artifact Cards #40",
+    "ethscription_id" : "0xda3bce3e1a3d9a96fd57f4e9cf9f807fd705694de03c8226ecb79bb72a716cf8",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Satoshi Nakamoto"
+    }, {
+      "trait_type" : "supply",
+      "value" : "663"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "b7faf3edd11f8c996f508b53f5f61e00c4a9f4210607489c4cb34930c439b5cb"
+    } ],
+    "description" : null,
+    "hash" : "4c2ee5c5ed9305f8a94479e2df1268714d0b02af1ddb04d856235aca9189dcd3"
+  }, {
+    "id" : 41,
+    "name" : "Artifact Cards #41",
+    "ethscription_id" : "0xaeeeaa34ca58e4cc3815efaa13483510172bd73951214a0af1ddf396bc31ba90",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Satoshi Nakamoto"
+    }, {
+      "trait_type" : "supply",
+      "value" : "663"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "b7faf3edd11f8c996f508b53f5f61e00c4a9f4210607489c4cb34930c439b5cb"
+    } ],
+    "description" : null,
+    "hash" : "d68c6bbdf771c30a80d7037e899702528a5492a8c972b71ec84dba2a2aba5673"
+  }, {
+    "id" : 42,
+    "name" : "Artifact Cards #42",
+    "ethscription_id" : "0xba44541604426c273f640cca805a0448b375519adc5e243f01f6d73fa01ad587",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Studio Apartment"
+    }, {
+      "trait_type" : "supply",
+      "value" : "270"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "0cffaeab91678f47e9cf1b075001654b6ca39f7c3e17c7d05cdb8e4d7112a049"
+    } ],
+    "description" : null,
+    "hash" : "e90e7d98cadf3429c06ed5032774219477df2af0028f41505894d2ba6acc30cc"
+  }, {
+    "id" : 43,
+    "name" : "Artifact Cards #43",
+    "ethscription_id" : "0x2087bfab0b68e5447d14f8e82931570c65ef21e4dcf64445988cee74d87a96dc",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Battlestation Bros"
+    }, {
+      "trait_type" : "supply",
+      "value" : "290"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "72df4610e246c49bc7f96d6be6d985706ca2886796ff8fc3846d1fb1482d8912"
+    } ],
+    "description" : null,
+    "hash" : "82537dd047ecb0a58e00ca0001e6adf75807336e6ef50ca27cc08bc68f2354a9"
+  }, {
+    "id" : 44,
+    "name" : "Artifact Cards #44",
+    "ethscription_id" : "0x97230ae7ce9de7f53a361e344e3f12441fd7bb6c807b55ab0d6b6a2ae4d2902c",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Beemer"
+    }, {
+      "trait_type" : "supply",
+      "value" : "430"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "73e64e6dc367bfc54d545e0db91e02f4d50b3ac2755e5013fa9cc1c2d4710db1"
+    } ],
+    "description" : null,
+    "hash" : "5656c3c22fb5badc58d5b5c14994481b365db56683e6a9c7c47dbba34ffe534a"
+  }, {
+    "id" : 45,
+    "name" : "Artifact Cards #45",
+    "ethscription_id" : "0x87c2d995b14d62ef979b0a4cbe04528609c90479efe48da7706274ee370055c0",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Ruggie"
+    }, {
+      "trait_type" : "supply",
+      "value" : "130"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "3ca7626b5e5ab8bc574540f5713302c40b462d7219d624c6eaa3b90bb46bda86"
+    } ],
+    "description" : null,
+    "hash" : "70155570b35f25c6e3132769cb1fc11ab4123bbc591f31ee7d27f8e0a9cbb4c3"
+  }, {
+    "id" : 46,
+    "name" : "Artifact Cards #46",
+    "ethscription_id" : "0x016d04e4db1f0b3d2badd4d47cf4352ca0ced95b0b1ed90ae8578b13a2c3c37b",
+    "item_attributes" : [ {
+      "trait_type" : "card",
+      "value" : "Spaces Host"
+    }, {
+      "trait_type" : "supply",
+      "value" : "115"
+    }, {
+      "trait_type" : "sha256",
+      "value" : "742d5eb71b20478f46924fc582d8ae620d2c4b0205c8d51d01dd02e140d0cbf3"
+    } ],
+    "description" : null,
+    "hash" : "bc69d858f00e595105b6f4785e7c6a1d9eee36c54913e9d69647ee10cf45f3a0"
+  } ],
+  "hash" : "f48d4f6abd9d08919bc99a2570ab9f5257ecdc845d24bb5640cc6eaf9a4fdd09"
+}
