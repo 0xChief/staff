@@ -1,0 +1,623 @@
+{
+  "name" : "SHPunks",
+  "logo_image_uri" : "https://media.discordapp.net/attachments/1199702783398531073/1199705844393185352/Collection-Image.png?ex=65c38422&is=65b10f22&hm=ef6b316569e26944cdb48d23549e61f2eb04fc8821297fc3d7d4afff66307080&=&format=webp&quality=lossless&width=960&height=960",
+  "banner_image_uri" : "",
+  "total_supply" : 61,
+  "slug" : "shpunks",
+  "description" : "Fully on-chain via Ethscriptions custom made SHPunks. What does SH stands for? Strange History, Super Heroes, Super Hyped, you name it!",
+  "website_link" : "",
+  "twitter_link" : "",
+  "background_color" : "",
+  "collection_items" : [ {
+    "id" : 0,
+    "name" : "SHPunk #1",
+    "ethscription_id" : "0x0e2facae6ca29dd221a633acbce5533ad7714b3a9e1bf86e258469d42e9147be",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Ren"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "bf9c0ce76fdf51eedba04737e1b7b83c586533f83139a1181cc2ccb94928de7f"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #2",
+    "ethscription_id" : "0x36e84b49132ac3d090be05985c1b2bff22fdba307a95843c8d0c0ee77bf95b6a",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Historic_Crypto"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "ce8fbafbe2c7d4e218a3d321acec09dc2e7ab142eab5ba049c90f4f9a95fe35d"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #3",
+    "ethscription_id" : "0x1bcee172772c232dc02ed0872d8cdf15bef902e8f64bc879e66128e0ef770331",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "BLAC"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "8ece3720e8e6b6b7a68d2920b2c8fe8a6c90ead352fd9e511221f569a069a76c"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #4",
+    "ethscription_id" : "0x5d9b2b4b85ce79e1c3d0c1015ef659c85fd705cc434bfd77f77d764f0e6562e2",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Pixlosopher"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "f11a759746ee9a308801bf92166890b9467e6e490ae45854fd465db1e23ae093"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #5",
+    "ethscription_id" : "0x60b21d3bc30111da70d75aa9d32383d4eb1e3e353009d0b6bf40af8309578a57",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "DocT"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "5fdf07ff24ab5072a2df6afd82fe8fc9910b24b80f397ca32c7e3617a4dbf70b"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #6",
+    "ethscription_id" : "0x7e4e22c17fde72a8101b18505ac5cc7df8667a2917e5e5603764276fd87de559",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Nuclear Samurai"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "ed0d319ed0b430012caf4f40a962b9c92f5275de7522796ce72becea7d259437"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #7",
+    "ethscription_id" : "0x170c4d0a8024ee072b9b7b2f10a351050f62e8659a63df0c7e5571dd17f719a5",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Rebel Without Applause"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "88c70888f2a114171c147fe830840523d5d90341bcbeaf5914786d89519003a8"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #8",
+    "ethscription_id" : "0x96a5b7d49cb40ba3985106f176503f784356d48f676779f6fb025c19da949872",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Le Moon"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "ffd54afad391ec30efdbd550c8438232b35bca466b29b1e2a41d47645282b4a6"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #9",
+    "ethscription_id" : "0xaeceea09473944bfaeb3b0d1034d6335a1d8a91a57dc0da0da253cdb549dd4fd",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Moonlightmedia"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "db3b12480c7760e4c722331f16308dd02e61727c39d10cb8cccd09fc0dd46792"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #10",
+    "ethscription_id" : "0x65586096bc4f7cd9873a45c78dd6b8ebd872b5da8a6eb21a76e6db41be63ef98",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Glass Crown"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "64a0da72f0cbedeac640480620634e5c7b2ad1034c3669e7b6b2e180694757b9"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #11",
+    "ethscription_id" : "0x569254ee0f4910a78f627b8d77ac7d67b1eba29efa9918633ff7f6ac390d7a4b",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "eirrann"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "fd302ddd5c683e07b607dd5c1e1a9151d40c0b7197a84494d20f11008ce69f74"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #12",
+    "ethscription_id" : "0x1b6cfe5356ba2fc1905edd976fa72ded39a8b81a951bfbf8ed57fc757d072b31",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Dreaming Tulpa"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "47131afa8261a4b8b8da40ef63eb2af7278087874c79540598605cb9c3c44f8e"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #13",
+    "ethscription_id" : "0x2d84042f600b471396a38dfe7f0105902332af72281dfba4938f5644ad02f520",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Sam.AI.Am"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "e275f10f273a10b25e32dcd231bb110c74ac684828376c8aec15114f67985447"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #14",
+    "ethscription_id" : "0x0f191dae02d7ee6b8edfc5ab83da53f96b036086558e1e2014274a68d0b1ac25",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Reggie089"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "e19338abedec1354929188bb3e75af154a1f83d1f727ef4d25d3c3a867a2bde3"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #15",
+    "ethscription_id" : "0xef4bdd2dc2a816a529adb2e7f2207ab0f1c9d83b832a3ea08b08c53623776fa8",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "illustrata"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "da8ff4d340af43d482f4456ac302dbef2046d5e51919be1eab1fd6a74f63f034"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #16",
+    "ethscription_id" : "0x1ce94b91310890c1a80941fb129eda7bb49fedb56175a1ee3b4efad681c15c67",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Merve"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "cc0d6761e5e4202ac088767b00ecdf89b52dcb60506b0c440c7888e61adadfe6"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #17",
+    "ethscription_id" : "0x5eef99d0a937792637b63b9f19cdc3ef02caa088e0c3d7fa100a5d523cd60540",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "KEZIAI"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "c975c50779bdc6a9836198be7fa4827226230ef27c612e8c10033b070a823a26"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #18",
+    "ethscription_id" : "0x741e1da1691654b481984536782bf771af29310fe92fcc83b025854d437e54ec",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Rocketgirl"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "3dc9dfe0330cf7873eea6f8833b92ecc3a81f92b14c53fc2f40f279d67050cec"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #19",
+    "ethscription_id" : "0x42fd38bf1feed1aa62d134a4eddccbb10a8255f5aa0bdbfc0d1a02ef6d493a3c",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Hakan Biyiklioglu"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "5aea995a1dd7f9535c92ac8a6140b99c3efc1a49851cdb782e64c0cd81b73f89"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #20",
+    "ethscription_id" : "0x49d17ceb16a2f6e9ead4e774fe71a5c9f0bf3e4016653310dc38e7718f6d398f",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Tossi"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "c2d83f5525d9cb036a4548ed770d1ce7856f1edc7dbf41f2a9a047d8abe27000"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #21",
+    "ethscription_id" : "0x44d9037fa15616dde41bb00438155ee7a3a7896db2d7770877a7e0274622f8f1",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "AI Mutant"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "ac4b6aa52b572bd4daa6c5f61198e4a573549a251d6386064f7e1771e1bc9ef3"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #22",
+    "ethscription_id" : "0x13734d4a410ca903f7590382fe7e09f557bcab521282d1b9aff73dc257de95e9",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Andy Schwetz"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "27d45b73212ff94c3b8307c465451c0113216a9408b4eaa466c68117788cce12"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #23",
+    "ethscription_id" : "0x2e2d436b42d60bce003b3664c98dcd684fe73c621a94c4e8ae9728294b876543",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "mamaralic"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "d6ddd06cffb550054451c0401d472e61bcfc8814971bcee98f73cab9f1e53bc6"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #24",
+    "ethscription_id" : "0x83799e34afe8599d06383d93764e458e6bc63800b51cae4314ab23652688ebc5",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Metatrone"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "31535e137db5277fde37373c34a2f18e63025d00f7b9be222bfef657583f7da1"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #25",
+    "ethscription_id" : "0x9ad032f7ff137e228852c30189670b25d6a3169f3e816c00217da358bd6f4c4e",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Pax Roman"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "cdcc9e53f39344070697c6e2dbae8952b89cbff3c4b7095873e3f9d1ff775612"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #26",
+    "ethscription_id" : "0x58b95156a11ae48b6bd1a1d5e8f416f85972d25570734967e2bc9db2d0ada01c",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Leafswan"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "c50a5d0fac55f35e5a863acd5ada55175cb15740473ec34c0b4136a215536cf9"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #27",
+    "ethscription_id" : "0xaadef68f43ffffada1fe9213062a11db5a29c88c129289f395e35633f55d4b68",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Aerox-X"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "e77f605ba6fdaee5881e49badde73e789e04da5836cdb0316a3b322b09561c73"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #28",
+    "ethscription_id" : "0x0b5d5870f9c5a620f43647e71beafef54f6e74db797dee23c788f53b539158cf",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Ender"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "e8d6ee8a428197250a1b47b6737c1a5e136891a70313a34c0cb107931895a9e6"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #29",
+    "ethscription_id" : "0x5a37d3d7664fa471280f8b2e18aa37bd941e141d93548287008387ec52e71e26",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Rikkar"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "aec58a59422cd70ad6d4dc122904382e23e00debead24ae8b75cc00095c48912"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #30",
+    "ethscription_id" : "0xf1b1da23651ca2f31fbc45f0c988220d956b98e6826c7728e6d986edda021e94",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "AInigma"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "be7ebc060a0b9b78531682fb65cb15b711a72c69243c606ba709523feb127c66"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #31",
+    "ethscription_id" : "0xe0187b167157c8da48420773e4cc2d3062d2bd83f572f9d1a9b8e19a7c19ac22",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Miss MacD"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "71513ccac7b243d555f3124b85468a5771dcf3ad0df5190cefa0c9522fa08a41"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #32",
+    "ethscription_id" : "0xcd27eba5028d8f6d5565e819d94f211fd7831ef30903821c1c2d96256a14c10c",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "ELLA"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "5103e50e59bc8fbcc728c0b5627fc79e9742904b4b5e99bcc502931b0dcd8694"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #33",
+    "ethscription_id" : "0x86b9240ceb9b5e55d0164eb2604b59ce44362eb08a97e8c62846d419ac53eba6",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Dehiscence"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "d3e949a1880af82d1ac7a6f21b5f34b436e2ac7cdc5668154b9dc7bb9aef8923"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #34",
+    "ethscription_id" : "0x520c2870d053cc4c60dc3380dfed82f7c5a46f02ce3d3235d7f9fce665c421c3",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Thomas"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "a94bf680685f7be54c56d612a42ac52d002fa0bc6ab500c5c273f7161dd5ea82"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #35",
+    "ethscription_id" : "0x186ce897913af56f4851cfe90d162d4198693a4a1e192fa805980908532c0b2c",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Chazz Gold"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "a94916ffcb540c53286b24932122c900734aa55987a904c71e61336ef28bfc40"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #36",
+    "ethscription_id" : "0x6bd4870e75665bce33863d5135c9c462db73fb62823f3ff69eaee966d49dd752",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Knylx"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "7b53fa24fb8e10f6f799444f637c09d3bfb6ce0f1fd57d9dd2666299c018b0f2"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #37",
+    "ethscription_id" : "0x0880560892bad935ad9f9a0698291b5fb2e3ca3aa7fde90f240e929d82cf893f",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Piano Cake"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "048d46deb790911e7d4c5e86b31fa7bc03cdf978a222d5007b95a437ba6c53f5"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #38",
+    "ethscription_id" : "0x0f6f2e42c1c582d26105143f0a97b139b7aedd026bf6b41fa2d2a0211674e452",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Kaeli VanFossen"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "1b0a3d5a9ba92ef937d078e99b4bd40b0cf55d996e277169b09668750cf73b99"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #39",
+    "ethscription_id" : "0x83cd4510232a81b12ac06d9d24cf31411e156e8ac6383ad60f6e6d7a42b10d26",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Chris Hackett"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "62c521b6e07ff9830dddc818e59a9ad61e3a44fec36daddf9c63b5620538e732"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #40",
+    "ethscription_id" : "0x79ea83d569099fb23f1e790be538ff6d7fea7ab3c7310ae3908e993f4b121813",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "The Digital Coy"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "295641748c8eda27b69e3a62c98e399b39feef52605a0990544e2a7ce7532424"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #41",
+    "ethscription_id" : "0x0807b0e494a6a7adc53327e7c94b5e8c36373773b7f45a55cfe0a99780f9a11d",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Mind Mechanic"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "9567274ead08976ed6065b509866280e011aeb261495e41f4527dabba6424451"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #42",
+    "ethscription_id" : "0xd8fb9a53c57da3abcee7bf8a16824ed9ba9f102a47d1ea7ddd7503caed272ee4",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Nick Wake Up"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "28dd87e5ce6486e86dc0eed88a5fe56f3158810612b1345976c7b0dd9563b8d8"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #43",
+    "ethscription_id" : "0xbf2ddc97e533abf5a06a5ccc5e3d293220cab590d501e1de5318275d6a2b6991",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Wildalps"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "2989004c5a9d2903c925270f67429544451ba86046e038d4e8b7ccd9c4be2a7b"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #44",
+    "ethscription_id" : "0x5ca61d56f26ff7107b14a165bc62fc9395df62b7e176ac90ac08d37bed6136ab",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "HJ"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "6728ebdee539bba0fccaa15a2292bb5c3d4a9c6d408ef2d8740aa3161b5ea8c4"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #45",
+    "ethscription_id" : "0x7abb9564096694d7ac2cad234e935a9e6935a34c697865577fa7e50863e04e11",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Amorvobiscum"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "ddbd035b1b58e15001371febf0d655c476e409431eea42579f4b185c05e5d96e"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #46",
+    "ethscription_id" : "0xe2385465084bd8a4d7a2c93e0510878165ee8bd2a1e98f7daf771bece3b4d0bb",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Marco"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "b45e8196d9b1e9332bb9dd3e08bc4d5e64071ebc3d51b4a2e80418b1a1bb9f64"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #47",
+    "ethscription_id" : "0x8894c817ed9d29b074bd5a473b174fa5cfc485d0558364f6769890efc9211e09",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Plasm0"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "c7af3dc800f48a2bf1e2f76d98f086ceb52a5d13695de91a3bf1bf1f7c797531"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #48",
+    "ethscription_id" : "0x1372b6a19a2c6c5ec6a612a16e4ed9c745c85df55bd26297bf8edd8e30a278ed",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Henry Daubrez"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "564434a9e8b1bcc2ec4ab792a5e1e8d8d875afa93d681a75e7d34f5a2fac52e2"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #49",
+    "ethscription_id" : "0x7c47f7a591c33c9741457775e91d4e8985d6c689bbfe239eb4136759d071c6b8",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Monika"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "6678b35762321d3814766433be00742c324555b427a554d13f76f7356fc47705"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #50",
+    "ethscription_id" : "0x2c06272c33edf5b6dee7e9b3c2944203c9531abf51e1c7c78cf3735071da4012",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Rob Dawkins"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "43ac2fa1208ac79e73550c10d24cd11393ad9046d475a7733e4864680d77faa0"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #51",
+    "ethscription_id" : "0x43ee66ae0fa06cdcd65d9bdbd84e2165320954bdef843e6c8899561ef28e6f1c",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "WeirdMomma"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "d574e4989d3feaf883f14f0d9701655b6dcc86a267cdd3d04c7d80a314776491"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #52",
+    "ethscription_id" : "0xf65fcdad92816a46c403cb18240c4fa8f16f1f2cc7fc74d552c427c82c83dfe9",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "H01"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "00dfeab7b9ddb310e292b50af65a73a37e747818418d3468f26ad36298079dca"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #53",
+    "ethscription_id" : "0x0aad924cbb41822a07c2c090b04b2a04ee68597bc5b9ba3cbb413eb96d0e400a",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Uzzy"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "83d22a1b7ff7feb635335ba77fb419a1b2ae8162b4daa4d15e13b65b54405a93"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #54",
+    "ethscription_id" : "0x193e9bc22ae65d06af0b521f011632c3d4c79073f543a21f9124d751b598bde4",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "KaliYuga"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "37329dbf21613bd0f50f68f17f347ce4a5997ec4ef77cfe6ee706c95cc777b7a"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #55",
+    "ethscription_id" : "0x276fdbc9eefc1613df6fd1b88790ab887ceda71431be33605bef00c4fbdb7006",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Kolya"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "a8a3e5c91a2651c39b52280a2b90700dddd2d18e39445dfc0938ac60bdd5ba42"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #56",
+    "ethscription_id" : "0x9917736d01f17097a066e3ae885598671232eff4803993820f69b96fadb978f7",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "MadYak"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "aa08980ce3d9b29e4ee8711376b2ee92175968fe71cae1db57508a64db02a9e5"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #57",
+    "ethscription_id" : "0x1fe32e03d5e77b91c6745130210ff723fe018c96be969a518d26217358e1e6b0",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Aiporium"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "5d748ecb5a4e6c1ce076da0d4502ebf8e63e9657e5391984eed1329aeec224bb"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #58",
+    "ethscription_id" : "0x6989e601a7808116df18459ea2a6247eaf728c916df5b8bc53394a5746fa3377",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Ibis"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "4f81f5a43f8f1bbfb7e002b42a25590d3d911a2207d9390c5dadc096ea8e6d6d"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #59",
+    "ethscription_id" : "0x81213b73a27f7edabc31877b4fd679de40b2296015b6dd2fee4b41a85f2ebd41",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Grim"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "d7be0d289436e6d34399db3f3cae94539e5440533cff326747ebf6715f3210e9"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #60",
+    "ethscription_id" : "0xd607023cb93753e5f7e95448921c7e220f94443446db0ea3ffc27da8480d3063",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "TrippyCollector"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "8eb76fa1ff913d3c0fe07ab10daa0776261938c443eaac8554f28618c74edaf6"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #61",
+    "ethscription_id" : "0x889e22ad14cb53e0b5d001c3017f84f943004944e980928c31e43d911e4c6b91",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Vandalo Ruins"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "cc0de5cc0a833013d1d316daef09cbec4a161f20d925a52d37960cc5a66ac999"
+  } ],
+  "hash" : "e6d1b0ee74e637bcf1eaacbb62b173d4d8f66d35418f0fa0f3b8cf5e39ab998c"
+}
