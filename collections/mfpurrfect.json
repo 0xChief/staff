@@ -2,7 +2,7 @@
   "name" : "mfpurrfect by NVMD",
   "logo_image_uri" : "data:image/png;base64,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dTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAK/2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgOS4wLWMwMDEgNzkuYzAyMDRiMiwgMjAyMy8wMi8wOS0wNjoyNjoxNCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp0aWZmPSJodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4wLyIgeG1sbnM6ZXhpZj0iaHR0cDovL25zLmFkb2JlLmNvbS9leGlmLzEuMC8iIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIDI0LjQgKFdpbmRvd3MpIiB4bXA6Q3JlYXRlRGF0ZT0iMjAyMy0wOS0wMVQxNTo1Mjo1MiswODowMCIgeG1wOk1vZGlmeURhdGU9IjIwMjMtMTAtMjlUMjM6MTU6MTQrMDg6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjMtMTAtMjlUMjM6MTU6MTQrMDg6MDAiIGRjOmZvcm1hdD0iaW1hZ2UvcG5nIiBwaG90b3Nob3A6Q29sb3JNb2RlPSIzIiBwaG90b3Nob3A6SUNDUHJvZmlsZT0ic1JHQiBJRUM2MTk2Ni0yLjEiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ZTExZTllNzItNmU0Ny0xZjQwLWE2MWUtOGU2OWVjMDFhNzY3IiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6OTg0NzNhOTUtMzY3Yy01ODRiLWEzZTktZjY1MzkwYjIwOGQ2IiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9InhtcC5kaWQ6YjMyNzM3NTctMzU0ZC00NTQzLWE4MTItNjI4YzZjMTViNDAwIiB0aWZmOk9yaWVudGF0aW9uPSIxIiB0aWZmOlhSZXNvbHV0aW9uPSI3MjAwMDAvMTAwMDAiIHRpZmY6WVJlc29sdXRpb249IjcyMDAwMC8xMDAwMCIgdGlmZjpSZXNvbHV0aW9uVW5pdD0iMiIgZXhpZjpDb2xvclNwYWNlPSIxIiBleGlmOlBpeGVsWERpbWVuc2lvbj0iNDYiIGV4aWY6UGl4ZWxZRGltZW5zaW9uPSI0NiI+IDx4bXBNTTpIaXN0b3J5PiA8cmRmOlNlcT4gPHJkZjpsaSBzdEV2dDphY3Rpb249ImNyZWF0ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6YjMyNzM3NTctMzU0ZC00NTQzLWE4MTItNjI4YzZjMTViNDAwIiBzdEV2dDp3aGVuPSIyMDIzLTA5LTAxVDE1OjUyOjUyKzA4OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgMjQuNCAoV2luZG93cykiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249ImNvbnZlcnRlZCIgc3RFdnQ6cGFyYW1ldGVycz0iZnJvbSBpbWFnZS9naWYgdG8gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6OGViMjYxNzQtNDMyZC1jYTQ2LWI2ZjAtZTdmZDM1NzRiYzBkIiBzdEV2dDp3aGVuPSIyMDIzLTEwLTI0VDA4OjQzOjIzKzA4OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgMjQuNCAoV2luZG93cykiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOjBhNmU3MTQ1LTRkOTktYWU0NS04NDczLTg5ZjczYWVhZmY2ZSIgc3RFdnQ6d2hlbj0iMjAyMy0xMC0yOVQyMzoxNToxNCswODowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIDI0LjQgKFdpbmRvd3MpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249ImRlcml2ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImNvbnZlcnRlZCBmcm9tIGFwcGxpY2F0aW9uL3ZuZC5hZG9iZS5waG90b3Nob3AgdG8gaW1hZ2UvcG5nIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJzYXZlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDplMTFlOWU3Mi02ZTQ3LTFmNDAtYTYxZS04ZTY5ZWMwMWE3NjciIHN0RXZ0OndoZW49IjIwMjMtMTAtMjlUMjM6MTU6MTQrMDg6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCAyNC40IChXaW5kb3dzKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8L3JkZjpTZXE+IDwveG1wTU06SGlzdG9yeT4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MGE2ZTcxNDUtNGQ5OS1hZTQ1LTg0NzMtODlmNzNhZWFmZjZlIiBzdFJlZjpkb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6N2VjZTYyNGYtNDQzYS0wODRiLWE1MjktZGMxNTExMWVmYTgxIiBzdFJlZjpvcmlnaW5hbERvY3VtZW50SUQ9InhtcC5kaWQ6YjMyNzM3NTctMzU0ZC00NTQzLWE4MTItNjI4YzZjMTViNDAwIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+bEl34AAABKlJREFUWMOtmMuR2zAQROnyyT65yrFBYTgvXjcDJ6QQDJPowZsGSH13WSoKhCBOY76NWa7Xay1LrXWt+30bb4Ntcvva58s+3ma20Ta+LFX37fHSlm/37dftrs++co2ZbRAzbbH+te7TCy/Umj7VfyxNjP62CNEaM3rk1+3SJG8Hln4Ca7yqSU0ENWRJui+LFdqNMIFawP1XaWX7/P236KM18RL9q8Y2JP5ignmzlI3OZhAMPj4+NK9FAiMjgkPXNsBGqEd/BGvsoSY4jbeXyhM0M+xpvy8nFsGcwgQOoOjV6FkIfAFb0jiUvaZvpbtwL/Yf2VVvP+pjkiRADoIF2hKWwtlnO6SZV/MdWb2rWtMCd5Tkn+O1T/boyyjroZQeiTel+JJhJgNn6JYTYafIZq30TMGd2EH9zTfM+XEu9EGoC/TNfS/ngIQjJHUboXj0FIoglWUO6MBxMa0+xXHn+v3zezi1pQw8JjE1PRRSCz5RUFfT0C1vffLCqR1BaN1SX/hK6SnSgyUiec20/R4UoZGwTHRWQ5AYvgJALxPCoc/bOIggT6xSNqEgALsi3H0UL+nYa6asz1xSjL/Z8waiF6+xUgw+y/3zUAgIz7wTvo6xQ8G/iLfTdPIqFDYZSbwLSs+tdfFZr++5g68wECkKFuGZM6STSDyxRn5r7qbK8gVQLLMlN+iwIr8kKelVPKvS+jW+4pQvyZtF7v7odEaA1kz3SYI+Gc9ukWlMWQhhaC8eO74SSx7YaGIwPtjvneigCa+CrexBqP4sAxpLgqGV+rgGOU84Uid80Rm4E+fF2a+zRncdWMQb6V8qwVU9pDH9YA1pZWLLqA5qp03cokj3AsfCZEqeHivLYJQ1K9ZwBKmZHzX49ePbQ2N55nD2g70wRapA7sm5ATrOI/7rCfCWboIurSeVJI9RkPZquYMMmASnHYWcA0Ov0PYdG2Vu7S6CdXgJ+KhN+zwgAOQZeoj2vvKhr0gx5K7hzEF5sbOfUbj24JzPwUZZ6HCf99lgynU8T5kXFnhj7LxWxESw2MnD6fdLdREzJR0xdoaG8N/2aI6SUd4LN4oR0NOseivzohiYyjQgf8a2Jbv0w2axSIP5PY9jggJRYm/pMT2TlcUIZR5R7eRB1MDI34ASdHq0znDy6E4TjhFSawXj0Mjo9prq3LOl0ZoB0wl8dJQRR7rtmk2oY0J7CcrQOjC6NHUOmtxa/eAjv5n6LsdGxgtasTNpEljLfoP0MnW8vJPQ7lPRPx2fnuD9oOqNriN9sR5QrZlqusMX49h3xE8djSMUP4l5n8cZXZZskhm0rYxcf5J0p6WgwPHiDEmdChnRGk5CI4OiQONpsjpvv1UOgeIJPlNLrcczh3d+5v4KNrper0OGqHU6Vh3VM2liYrKk7LUOjbehv+JtQe8qoGcaaN6SOJ7sWTxxNu/bers2q58M5y0h/UA1uLaLyux8TNeppSKt0TwzDuWNI3+h2rjZvHDGm326MbxRhnvM1BlULnF5QwvDjkLeFg0noaOPw859yk5oyMKnHYb5mL5aBSbLjV0ceFLxhvbUFmfdQCtrirkVRE4fyRlTIbzYEWJXRFvzH63UKVvs/yVPAAAAAElFTkSuQmCC",
   "banner_image_uri" : "https://iili.io/JKVK2kv.png",
-  "total_supply" : 32,
+  "total_supply" : 64,
   "slug" : "mfpurrfect",
   "description" : "",
   "website_link" : "",
@@ -13,321 +13,641 @@
     "name" : "mfpurrfect #1",
     "ethscription_id" : "0x401c2983ad4bc44607c0a633b2d9154ce32286141127702a00d3d335d17769dd",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "b75b26797a340258bc965b96faa7db9e9da3cd41e5f536c66d1cc6f381d13927"
+    "hash" : "9913a1d07c2b78f0969ef61ba0e89bc1af3e814d9e1cde1b73573cbb6d2240ae"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #2",
     "ethscription_id" : "0x88b33663ce0e35bc08974eabdc109f251d270555393a48bdc1be82ea10b79f7c",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "fc9ac77643e10008f961a3bd3a1154a6a98a93d680011b8cdf33071197ca4336"
+    "hash" : "7537967391e74760d0dea46c96d6dd55b7e5be78ab9dc3acb2b55d163a6c1a87"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #3",
     "ethscription_id" : "0xf5259321b2a4737b9f2f15191799fea56dae507183dce691da25b91efff216f9",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "4658516af9212c33cfa3394fdb082d754d5ca2570bdfdaa07f6be40d6098c59c"
+    "hash" : "df2621b94822646262a952472467793706d4a92153b9333247375ae85c7e1af7"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #4",
     "ethscription_id" : "0x559fdd1e114b083c41ac949ccc3e62a675c134bc6480b58d74f14ca21b869487",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "c71c7d6ad58e3dae07da4173eb22f2de360b3d96bc1cc5e0bfcc85b6283cb7fd"
+    "hash" : "3c1292029c2e04af521e4b76694611e25d6296070bc8fb44f53fde2d6fb29fac"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #5",
     "ethscription_id" : "0x4387de0796499da20261df90d1f6c334e4465a5588d30fb9a4d89eb97184a312",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "fde8cca4e735139d3665aa4b44e2ca7e76d61fb2386ec8999f5fabab34835161"
+    "hash" : "34b5deeccc2fa69e44dfbdacb476401111b98326ebaef8686ad72039f3b012d6"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #6",
     "ethscription_id" : "0x2df3e71d536d84dd29097721214c045a77e4c56d1fb1fb892a772853cf70939b",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "407abd43f2bc4aacc3a66194877d0c08a28da7fad3e540bdab12b3120bcfc4aa"
+    "hash" : "f687c8a9dba156ab954a1c4e4f35fd050bed50211960f4263eb8f3fd6bb8c81f"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #7",
     "ethscription_id" : "0x6a74ee4d69c1273cdf9967220115565c530bb587f45e9162ed5c35ffadfb812b",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "64b468a6e0e1cccd29f3bf90fec03cd305f9e134742536ee5fb3b1c89a67dc91"
+    "hash" : "87f4b22b92b194c645d844e11fb66476241b25a8cd021b5734d020f0e6b73d1c"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #8",
     "ethscription_id" : "0xf615049fe28ac8a532242a176eec2e8f50ec23a58d0e3f2bf31bde5779247c65",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "944a052f82cd98669c3d44c53766e32c499167b2eb2b3b9b51536e628af11745"
+    "hash" : "e8efa73954cdbd296cfc6c9170f3f81e3ab2ffed47cd69cdbc108b26e07f79cd"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #9",
     "ethscription_id" : "0x86fbeb5ee0ccf78e4f9dd5ded888cc8cd4501bc90939ca40d33ec8e486152965",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "1787971e1f4d525c166f87962ab82c277a956cf72fa2d04462c872e5ca207b63"
+    "hash" : "f6a1574eb7ebde02093e1c673abaa0ed1250e1ed3c9eb6b6fc785d83845f50a0"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #10",
     "ethscription_id" : "0x24aac1f7d608f6a90b2ca2b4731514284bb213be70e92ec19fa64a206da93ef5",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "4cd640ab7661f1da383f7422920c9b6f1591ca517a50eb1d68eb8e0303f8fda0"
+    "hash" : "a74696335e9f41088649bfa6dfe3fc5b30a54c992d59e3fefed77445dae68a3e"
   }, {
     "id" : 0,
     "name" : "mfpurrfectfect #11",
     "ethscription_id" : "0x55af376b51d6ca51c40b5ce46cce040c14d9951472767507e313891c5a67b035",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "1cfb113a6d3924c302762a7d0ac07653cd0d18fd7387ab7ae2ad0c1409af6e40"
+    "hash" : "f9b7821aa80c9f50e183d25575d6ba74821e3cbfbea36a659cf6b8c7add908cf"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #12",
     "ethscription_id" : "0xca2609c505797908fd2fb367e07652514688e3ffe10c4cf2b58ba98432b1305f",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "009ac37e1aaaa42070918d8fd6ceb16e788027032a603a188c579f5f2801152c"
+    "hash" : "e8bb4045ec027926cc5d6475c4b4c84200d76e031ec5fc5a76e76e00c93c764a"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #13",
     "ethscription_id" : "0xd290a83fe03907e46be9bc3b9c181bfac699f5b26a1d41d16ca29268c5522824",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "f52e798efb11d40c5127f14237f9dc48b7ae667e0da472d5b50841339b9db449"
+    "hash" : "c6a4bbe278b04ead4d3ca1c3c00e578ec31c6881ebc5e04fb5740c329e1b2967"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #14",
     "ethscription_id" : "0xfab046d5e68a03c392b7dd766c9b984ab6319758dc89429649c190d1fd956f61",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "8601798b4b17faf52b2078e1c400683ce36fcb6c0f96849a44a3294f1ebe350f"
+    "hash" : "1a5bc3f9c6deb52648d90acd182139fecb37d980562096813df20e5f62495a86"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #15",
     "ethscription_id" : "0xe19cc792630c5e1b1adb5c5c70ae079fbc82805b8054bd7e2ef8984636d66985",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "bf0534ec8b798a37575d0d80387d2009d41d0271516b50d05e2415a4478dc06b"
+    "hash" : "9cada05e6f22d0ea9fe398b1c42d42d584cf73692b43fbccd093b3271cafccec"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #16",
     "ethscription_id" : "0x4f8b8cdf74c5abd1e839dfd17104d8b83f4e685c4d2876abefcce5fae46cf8f7",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "c6ba97aa62c21b0a2e43c444ba7e6dd34bd5dfb18a5915ab98b5dc464a8418f2"
+    "hash" : "b03e026a287a770e2fbfae867a3695d49f15dcb5d34662d7ec9485b1c55c85ce"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #17",
     "ethscription_id" : "0x9e0a135ab74849013cd4d6364ece967f9f28f0e1dfdadd3904d730f20f7bffd6",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "9c8a6e04bdbcc6a4aceaf1dc5e94084b8c741a881309a6260a498c8502af6f99"
+    "hash" : "32399f1a426ecc8655e7b8a6ad9c86c363061ae9419b92156be99da3d2993705"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #18",
     "ethscription_id" : "0x4a2f02878717dd6b1b861d195d5f26bbffb855f33ff346552412ea41bd1659f0",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "6227ac3db6c18ab2d56b0745a669d5de1905135b74bd2638cbbeb409a4ce1e27"
+    "hash" : "8ee7862d44b9ae1af60f1f2482a20d61999e7b9afd4bed849ffbaef457e04b1c"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #19",
     "ethscription_id" : "0xeee02aaf881af3a59ad4179442b0784ef91c7ad02208c0e09a11e8b218319159",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "4bbfc005bfba3b2775059a1cc55e890e071acd36bfc522816d5145bc9a2d0492"
+    "hash" : "690f5240965bd190eebbaaf44bbb94d3de8effcd9180778f600ba488580a6641"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #20",
     "ethscription_id" : "0xec8062e1fc48f7f3c41285713c9910a11408d89394856cbc6535e6ceafb79c80",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "e12cbf96795ac1c5b4cb32cb31cf4e53bf156f94eb08007555643fd9105e9862"
+    "hash" : "16533893e3b168d19b95532de9af087445304316c7fc967aecf3ff5ca8b5cc6a"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #21",
     "ethscription_id" : "0x886c3008bfca5d192ab32adc60ffc3e04f979d5bf9d4df8e0576e395382aab83",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "a11bb3e4c8e56fd77c98de9bc874b243fbe71840767fb130755b9dbdd5d642ef"
+    "hash" : "ef0ba7f5994aed0c35cb011403aa08af5a9d70213eb45b4c2200ff9439c97172"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #22",
     "ethscription_id" : "0xad364799b8ce68c5c69fcb2765c04449ad261d536abc69775fcfeb828912a018",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "17e520bf25e61372fc51865a4e864797437b281534f1cd844b59c0bfb85a837b"
+    "hash" : "91ded0fd23be3461b3b3d50f62d60c4a10ac2597e452c341901e294c55665869"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #23",
     "ethscription_id" : "0x53e942877715e557c2e3eb52649863a0eb5c2235ebd0916a371857c75d892fa6",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "76054cd18781ba10ede68e8ef657284286ec382632b206bbf4cec6cb666c1de1"
+    "hash" : "9cb15b45e208b57b9dfd144043604964e86d87165b4a38dcbfcbf2b308b8bac9"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #24",
     "ethscription_id" : "0xef48dd5fbec892b40a48c13c35392d8aac7731cf49bffd5349d30c1e4c8ab015",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "2721595cd7fbeb3884d06a3b4a23a8b8443b707172a9c39d5f910094f440c939"
+    "hash" : "f4f0e43664822586c8ca0862fa516705c88993fee6b9668b06cb0716515fb2e6"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #25",
     "ethscription_id" : "0xda7c8ad1c0a140083eabe23637b31a30c0085bf7cdd943436dacb761a706a6a1",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "9fc55398d535c320b69edceb32735f06102ef4fff35c3dd3f6083d762983137e"
+    "hash" : "55419b24a7e4630793c8e7bb1ddc162c24ccb0b6ad97290f950e0acf09b01419"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #26",
     "ethscription_id" : "0xd72f33e0b510b14c5bbce30545191ec3c0c23a73421ade6c5d698245dfa01585",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "e63580ed446c1d19a9bd1ee4b44f50ce933d89efd1560fa6d5e74b44df12818e"
+    "hash" : "7353b21a091f6d932aac1c08d1d071f156b91967b233ac6c5717ac538b34e0e9"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #27",
     "ethscription_id" : "0x9ca598551dd24b0b61dc8bdf4699f7173a6fde14dc5c13ac5aadf618cc24bcb1",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "31eeed59fb2abdc8b698bcbd62b6e243c72ea12c5f46c1e3d8f75a57663bc0c5"
+    "hash" : "19558b06d71ff0a672922ab09c11d12e81e5d9b04526d438864f78d00e009a0e"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #28",
     "ethscription_id" : "0x9d4e90597a07eef3609131b56f69d515bcbfb0f9e046d40069567e14abca5bfe",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "d74d3e78ab4ef743995b8186891a4d306241fbac1e0c7aa337c0fe83be545991"
+    "hash" : "720fdcedaf118703392ffa91845b6bc643940879ab7d189350b8be303296b21f"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #29",
     "ethscription_id" : "0xbc06d6256ceb196a9fb4a9d24b5dfbcbe35d06e0d400425e02ec31a450add26c",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "036955e516ae3aed4a0eca051770d444855e7555d02cb8462a6855deab73e69e"
+    "hash" : "468025de3d97da6c6cab86b5ba7a110e44dd4e06aeea1549d85f6c4b4377abe0"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #30",
     "ethscription_id" : "0xa56ae0cfaeeaa0ee4c51c5475c750c600021d3849daa2f0f3e444388a18991ed",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "89ce012fe1da9e7c0415427de2bc64e59df3979fdd1e3c57a3702bed6e3a623c"
+    "hash" : "313c1e3929700e0b1189c7652f672ca7b6914f72efb3cc67674cfed46e4da453"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #31",
     "ethscription_id" : "0x18837d1489b8ef3e5b25ef2a8c1957c0c1e71966a85ba481e7d09c641d93724f",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "Walking"
     } ],
     "description" : "",
-    "hash" : "a5373021299493a05529aa07619df92ce47d29f24e2869634922847af70210b2"
+    "hash" : "cb9f3024ce56d265a782031a483b34dd01642f5f77e87ad68367389c422aa251"
   }, {
     "id" : 0,
     "name" : "mfpurrfect #32",
     "ethscription_id" : "0x8f99e815b8229ac0c5170e5222e12a8aeb59602d66772247f91facd7771753f4",
     "item_attributes" : [ {
-      "trait_type" : "name",
-      "value" : ""
+      "trait_type" : "type",
+      "value" : "walking"
     } ],
     "description" : "",
-    "hash" : "302692660f8de9b6b400eccf84e21b2ec33375ca827ee440f2d041d4eb0c764e"
+    "hash" : "7fbeca0fe93918b3933ad4fbffa48b98737fc4f962a0bdb9c3ff776a72ecc75c"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #33",
+    "ethscription_id" : "0xb48c2a28f9ef7911b8c17845fd1f3512c9300a7ee365d040e1dbd4a283eff364",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "88a810e17da2c9a94ce603114f48f719071f56d130b3b3bc05bbc93ffe4f5ff8"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #34",
+    "ethscription_id" : "0x32cdbf2080210edd2d4d71927cfe74e1fd8cc4c84ce951f830bbfd59f30e1d74",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "dc92afd800087af26b2bf8d27261aadeecf73bc7a28959237c3d53f70d37402e"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #35",
+    "ethscription_id" : "0x5d6cd330ac7aa35903453ca4f9ec5848383fcf9c300060e83a553143d0552ec3",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "e3325d51cd0235c7cfec4ad5e338f3e9bb18bd94d53c77e5e3308751071ab254"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #36",
+    "ethscription_id" : "0xfaaca35cf4c8bde9bc7bf58b1c41d626bba8d47d8e15d899dccb37ede5884fc6",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "741fc804739a854b58adef447cf12e26c957c17e51e1b1126855231da16dbb4c"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #37",
+    "ethscription_id" : "0x610eac7fc47685605ea95ec63eaad85aa2668e659c05d15f303a5d38610f9ec1",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "e7efcf76547edea6428bb05415dea3c4f229614dc13eb83baa3932e6bd52a974"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #38",
+    "ethscription_id" : "0xf0e69e5ebebcabd545b0c126bdf2456cfd650637ab9bf2704823f1d3f66ece79",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "dec5c075066b890f2b73307c813677834d09f7547920a465bb2b58230d66c964"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #39",
+    "ethscription_id" : "0x4e689383009bfaa451f4ef31a632f17e27b897f4fb91bc4023c6eba7763eb34b",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "fb645f385d903371817e9f1106bf2f1ab93e922344f9bd118755d2baf82373e5"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #40",
+    "ethscription_id" : "0x8da45696925ed4488f9bbea3fb3531ce35df35231aa654d08548f5ef01084b65",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "05d4c070116daba57cc775aa12072d7ce9846209d1c66b2322f415023115491d"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #41",
+    "ethscription_id" : "0x8694edad3d754302611791674dcc3578ac0818c7451bd28ca993c11b28b36b2b",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "4721f6660c8070a8c3cf4bb471b9dc107fc9e4cbaeb2a562391d50cd36bfde0b"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #42",
+    "ethscription_id" : "0x055f0891f8a5cd9aebc96c3e7b9b62bf6cd97bc737c020092d96fdbb456b2fde",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "a2e30c1eed97d74242c9d4b55149d196951612f0ff17b431b2c5968c409e35ae"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #43",
+    "ethscription_id" : "0xc584fe156e4d6918c945de16e4e0ea76cc21e44ab5f82b4bdd9d016d7182cece",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "36b51ef28eb83cb489dd3f2980a9f9deeb85fbaacce406b98e59447fdee8ae72"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #44",
+    "ethscription_id" : "0xa909ec76a31c962b3e29fe31cc7b1b4b5b6ed4fadbc87e4e9df02da6038cb2a2",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "5255c6bc992c2430c5965eed00cb3fbac77180ad73f6b1882674fbcdcb008dd8"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #45",
+    "ethscription_id" : "0xc17cfea056ba7154159e8486e36fdb831cb8f90a45c6c6fa8a63a26c1b2fd525",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "64159576b70fc4206a65744313bdd2934d9be733d65fb3b8784cd7dc69ff40dd"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #46",
+    "ethscription_id" : "0xc1a2855882bc1bcb28b9d5400693da94f6aa7d0357732ce142a9e1292902af35",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "0f1e58dd2012c29d127f0d9358488c4c6b00c8171fbd6d21376db1a5d5984677"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #47",
+    "ethscription_id" : "0xbb3ade8cb9e200221693dfcd1391aaa912e74e69464c5ef696d74590b83ffa99",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "67ee784d8c2653a026edc338bb40c622e71992b7f05fae1a2a235f3b0e9c26fe"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #48",
+    "ethscription_id" : "0x086214e92a8659d3d6a35c3eaef7afed5373f2d37bf3c465246a2ce411998047",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "40a2b5b62c2929c0b78b3bfef4f943f32c050b084f6f62a37fe6958fd34ac6ae"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #49",
+    "ethscription_id" : "0x75d09cddd4426f6668621a0a59e86aef3c0e31bac35ecf5bc3645cec116d0b8e",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "c675ffd97dbf6cad785f3438aa4cfe4721dad77134154a7b4cb93d5976016a61"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #50",
+    "ethscription_id" : "0x79a8ad09ac1b3f33c2832ed21380e332ff5ac826aaa89c2d05061af653c27b89",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "2f483aaec3266f1ef41dc777201b21a49ac67002bd50cbf9309cdffef0a52b38"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #51",
+    "ethscription_id" : "0x5b5df9920b2be4b5974f012f0f5b2dc5e579388703daa97a90676be37af1c550",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "0a56c1fb265eaeaac56b66e36ee8c836cbbbb643e4ec59e79534b069e00684f9"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #52",
+    "ethscription_id" : "0x33dea781c791ecafd531e9f3cabc31fc5506c3db64a263f14c8970e84ba2fdb7",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "d3a43dadfd7fdfef229ffa7c51c229a4a723113b57eddba2829ee3eba0a4abd7"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #53",
+    "ethscription_id" : "0xd95ca8cc994db89b8b8fd68d4cc0a6876cca5698312a4d17261ae4148a195142",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "e305948897dc6e8e55e6323ceaeab37e58a3108f0dd73ab2d4eacc3d98612294"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #54",
+    "ethscription_id" : "0xf82a85121a7ecd27cfc6c1905bca3e9885804de526f79dc7acbc58bf943efd04",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "a1d8e6e8a257783922e0940267f06d7c5d51385f872feaf322e09fd6ee7df4d9"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #55",
+    "ethscription_id" : "0x4f6e99a2b1f35775b392c9c201e7fb5a55c2f3dcf73971468471a33c77ccd320",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "c8c852ed793f141402f5c7fba84afd41b520246c7e6cc6f58cc9ac823215cc4f"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #56",
+    "ethscription_id" : "0x37de709b26505c363deaf2379fba1359dd57513aa518553e0c9b30e1340b53a6",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "14981e724771edb4652673c08810bda9e32abaebe3bd6ae80529107ecaddba8f"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #57",
+    "ethscription_id" : "0x3cc3501de423d8cace758179ec7123d9467085559bafe64cfa5a41f49af40477",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "99d4138ef362d4c4c8e52f8c93bbfda36a343d431113a2d3927c89799f9c7acd"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #58",
+    "ethscription_id" : "0x72873fc2797a53635414fa222def3d92434a503463ffd819515beb2205f74d0b",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "116ae13bac986d9491c2682028bc127d93eeca21813e23790f18a9ed5b569105"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #59",
+    "ethscription_id" : "0x75a1317764b9479bbcfc6618ff2afbd614a027f191d638679c7d97df4222f950",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "444772a4c9b69d3b1f696e7e1d6690e2725d5f13d202122afd4bc1a828b36c0f"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #60",
+    "ethscription_id" : "0xacec71e88588151ccf1ae7a88580ab388780017c2b92e9e22df2d9b588426f1a",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "57a0f87057ac35a447fc39c7d33d1bb8c9052c2c70e693bcd50a6f60a69cb2b8"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #61",
+    "ethscription_id" : "0x664e63eb8b2ed9b97cecfbce9574411df6fe7a79ae9ea582ffcbdfeee3a395e8",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "7f7c99885a7bbd034ea0ffaa3c54e4be265bf232dd9366633eb319085c6a39c4"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #62",
+    "ethscription_id" : "0x587b0ae270912926f09d66723839d5033f97df8743532ecbf759fbae450e3fcd",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "3eeaee26411cc205ea1f578469a01dcd50e18daec7606c460a621c015bceccd4"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #63",
+    "ethscription_id" : "0x39b57a4faf0ecff47847a564d99f3135139aca991625935c648479d6469b0aad",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "bf0222f63f4d6207e2dcac016a4c8374a97c04c0c96404e938e766b7776cb333"
+  }, {
+    "id" : 0,
+    "name" : "mfpurrfect #64",
+    "ethscription_id" : "0x7e0e1656d8b01fc6d90b61fc7bf6b845a93a0f2da26d2f973aac7190364091f8",
+    "item_attributes" : [ {
+      "trait_type" : "type",
+      "value" : "PFP"
+    } ],
+    "description" : "",
+    "hash" : "09125a8fbb96f4acaf8be618a46b0a03c7c3913a277974fc6b0b07a5aeaa96e1"
   } ],
-  "hash" : "5672e601f85b96d855549ae3bdd6ed1098c6587a7a11f1db3683fb53d8843b10"
+  "hash" : "9ea36a6b70ca8e8ae5d7155c1d699403bf87ae9b9209d7e43cbcc5da960890f9"
 }
