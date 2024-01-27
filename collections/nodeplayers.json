@@ -1,0 +1,1341 @@
+{
+  "name" : "NodePlayers",
+  "logo_image_uri" : "https://etherscan.io/tx/0x97e342a840216f8e59490e1b29e62bc0a1e952f545756a299d57bc0be289bfc6",
+  "banner_image_uri" : "",
+  "total_supply" : 83,
+  "slug" : "nodeplayers",
+  "description" : "NodePlayers features 87 digital athletes on the Ethereum blockchain, comprising 77 team players across 19 teams and 10 standalone superstars. Each player is immortalized with unique jersey numbers, encoded and stored on-chain.",
+  "website_link" : null,
+  "twitter_link" : "https://x.com/nodeplayers?s=21&t=c2E-6s6E5LJBIPtMHQxodA",
+  "background_color" : null,
+  "collection_items" : [ {
+    "id" : 0,
+    "name" : "Gridiron",
+    "ethscription_id" : "0x881e8acf59d2eed2bfa7e8bf4bddde74da1bec69ed5faa93c46a2d5ef92204cc",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Gridiron"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Standalone Superstars"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "11"
+    } ],
+    "description" : "",
+    "hash" : "30d8719a9ada245209c063d42b6056968d526466e313c52d69242069e21db654"
+  }, {
+    "id" : 0,
+    "name" : "Kaleido",
+    "ethscription_id" : "0x95a9a1003f8e55a6932c7b80608ec59e40d43dd3a68cf9a6f2fe07cf735de875",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Kaleido"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Standalone Superstars"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "14"
+    } ],
+    "description" : "",
+    "hash" : "9cfa261e316ec1559ea9fc05ed07b3a7a8dd613370f581c8bb5b2ad847e09e47"
+  }, {
+    "id" : 0,
+    "name" : "Marlin",
+    "ethscription_id" : "0x496cbab96bcf03b729eba9758d935ea14308cd4b014d73e72202f7fd861561d1",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Marlin"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Standalone Superstars"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "15"
+    } ],
+    "description" : "",
+    "hash" : "1d99a28a3613c5ecc8cd0c7fb260fc4ab459d2e4df86176006ecb1932805ad4e"
+  }, {
+    "id" : 0,
+    "name" : "Meadow",
+    "ethscription_id" : "0xd41d84669a0445e3ad4daee88c9263537c2d971fd24efe5342d9649614af8b50",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Meadow"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Standalone Superstars"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "7"
+    } ],
+    "description" : "",
+    "hash" : "caa46b64823c0bda0aff573ef9eb8bf4f9c323191c442bd1e8c7f0616b0f8ff4"
+  }, {
+    "id" : 0,
+    "name" : "Nocturne",
+    "ethscription_id" : "0xba3187d862824f3be6143205eb8af4d1cb0b8ff4e0eff57e72de8b576ae0d3f5",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Nocturne"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Standalone Superstars"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "1"
+    } ],
+    "description" : "",
+    "hash" : "ceaa332f9b52c627f6bb2fbc1b193707a872675fb24ed84dde7047d2cf124511"
+  }, {
+    "id" : 0,
+    "name" : "Raven",
+    "ethscription_id" : "0xdd64d84668666caf9bf87d9ecbb6b612b1d2f44448d82a2625f24982d6def168",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Raven"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Standalone Superstars"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "28"
+    } ],
+    "description" : "",
+    "hash" : "b4dd020ae723b71c4c82436011d0e4d672604323daebb6eda5d2444ebd49121e"
+  }, {
+    "id" : 0,
+    "name" : "Riptide",
+    "ethscription_id" : "0x7754a9a0ae5f0e37071e405be19813c94bcb20807d9f91cb81df296d0324ef6a",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Riptide"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Standalone Superstars"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "28"
+    } ],
+    "description" : "",
+    "hash" : "e7a3339aa3973a18f65940d5958938ecd232717b64c59c25ab82b63384402d9a"
+  }, {
+    "id" : 0,
+    "name" : "Skipper",
+    "ethscription_id" : "0x90636970a50a0c6003f7157da51bdff6bf5855268d5ef095bf76600980968d69",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Skipper"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Standalone Superstars"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "14"
+    } ],
+    "description" : "",
+    "hash" : "49f40ce4092fbf6bc59e701fb8c28b608670a883626bcf287413dab7487dcef8"
+  }, {
+    "id" : 0,
+    "name" : "Tempest",
+    "ethscription_id" : "0x16535254781d12e7494398c40417245df82ab1950f3b6aac522fdc80e3dd18d4",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Tempest"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Standalone Superstars"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "28"
+    } ],
+    "description" : "",
+    "hash" : "8e72d93c1d161335f9bb1213b06285f441d80ed94a2aab3686e68431abae441d"
+  }, {
+    "id" : 0,
+    "name" : "Tiger",
+    "ethscription_id" : "0xeb122aad2ed0e0d5b1ab94ba4b293372b3f70c0471836ab99e3ca268a3aff780",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Tiger"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Standalone Superstars"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "13"
+    } ],
+    "description" : "",
+    "hash" : "1793edaa92adb5eaadc2ba53368092e3f178ac5db548b9a52b739dbb319b3f34"
+  }, {
+    "id" : 0,
+    "name" : "Lavender",
+    "ethscription_id" : "0xf27c76703fd76c29ea97b00ae2110830cf05b672f00df3c55853e3a7eb67155f",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Lavender"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Violet Voyagers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "23"
+    } ],
+    "description" : "",
+    "hash" : "295532a0e88058b31a8579608b4723336aaa6aa106f08e6f70bee8348b3633e4"
+  }, {
+    "id" : 0,
+    "name" : "Orchid",
+    "ethscription_id" : "0xc0025e7d94764d71657cc2f077fd047538eeb2360215f1e94346f673b2672a59",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Orchid"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Violet Voyagers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "3"
+    } ],
+    "description" : "",
+    "hash" : "a74263ed1b6a29229974710fcb8aa65c34978095f639d7c56c12fb76c692527e"
+  }, {
+    "id" : 0,
+    "name" : "Ember",
+    "ethscription_id" : "0x049b44e4869897944e6459e93311187d0afdfd0320611b60afacfe6585035498",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Ember"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Ruby Raptors"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "99"
+    } ],
+    "description" : "",
+    "hash" : "2b3dd45151e64415e23a0d082659c8d5e46fe5a42658128b5a4333b05c0d929d"
+  }, {
+    "id" : 0,
+    "name" : "Flare",
+    "ethscription_id" : "0x18f59264073dd4db040a892037b6cd398d8346332f9f5afdbc8f29cd49587efb",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Flare"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Ruby Raptors"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "84"
+    } ],
+    "description" : "",
+    "hash" : "2fb31d38bc67c090e5b5f20b2a7b9bf3e76f2aab97db5ed5e31886e37414b6fe"
+  }, {
+    "id" : 0,
+    "name" : "Scorch",
+    "ethscription_id" : "0x337d5adc939c7db98bd22d39bf0331edbac15b81033b29823db45de81252e69f",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Scorch"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Inferno Shadow"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "46"
+    } ],
+    "description" : "",
+    "hash" : "d8bb9ce2394181fc088de7a7dd971ad12e7aab416c7fb6cae8e2e64f9af581ed"
+  }, {
+    "id" : 0,
+    "name" : "Pyre",
+    "ethscription_id" : "0xe977760febfbacf482271e74c375343c31c2afa0430136c2f388e0856c1e513d",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Pyre"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Inferno Shadow"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "91"
+    } ],
+    "description" : "",
+    "hash" : "6dccc3985cd434aef4fbff3775b65b8810c141f5a6d10df5f65abb8f136d86f9"
+  }, {
+    "id" : 0,
+    "name" : "Comet",
+    "ethscription_id" : "0xd6e764d184ef8c3542cd870aacff7f2f5939a3406526fba8addcd2b2ef94a774",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Comet"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Sunfire Sprinters"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "11"
+    } ],
+    "description" : "",
+    "hash" : "31136d1226d2a0a9f44f3d5b2e3a70df987cb91564b3d8001cf90a8a066556d9"
+  }, {
+    "id" : 0,
+    "name" : "Solar",
+    "ethscription_id" : "0x43af931129bd17aa483feabfade99ab0a0ec98a222c8f8e76a634f844ea40f97",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Solar"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Sunfire Sprinters"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "20"
+    } ],
+    "description" : "",
+    "hash" : "deb9c9a6aaedf3e7a736892046206e889045fd48dd192907db103f87df52cf7a"
+  }, {
+    "id" : 0,
+    "name" : "Torch",
+    "ethscription_id" : "0xf55508bb2863cd94d8089542fe938c082fadf41d5cbda3ee995d04b57bc0db40",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Torch"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Sunfire Sprinters"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "84"
+    } ],
+    "description" : "",
+    "hash" : "e7afee9e7c91d286c91aa9e21703094a9a2ec27af50692ae6b46927fa76dd67f"
+  }, {
+    "id" : 0,
+    "name" : "Dune",
+    "ethscription_id" : "0x9762dfc917a4fc6579ba26b146948b2c1ae5e0705785aa381673463f3e2b16d6",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Dune"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Golden Earthlings"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "7"
+    } ],
+    "description" : "",
+    "hash" : "3ae58bf1c0d789d4e4d4060b39c87e4548a3831a0773e7581bb0b54bf64288c8"
+  }, {
+    "id" : 0,
+    "name" : "Sahara",
+    "ethscription_id" : "0x0df8579e9e0e66619ca69beea236b2e6238931e4be5231981e266e2babec70e8",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Sahara"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Golden Earthlings"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "97"
+    } ],
+    "description" : "",
+    "hash" : "c2f48b83951cb2f627c7f00daaa7dac9e9820f83b356bf77819951edb610ab5a"
+  }, {
+    "id" : 0,
+    "name" : "Sirocco",
+    "ethscription_id" : "0x7e5c1f3d2d4d0a10c6b470661bc54ca3d50fa49ab67e152f775df2ba02a30a70",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Sirocco"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Golden Earthlings"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "2"
+    } ],
+    "description" : "",
+    "hash" : "334d7f13c44d990b6ccc154147032803264e21c4b7e9421a07d6360cf6cfa200"
+  }, {
+    "id" : 0,
+    "name" : "Eclipse",
+    "ethscription_id" : "0x8ec627d675a33780084e28bac8020030b7818cc146b306033f25e317164a667e",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Eclipse"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Solar Streaks"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "83"
+    } ],
+    "description" : "",
+    "hash" : "ec817d55f7e0fef32781101cb5db7fc558a009a1b290f49352a521d64429cfa4"
+  }, {
+    "id" : 0,
+    "name" : "Flash",
+    "ethscription_id" : "0x0b16d0fc8adbaddf0528c8a69501caab234c5b538120c14a1ec3bfb78d5e0ae1",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Flash"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Solar Streaks"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "3"
+    } ],
+    "description" : "",
+    "hash" : "c98bd7c1401040e041775fbc8cfa7701169c705a41fe0dfb88bc866e6ebc5649"
+  }, {
+    "id" : 0,
+    "name" : "Lumin",
+    "ethscription_id" : "0x24555588fcc385ea2b1f9a07158d15a770890bd7b9fb1096f2b318ba7790ccb0",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Lumin"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Solar Streaks"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "16"
+    } ],
+    "description" : "",
+    "hash" : "931864a30ba5bd85bd6f23ebff6ca3c52ee8ca4c39bb28279565761fbee40930"
+  }, {
+    "id" : 0,
+    "name" : "Midas",
+    "ethscription_id" : "0x2e01398179a6890fc799a29615dfafb85f6c073cb15f33ee62ffae957a63795f",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Midas"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Solar Streaks"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "26"
+    } ],
+    "description" : "",
+    "hash" : "3544c83fa361b78e19b095d99d2ee82ebb73207d19ea05a6a782a4e80ed3c1cd"
+  }, {
+    "id" : 0,
+    "name" : "Gale",
+    "ethscription_id" : "0xa84184910c612fcddfc7a3193239f82adf9d9a92f71e456b93d4ef9e74831145",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Gale"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Skyline Sailors"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "2"
+    } ],
+    "description" : "",
+    "hash" : "b7aad883c641de7dc4667dbf39008b508fa417cb987fe341da8a0a4040933ada"
+  }, {
+    "id" : 0,
+    "name" : "Horizon",
+    "ethscription_id" : "0x3541af819a116f64f2ab90e076aa2c16117cf9954df10f7f6bc77523635b533b",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Horizon"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Skyline Sailors"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "52"
+    } ],
+    "description" : "",
+    "hash" : "8578878821d44a50d3a3370457594259d7af950aadb06f4d90ca2df960b7ea09"
+  }, {
+    "id" : 0,
+    "name" : "Marina",
+    "ethscription_id" : "0xc910489ca6a0cd12e1742e67bae1fd49dbce87eefb03b60b50e6c8340a7a4898",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Marina"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Skyline Sailors"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "1"
+    } ],
+    "description" : "",
+    "hash" : "f78ae8fed1452290ca392f775cbe2f4d935ee6fe5f6846a55a58fe1bff0956bc"
+  }, {
+    "id" : 0,
+    "name" : "Nautica",
+    "ethscription_id" : "0x14500032baa1be855125ee57b7ac56c7c401f10ddbf7606ba6113ef3ab874e55",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Nautica"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Skyline Sailors"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "40"
+    } ],
+    "description" : "",
+    "hash" : "20bc0f73abc47cd5897275a0b2c4e75e1c8578c750705b9b24b4ca6c15fca688"
+  }, {
+    "id" : 0,
+    "name" : "Dahlia",
+    "ethscription_id" : "0x2ee8b208bde72f2e241b89b11248904972f0a62792d4cd7b3b4a19e7551dc2a6",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Dahlia"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Amethyst Arrows"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "96"
+    } ],
+    "description" : "",
+    "hash" : "c07329964d76b3faed1febe982cdc9ed80c3caeeb8248d6f3d594997444e79a4"
+  }, {
+    "id" : 0,
+    "name" : "Iris",
+    "ethscription_id" : "0xe55ced1e2705933daa272b01a66c5596bf86e16217b59b598bef3f544123e46a",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Iris"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Amethyst Arrows"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "88"
+    } ],
+    "description" : "",
+    "hash" : "e979771cf81e9de8c11d69fdfee1b0ecfc6d4df5409f995f0aa2f48c47dc279d"
+  }, {
+    "id" : 0,
+    "name" : "Marigold",
+    "ethscription_id" : "0x6a584e2ede2c7507821f614d86cdf35832726e27bdcc0ed69e8a83bd6d8a6cbd",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Marigold"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Amethyst Arrows"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "0"
+    } ],
+    "description" : "",
+    "hash" : "5be897a7d8a7d6fe38d00ac830760c2e137690775ebe8419102fad48ee3b7880"
+  }, {
+    "id" : 0,
+    "name" : "Topaz",
+    "ethscription_id" : "0x0be814af6b60270f45432db2c325c57314a9c4f2534154471730d52c93ac2664",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Topaz"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Amethyst Arrows"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "18"
+    } ],
+    "description" : "",
+    "hash" : "68a1299f1c1793ca55d608a9f2910ce79f4858f452c16ca63c774e39e5da8cc7"
+  }, {
+    "id" : 0,
+    "name" : "Brick",
+    "ethscription_id" : "0x960668189f8e43e63e606eda6e94c0a08b8b6c199364780fc2a06a3adcad89e2",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Brick"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Cardinal Chargers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "11"
+    } ],
+    "description" : "",
+    "hash" : "342505c4233115c00f17aa193c90ae7253b4f0f196f29c4692f009ee71bfd6d9"
+  }, {
+    "id" : 0,
+    "name" : "Clay",
+    "ethscription_id" : "0x73a3d79aaf44e144d25788b111a15165ef204bb3cda78d9f23cc79b98edbbe33",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Clay"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Cardinal Chargers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "10"
+    } ],
+    "description" : "",
+    "hash" : "2b98784569533fe8d2207c5b99d2f08b44f553bea732cb516bd6ab553adc5473"
+  }, {
+    "id" : 0,
+    "name" : "Garnet",
+    "ethscription_id" : "0xd9135fb6134e0c14ad3f6687e0cc52165326fab957b21ca7869fa775da80cc18",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Garnet"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Cardinal Chargers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "30"
+    } ],
+    "description" : "",
+    "hash" : "1b01064e9874c1637c6936035ae4bb3dbdc8d197cd5ccbe28118f2a816512f73"
+  }, {
+    "id" : 0,
+    "name" : "Rusty",
+    "ethscription_id" : "0xa5a9fc7f171a5fafcd1f60d3e3a5505944734ae21faa640f431b83a6624115aa",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Rusty"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Cardinal Chargers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "87"
+    } ],
+    "description" : "",
+    "hash" : "b8d7a7d01f0b7f07e099f9e89de220a32fee4bd68f989ef7788fbfaabc871141"
+  }, {
+    "id" : 0,
+    "name" : "Cyclone",
+    "ethscription_id" : "0x112d80fbcc863930877936623da31507001d8b7c5286beff679bafc490fa257f",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Cyclone"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Azure Bolts"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "87"
+    } ],
+    "description" : "",
+    "hash" : "ce8755d4ad213e42d6d4f2568a8f89f30dd27ab893b147cba8ad76564c7a8dd6"
+  }, {
+    "id" : 0,
+    "name" : "Surge",
+    "ethscription_id" : "0x1112c747e4a3924f4208b91e4e810d34e6cdd0513c2302c03996dcf4e6e99908",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Surge"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Azure Bolts"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "4"
+    } ],
+    "description" : "",
+    "hash" : "58e38368258056a9a12c2a6e5ac85aabda4e3098e3f6494db3a21dc1d8b47b71"
+  }, {
+    "id" : 0,
+    "name" : "Tempest",
+    "ethscription_id" : "0x0ee2fc7c1f629582b45a66aa38852f8915f1ff1e6c1176f7187302b0be2f60d0",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Tempest"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Azure Bolts"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "3"
+    } ],
+    "description" : "",
+    "hash" : "95d5d1d7a627d913b6bda3784f9a4e5a3037bf62e2a1f7f66ec9861016e83160"
+  }, {
+    "id" : 0,
+    "name" : "Zephyr",
+    "ethscription_id" : "0xd595730140617ea6ba63c886be8d922f11a53295041bb56d701e0e3d105f9341",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Zephyr"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Azure Bolts"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "2"
+    } ],
+    "description" : "",
+    "hash" : "4324560d481add756fc84528b87fa6396c16333a22fe1fba4d8e80bc1af16188"
+  }, {
+    "id" : 0,
+    "name" : "Glint",
+    "ethscription_id" : "0xadb2c460763c3727ff7eee08c07542d9aac4eab76aa000506d8eabc0161d864b",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Glint"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Luminous Sparks"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "18"
+    } ],
+    "description" : "",
+    "hash" : "7ee463ab66c88e9af88a2ef7e2803c46f85bf566cdb80b8bf931e223594046c6"
+  }, {
+    "id" : 0,
+    "name" : "Bolt",
+    "ethscription_id" : "0xe2cc919910936f53b6250fe86e46f4c03c5b04ea4336d4d71d07212055055874",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Bolt"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Luminous Sparks"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "51"
+    } ],
+    "description" : "",
+    "hash" : "094ba3e6116cdf0a6b6eb2744e77b44fea65ee3a67df80cf882b6573482380c7"
+  }, {
+    "id" : 0,
+    "name" : "Navy",
+    "ethscription_id" : "0xbe6a99e9ae639a80631620c74ea2784a18480bf2308d5acc59a5ae45552848e8",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Navy"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Luminous Sparks"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "58"
+    } ],
+    "description" : "",
+    "hash" : "2c6eeb0dd5c68fe27d080079ae9d90a3d67215ad79120b908998e863a738e757"
+  }, {
+    "id" : 0,
+    "name" : "Sunny",
+    "ethscription_id" : "0x051da3dfbf3bdd37b75c48b1fc1d0ffbdc4305e55a89f680e2a1d2e13df78a4c",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Sunny"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Luminous Sparks"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "20"
+    } ],
+    "description" : "",
+    "hash" : "d21cdf0373a6f04764d39e1dbc9a2cfd6d1fedc92ab933bc72a673689abc451d"
+  }, {
+    "id" : 0,
+    "name" : "Citrus",
+    "ethscription_id" : "0xc4c18c9df48f4aabc5770d28a2425da7461abb73f84e549119c0db3035eea8fc",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Citrus"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Tangerine Titans"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "30"
+    } ],
+    "description" : "",
+    "hash" : "f809f320c0bc42642737a485a43758c7c844135631bfb0e201eb4435760729db"
+  }, {
+    "id" : 0,
+    "name" : "Mandarin",
+    "ethscription_id" : "0xe671d158d398782264e08fc747379668f79d6a5e21e0cf80884dfaa5f1fc4390",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Mandarin"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Tangerine Titans"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "48"
+    } ],
+    "description" : "",
+    "hash" : "193b3d4b7da68df2b2356ecdd7baa344276b691a6341c483d4916f3251c15b36"
+  }, {
+    "id" : 0,
+    "name" : "Saffron",
+    "ethscription_id" : "0x3c0eb279f933e8f328f6810f2928b510248d544fa907700d6af52f36a2da6942",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Saffron"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Tangerine Titans"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "10"
+    } ],
+    "description" : "",
+    "hash" : "fed1867386924c78dcea37e22c8dd6762cdfe8b02812d173bacde7ab673b1a58"
+  }, {
+    "id" : 0,
+    "name" : "Tango",
+    "ethscription_id" : "0x53dd085bf2436d4eb1e2cceca30acf856803f93b45c341495c4d9def8c187340",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Tango"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Tangerine Titans"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "33"
+    } ],
+    "description" : "",
+    "hash" : "c95218490d5ceb80960b3a206e1372267bef41b20bd9204a8cbce1584637d540"
+  }, {
+    "id" : 0,
+    "name" : "Zest",
+    "ethscription_id" : "0x967dcc90c55192326373d5fafbd41cc04916c0f0dd356872b3a7a7f69efd72c8",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Zest"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Tangerine Titans"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "5"
+    } ],
+    "description" : "",
+    "hash" : "478506e4d803e4921bb37d23b7d01771bbe6cebc53e379d7229c9d9fa1b96a82"
+  }, {
+    "id" : 0,
+    "name" : "Birch",
+    "ethscription_id" : "0x4174de9c84b9413f7541d8c582eba874dadcce0a5d81b05a6b15597e457980b9",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Birch"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Jade Jets"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "8"
+    } ],
+    "description" : "",
+    "hash" : "81c1c826d2aacdc7b7eb0613d4e830782e597dd6804b73570877838b9b7f58c9"
+  }, {
+    "id" : 0,
+    "name" : "Cedar",
+    "ethscription_id" : "0xc09f57097a7cad6268bed5b7ee14ad35e35b24080a395d762a756addbdb430f8",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Cedar"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Jade Jets"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "6"
+    } ],
+    "description" : "",
+    "hash" : "f6da0150e9eb8bcd7860da6f405bc5cec22633303d536c916af485fac5dace91"
+  }, {
+    "id" : 0,
+    "name" : "Ebony",
+    "ethscription_id" : "0xbb9b757de0db6b2923ca96400cb99bbb44602fd94e373a33a6d0bacbaa60e7b6",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Ebony"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Jade Jets"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "11"
+    } ],
+    "description" : "",
+    "hash" : "b69be60c1ee51ee8e79777e2f9b1ad337a7763635c7e3fd5ddfbec08ba05b5fd"
+  }, {
+    "id" : 0,
+    "name" : "Sprout",
+    "ethscription_id" : "0x041bbdbf4ddcb0bca9ebd76bb2597d9303b67114d904642174710435d57f2dca",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Sprout"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Jade Jets"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "7"
+    } ],
+    "description" : "",
+    "hash" : "77fd198e5d70a369c3d0ddbe4bce5fe1ed07ccb3909efd91af9e828368b34fd3"
+  }, {
+    "id" : 0,
+    "name" : "Willow",
+    "ethscription_id" : "0x630baab2011f276a962cc232fe2f8ecac9fd76221ca7ea4fedfa8bec62bd5d2e",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Willow"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Jade Jets"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "14"
+    } ],
+    "description" : "",
+    "hash" : "c22c0556f5c8b1de26f3a8a3086c2cf85c7acba03d15c22544d7a337539ce375"
+  }, {
+    "id" : 0,
+    "name" : "Comet",
+    "ethscription_id" : "0x42f470d162e98758f874fdceca7086343374d4e8da0edd18a3ea5f1ba88a5687",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Comet"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Midnight Blazers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "19"
+    } ],
+    "description" : "",
+    "hash" : "2873f8a5ecfb6f014c8c941c03b52850c63a9e10d4dcb5e3a8874887f3e8e978"
+  }, {
+    "id" : 0,
+    "name" : "Eclipse",
+    "ethscription_id" : "0x5f7728ccdf9453c2a0fbfbbf08b0792cea217db23c85c2aad53767f0b4038d37",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Eclipse"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Midnight Blazers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "1"
+    } ],
+    "description" : "",
+    "hash" : "aaf937b7c905220bf9a6a56c5816ca7612ae6323d740d93fa7745a433ab47f94"
+  }, {
+    "id" : 0,
+    "name" : "Lunar",
+    "ethscription_id" : "0xde92ed331505d3713fc808737dd2d7b606ad7ae7ca075c2b3704556bc53d634e",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Lunar"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Midnight Blazers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "26"
+    } ],
+    "description" : "",
+    "hash" : "f0726f30c45ef8bba76ad7ce379f60b1d32c2d0ccab8c1e066450a3490d6cf73"
+  }, {
+    "id" : 0,
+    "name" : "Nebula",
+    "ethscription_id" : "0x925ed9c84e60fbfb78a752c12c86cc26edd2b1ba8bf419c525b91b96bbf66ad3",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Nebula"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Midnight Blazers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "88"
+    } ],
+    "description" : "",
+    "hash" : "14a3bc5e661b44da8439af96710f22ce80cd1a682fa57a8ba1db03c38da1edaa"
+  }, {
+    "id" : 0,
+    "name" : "Nova",
+    "ethscription_id" : "0xa72587c5904089cada9d731cd855fbda95ad92590049e2edaf011e8b7193107b",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Nova"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Midnight Blazers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "3"
+    } ],
+    "description" : "",
+    "hash" : "c6a8de0cee9c69b88748ff775d3b0a34acfcf081ee13407d77e91aca47bab9d1"
+  }, {
+    "id" : 0,
+    "name" : "Polaris",
+    "ethscription_id" : "0x9646c80676011b31d79850d61b4a453c21eb673a51cf0841b1e3d7eef43b4dfe",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Polaris"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Midnight Blazers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "17"
+    } ],
+    "description" : "",
+    "hash" : "4b6a67c6cbed7b9ecd5bef05b592a608c6b5e9fe338d4f297a68180297b13a2b"
+  }, {
+    "id" : 0,
+    "name" : "Blaze",
+    "ethscription_id" : "0x649ad999874204390b6fcddf2b56ff455efa4218392387d6e9cc6bbc6dc1a215",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Blaze"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Patriot Pioneers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "17"
+    } ],
+    "description" : "",
+    "hash" : "25f6e01fcd08bccb85d89e40dbe0b438e32734b4771be8fa0a89e4c6951908a0"
+  }, {
+    "id" : 0,
+    "name" : "Bluejay",
+    "ethscription_id" : "0xcab6af7f50823eca7e03546be054203308d7199d93f78a0814e216702d79fe27",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Bluejay"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Patriot Pioneers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "15"
+    } ],
+    "description" : "",
+    "hash" : "a4958c7eba6ee62c70d683d1915dcc1ecea15624fdfbdd0ae4eb25f0d0f71c60"
+  }, {
+    "id" : 0,
+    "name" : "Liberty",
+    "ethscription_id" : "0xebb4641e98cf19b3909e8396408728ad1326abd903e7beaf0fe57df71ebba927",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Liberty"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Patriot Pioneers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "88"
+    } ],
+    "description" : "",
+    "hash" : "e9872fc315f977eb87f5bd13a3a3721ba870123624257315efbd2d8d5c2fa683"
+  }, {
+    "id" : 0,
+    "name" : "Redhawk",
+    "ethscription_id" : "0xa209802d05bffea1dc691aaa06afbd6f96feaf45ad8a83e7bb8322973cf3e681",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Redhawk"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Patriot Pioneers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "54"
+    } ],
+    "description" : "",
+    "hash" : "ff0521d39a2af05f36d2f9b0391bf25deafd4a674ae1e0fb088dc818bbacbbbf"
+  }, {
+    "id" : 0,
+    "name" : "Stars",
+    "ethscription_id" : "0x9303cd0107f1d17863a9856ecdf03ef5c66e4ab5f461310f1b586265a3d714d2",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Stars"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Patriot Pioneers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "36"
+    } ],
+    "description" : "",
+    "hash" : "73408ad2d303c8e1499ae46029c3552f0a5eaf0bfa34086922e593067f977104"
+  }, {
+    "id" : 0,
+    "name" : "Stripe",
+    "ethscription_id" : "0x79d92555ca5e8bc8ee1b8d47079745d2c26addf4b6600e2cbedc45b4b846e4f4",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Stripe"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Patriot Pioneers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "98"
+    } ],
+    "description" : "",
+    "hash" : "afba982ce7281e7fdcaf3cb958f23b927ab5cb7d8831c477f08573fc472791db"
+  }, {
+    "id" : 0,
+    "name" : "Forest",
+    "ethscription_id" : "0xcd16d23b9016a984c00796efdd5bca5ff01cb27bd6d7bebb409d9d25596bb210",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Forest"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Emerald Enforcers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "52"
+    } ],
+    "description" : "",
+    "hash" : "a8c887e3ec87a7fb265bc42c2604a95fbdd421d83c825019338fe0044c72410f"
+  }, {
+    "id" : 0,
+    "name" : "Ivy",
+    "ethscription_id" : "0xcca7c6701af6936b26fd3e2d50318fcd9eb26368caf2782480b7e4f4d797cafd",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Ivy"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Emerald Enforcers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "24"
+    } ],
+    "description" : "",
+    "hash" : "0a2f8907cb66d2d8d1b8a86a0f8835e6ef8a3b98ad007ebb73904bb82a3740fe"
+  }, {
+    "id" : 0,
+    "name" : "Meadow",
+    "ethscription_id" : "0xe58c600e23f4ff296ecde66379023d6adaacb44c96b91ae9101d33fcd3386ae4",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Meadow"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Emerald Enforcers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "10"
+    } ],
+    "description" : "",
+    "hash" : "8a01c43bf2a55c25d6b1898e3ced4250903018ec4dbe5acebc6f4e0e056019e8"
+  }, {
+    "id" : 0,
+    "name" : "Sage",
+    "ethscription_id" : "0xaa1af3e5df1b6f51f421fc4f1fb4c9d28ca76143a6a0f4d65239e9eafc92d7d1",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Sage"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Emerald Enforcers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "87"
+    } ],
+    "description" : "",
+    "hash" : "517f421cb3d163f31a3f98ee17be84ae401d9b23e976a64f602c1a177bfb4b1f"
+  }, {
+    "id" : 0,
+    "name" : "Thicket",
+    "ethscription_id" : "0xefe360c7e68c897220be3fdfa5207c0db3d64f5d8fb86b0bb3020b38c22aac75",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Thicket"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Emerald Enforcers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "89"
+    } ],
+    "description" : "",
+    "hash" : "b5910eb46da6e6a926826f0668076edacde218c6121e69f7fc947db5ea46c4b2"
+  }, {
+    "id" : 0,
+    "name" : "Verde",
+    "ethscription_id" : "0x6843c7afa6cacc0e43609d6a46b9b72c837542a9a2a4c9d8f29c8cf65d5c3ae7",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Verde"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Emerald Enforcers"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "2"
+    } ],
+    "description" : "",
+    "hash" : "dce34fb4b4dc87b8bb69d7a50d4d9484d6fac427fc1041a2dbc1e0f54d9b1e35"
+  }, {
+    "id" : 0,
+    "name" : "Striker",
+    "ethscription_id" : "0x1d0c1dad75403e47316f85de9bc98f88b9ff2454448dd0a48f1a9aa792511021",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Striker"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "9"
+    } ],
+    "description" : "",
+    "hash" : "4fb3043a44a5cf8a77922cf8e0c437d83f32dcc4bf35ffc2d6da6e78a4365c1f"
+  }, {
+    "id" : 0,
+    "name" : "Blitz",
+    "ethscription_id" : "0x70bd8ae5c66da0011effe7d3f140dab30ff98460cda3f5584cc5c7bca197b722",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Blitz"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "97"
+    } ],
+    "description" : "",
+    "hash" : "f98bad31ebdca02714a8f56f6e8ce166177176d96346dc77a28041b805bf50d3"
+  }, {
+    "id" : 0,
+    "name" : "Ivory",
+    "ethscription_id" : "0x93229b13d93b11450e65ea87d4f181c68ac1180c5c7825f829722fc631df9127",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Ivory"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "85"
+    } ],
+    "description" : "",
+    "hash" : "9e085f8b4bcbf4e5d44699722249e568f6624dc73569b4ee42e8b9d67e678bd2"
+  }, {
+    "id" : 0,
+    "name" : "Phantom",
+    "ethscription_id" : "0x1e522c2135f7da17e01414a3cdb4ea490d5553b469e203dddcc4b01bd9bba20c",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Phantom"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "13"
+    } ],
+    "description" : "",
+    "hash" : "44484e462bf292a6aa4843f518a48536eddab80acbd45bc9073339031bccc658"
+  }, {
+    "id" : 0,
+    "name" : "Rush",
+    "ethscription_id" : "0x30f411a6f01ecbf2fe902bec96c0b8f9486c93618456975959dd389aeecbf0d5",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Rush"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "5"
+    } ],
+    "description" : "",
+    "hash" : "68fe3ee414b94c2c60c92612b3211465e674be4e7b5b7c5222cbb650e5ac2b76"
+  }, {
+    "id" : 0,
+    "name" : "Shadow",
+    "ethscription_id" : "0x447f3b24890e1ac9b473e88d88b9a166d505eb82330bbee8b2c414ff077e1426",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Shadow"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "31"
+    } ],
+    "description" : "",
+    "hash" : "4dd0ca5e0a6db74a40abf31364089542cd875adb11030a54867fccbe574b2491"
+  }, {
+    "id" : 0,
+    "name" : "Stealth",
+    "ethscription_id" : "0x42c6c1b05dd3b2a7dac2cc6e90b513f084d23526f531d7875b8aa0e290597ac4",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Stealth"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "20"
+    } ],
+    "description" : "",
+    "hash" : "ac63b4f5ed61c0f65c94ef992599d4fee0241ae86707b78d26528514077ae5cb"
+  }, {
+    "id" : 0,
+    "name" : "Swift",
+    "ethscription_id" : "0x73aa4efc933f30be2bfab7d5ff847a22e5ba4a69ba1c1ca6e8d0fd0df537e9d6",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Swift"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "91"
+    } ],
+    "description" : "",
+    "hash" : "9d763436a16fa4b6cd4089aaab1a8ab691064806c583189aeec331fc8d4a3880"
+  }, {
+    "id" : 0,
+    "name" : "Vanguard",
+    "ethscription_id" : "0x8fe50cdd60a3d6d025d417db1e6e4d2e0e25398998321e21cd12772ec604b590",
+    "item_attributes" : [ {
+      "trait_type" : "Player Name",
+      "value" : "Vanguard"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
+    }, {
+      "trait_type" : "Jersey Number",
+      "value" : "23"
+    } ],
+    "description" : "",
+    "hash" : "8a2840322ffd4f61f44274958f28ed8fea68cfa4fe4d3df569f59c17d4008094"
+  } ],
+  "hash" : "1f3d4b8cab3dedfcac3db04940bc971ddaced572413bd1b91e6157ae2fd9f49a"
+}
