@@ -9,7 +9,7 @@ import org.springframework.web.client.RestTemplate
 fun main(args: Array<String>) = runBlocking<Unit> {
     val repository = CollectionRepository()
 
-    listOf("mfpurrfect")
+    listOf("nodeplayers")
         .map { repository.get(it)!! }
         .map { it.collectionItems }
         .flatten()
