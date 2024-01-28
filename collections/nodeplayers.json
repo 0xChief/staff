@@ -4,1338 +4,1308 @@
   "banner_image_uri" : "",
   "total_supply" : 83,
   "slug" : "nodeplayers",
-  "description" : "NodePlayers features 87 digital athletes on the Ethereum blockchain, comprising 77 team players across 19 teams and 10 standalone superstars. Each player is immortalized with unique jersey numbers, encoded and stored on-chain.",
+  "description" : "NodePlayers features 87 digital athletes on the Ethereum blockchain...",
   "website_link" : null,
   "twitter_link" : "https://x.com/nodeplayers?s=21&t=c2E-6s6E5LJBIPtMHQxodA",
   "background_color" : null,
   "collection_items" : [ {
     "id" : 0,
-    "name" : "Gridiron",
+    "name" : "Node Player #01",
     "ethscription_id" : "0x881e8acf59d2eed2bfa7e8bf4bddde74da1bec69ed5faa93c46a2d5ef92204cc",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Gridiron"
     }, {
-      "trait_type" : "Team",
-      "value" : "Standalone Superstars"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "11"
     } ],
     "description" : "",
-    "hash" : "30d8719a9ada245209c063d42b6056968d526466e313c52d69242069e21db654"
+    "hash" : "5488b0b12eb1d283fefbbfb88bfd7499e2221a7c91802a0e5aa0c1cf971abbf1"
   }, {
     "id" : 0,
-    "name" : "Kaleido",
+    "name" : "Node Player #02",
     "ethscription_id" : "0x95a9a1003f8e55a6932c7b80608ec59e40d43dd3a68cf9a6f2fe07cf735de875",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Kaleido"
     }, {
-      "trait_type" : "Team",
-      "value" : "Standalone Superstars"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "14"
     } ],
     "description" : "",
-    "hash" : "9cfa261e316ec1559ea9fc05ed07b3a7a8dd613370f581c8bb5b2ad847e09e47"
+    "hash" : "2f0d7c132a3f62a2d756d8fafa75c0e93c47a5f0833b8072740621605147af69"
   }, {
     "id" : 0,
-    "name" : "Marlin",
+    "name" : "Node Player #03",
     "ethscription_id" : "0x496cbab96bcf03b729eba9758d935ea14308cd4b014d73e72202f7fd861561d1",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Marlin"
     }, {
-      "trait_type" : "Team",
-      "value" : "Standalone Superstars"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "15"
     } ],
     "description" : "",
-    "hash" : "1d99a28a3613c5ecc8cd0c7fb260fc4ab459d2e4df86176006ecb1932805ad4e"
+    "hash" : "210fc51acbd2d860e8eeead94e37f92b943f86bd11fdfe39e53dbb5d20d628d8"
   }, {
     "id" : 0,
-    "name" : "Meadow",
+    "name" : "Node Player #04",
     "ethscription_id" : "0xd41d84669a0445e3ad4daee88c9263537c2d971fd24efe5342d9649614af8b50",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Meadow"
     }, {
-      "trait_type" : "Team",
-      "value" : "Standalone Superstars"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "7"
     } ],
     "description" : "",
-    "hash" : "caa46b64823c0bda0aff573ef9eb8bf4f9c323191c442bd1e8c7f0616b0f8ff4"
+    "hash" : "d2f32294854afecd8064326bd1eb153420daeed7edc52b70169c6dcffa5daf7a"
   }, {
     "id" : 0,
-    "name" : "Nocturne",
+    "name" : "Node Player #05",
     "ethscription_id" : "0xba3187d862824f3be6143205eb8af4d1cb0b8ff4e0eff57e72de8b576ae0d3f5",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Nocturne"
     }, {
-      "trait_type" : "Team",
-      "value" : "Standalone Superstars"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "1"
     } ],
     "description" : "",
-    "hash" : "ceaa332f9b52c627f6bb2fbc1b193707a872675fb24ed84dde7047d2cf124511"
+    "hash" : "05d7374885ec7375177875b87c3b6f665e3be8b92133606a2001568b32a2856a"
   }, {
     "id" : 0,
-    "name" : "Raven",
+    "name" : "Node Player #06",
     "ethscription_id" : "0xdd64d84668666caf9bf87d9ecbb6b612b1d2f44448d82a2625f24982d6def168",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Raven"
     }, {
-      "trait_type" : "Team",
-      "value" : "Standalone Superstars"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "28"
     } ],
     "description" : "",
-    "hash" : "b4dd020ae723b71c4c82436011d0e4d672604323daebb6eda5d2444ebd49121e"
+    "hash" : "79d06276f816a6e41cd223c30caa9914dfb3c7da109a57fb278aaac6e45e3f3c"
   }, {
     "id" : 0,
-    "name" : "Riptide",
+    "name" : "Node Player #07",
     "ethscription_id" : "0x7754a9a0ae5f0e37071e405be19813c94bcb20807d9f91cb81df296d0324ef6a",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Riptide"
     }, {
-      "trait_type" : "Team",
-      "value" : "Standalone Superstars"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "28"
     } ],
     "description" : "",
-    "hash" : "e7a3339aa3973a18f65940d5958938ecd232717b64c59c25ab82b63384402d9a"
+    "hash" : "0edf30575d2e6ee5fb25de24245fee15dfcedc547398edc82b3ca4a188284794"
   }, {
     "id" : 0,
-    "name" : "Skipper",
+    "name" : "Node Player #08",
     "ethscription_id" : "0x90636970a50a0c6003f7157da51bdff6bf5855268d5ef095bf76600980968d69",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Skipper"
     }, {
-      "trait_type" : "Team",
-      "value" : "Standalone Superstars"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "14"
     } ],
     "description" : "",
-    "hash" : "49f40ce4092fbf6bc59e701fb8c28b608670a883626bcf287413dab7487dcef8"
+    "hash" : "f0b226f5390f6faff862ca706ec241fa4fe3881589ed2293aa0991809352b152"
   }, {
     "id" : 0,
-    "name" : "Tempest",
+    "name" : "Node Player #09",
     "ethscription_id" : "0x16535254781d12e7494398c40417245df82ab1950f3b6aac522fdc80e3dd18d4",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Tempest"
     }, {
-      "trait_type" : "Team",
-      "value" : "Standalone Superstars"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "28"
     } ],
     "description" : "",
-    "hash" : "8e72d93c1d161335f9bb1213b06285f441d80ed94a2aab3686e68431abae441d"
+    "hash" : "f9683b7cee0189d0cb7205fb29a192ae1e750b1f017c19237f38495afa19a21d"
   }, {
     "id" : 0,
-    "name" : "Tiger",
+    "name" : "Node Player #10",
     "ethscription_id" : "0xeb122aad2ed0e0d5b1ab94ba4b293372b3f70c0471836ab99e3ca268a3aff780",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Tiger"
     }, {
-      "trait_type" : "Team",
-      "value" : "Standalone Superstars"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "13"
     } ],
     "description" : "",
-    "hash" : "1793edaa92adb5eaadc2ba53368092e3f178ac5db548b9a52b739dbb319b3f34"
+    "hash" : "291ca672ca6c43ad7b560d17ee0ffbb1e954b9d0b331ea33a89b4bcdef8079ac"
   }, {
     "id" : 0,
-    "name" : "Lavender",
+    "name" : "Node Player #11",
     "ethscription_id" : "0xf27c76703fd76c29ea97b00ae2110830cf05b672f00df3c55853e3a7eb67155f",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Lavender"
     }, {
-      "trait_type" : "Team",
-      "value" : "Violet Voyagers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "23"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Violet Voyagers"
     } ],
     "description" : "",
-    "hash" : "295532a0e88058b31a8579608b4723336aaa6aa106f08e6f70bee8348b3633e4"
+    "hash" : "440cab7ba12d90443662008398e5257b4e68eff7dcbb139f13932975089d14d5"
   }, {
     "id" : 0,
-    "name" : "Orchid",
+    "name" : "Node Player #12",
     "ethscription_id" : "0xc0025e7d94764d71657cc2f077fd047538eeb2360215f1e94346f673b2672a59",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Orchid"
     }, {
-      "trait_type" : "Team",
-      "value" : "Violet Voyagers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "3"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Violet Voyagers"
     } ],
     "description" : "",
-    "hash" : "a74263ed1b6a29229974710fcb8aa65c34978095f639d7c56c12fb76c692527e"
+    "hash" : "305d746de35a255d28e1a31e6860dc5977ff7dfd37e85de48eaee67cb5167d60"
   }, {
     "id" : 0,
-    "name" : "Ember",
+    "name" : "Node Player #13",
     "ethscription_id" : "0x049b44e4869897944e6459e93311187d0afdfd0320611b60afacfe6585035498",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Ember"
     }, {
-      "trait_type" : "Team",
-      "value" : "Ruby Raptors"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "99"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Ruby Raptors"
     } ],
     "description" : "",
-    "hash" : "2b3dd45151e64415e23a0d082659c8d5e46fe5a42658128b5a4333b05c0d929d"
+    "hash" : "0371cea1bc6888295e85dc975f2cbd9a2be98e0b7aa7d3355a0ead29dd597860"
   }, {
     "id" : 0,
-    "name" : "Flare",
+    "name" : "Node Player #14",
     "ethscription_id" : "0x18f59264073dd4db040a892037b6cd398d8346332f9f5afdbc8f29cd49587efb",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Flare"
     }, {
-      "trait_type" : "Team",
-      "value" : "Ruby Raptors"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "84"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Ruby Raptors"
     } ],
     "description" : "",
-    "hash" : "2fb31d38bc67c090e5b5f20b2a7b9bf3e76f2aab97db5ed5e31886e37414b6fe"
+    "hash" : "6b8b5d0d79ec31d732bcd1aa37c0857e14686256659a5229f59e1ad5a20eac37"
   }, {
     "id" : 0,
-    "name" : "Scorch",
+    "name" : "Node Player #15",
     "ethscription_id" : "0x337d5adc939c7db98bd22d39bf0331edbac15b81033b29823db45de81252e69f",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Scorch"
     }, {
-      "trait_type" : "Team",
-      "value" : "Inferno Shadow"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "46"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Inferno Shadow"
     } ],
     "description" : "",
-    "hash" : "d8bb9ce2394181fc088de7a7dd971ad12e7aab416c7fb6cae8e2e64f9af581ed"
+    "hash" : "134ca2577804fd988f3a5ef5fcf67cccbe6b6c7e9e7fbb4ee900fcd5a68d8328"
   }, {
     "id" : 0,
-    "name" : "Pyre",
+    "name" : "Node Player #16",
     "ethscription_id" : "0xe977760febfbacf482271e74c375343c31c2afa0430136c2f388e0856c1e513d",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Pyre"
     }, {
-      "trait_type" : "Team",
-      "value" : "Inferno Shadow"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "91"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Inferno Shadow"
     } ],
     "description" : "",
-    "hash" : "6dccc3985cd434aef4fbff3775b65b8810c141f5a6d10df5f65abb8f136d86f9"
+    "hash" : "4c3f6f5f873b9d2d934e8871d8cf31c359fc39a41d1c8da39dddfd0a797aca6a"
   }, {
     "id" : 0,
-    "name" : "Comet",
+    "name" : "Node Player #17",
     "ethscription_id" : "0xd6e764d184ef8c3542cd870aacff7f2f5939a3406526fba8addcd2b2ef94a774",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Comet"
     }, {
-      "trait_type" : "Team",
-      "value" : "Sunfire Sprinters"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "11"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Sunfire Sprinters"
     } ],
     "description" : "",
-    "hash" : "31136d1226d2a0a9f44f3d5b2e3a70df987cb91564b3d8001cf90a8a066556d9"
+    "hash" : "8972465c87762ad5472aa5d461d3ddf51077aaf4d70db6b61295c1a8698df966"
   }, {
     "id" : 0,
-    "name" : "Solar",
+    "name" : "Node Player #18",
     "ethscription_id" : "0x43af931129bd17aa483feabfade99ab0a0ec98a222c8f8e76a634f844ea40f97",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Solar"
     }, {
-      "trait_type" : "Team",
-      "value" : "Sunfire Sprinters"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "20"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Sunfire Sprinters"
     } ],
     "description" : "",
-    "hash" : "deb9c9a6aaedf3e7a736892046206e889045fd48dd192907db103f87df52cf7a"
+    "hash" : "de509b0c1d5af657cf71aec0872d45df6346af501682568ed6a0ac89cdea6aa5"
   }, {
     "id" : 0,
-    "name" : "Torch",
+    "name" : "Node Player #19",
     "ethscription_id" : "0xf55508bb2863cd94d8089542fe938c082fadf41d5cbda3ee995d04b57bc0db40",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Torch"
     }, {
-      "trait_type" : "Team",
-      "value" : "Sunfire Sprinters"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "84"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Sunfire Sprinters"
     } ],
     "description" : "",
-    "hash" : "e7afee9e7c91d286c91aa9e21703094a9a2ec27af50692ae6b46927fa76dd67f"
+    "hash" : "31c93544929c155111d30d6a8dc958b1574be2705d25c894e033ad55139a9411"
   }, {
     "id" : 0,
-    "name" : "Dune",
+    "name" : "Node Player #20",
     "ethscription_id" : "0x9762dfc917a4fc6579ba26b146948b2c1ae5e0705785aa381673463f3e2b16d6",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Dune"
     }, {
-      "trait_type" : "Team",
-      "value" : "Golden Earthlings"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "7"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Golden Earthlings"
     } ],
     "description" : "",
-    "hash" : "3ae58bf1c0d789d4e4d4060b39c87e4548a3831a0773e7581bb0b54bf64288c8"
+    "hash" : "29a8928fa447712ad1f737a00fb6008f51d50a0a6a0a609047f3799f30977a69"
   }, {
     "id" : 0,
-    "name" : "Sahara",
+    "name" : "Node Player #21",
     "ethscription_id" : "0x0df8579e9e0e66619ca69beea236b2e6238931e4be5231981e266e2babec70e8",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Sahara"
     }, {
-      "trait_type" : "Team",
-      "value" : "Golden Earthlings"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "97"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Golden Earthlings"
     } ],
     "description" : "",
-    "hash" : "c2f48b83951cb2f627c7f00daaa7dac9e9820f83b356bf77819951edb610ab5a"
+    "hash" : "c46cb0750610f16c138478ff72324db98dd81f820a6dc4ea551597746083b642"
   }, {
     "id" : 0,
-    "name" : "Sirocco",
+    "name" : "Node Player #22",
     "ethscription_id" : "0x7e5c1f3d2d4d0a10c6b470661bc54ca3d50fa49ab67e152f775df2ba02a30a70",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Sirocco"
     }, {
-      "trait_type" : "Team",
-      "value" : "Golden Earthlings"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "2"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Golden Earthlings"
     } ],
     "description" : "",
-    "hash" : "334d7f13c44d990b6ccc154147032803264e21c4b7e9421a07d6360cf6cfa200"
+    "hash" : "95277028ef33847d9017b19b1fcc8909c56fe733ebd8e58f5658ae8794024938"
   }, {
     "id" : 0,
-    "name" : "Eclipse",
+    "name" : "Node Player #23",
     "ethscription_id" : "0x8ec627d675a33780084e28bac8020030b7818cc146b306033f25e317164a667e",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Eclipse"
     }, {
-      "trait_type" : "Team",
-      "value" : "Solar Streaks"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "83"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Solar Streaks"
     } ],
     "description" : "",
-    "hash" : "ec817d55f7e0fef32781101cb5db7fc558a009a1b290f49352a521d64429cfa4"
+    "hash" : "36441ad3cb7e012b160e99dd92a6c15e6a19ff9ced9be2e3f51622836026b6ac"
   }, {
     "id" : 0,
-    "name" : "Flash",
+    "name" : "Node Player #24",
     "ethscription_id" : "0x0b16d0fc8adbaddf0528c8a69501caab234c5b538120c14a1ec3bfb78d5e0ae1",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Flash"
     }, {
-      "trait_type" : "Team",
-      "value" : "Solar Streaks"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "3"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Solar Streaks"
     } ],
     "description" : "",
-    "hash" : "c98bd7c1401040e041775fbc8cfa7701169c705a41fe0dfb88bc866e6ebc5649"
+    "hash" : "74c25cf59f2d09cb1b89a1145a4e1be5ae1898204960c711a993794823048fbf"
   }, {
     "id" : 0,
-    "name" : "Lumin",
+    "name" : "Node Player #25",
     "ethscription_id" : "0x24555588fcc385ea2b1f9a07158d15a770890bd7b9fb1096f2b318ba7790ccb0",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Lumin"
     }, {
-      "trait_type" : "Team",
-      "value" : "Solar Streaks"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "16"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Solar Streaks"
     } ],
     "description" : "",
-    "hash" : "931864a30ba5bd85bd6f23ebff6ca3c52ee8ca4c39bb28279565761fbee40930"
+    "hash" : "1624637651924876eb7f618796f49a0b6881796b8ca08eed13d729b752e952ed"
   }, {
     "id" : 0,
-    "name" : "Midas",
+    "name" : "Node Player #26",
     "ethscription_id" : "0x2e01398179a6890fc799a29615dfafb85f6c073cb15f33ee62ffae957a63795f",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Midas"
     }, {
-      "trait_type" : "Team",
-      "value" : "Solar Streaks"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "26"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Solar Streaks"
     } ],
     "description" : "",
-    "hash" : "3544c83fa361b78e19b095d99d2ee82ebb73207d19ea05a6a782a4e80ed3c1cd"
+    "hash" : "835d34e09c3111c459e6db17b0b1f35194cf9c58d2b7020575a8e746cca8a7a3"
   }, {
     "id" : 0,
-    "name" : "Gale",
+    "name" : "Node Player #27",
     "ethscription_id" : "0xa84184910c612fcddfc7a3193239f82adf9d9a92f71e456b93d4ef9e74831145",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Gale"
     }, {
-      "trait_type" : "Team",
-      "value" : "Skyline Sailors"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "2"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Skyline Sailors"
     } ],
     "description" : "",
-    "hash" : "b7aad883c641de7dc4667dbf39008b508fa417cb987fe341da8a0a4040933ada"
+    "hash" : "a23d51ff58dade28638603c60b71feb05178e2eb4f7f59bdaa691b74c7d30095"
   }, {
     "id" : 0,
-    "name" : "Horizon",
+    "name" : "Node Player #28",
     "ethscription_id" : "0x3541af819a116f64f2ab90e076aa2c16117cf9954df10f7f6bc77523635b533b",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Horizon"
     }, {
-      "trait_type" : "Team",
-      "value" : "Skyline Sailors"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "52"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Skyline Sailors"
     } ],
     "description" : "",
-    "hash" : "8578878821d44a50d3a3370457594259d7af950aadb06f4d90ca2df960b7ea09"
+    "hash" : "9f173ff51e4cf793bbe1eab3e12491dc7a5d523561be544fbc2896a30e4a5db3"
   }, {
     "id" : 0,
-    "name" : "Marina",
+    "name" : "Node Player #29",
     "ethscription_id" : "0xc910489ca6a0cd12e1742e67bae1fd49dbce87eefb03b60b50e6c8340a7a4898",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Marina"
     }, {
-      "trait_type" : "Team",
-      "value" : "Skyline Sailors"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "1"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Skyline Sailors"
     } ],
     "description" : "",
-    "hash" : "f78ae8fed1452290ca392f775cbe2f4d935ee6fe5f6846a55a58fe1bff0956bc"
+    "hash" : "83d6b9be2b3351fc12c268436e6d029c8dcf252a6dc90c708990124e909948aa"
   }, {
     "id" : 0,
-    "name" : "Nautica",
+    "name" : "Node Player #30",
     "ethscription_id" : "0x14500032baa1be855125ee57b7ac56c7c401f10ddbf7606ba6113ef3ab874e55",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Nautica"
     }, {
-      "trait_type" : "Team",
-      "value" : "Skyline Sailors"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "40"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Skyline Sailors"
     } ],
     "description" : "",
-    "hash" : "20bc0f73abc47cd5897275a0b2c4e75e1c8578c750705b9b24b4ca6c15fca688"
+    "hash" : "54a32b7b6ec7384de71dfc4ae88c060899ca3181d6209323301fe4bac6580ef0"
   }, {
     "id" : 0,
-    "name" : "Dahlia",
+    "name" : "Node Player #31",
     "ethscription_id" : "0x2ee8b208bde72f2e241b89b11248904972f0a62792d4cd7b3b4a19e7551dc2a6",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Dahlia"
     }, {
-      "trait_type" : "Team",
-      "value" : "Amethyst Arrows"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "96"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Amethyst Arrows"
     } ],
     "description" : "",
-    "hash" : "c07329964d76b3faed1febe982cdc9ed80c3caeeb8248d6f3d594997444e79a4"
+    "hash" : "c02712b2f8d807d86a748b5d7b6269df9ca73b6e6459433196d5f2c9d1826897"
   }, {
     "id" : 0,
-    "name" : "Iris",
+    "name" : "Node Player #32",
     "ethscription_id" : "0xe55ced1e2705933daa272b01a66c5596bf86e16217b59b598bef3f544123e46a",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Iris"
     }, {
-      "trait_type" : "Team",
-      "value" : "Amethyst Arrows"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "88"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Amethyst Arrows"
     } ],
     "description" : "",
-    "hash" : "e979771cf81e9de8c11d69fdfee1b0ecfc6d4df5409f995f0aa2f48c47dc279d"
+    "hash" : "d1536e553331a10f8666302cb5c499ac41dad081e1ccd159d9844d0aff7bfb5d"
   }, {
     "id" : 0,
-    "name" : "Marigold",
+    "name" : "Node Player #33",
     "ethscription_id" : "0x6a584e2ede2c7507821f614d86cdf35832726e27bdcc0ed69e8a83bd6d8a6cbd",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Marigold"
     }, {
-      "trait_type" : "Team",
-      "value" : "Amethyst Arrows"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "0"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Amethyst Arrows"
     } ],
     "description" : "",
-    "hash" : "5be897a7d8a7d6fe38d00ac830760c2e137690775ebe8419102fad48ee3b7880"
+    "hash" : "6f0391c9ff29f1d38f803b1b85c392acd3dc9ea9d04d7b695fa9bc474bd0e67f"
   }, {
     "id" : 0,
-    "name" : "Topaz",
+    "name" : "Node Player #34",
     "ethscription_id" : "0x0be814af6b60270f45432db2c325c57314a9c4f2534154471730d52c93ac2664",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Topaz"
     }, {
-      "trait_type" : "Team",
-      "value" : "Amethyst Arrows"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "18"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Amethyst Arrows"
     } ],
     "description" : "",
-    "hash" : "68a1299f1c1793ca55d608a9f2910ce79f4858f452c16ca63c774e39e5da8cc7"
+    "hash" : "e7e636c8cf513a8c5a5dd074c799bd925b3f720ec95cdf1bd51031a1f42aab8d"
   }, {
     "id" : 0,
-    "name" : "Brick",
+    "name" : "Node Player #35",
     "ethscription_id" : "0x960668189f8e43e63e606eda6e94c0a08b8b6c199364780fc2a06a3adcad89e2",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Brick"
     }, {
-      "trait_type" : "Team",
-      "value" : "Cardinal Chargers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "11"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Cardinal Chargers"
     } ],
     "description" : "",
-    "hash" : "342505c4233115c00f17aa193c90ae7253b4f0f196f29c4692f009ee71bfd6d9"
+    "hash" : "c72419f58f60055534f760b4f839016f075ebd8c9181e8885ee15816997b1d8a"
   }, {
     "id" : 0,
-    "name" : "Clay",
+    "name" : "Node Player #36",
     "ethscription_id" : "0x73a3d79aaf44e144d25788b111a15165ef204bb3cda78d9f23cc79b98edbbe33",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Clay"
     }, {
-      "trait_type" : "Team",
-      "value" : "Cardinal Chargers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "10"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Cardinal Chargers"
     } ],
     "description" : "",
-    "hash" : "2b98784569533fe8d2207c5b99d2f08b44f553bea732cb516bd6ab553adc5473"
+    "hash" : "50c9bd192f43e1beb96201a6682939e1709d1db778d5822f21cef0b98c4a388c"
   }, {
     "id" : 0,
-    "name" : "Garnet",
+    "name" : "Node Player #37",
     "ethscription_id" : "0xd9135fb6134e0c14ad3f6687e0cc52165326fab957b21ca7869fa775da80cc18",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Garnet"
     }, {
-      "trait_type" : "Team",
-      "value" : "Cardinal Chargers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "30"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Cardinal Chargers"
     } ],
     "description" : "",
-    "hash" : "1b01064e9874c1637c6936035ae4bb3dbdc8d197cd5ccbe28118f2a816512f73"
+    "hash" : "6350e89e39707b2f184c15ac83dd941924380e60bd3d6806d80b5f2a7db81928"
   }, {
     "id" : 0,
-    "name" : "Rusty",
+    "name" : "Node Player #38",
     "ethscription_id" : "0xa5a9fc7f171a5fafcd1f60d3e3a5505944734ae21faa640f431b83a6624115aa",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Rusty"
     }, {
-      "trait_type" : "Team",
-      "value" : "Cardinal Chargers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "87"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Cardinal Chargers"
     } ],
     "description" : "",
-    "hash" : "b8d7a7d01f0b7f07e099f9e89de220a32fee4bd68f989ef7788fbfaabc871141"
+    "hash" : "ad28c469f3e4cb807ea1b8d273db062686d88ac161b9868e8fe6c18349d8b6e8"
   }, {
     "id" : 0,
-    "name" : "Cyclone",
+    "name" : "Node Player #39",
     "ethscription_id" : "0x112d80fbcc863930877936623da31507001d8b7c5286beff679bafc490fa257f",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Cyclone"
     }, {
-      "trait_type" : "Team",
-      "value" : "Azure Bolts"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "87"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Azure Bolts"
     } ],
     "description" : "",
-    "hash" : "ce8755d4ad213e42d6d4f2568a8f89f30dd27ab893b147cba8ad76564c7a8dd6"
+    "hash" : "45d88bf09a2dfbbbb0487f2e505dbcec5d11bb43aab82549d8340011518ade5f"
   }, {
     "id" : 0,
-    "name" : "Surge",
+    "name" : "Node Player #40",
     "ethscription_id" : "0x1112c747e4a3924f4208b91e4e810d34e6cdd0513c2302c03996dcf4e6e99908",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Surge"
     }, {
-      "trait_type" : "Team",
-      "value" : "Azure Bolts"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "4"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Azure Bolts"
     } ],
     "description" : "",
-    "hash" : "58e38368258056a9a12c2a6e5ac85aabda4e3098e3f6494db3a21dc1d8b47b71"
+    "hash" : "5e0161945f2c9da37c115c95ea03af170dce2bf91bde97e958b0e4de00aebace"
   }, {
     "id" : 0,
-    "name" : "Tempest",
+    "name" : "Node Player #41",
     "ethscription_id" : "0x0ee2fc7c1f629582b45a66aa38852f8915f1ff1e6c1176f7187302b0be2f60d0",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Tempest"
     }, {
-      "trait_type" : "Team",
-      "value" : "Azure Bolts"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "3"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Azure Bolts"
     } ],
     "description" : "",
-    "hash" : "95d5d1d7a627d913b6bda3784f9a4e5a3037bf62e2a1f7f66ec9861016e83160"
+    "hash" : "1ffa8ad37ac9fc4e119d7c19c0caa80c8cea0fe4eac5bfe5fe2846c04f6b452d"
   }, {
     "id" : 0,
-    "name" : "Zephyr",
+    "name" : "Node Player #42",
     "ethscription_id" : "0xd595730140617ea6ba63c886be8d922f11a53295041bb56d701e0e3d105f9341",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Zephyr"
     }, {
-      "trait_type" : "Team",
-      "value" : "Azure Bolts"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "2"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Azure Bolts"
     } ],
     "description" : "",
-    "hash" : "4324560d481add756fc84528b87fa6396c16333a22fe1fba4d8e80bc1af16188"
+    "hash" : "440a7c0ef0ad22f648c291c285fdfe4004b75d631005bd9df576d5362c6eb7de"
   }, {
     "id" : 0,
-    "name" : "Glint",
+    "name" : "Node Player #43",
     "ethscription_id" : "0xadb2c460763c3727ff7eee08c07542d9aac4eab76aa000506d8eabc0161d864b",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Glint"
     }, {
-      "trait_type" : "Team",
-      "value" : "Luminous Sparks"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "18"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Luminous Sparks"
     } ],
     "description" : "",
-    "hash" : "7ee463ab66c88e9af88a2ef7e2803c46f85bf566cdb80b8bf931e223594046c6"
+    "hash" : "7f27c45b4a89cc5ccd9f629102411b64b4eb22668e8e67556265e67159a5a9c3"
   }, {
     "id" : 0,
-    "name" : "Bolt",
+    "name" : "Node Player #44",
     "ethscription_id" : "0xe2cc919910936f53b6250fe86e46f4c03c5b04ea4336d4d71d07212055055874",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Bolt"
     }, {
-      "trait_type" : "Team",
-      "value" : "Luminous Sparks"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "51"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Luminous Sparks"
     } ],
     "description" : "",
-    "hash" : "094ba3e6116cdf0a6b6eb2744e77b44fea65ee3a67df80cf882b6573482380c7"
+    "hash" : "110e363f792eb772954a5b134ef7da70973d6b0f038018a68f09e7bb3df43a5d"
   }, {
     "id" : 0,
-    "name" : "Navy",
+    "name" : "Node Player #45",
     "ethscription_id" : "0xbe6a99e9ae639a80631620c74ea2784a18480bf2308d5acc59a5ae45552848e8",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Navy"
     }, {
-      "trait_type" : "Team",
-      "value" : "Luminous Sparks"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "58"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Luminous Sparks"
     } ],
     "description" : "",
-    "hash" : "2c6eeb0dd5c68fe27d080079ae9d90a3d67215ad79120b908998e863a738e757"
+    "hash" : "a3edb124915b7f390492597623ffe2587a4db5c41bda2c9d3ee8bf5a9c82aa6c"
   }, {
     "id" : 0,
-    "name" : "Sunny",
+    "name" : "Node Player #46",
     "ethscription_id" : "0x051da3dfbf3bdd37b75c48b1fc1d0ffbdc4305e55a89f680e2a1d2e13df78a4c",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Sunny"
     }, {
-      "trait_type" : "Team",
-      "value" : "Luminous Sparks"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "20"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Luminous Sparks"
     } ],
     "description" : "",
-    "hash" : "d21cdf0373a6f04764d39e1dbc9a2cfd6d1fedc92ab933bc72a673689abc451d"
+    "hash" : "7b9778d1e08fbe535f787c6524a397089aac9ddebb1cf05860da30a0ff99ab46"
   }, {
     "id" : 0,
-    "name" : "Citrus",
+    "name" : "Node Player #47",
     "ethscription_id" : "0xc4c18c9df48f4aabc5770d28a2425da7461abb73f84e549119c0db3035eea8fc",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Citrus"
     }, {
-      "trait_type" : "Team",
-      "value" : "Tangerine Titans"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "30"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Tangerine Titans"
     } ],
     "description" : "",
-    "hash" : "f809f320c0bc42642737a485a43758c7c844135631bfb0e201eb4435760729db"
+    "hash" : "ca4ea49a2c673f74807def9fe3d31ce7d5665662e1935d77f30a14a1c02e1b4b"
   }, {
     "id" : 0,
-    "name" : "Mandarin",
+    "name" : "Node Player #48",
     "ethscription_id" : "0xe671d158d398782264e08fc747379668f79d6a5e21e0cf80884dfaa5f1fc4390",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Mandarin"
     }, {
-      "trait_type" : "Team",
-      "value" : "Tangerine Titans"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "48"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Tangerine Titans"
     } ],
     "description" : "",
-    "hash" : "193b3d4b7da68df2b2356ecdd7baa344276b691a6341c483d4916f3251c15b36"
+    "hash" : "cf5b39b7ac87fd15b1cd0cb9191a19e8d678b39de36bf326e3df53ff2b7db5ef"
   }, {
     "id" : 0,
-    "name" : "Saffron",
+    "name" : "Node Player #49",
     "ethscription_id" : "0x3c0eb279f933e8f328f6810f2928b510248d544fa907700d6af52f36a2da6942",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Saffron"
     }, {
-      "trait_type" : "Team",
-      "value" : "Tangerine Titans"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "10"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Tangerine Titans"
     } ],
     "description" : "",
-    "hash" : "fed1867386924c78dcea37e22c8dd6762cdfe8b02812d173bacde7ab673b1a58"
+    "hash" : "160d3365537636e22009812c166b2df1afa2ab3863ed43ce5a4f7855f98ae6f6"
   }, {
     "id" : 0,
-    "name" : "Tango",
+    "name" : "Node Player #50",
     "ethscription_id" : "0x53dd085bf2436d4eb1e2cceca30acf856803f93b45c341495c4d9def8c187340",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Tango"
     }, {
-      "trait_type" : "Team",
-      "value" : "Tangerine Titans"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "33"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Tangerine Titans"
     } ],
     "description" : "",
-    "hash" : "c95218490d5ceb80960b3a206e1372267bef41b20bd9204a8cbce1584637d540"
+    "hash" : "ff3ae98d618fb8a9f5f30951b81d2533797f278d4d99d5fa66422d5115c62299"
   }, {
     "id" : 0,
-    "name" : "Zest",
+    "name" : "Node Player #51",
     "ethscription_id" : "0x967dcc90c55192326373d5fafbd41cc04916c0f0dd356872b3a7a7f69efd72c8",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Zest"
     }, {
-      "trait_type" : "Team",
-      "value" : "Tangerine Titans"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "5"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Tangerine Titans"
     } ],
     "description" : "",
-    "hash" : "478506e4d803e4921bb37d23b7d01771bbe6cebc53e379d7229c9d9fa1b96a82"
+    "hash" : "b0121d786e145d058a57484a7993196513d3f3187890d489abca68143cb3b5dd"
   }, {
     "id" : 0,
-    "name" : "Birch",
+    "name" : "Node Player #52",
     "ethscription_id" : "0x4174de9c84b9413f7541d8c582eba874dadcce0a5d81b05a6b15597e457980b9",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Birch"
     }, {
-      "trait_type" : "Team",
-      "value" : "Jade Jets"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "8"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Jade Jets"
     } ],
     "description" : "",
-    "hash" : "81c1c826d2aacdc7b7eb0613d4e830782e597dd6804b73570877838b9b7f58c9"
+    "hash" : "f4425db881ed181d7952decf0186b88c3fd46335dc1e2664360d9bac5fb40759"
   }, {
     "id" : 0,
-    "name" : "Cedar",
+    "name" : "Node Player #53",
     "ethscription_id" : "0xc09f57097a7cad6268bed5b7ee14ad35e35b24080a395d762a756addbdb430f8",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Cedar"
     }, {
-      "trait_type" : "Team",
-      "value" : "Jade Jets"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "6"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Jade Jets"
     } ],
     "description" : "",
-    "hash" : "f6da0150e9eb8bcd7860da6f405bc5cec22633303d536c916af485fac5dace91"
+    "hash" : "91c381dffccafd3d9812998ce1006e384e0b5646a9e48a875c13dbb15dd06313"
   }, {
     "id" : 0,
-    "name" : "Ebony",
+    "name" : "Node Player #54",
     "ethscription_id" : "0xbb9b757de0db6b2923ca96400cb99bbb44602fd94e373a33a6d0bacbaa60e7b6",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Ebony"
     }, {
-      "trait_type" : "Team",
-      "value" : "Jade Jets"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "11"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Jade Jets"
     } ],
     "description" : "",
-    "hash" : "b69be60c1ee51ee8e79777e2f9b1ad337a7763635c7e3fd5ddfbec08ba05b5fd"
+    "hash" : "2a22d5bd95edf9fb30e6a197104a16080927dedfae96730ccbbdee46eac36ff3"
   }, {
     "id" : 0,
-    "name" : "Sprout",
+    "name" : "Node Player #55",
     "ethscription_id" : "0x041bbdbf4ddcb0bca9ebd76bb2597d9303b67114d904642174710435d57f2dca",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Sprout"
     }, {
-      "trait_type" : "Team",
-      "value" : "Jade Jets"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "7"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Jade Jets"
     } ],
     "description" : "",
-    "hash" : "77fd198e5d70a369c3d0ddbe4bce5fe1ed07ccb3909efd91af9e828368b34fd3"
+    "hash" : "d55f13d9b670c376e2ffedd0cc085124e102f3b49d34eb2c54a31b62d66d6c7d"
   }, {
     "id" : 0,
-    "name" : "Willow",
+    "name" : "Node Player #56",
     "ethscription_id" : "0x630baab2011f276a962cc232fe2f8ecac9fd76221ca7ea4fedfa8bec62bd5d2e",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Willow"
     }, {
-      "trait_type" : "Team",
-      "value" : "Jade Jets"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "14"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Jade Jets"
     } ],
     "description" : "",
-    "hash" : "c22c0556f5c8b1de26f3a8a3086c2cf85c7acba03d15c22544d7a337539ce375"
+    "hash" : "ac3fedd5b81aa5560e81c1b2f6e288eacdcd6d1b9ae1321c228a10d7bb2d75c4"
   }, {
     "id" : 0,
-    "name" : "Comet",
+    "name" : "Node Player #57",
     "ethscription_id" : "0x42f470d162e98758f874fdceca7086343374d4e8da0edd18a3ea5f1ba88a5687",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Comet"
     }, {
-      "trait_type" : "Team",
-      "value" : "Midnight Blazers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "19"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Midnight Blazers"
     } ],
     "description" : "",
-    "hash" : "2873f8a5ecfb6f014c8c941c03b52850c63a9e10d4dcb5e3a8874887f3e8e978"
+    "hash" : "bb6d12391894a818f8a4093d85e84e05c0a1e345e8025a6cb739b52666d0a08a"
   }, {
     "id" : 0,
-    "name" : "Eclipse",
+    "name" : "Node Player #58",
     "ethscription_id" : "0x5f7728ccdf9453c2a0fbfbbf08b0792cea217db23c85c2aad53767f0b4038d37",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Eclipse"
     }, {
-      "trait_type" : "Team",
-      "value" : "Midnight Blazers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "1"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Midnight Blazers"
     } ],
     "description" : "",
-    "hash" : "aaf937b7c905220bf9a6a56c5816ca7612ae6323d740d93fa7745a433ab47f94"
+    "hash" : "5ae020e9fa3085867baf973f7df52d921b923c4bfe75c67a2881adc90be363a2"
   }, {
     "id" : 0,
-    "name" : "Lunar",
+    "name" : "Node Player #59",
     "ethscription_id" : "0xde92ed331505d3713fc808737dd2d7b606ad7ae7ca075c2b3704556bc53d634e",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Lunar"
     }, {
-      "trait_type" : "Team",
-      "value" : "Midnight Blazers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "26"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Midnight Blazers"
     } ],
     "description" : "",
-    "hash" : "f0726f30c45ef8bba76ad7ce379f60b1d32c2d0ccab8c1e066450a3490d6cf73"
+    "hash" : "341f7b73a83c7647ab014c282533905a547801428f4ada2ab66e15f4469df0a1"
   }, {
     "id" : 0,
-    "name" : "Nebula",
+    "name" : "Node Player #60",
     "ethscription_id" : "0x925ed9c84e60fbfb78a752c12c86cc26edd2b1ba8bf419c525b91b96bbf66ad3",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Nebula"
     }, {
-      "trait_type" : "Team",
-      "value" : "Midnight Blazers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "88"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Midnight Blazers"
     } ],
     "description" : "",
-    "hash" : "14a3bc5e661b44da8439af96710f22ce80cd1a682fa57a8ba1db03c38da1edaa"
+    "hash" : "acbd278ee5175e2bc4f524bfde986dc396428aa8c54d8db8c0175fa00c5dfcec"
   }, {
     "id" : 0,
-    "name" : "Nova",
+    "name" : "Node Player #61",
     "ethscription_id" : "0xa72587c5904089cada9d731cd855fbda95ad92590049e2edaf011e8b7193107b",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Nova"
     }, {
-      "trait_type" : "Team",
-      "value" : "Midnight Blazers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "3"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Midnight Blazers"
     } ],
     "description" : "",
-    "hash" : "c6a8de0cee9c69b88748ff775d3b0a34acfcf081ee13407d77e91aca47bab9d1"
+    "hash" : "767681e0c18e6d44855418f856fea3c3870bd601dd0f06a2f7c4e8f7d425ce1d"
   }, {
     "id" : 0,
-    "name" : "Polaris",
+    "name" : "Node Player #62",
     "ethscription_id" : "0x9646c80676011b31d79850d61b4a453c21eb673a51cf0841b1e3d7eef43b4dfe",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Polaris"
     }, {
-      "trait_type" : "Team",
-      "value" : "Midnight Blazers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "17"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Midnight Blazers"
     } ],
     "description" : "",
-    "hash" : "4b6a67c6cbed7b9ecd5bef05b592a608c6b5e9fe338d4f297a68180297b13a2b"
+    "hash" : "526d2af18a2e438d64dc139cfab8198ca08c3be13df4e0df2f4e214cae89cea7"
   }, {
     "id" : 0,
-    "name" : "Blaze",
+    "name" : "Node Player #63",
     "ethscription_id" : "0x649ad999874204390b6fcddf2b56ff455efa4218392387d6e9cc6bbc6dc1a215",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Blaze"
     }, {
-      "trait_type" : "Team",
-      "value" : "Patriot Pioneers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "17"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Patriot Pioneers"
     } ],
     "description" : "",
-    "hash" : "25f6e01fcd08bccb85d89e40dbe0b438e32734b4771be8fa0a89e4c6951908a0"
+    "hash" : "363e804af4d4ef8d81f40a4b052da43c0395e29c202ad2fa8de86223e147f6f7"
   }, {
     "id" : 0,
-    "name" : "Bluejay",
+    "name" : "Node Player #64",
     "ethscription_id" : "0xcab6af7f50823eca7e03546be054203308d7199d93f78a0814e216702d79fe27",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Bluejay"
     }, {
-      "trait_type" : "Team",
-      "value" : "Patriot Pioneers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "15"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Patriot Pioneers"
     } ],
     "description" : "",
-    "hash" : "a4958c7eba6ee62c70d683d1915dcc1ecea15624fdfbdd0ae4eb25f0d0f71c60"
+    "hash" : "8512382326863d7e20f7c275446753ddc567d20027a1635264f97c5606d56482"
   }, {
     "id" : 0,
-    "name" : "Liberty",
+    "name" : "Node Player #65",
     "ethscription_id" : "0xebb4641e98cf19b3909e8396408728ad1326abd903e7beaf0fe57df71ebba927",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Liberty"
     }, {
-      "trait_type" : "Team",
-      "value" : "Patriot Pioneers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "88"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Patriot Pioneers"
     } ],
     "description" : "",
-    "hash" : "e9872fc315f977eb87f5bd13a3a3721ba870123624257315efbd2d8d5c2fa683"
+    "hash" : "a5c85fb3fdeb226db0fe93071bc887ddc6bd728e4caa6c07655ec9c0b2ad9d2e"
   }, {
     "id" : 0,
-    "name" : "Redhawk",
+    "name" : "Node Player #66",
     "ethscription_id" : "0xa209802d05bffea1dc691aaa06afbd6f96feaf45ad8a83e7bb8322973cf3e681",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Redhawk"
     }, {
-      "trait_type" : "Team",
-      "value" : "Patriot Pioneers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "54"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Patriot Pioneers"
     } ],
     "description" : "",
-    "hash" : "ff0521d39a2af05f36d2f9b0391bf25deafd4a674ae1e0fb088dc818bbacbbbf"
+    "hash" : "dcd5449900efaa2c266216ca31b484019d28645a25c8b5478f079ffbce94328e"
   }, {
     "id" : 0,
-    "name" : "Stars",
+    "name" : "Node Player #67",
     "ethscription_id" : "0x9303cd0107f1d17863a9856ecdf03ef5c66e4ab5f461310f1b586265a3d714d2",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Stars"
     }, {
-      "trait_type" : "Team",
-      "value" : "Patriot Pioneers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "36"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Patriot Pioneers"
     } ],
     "description" : "",
-    "hash" : "73408ad2d303c8e1499ae46029c3552f0a5eaf0bfa34086922e593067f977104"
+    "hash" : "93e4a363d8f26d04f73cc64bd9ba362ebdbd70515678f599c4144ee744505111"
   }, {
     "id" : 0,
-    "name" : "Stripe",
+    "name" : "Node Player #68",
     "ethscription_id" : "0x79d92555ca5e8bc8ee1b8d47079745d2c26addf4b6600e2cbedc45b4b846e4f4",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Stripe"
     }, {
-      "trait_type" : "Team",
-      "value" : "Patriot Pioneers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "98"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Patriot Pioneers"
     } ],
     "description" : "",
-    "hash" : "afba982ce7281e7fdcaf3cb958f23b927ab5cb7d8831c477f08573fc472791db"
+    "hash" : "c949cdb4533e633d76ce5009f399382f3690e29de2d6f44b5283f55374b41e2b"
   }, {
     "id" : 0,
-    "name" : "Forest",
+    "name" : "Node Player #69",
     "ethscription_id" : "0xcd16d23b9016a984c00796efdd5bca5ff01cb27bd6d7bebb409d9d25596bb210",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Forest"
     }, {
-      "trait_type" : "Team",
-      "value" : "Emerald Enforcers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "52"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Emerald Enforcers"
     } ],
     "description" : "",
-    "hash" : "a8c887e3ec87a7fb265bc42c2604a95fbdd421d83c825019338fe0044c72410f"
+    "hash" : "cce14dc6beaeefd077932e4194a85e8b9d2841fb15879e76f43414846b2afde9"
   }, {
     "id" : 0,
-    "name" : "Ivy",
+    "name" : "Node Player #70",
     "ethscription_id" : "0xcca7c6701af6936b26fd3e2d50318fcd9eb26368caf2782480b7e4f4d797cafd",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Ivy"
     }, {
-      "trait_type" : "Team",
-      "value" : "Emerald Enforcers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "24"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Emerald Enforcers"
     } ],
     "description" : "",
-    "hash" : "0a2f8907cb66d2d8d1b8a86a0f8835e6ef8a3b98ad007ebb73904bb82a3740fe"
+    "hash" : "3391ac1199ec9181555e7d48e6ce1256a5a8c98af615132b8bbcf2d4e73fe0b3"
   }, {
     "id" : 0,
-    "name" : "Meadow",
+    "name" : "Node Player #71",
     "ethscription_id" : "0xe58c600e23f4ff296ecde66379023d6adaacb44c96b91ae9101d33fcd3386ae4",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Meadow"
     }, {
-      "trait_type" : "Team",
-      "value" : "Emerald Enforcers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "10"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Emerald Enforcers"
     } ],
     "description" : "",
-    "hash" : "8a01c43bf2a55c25d6b1898e3ced4250903018ec4dbe5acebc6f4e0e056019e8"
+    "hash" : "0ed542a94bdef7137b0cf0451c9a685257cefcc5b2aa100c8c2af66e42f83c5a"
   }, {
     "id" : 0,
-    "name" : "Sage",
+    "name" : "Node Player #72",
     "ethscription_id" : "0xaa1af3e5df1b6f51f421fc4f1fb4c9d28ca76143a6a0f4d65239e9eafc92d7d1",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Sage"
     }, {
-      "trait_type" : "Team",
-      "value" : "Emerald Enforcers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "87"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Emerald Enforcers"
     } ],
     "description" : "",
-    "hash" : "517f421cb3d163f31a3f98ee17be84ae401d9b23e976a64f602c1a177bfb4b1f"
+    "hash" : "cacdf906b390aecc497b075e443b06444c3c6ebea7bc51b10ec8a517e5d7662f"
   }, {
     "id" : 0,
-    "name" : "Thicket",
+    "name" : "Node Player #73",
     "ethscription_id" : "0xefe360c7e68c897220be3fdfa5207c0db3d64f5d8fb86b0bb3020b38c22aac75",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Thicket"
     }, {
-      "trait_type" : "Team",
-      "value" : "Emerald Enforcers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "89"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Emerald Enforcers"
     } ],
     "description" : "",
-    "hash" : "b5910eb46da6e6a926826f0668076edacde218c6121e69f7fc947db5ea46c4b2"
+    "hash" : "07ea1b7f8b932dbe2d23eff37e9b2a4bb5aa00ed207288d03ae636bbe1e368c7"
   }, {
     "id" : 0,
-    "name" : "Verde",
+    "name" : "Node Player #74",
     "ethscription_id" : "0x6843c7afa6cacc0e43609d6a46b9b72c837542a9a2a4c9d8f29c8cf65d5c3ae7",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Verde"
     }, {
-      "trait_type" : "Team",
-      "value" : "Emerald Enforcers"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "2"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Emerald Enforcers"
     } ],
     "description" : "",
-    "hash" : "dce34fb4b4dc87b8bb69d7a50d4d9484d6fac427fc1041a2dbc1e0f54d9b1e35"
+    "hash" : "f47152c70ba04fb6eb6ec889d09e5625d1257465bc2e24e86592e43030753c42"
   }, {
     "id" : 0,
-    "name" : "Striker",
+    "name" : "Node Player #75",
     "ethscription_id" : "0x1d0c1dad75403e47316f85de9bc98f88b9ff2454448dd0a48f1a9aa792511021",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Striker"
     }, {
-      "trait_type" : "Team",
-      "value" : "Crimson Raiders"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "9"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
     } ],
     "description" : "",
-    "hash" : "4fb3043a44a5cf8a77922cf8e0c437d83f32dcc4bf35ffc2d6da6e78a4365c1f"
+    "hash" : "19fd051931d1d9d1be8499a7e691032bb4ea38dcf962dff5a94354b7af03e9b6"
   }, {
     "id" : 0,
-    "name" : "Blitz",
+    "name" : "Node Player #76",
     "ethscription_id" : "0x70bd8ae5c66da0011effe7d3f140dab30ff98460cda3f5584cc5c7bca197b722",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Blitz"
     }, {
-      "trait_type" : "Team",
-      "value" : "Crimson Raiders"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "97"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
     } ],
     "description" : "",
-    "hash" : "f98bad31ebdca02714a8f56f6e8ce166177176d96346dc77a28041b805bf50d3"
+    "hash" : "b5398860584c7ce785608b061c67f2d683623ef0fd790092d50bc3461b41d536"
   }, {
     "id" : 0,
-    "name" : "Ivory",
+    "name" : "Node Player #77",
     "ethscription_id" : "0x93229b13d93b11450e65ea87d4f181c68ac1180c5c7825f829722fc631df9127",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Ivory"
     }, {
-      "trait_type" : "Team",
-      "value" : "Crimson Raiders"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "85"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
     } ],
     "description" : "",
-    "hash" : "9e085f8b4bcbf4e5d44699722249e568f6624dc73569b4ee42e8b9d67e678bd2"
+    "hash" : "d75b65d1a30b543874b13d3e08dae1c52964beac18b40a377162e27beadb7ad6"
   }, {
     "id" : 0,
-    "name" : "Phantom",
+    "name" : "Node Player #78",
     "ethscription_id" : "0x1e522c2135f7da17e01414a3cdb4ea490d5553b469e203dddcc4b01bd9bba20c",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Phantom"
     }, {
-      "trait_type" : "Team",
-      "value" : "Crimson Raiders"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "13"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
     } ],
     "description" : "",
-    "hash" : "44484e462bf292a6aa4843f518a48536eddab80acbd45bc9073339031bccc658"
+    "hash" : "73b431ccfce2fcfee84c182b99c8dc133407e9bc6374b1fcb52065753bcc22e3"
   }, {
     "id" : 0,
-    "name" : "Rush",
+    "name" : "Node Player #79",
     "ethscription_id" : "0x30f411a6f01ecbf2fe902bec96c0b8f9486c93618456975959dd389aeecbf0d5",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Rush"
     }, {
-      "trait_type" : "Team",
-      "value" : "Crimson Raiders"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "5"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
     } ],
     "description" : "",
-    "hash" : "68fe3ee414b94c2c60c92612b3211465e674be4e7b5b7c5222cbb650e5ac2b76"
+    "hash" : "748f3cacbd2258b2d7cc08a14ffe1f1c8cecef61187d78277b975e52cbc2fab8"
   }, {
     "id" : 0,
-    "name" : "Shadow",
+    "name" : "Node Player #80",
     "ethscription_id" : "0x447f3b24890e1ac9b473e88d88b9a166d505eb82330bbee8b2c414ff077e1426",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Shadow"
     }, {
-      "trait_type" : "Team",
-      "value" : "Crimson Raiders"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "31"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
     } ],
     "description" : "",
-    "hash" : "4dd0ca5e0a6db74a40abf31364089542cd875adb11030a54867fccbe574b2491"
+    "hash" : "b656f0baa58715925ced6fa47af6dd16ac8e1cc93d7405147d7229335b8e2827"
   }, {
     "id" : 0,
-    "name" : "Stealth",
+    "name" : "Node Player #81",
     "ethscription_id" : "0x42c6c1b05dd3b2a7dac2cc6e90b513f084d23526f531d7875b8aa0e290597ac4",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Stealth"
     }, {
-      "trait_type" : "Team",
-      "value" : "Crimson Raiders"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "20"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
     } ],
     "description" : "",
-    "hash" : "ac63b4f5ed61c0f65c94ef992599d4fee0241ae86707b78d26528514077ae5cb"
+    "hash" : "00377dbe3803ed8fe87dba1e3f7820b210ae51dfa6109edab344395569528d14"
   }, {
     "id" : 0,
-    "name" : "Swift",
+    "name" : "Node Player #82",
     "ethscription_id" : "0x73aa4efc933f30be2bfab7d5ff847a22e5ba4a69ba1c1ca6e8d0fd0df537e9d6",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Swift"
     }, {
-      "trait_type" : "Team",
-      "value" : "Crimson Raiders"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "91"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
     } ],
     "description" : "",
-    "hash" : "9d763436a16fa4b6cd4089aaab1a8ab691064806c583189aeec331fc8d4a3880"
+    "hash" : "dfd25126e0467b2abf3f7ecb78b9726415d828dc9ade34d6b8822a4f456b38ce"
   }, {
     "id" : 0,
-    "name" : "Vanguard",
+    "name" : "Node Player #83",
     "ethscription_id" : "0x8fe50cdd60a3d6d025d417db1e6e4d2e0e25398998321e21cd12772ec604b590",
     "item_attributes" : [ {
       "trait_type" : "Player Name",
       "value" : "Vanguard"
     }, {
-      "trait_type" : "Team",
-      "value" : "Crimson Raiders"
-    }, {
       "trait_type" : "Jersey Number",
       "value" : "23"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Crimson Raiders"
     } ],
     "description" : "",
-    "hash" : "8a2840322ffd4f61f44274958f28ed8fea68cfa4fe4d3df569f59c17d4008094"
+    "hash" : "7b157da9b19a245059020e690f187f727033d042a954534f207f7b720e67d6ed"
   } ],
-  "hash" : "a683e51dea0937ca40e3a46ae2b9b4cbb9151e7ff4a5b470f81dd0b51da6180b"
+  "hash" : "2b3af7e8c6409213ba85a56563b0e42bdc205a14665423e0cd140a6ca39c8078"
 }
