@@ -2,25 +2,25 @@
   "name" : "EthBulls",
   "logo_image_uri" : "0x199483df11f76af2cefd98280f20975ba49d5baf24e2754a751b001ef1a9436a",
   "banner_image_uri" : "",
-  "total_supply" : 43,
+  "total_supply" : 142,
   "slug" : "ethbulls",
-  "description" : "Phunky Bulls inscribed on Ethereum",
+  "description" : "Phunky Bulls Ethscribed into Ethereum transactions",
   "website_link" : "",
   "twitter_link" : "",
   "background_color" : "#C3FF00",
   "collection_items" : [ {
     "id" : 0,
     "name" : "EthBull #1",
-    "ethscription_id" : "0x94f9fc53993f7b404ee1fb71e5189b7326dd98139b1a18c5f8cab53790b7a6c9",
+    "ethscription_id" : "0xff7a9193a2815cb0b0fb813129f89bd600a19d9935e2bbc64cc0a78d5fe16076",
     "item_attributes" : [ {
       "trait_type" : "Background",
       "value" : "C3ff00"
     }, {
       "trait_type" : "Bull",
-      "value" : "Ethscriber"
+      "value" : "Ethscriboor"
     } ],
     "description" : "",
-    "hash" : "3f2b9bcf433b0208dd549660326513312de1f47e0b05045076e0cc6c7fa86341"
+    "hash" : "472dfbb6f240ec641dd4741b06d4acc721824a33cebd53bb844b4abe3d633231"
   }, {
     "id" : 0,
     "name" : "EthBull #2",
@@ -68,9 +68,12 @@
     "item_attributes" : [ {
       "trait_type" : "Honorary",
       "value" : "Chris"
+    }, {
+      "trait_type" : "Animated Background",
+      "value" : "Matrix"
     } ],
     "description" : "",
-    "hash" : "bb653e8a5e6a41e5f1931c5360db21d9d50500c07d3aa757bcaa8ef8c5a31800"
+    "hash" : "c45b7eaaf3888a900ca1e7321f9c998554da56b78378906cf68ca751db1b9787"
   }, {
     "id" : 0,
     "name" : "EthBull #7",
@@ -78,9 +81,12 @@
     "item_attributes" : [ {
       "trait_type" : "Honorary",
       "value" : "Jeni"
+    }, {
+      "trait_type" : "Animated Background",
+      "value" : "Matrix"
     } ],
     "description" : "",
-    "hash" : "bfdf981d8fcac0bf57e7634a7a0067b483953bce98551437262b5df0300ad6b6"
+    "hash" : "f8470288c9010ee7e462c931c6a94ea1ff68449325f5a9c1993e9c744037b709"
   }, {
     "id" : 0,
     "name" : "EthBull #8",
@@ -106,7 +112,7 @@
     "name" : "EthBull #10",
     "ethscription_id" : "0x9133c1ddb303568fbb2d874b024a169bc650aa8900871d3f953aca2952bc7891",
     "item_attributes" : [ {
-      "trait_type" : "Background",
+      "trait_type" : "Animated Background",
       "value" : "Cosmic Purple"
     }, {
       "trait_type" : "Bull",
@@ -116,7 +122,7 @@
       "value" : "Space helmet"
     } ],
     "description" : "",
-    "hash" : "29afd5c0d12443aafbeffea46ccadd8d338ef3bb5b848ed9f316d224cdfdc9ca"
+    "hash" : "454dce2ae3e4e413ecb2a6bf24dcbd73e70dd12fcbe2f590d7dcfc6d375e747b"
   }, {
     "id" : 0,
     "name" : "EthBull #11",
@@ -132,27 +138,27 @@
     "name" : "EthBull #12",
     "ethscription_id" : "0x7a89f0dd9999ec14aec3a159fb6f88f31de3dae982d4ca957d4051a7ec20a62e",
     "item_attributes" : [ {
-      "trait_type" : "Background",
+      "trait_type" : "Animated Background",
       "value" : "Cosmic Purple"
     }, {
       "trait_type" : "Bull",
       "value" : "Cosmic"
     } ],
     "description" : "",
-    "hash" : "f3c36e320dc3bb9c7ce99ce4c9cc8101bec0dba393aa55ba625d30b1e4ea7d0c"
+    "hash" : "04262e0fbd6a836cb1f324830fadcdf508ba832a94ec335910c6a709e576d47f"
   }, {
     "id" : 0,
     "name" : "EthBull #13",
     "ethscription_id" : "0x7edfc4f6770b2c99a89fdcad08ce274a13acddf94b246d1ee2dc4c00c9af0c67",
     "item_attributes" : [ {
-      "trait_type" : "Background",
+      "trait_type" : "Animated Background",
       "value" : "Enlightened Purple"
     }, {
       "trait_type" : "Bull",
       "value" : "Enlightened"
     } ],
     "description" : "",
-    "hash" : "e8b181d75b17655ab65e840ae99d83851ef56a3118616cc0409b5c0a29a26eab"
+    "hash" : "8f496c3f84d7d895acf406cc51cfd111554bb11b513e6a86086d8724a8619d83"
   }, {
     "id" : 0,
     "name" : "EthBull #14",
@@ -345,10 +351,10 @@
     "ethscription_id" : "0x199483df11f76af2cefd98280f20975ba49d5baf24e2754a751b001ef1a9436a",
     "item_attributes" : [ {
       "trait_type" : "1/1",
-      "value" : "Charging Ethscriber"
+      "value" : "Charging Ethscriboor"
     } ],
     "description" : "",
-    "hash" : "bde40eed0b3a027cc284d3089ba347ee1270a76297b762e1d91cfc6d77bab6d3"
+    "hash" : "5a4ada2e6b055eaee8b74b0dd7cf3bb639e841bc7c2d8db29c640d7c5245f937"
   }, {
     "id" : 0,
     "name" : "EthBull #33",
@@ -442,23 +448,1853 @@
   }, {
     "id" : 0,
     "name" : "EthBull #42",
+    "ethscription_id" : "0x783bb8b753dd852fb8fdd6694924e4543d16f9626b34295033e33a7203e75ee0",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "Sartoshi"
+    } ],
+    "description" : "",
+    "hash" : "cd06015a0e9a743e505d23f120e0594d5f113d6fe559a06f7079ab03fa467409"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #43",
     "ethscription_id" : "0x647be0feb6425eedb75ce5ff1b5832d408237f00cb38ff468275fbd76e3820be",
     "item_attributes" : [ {
       "trait_type" : "1/1",
       "value" : "Static Color"
     } ],
     "description" : "",
-    "hash" : "65e88a9c482057fce3302f48d9b631e57803d0e1657e862341fb2b1484e97237"
+    "hash" : "d070438c50d353d767f78cbaf5c1309cf0114621d1200a3f0e10749b10d490f1"
   }, {
     "id" : 0,
-    "name" : "EthBull #43",
+    "name" : "EthBull #44",
     "ethscription_id" : "0xe236f288614d8d80c9e52f0e210a8ed18d03261c13a35a249d7b5309f1ce1ab8",
     "item_attributes" : [ {
       "trait_type" : "1/1",
       "value" : "Static Monochrome"
     } ],
     "description" : "",
-    "hash" : "0cce7f0ff8e92ea4fbe491e1257de3cd0a5adf2941119815be07e87701b84c25"
+    "hash" : "3ae3f56135d9c79727bce240a18cbf421360d086d60bfdab84d9c4e3310244ef"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #45",
+    "ethscription_id" : "0x19e159cd3281b2ee6cb4d4c3670a33bf19fc439c6c550477077ffb46cd429b74",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Cosmic Purple"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Gold"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Gold Headphones"
+    } ],
+    "description" : "",
+    "hash" : "cc8fa49f458ffedaac3d8a6247231d478aa2c40f2982c4033889b0281893ec70"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #46",
+    "ethscription_id" : "0xb7f06d5c3d59a284ff86a6e62aca60c0719e113c4785175e16b426c82f035470",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Space"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Black"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Purple"
+    } ],
+    "description" : "",
+    "hash" : "b459a2578a0479bdd6e438bdcbed9c032617ceb4bdd5c72caedd6fa33eebb299"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #47",
+    "ethscription_id" : "0xfd2a33bcbd9d9d1ab367e4b9a539d3703011f6bccf74f7d3616da8f4444e1395",
+    "item_attributes" : [ {
+      "trait_type" : "Animated Background",
+      "value" : "Jazz"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Black"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Black Hoodie"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Nyan Smile"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Nyan Noggles"
+    } ],
+    "description" : "",
+    "hash" : "1599dc0f528410977bd8fbc08a4c733385e26e9cd331b7f6b4dae57c72761188"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #48",
+    "ethscription_id" : "0xd970be3af8752c1d295d068e9608eac457c69a570d7a61ee9cccbcb8dd75bf96",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Space"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Chimp"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Blue Hoodie"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Nyan Smile"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Nyan Noggles"
+    } ],
+    "description" : "",
+    "hash" : "26481ff8941286204dfe26c4cd08005741123494e13913be8934c3729d4e3416"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #49",
+    "ethscription_id" : "0xdcfec4180fcc52af761346367345ab216db5c615891e2393814d931dfacf36a4",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Red"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Gold"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Supreme Hoodie"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "f31b30eb1e5ab9b62ec4846cfb12637c4e2b176ff792503b49b4c079a0bc0e42"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #50",
+    "ethscription_id" : "0x2c3de8fe69a8b67313dc56edf33cd3ed82de5d504ba21bcd4b49ec8e1425046f",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "This is fine"
+    }, {
+      "trait_type" : "Animated Background",
+      "value" : "Matrix"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Zombie"
+    } ],
+    "description" : "",
+    "hash" : "53478d3a367b365b88dd0e2cb1c60bd838092ee32e3bfc125aaa16dadd71601a"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #51",
+    "ethscription_id" : "0x1268678ba236fc405d5ffcf955be2560ae16a23fe9299b8a0e6a98b661cf220d",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Dragon Ballz"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cool Blue"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Black headphones"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Nyan Noggles"
+    } ],
+    "description" : "",
+    "hash" : "ed64e8bd883e257a4da7f5a1caeb9fea84290d74690b763163507efa90598bdc"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #52",
+    "ethscription_id" : "0x58a48b23407d65aec87e73bb881c8c054b63b5777c8f05e586ea52ab2f1c63f9",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Mario's World"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Dooggie"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Nyan Noggles"
+    } ],
+    "description" : "",
+    "hash" : "d5fe9fb8546c9fafb5f7568104f0f2564b45f1cafd520ddaa1cd5c2ba3258588"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #53",
+    "ethscription_id" : "0xdbb635b444cff16f54bdb0fbc924160a1b652f57fa0c6e5bcc4a3099e2ffa5d5",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Moon"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Pale"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Black headphones"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Nyan Noggles"
+    } ],
+    "description" : "",
+    "hash" : "517d4dfda59216fd22c438aa2dfdab34add91835a287d30dea68c86427502b52"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #54",
+    "ethscription_id" : "0x9e8cf1702aed66276bf50b82712c5fe779dde799aec88cdb36723acb40543de4",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Space"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Ape"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Ethscriptions Hoodie"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Nyan Noggles"
+    } ],
+    "description" : "",
+    "hash" : "1c0402ed6a6b3139557bd3331b669f7f1598ad45685b88a04df14bd2712ab13b"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #55",
+    "ethscription_id" : "0xa5906466af7a3299a59436abb254ce721224354c535a87e5c6cb176d39907f02",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "c3ff00"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Charging Chimp"
+    } ],
+    "description" : "",
+    "hash" : "b99c643e586d2df5eb9c14b4e10d76d5879f04d6ba289d6185bbab5f3e546e52"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #56",
+    "ethscription_id" : "0x9e28744d46f1017350569b5e919bafc905f964e1d65e069577b64cd564c24c00",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "White Inscripigeon"
+    } ],
+    "description" : "",
+    "hash" : "9fba28f75c0137faf774217a345d33b229417b3e27e97c8626d77037047b557a"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #57",
+    "ethscription_id" : "0xc2c2916b31ba1dada3089799f16958c1e78c8f1f32280bbb61ca7b185e5f975d",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Yellow"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Orange"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Durag"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Nyan Smile"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Nyan Noggles"
+    } ],
+    "description" : "",
+    "hash" : "4334c458f5395221f141fee39933d74072e37d7e47c02cfe53ce20dcc7c2839c"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #58",
+    "ethscription_id" : "0xe4f060cf6da7fb7998ea738ba6f3b302a68b4af9bf6a71f6c30d0b8275c619e8",
+    "item_attributes" : [ {
+      "trait_type" : "Animated Background",
+      "value" : "Mushroom Paradise"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Black"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Nyan Smile"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Bloodshot"
+    } ],
+    "description" : "",
+    "hash" : "63095583ddd970e7d151c95a20c8f970812fce9c188c071100df6fe434e2f069"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #59",
+    "ethscription_id" : "0x2d78aecdcb68d6803c6fa4e5575dd0ced07ebc2e4483d8e680e6ead48ae5249a",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Blue Sky"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Pale"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Snapback"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Vipers"
+    }, {
+      "trait_type" : "Prop",
+      "value" : "Smoke"
+    } ],
+    "description" : "",
+    "hash" : "0d4ec46cacc74d8e44318074f1f1ab68f380ddb630c904f371bd0f47886526d7"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #60",
+    "ethscription_id" : "0x6423b4d2d6551eb0bfd638de385af675e0f320264a5dee83c6eb27741eb4accf",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Bitcoin Orange"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Orange"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Black Knitted Cap"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Red Noggles"
+    } ],
+    "description" : "",
+    "hash" : "4194864d55baeb3007844b4ded3bbfd5c7660641479b85a231552b4742b18e3c"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #61",
+    "ethscription_id" : "0x190bb3af74a37018ec5ede3f58728df9814dd2b17f8e5db8c274d3d4e72c5881",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Tall Grass"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Pale"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Orange Knitted Cap"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "1bfe9404d71735d3552f69aa96475d16ba625e524cd88de32d8b49cca41795e1"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #62",
+    "ethscription_id" : "0x46fab4fb6f514d4de675b6c2a96014a48b3a861cfe629000be95cea18bfdf977",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Windows"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Hot Pink"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "VR Goggles"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "79494c608d8cfb75318507c61b86423dcf510ddda11b1e6ca0132898ac1955e1"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #63",
+    "ethscription_id" : "0xd9cb86c1b8c16e47d983c1ce8a6e6572298240a4598f9e8d5435fa4d8aa40eb2",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Enlightened"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Orange"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Fashion Hoodie"
+    } ],
+    "description" : "",
+    "hash" : "b53f83ba7df2269712e89b949ff126af6c9c64097235ef67c5922ea85397fdac"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #64",
+    "ethscription_id" : "0xb0f96154ff5a128b14378028d8d36ca13e5a057162c22d48858317e8c1ba55a3",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "v1 Purple"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Saimese"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "VR Goggles"
+    } ],
+    "description" : "",
+    "hash" : "4813031d742fa5460c97f0bb7de1176790830d15717d526949fe23d45ff6c674"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #65",
+    "ethscription_id" : "0xb0f96154ff5a128b14378028d8d36ca13e5a057162c22d48858317e8c1ba55a3",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "v1 Purple"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Saimese"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "VR Goggles"
+    } ],
+    "description" : "",
+    "hash" : "226f62f1eff177e2ae76defe4652e24fe5b80c5f0007e16e867e74482b7869a8"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #66",
+    "ethscription_id" : "0xc23189ed04be2cd9d94ab0a77f21d7e2a3c8415838911f40ab68120bc0b287ce",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Space"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cool Blue"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Black Hoodie"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Maxi"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "8f225bf59edc940eafa0a295b3a93f91dd6bc956f6744ac19d95d5e390545bb2"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #67",
+    "ethscription_id" : "0x0db9da207f41e47d0e9281dc5cd1ee00c8d2a6f7112d1919fa38bbd8f7ab28a8",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Space"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cool Blue"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Orange Hoodie"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Red Noggles"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "5b5169dff0d7684b995e09fc15a6c5ca1929ff7ec804db24af2abe49ee94014e"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #68",
+    "ethscription_id" : "0x292e9e2c033ff9f5fcbc6595cdedf220a4b6b89d8e341b84127d6edfea8a9834",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "v1 Purple"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Light"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Black Knitted Cap"
+    }, {
+      "trait_type" : "Prop",
+      "value" : "Vape"
+    } ],
+    "description" : "",
+    "hash" : "a499f09dc0f68768bc695c587332f7c15bd6d01a69596707e166c8f3e4a61676"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #69",
+    "ethscription_id" : "0x603def90c47f1d3f802f536f6dfd4ecea529e02d82ed79df76949f61ca76e876",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Yellow"
+    }, {
+      "trait_type" : "Trail",
+      "value" : "Rainbow"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Ape"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Blue Noggles"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "53c170b07b729fc9130bf07fa33e87fcf82466254625737ffced2650b6b7750c"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #70",
+    "ethscription_id" : "0x02312aa33b03e4a675f82a467c3ea973a5925d8bf5f6602ba3e305953f6a9d29",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Mario's World"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Orange"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Top Hat"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "aa7e14344023b89f22de2373eefb87582cac382e8e72905de9a2c4d238fe4dbe"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #71",
+    "ethscription_id" : "0x1084110ea0785c61c24528f8dd01ca2d3579181e17e16b416adfc2eca68726a5",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Nyan Blue"
+    }, {
+      "trait_type" : "Trail",
+      "value" : "Nyan Rainbow"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Alien"
+    } ],
+    "description" : "",
+    "hash" : "88fd46a6021c10f0986664ce94518172f81e82248dce59cde07a4351647957e1"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #72",
+    "ethscription_id" : "0x4d8207cc2af91f0db3f89c0722809e2449d0ec9d5deaba03b62d1f72e6453318",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Windows"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Zombie"
+    }, {
+      "trait_type" : "Prop",
+      "value" : "Grass"
+    } ],
+    "description" : "",
+    "hash" : "a04b11b2fe91c7b20370e7c7e7ebc8be5c7fc0c123aaeab1aed914fd5e0029ff"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #73",
+    "ethscription_id" : "0x3a2b1822fe6c283d863b487935ad3f7805cd582fc1676be50076220ff74be95e",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Barn"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cool Blue"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Ethscriptions Hoodie"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "43ebc6cb5ef3c8a974c17433c5d1a382d329c18034ba1dfa4d1861f7c031c0f0"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #74",
+    "ethscription_id" : "0xe04ed7cd705f575bd740eb672792487d05634cb07983cadcde7e69e9153e714f",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Moon"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Light"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Black Hoodie"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "f246876aeabbf0459d1ad5c60a2de5fd9ec9a4d6de017b12e9809095ae6c1017"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #75",
+    "ethscription_id" : "0x032b76b5e6ab1a973b3c9b8f4961033a86f1f55278e5a3a35f560f574dee1b00",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Mario's World"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cool Blue"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Toadstool"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Deal with it"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "3ecc41e463bc690a01e2e3e1ee8a8fc3e6be013a1ce329609e4a05ad380fb6c1"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #76",
+    "ethscription_id" : "0xbccf2cffc59eccb3ac8b4e3c776b95530b6e18c70d682058907ac9fd1dea3ccb",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Tall Grass"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Dooggie"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Black Hoodie"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "3d Glasses"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    }, {
+      "trait_type" : "Prop",
+      "value" : "Grass"
+    } ],
+    "description" : "",
+    "hash" : "8e2ca8a2bc25601696eda8502a4c8dc5443c6cc90474b4e09af1a341481902f4"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #77",
+    "ethscription_id" : "0xb0c50aa4f944bf28ef7f20313c5e8a73083570d505dbdde89af178e52c06eacc",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Bitcoin Orange"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Pale"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Black Knitted Cap"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Aviators"
+    } ],
+    "description" : "",
+    "hash" : "d5cf08d535e851bfee98b0f2a0febd01d4ff9a152c6492b447422549f2ea0161"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #78",
+    "ethscription_id" : "0x51608083b769f6b99fe9c7ba2c0b8a22459f941a9dc56c799e6f1f35224ca898",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "C3ff00"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Chimp"
+    }, {
+      "trait_type" : "Head",
+      "value" : "White Hoodie"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Teeth"
+    } ],
+    "description" : "",
+    "hash" : "87c2e83413b6f61e7879c31e19600563a735232f67ac34240e7e7e8db9779dd9"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #79",
+    "ethscription_id" : "0x5a098d292c798ff73a51d36c205f1858587b158cdb5532f812a9fc6dd1c3b50c",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Space"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Light"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Cowboy Hat"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Vipers"
+    } ],
+    "description" : "",
+    "hash" : "4a746b230d5401ec82b347f3200ecb9c2a1b857e59383033469ab595074a6c57"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #80",
+    "ethscription_id" : "0x9e47b7a8a787a0d7e1b15779bb9021b144417c5783013e56aa1049e6bf985de9",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Universal Foam"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Pale"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Ethscriptions Hoodie"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Vipers"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "9b263b60fa2a5e6c4cb2727e1589ced0f6496d4575b74d31f86c20cc9d35d4b3"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #81",
+    "ethscription_id" : "0x35c6d2fd434ad25f77a7f59cd8949024431b24d3d32b71b91fd7c93afd6ea8c6",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Windows"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Saimese"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Red Bucket Hat"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Red Noggles"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "6139d88569aa7cdf7c4560b7282cbe3266be3ebdfa2f64172dfd35ad084c0082"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #82",
+    "ethscription_id" : "0xc23292d338918cac92fb3df727a85d11b29eeddca70dc52ff245be8dfef407d6",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Blue Sky"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cool Blue"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "0059e323b28ee33a91fe774648929a4be0b56487c5d0940746520ef56f57c49a"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #83",
+    "ethscription_id" : "0xebc11dc20afe9fe90425485b6fb3c582503e9171333950be20e70c22b2d0e2b5",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "C3ff00"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Light"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Tongue"
+    } ],
+    "description" : "",
+    "hash" : "fdfe24babc6874e998ea3dea4435a83bbd7cda67c93e377f64b1ef46d40ca9de"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #84",
+    "ethscription_id" : "0x07430571584e8f4a9446a3f6e43b33fc23d4260c5883d68bfd95c28900456423",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Mario's World"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Ape"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Orange Hoodie"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Aviators"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "f6f5c877214cd53fe4904a66d0688f8ed02015a689e3df43f4c52d07864ba3d4"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #85",
+    "ethscription_id" : "0x445cf378d3f396b2d06992361c8172d01be3058c084c1b3a505cb7502632fa3a",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "v1 Purple"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Chimp"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Viking Helmet"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Deal with it"
+    } ],
+    "description" : "",
+    "hash" : "2ff1a1bfbdd37e658761feba41d684049d1bc185d5dbc1ddc48ca15b5d097176"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #86",
+    "ethscription_id" : "0x9b830eddbf1632ab99a70816a36d48de758ac812c994e6016241c4e86834c1a7",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Universal Foam"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Zombie"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Cowboy Hat"
+    } ],
+    "description" : "",
+    "hash" : "258f46b8c700c1549721333d12db974f58b225da277987d0ef44ded905b784a4"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #87",
+    "ethscription_id" : "0x0113bde05c6c7afd99dd4c1a2a0be5765be5fd4b256ca2b71b44557e768c3ba2",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Yellow"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Light"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Black headphones"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Aviators"
+    }, {
+      "trait_type" : "Beard",
+      "value" : "Mustache"
+    } ],
+    "description" : "",
+    "hash" : "789ee1943d5ea21353030b39709793c2cdb533362e940d2efbc441080280dba9"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #88",
+    "ethscription_id" : "0x30f3e688052c0ba14021fb1f8a324abf42c750b341da774fad177178a9895174",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Mario's World"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Pale"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Black headphones"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Maxi"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Tongue"
+    } ],
+    "description" : "",
+    "hash" : "78d246a79347f5bac02d6b082ac9beec34f28de0d993a327399c9eb2ca1134b4"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #89",
+    "ethscription_id" : "0xe1f5f534c4a72670d37942145534eea5fc3a4fcc7cc0f67ca04ee32dbed8c3b6",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Lambo Tractor"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Spot"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Straw Hat"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Red Noggles"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "420"
+    } ],
+    "description" : "",
+    "hash" : "4320845a7045b87058e58f1d021ada91f7c3fcfc5d9dfe7cb980c6eb14ba246a"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #90",
+    "ethscription_id" : "0xde68d2cd8d742a799b7d6f4620d241f63112af2d625c1c9d7d1f59eb29f5082f",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Lambo Tractor"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Gorilla"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Cowboy Hat"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Eye Mask"
+    } ],
+    "description" : "",
+    "hash" : "0374032f6286ea303ee1f8d4813b6a41cb36ef07cdcf06b76049b6b988a3ee8c"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #91",
+    "ethscription_id" : "0x7b94c0bf868d8402d1ca0cc0dda44e1baf550a65639602f8b21b946334f06b61",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Barn"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cool Blue"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Poke Hat"
+    } ],
+    "description" : "",
+    "hash" : "d6b976f8ee4971f36cce50833a361616e66c5e5793aaa1b204158e91727d84d2"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #92",
+    "ethscription_id" : "0x50200f3e6bce452f716a402da7f1a5604b9ff249d96e593c1311dfae0e480e8c",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Dragon Ballz"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cool Blue"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Super Saiyan"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Vipers"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "0f6b956dab16852991899bb123f023ab810332cf4a4d55733b77ede40d4d1208"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #93",
+    "ethscription_id" : "0x8c8af786fec26d609f7e079fa7ce145d5d95c3a66cbd11224185a6f090bb77b3",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Deathblock Black"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Deathblock Girl"
+    } ],
+    "description" : "",
+    "hash" : "b4a814be9a2258a74d6140f750fb7062251a373866fb79b3e2c23e8aa728cef7"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #94",
+    "ethscription_id" : "0x0524a5669ea7f06ea726ac6d91f517c576c1208ba90fe8929bb8701749ff0c93",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "C3ff00"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Chimp"
+    }, {
+      "trait_type" : "Head",
+      "value" : "White Hoodie"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "VR Goggles"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "c86eb1bce778417b0c25ac760b128e58471374e81a9b74d50eecee8e6cf1951c"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #95",
+    "ethscription_id" : "0x48e2fa66881e3c26afde0ce0edc0226f23835d4688173ed5790cd74682e2ee81",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "v1 Purple"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "White"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Wizard Hat"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Green"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "6b609e26052d8388a972598c20ab59c88a2ba0a8ba8e6a4ca4b72040bb9754da"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #96",
+    "ethscription_id" : "0xcfe7f9a8dd2fb859fbfb3da24c569b21779f369b856d535d1315f9a23ef54c2b",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Moon"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Light"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Cyborg"
+    }, {
+      "trait_type" : "Beard",
+      "value" : "Shadow Mustache"
+    } ],
+    "description" : "",
+    "hash" : "7062f3a60d6a48f6b28ccc1d660173a0e501576a8382bd8f8fb456a061aee7d7"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #97",
+    "ethscription_id" : "0x93d64c4515089c4b4e03ec4869b990ff329128d48278c1f38ddaefbb1cce03cf",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Bitcoin Orange"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Orange"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Orange Hoodie"
+    } ],
+    "description" : "",
+    "hash" : "691cf21be875d01b7fe26c10a89b32994da69cbe51ebd37db1fd44519baa8ec6"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #98",
+    "ethscription_id" : "0xb05c32e5dae758d91924c80854291290a5bd8c562b61097ea2bb68dc08b7fc59",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Windows"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Orange"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Straw Hat"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Vipers"
+    } ],
+    "description" : "",
+    "hash" : "8bbfa874d79e6e8933f65cc6d00699d9dee7678c851ab9c7b8db6cd0137275d5"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #99",
+    "ethscription_id" : "0x5c9689d85d5e48c8931c7e697fdf23bb629d22e613c387594da2b610cef6fca7",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "v1 Purple"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cool Blue"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Straw Hat"
+    } ],
+    "description" : "",
+    "hash" : "2eebe61f9eb11b38199a02b399a6307364284404d97413d06c8704bfd73ea01b"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #100",
+    "ethscription_id" : "0x1bc19206bd0b5c7573059652507f54a5019681883b3bcf420b24b9d3a4f1d265",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Yellow/Blue Sky"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Light"
+    }, {
+      "trait_type" : "Trail",
+      "value" : "Rainbow"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Red Bucket Hat"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Red Noggles"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "50fca60d6b3d0b1cd7e4082d767d6f03569c08e3dd0429cfd497316772bfd7c4"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #101",
+    "ethscription_id" : "0xf592cbfab8693c72773d6b7edecafad45b7e21fc4955e616f9dde09619d4616d",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Blue Sky"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cool Blue"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Gold Headphones"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "984201e64db5be3233be919a9b63733a927ce719bd1fb5d1ef075163590fc7d3"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #102",
+    "ethscription_id" : "0x031d4ed71ee37b0fd1d9dc56ea6ba57ddace77363a36b531c89dbe41ef2181d3",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "C3ff00"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Saimese"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Black Hoodie"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "VR Goggles"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "d062f65650cb5698cef7282ee01394d580e8d40de415ddc389867fed7abb6cd6"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #103",
+    "ethscription_id" : "0x9737e91ba58846fda1f74429e48bde09d4c7c31389406b1375b24836215c97f7",
+    "item_attributes" : [ {
+      "trait_type" : "Animated Background",
+      "value" : "Mushroom Paradise"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cool Blue"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Wizard Hat"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Deal with it"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "8da3f1a94cea2874db8113a2dd84c6138a93105e49df6fec871e8b48e8a323ab"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #104",
+    "ethscription_id" : "0xeffadc4c1db268cf477a9141291f98cc397afe76ed2070b096c5c85bc3d885fa",
+    "item_attributes" : [ {
+      "trait_type" : "Animated Background",
+      "value" : "Jazz"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cool Blue"
+    }, {
+      "trait_type" : "Head",
+      "value" : "keffiyeh"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Vipers"
+    } ],
+    "description" : "",
+    "hash" : "7e03ef07ae69889569e72127444ee72de8a047ef1660d1e23174ba35070f946a"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #105",
+    "ethscription_id" : "0xc96a39589c969002063c93e7a16f2eb5d31fc0949b506de3653a690a5952631f",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Ethscriboor"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Saimese"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Fashion Hoodie"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Yawn"
+    } ],
+    "description" : "",
+    "hash" : "1b6e441936be97ea778792588615f86951c96fc64de34908e775744808c2c7e7"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #106",
+    "ethscription_id" : "0xd30bb6d310f974b9406ac4f7d41609d08045938f11bb75b65197217ac1f546ec",
+    "item_attributes" : [ {
+      "trait_type" : "Animated Background",
+      "value" : "Jazz"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cool Blue"
+    }, {
+      "trait_type" : "Head",
+      "value" : "420 Bucket Hat"
+    } ],
+    "description" : "",
+    "hash" : "61f55e24685dd00577fc5f2899abc7393476b567e7edcf29d377a6458d01ebdd"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #107",
+    "ethscription_id" : "0x6b5791cda6c07cdb9ea98600aa40594fab4ab10197272723d723f17bb076af6b",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Space"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Saimese"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Fashion Hoodie"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Nerd Glasses"
+    }, {
+      "trait_type" : "Prop",
+      "value" : "Smoke"
+    } ],
+    "description" : "",
+    "hash" : "1a420e4eba36d344632d916b94c54777a17de71a707a75bb0606108b4cc41f7d"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #108",
+    "ethscription_id" : "0x199b7d7702bb4dc79cbd0c4bf63ee013054b4331c1a3fc80551e264702c1cbf4",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "v1 Purple"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Saimese"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Wizard Hat"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Deal with it"
+    } ],
+    "description" : "",
+    "hash" : "103b202801dfa308b2e03b033fa0a5abc72f5bd888907a0dde08970f67b5aafa"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #109",
+    "ethscription_id" : "0x2b29fa127aba3c86875add2321256eda85cc56bee9906b53b46f58197d82bc82",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Red"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cool Blue"
+    }, {
+      "trait_type" : "Head",
+      "value" : "420 Bucket Hat"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Blue Noggles"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    }, {
+      "trait_type" : "Jewlery",
+      "value" : "Silver Ring"
+    } ],
+    "description" : "",
+    "hash" : "7432602b416d9f3bd04c35dcd2c1327fde87d65982dbd95d9187b7968616c7a6"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #110",
+    "ethscription_id" : "0x3c85a086fb25f75f0962a140d74df967d283fe2ebb7c396171d765afa0a9ee24",
+    "item_attributes" : [ {
+      "trait_type" : "Animated Background",
+      "value" : "Jazz"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Light"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Cowboy Hat"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Blue"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    }, {
+      "trait_type" : "Prop",
+      "value" : "Smoke"
+    } ],
+    "description" : "",
+    "hash" : "01ed623748e5d23c8987cb04551127af57acbf5249dff8854988d9bb14c8fa08"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #111",
+    "ethscription_id" : "0x1f77ba7411b59cf3d3c926a359dfdf658ff8e04047f12c8b03c03d4e06771419",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Bitcoin Orange"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Orange"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Black Hoodie"
+    } ],
+    "description" : "",
+    "hash" : "8a1be7ee8f9974a334b1a85527274ec2017ffbda8195f95de61a68ce5d45046c"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #112",
+    "ethscription_id" : "0xb3f6eedb16ff92ce6e4e91dc16250b1a5f7d241a7e5b367314c1784c7ee5ddf9",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Cosmic Purple"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Hot Pink"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Cowboy Hat"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Nerd Glasses"
+    }, {
+      "trait_type" : "Prop",
+      "value" : "Vape"
+    } ],
+    "description" : "",
+    "hash" : "e786db44289ef5b7c916b141c1531bc050f18fcdb929b48b9dad2639b776f1c4"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #113",
+    "ethscription_id" : "0xfd4839dfbd3456c9ebc8088b249818e0c94198c876d7bf98f3a7ca00dcb8bf28",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Enlightened"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Light"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Morpheus"
+    }, {
+      "trait_type" : "Beard",
+      "value" : "Mustache"
+    } ],
+    "description" : "",
+    "hash" : "79bb0564db881a1efec030766b31a237a62549b68bbc74234ef91a85c1535804"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #114",
+    "ethscription_id" : "0xbb27814c044084f12846a6d0570fdae254d633cb1827914b878f0500a684dd7f",
+    "item_attributes" : [ {
+      "trait_type" : "Animated Background",
+      "value" : "Rainbow Mayhem"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Saimese"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Cowboy Hat"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Nerd Glasses"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    }, {
+      "trait_type" : "Jewlery",
+      "value" : "Gold Ear Ring"
+    }, {
+      "trait_type" : "Jewlery",
+      "value" : "Gold Ring"
+    } ],
+    "description" : "",
+    "hash" : "2d9df147f69e3657a7687673c40d742e50a522b20c5be91566feca095908c1be"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #115",
+    "ethscription_id" : "0x6bd7940df17498b8df17a3d965c1f1d8d1c3e26f96c9062f4ed8d93a33749b56",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Moon"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cool Blue"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Black Hoodie"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Yellow"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "bf9a334470de821febed10af1bbbf0433be0e7c9ac473a1947883004ee3826f3"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #116",
+    "ethscription_id" : "0x3ade948fa69aec302129b2d47fd88c2196dee90306bafee54d9ecdf0e3387d13",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Bitcoin Orange"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "White"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Orange Hoodie"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Black Knitted Cap"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Aviators"
+    } ],
+    "description" : "",
+    "hash" : "0e1067dba8d1f503df1405294d203f8e6f2ed5bdc98367d1f7f8ddc61aa3b57e"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #117",
+    "ethscription_id" : "0x15e9168185419b740bccbee8d4cd09b398e7d2b0c64289a828fefb4778b809e2",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Space"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Saimese"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Fashion Hoodie"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Nyan Noggles"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Nyan Smile"
+    } ],
+    "description" : "",
+    "hash" : "d3311a27538aaea836f21c32a472fa4d1d7de1b598996fcd5e3541c119ee8742"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #118",
+    "ethscription_id" : "0x02961c032ac79e989abca031fc2915c952fa9b7c46ec0ffdeb5144aa457d403c",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Jade"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Dooggie"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Nyan Noggles"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "cdc70e432644834582c6fa19546be3c27e5f9d516660b4bb7d26b02ca96d8227"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #119",
+    "ethscription_id" : "0x113ca313383e70f1e1a7edd3b3c5ce4ea51390ecaaa0199c7245a289367cbed6",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Cosmic Purple"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cool Blue"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Gold Headphones"
+    } ],
+    "description" : "",
+    "hash" : "89367710a8150821debebc6ef9c99e7716db0fe406a8a6637a139826c3d26ee5"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #120",
+    "ethscription_id" : "0x5e902c50ddfd4030960d71d1e74d83dc973ea3fa891d0950ed72e1092608ef3c",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Looney"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Black"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    } ],
+    "description" : "",
+    "hash" : "955516276655f19a2cbf398e6b4846e5e01356775a1da5943d4ae23ae75e7a76"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #121",
+    "ethscription_id" : "0x03f01b18941752aea6d5655b1669cbd2d840eb4192d11dc1360e464f9b43900e",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Looney"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Bot"
+    } ],
+    "description" : "",
+    "hash" : "12bfdc3c13e1ae873c84e3b1bd4db3cdce86a60a13b41d3201a293027392d0ea"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #122",
+    "ethscription_id" : "0x5a7a0ea1468d1a9c9a7b109b13ad28d88708297f76db9da8838d3bfddab1345f",
+    "item_attributes" : [ {
+      "trait_type" : "Animated Background",
+      "value" : "Jazz"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Light"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Cowboy Hat"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Aviators"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    }, {
+      "trait_type" : "Prop",
+      "value" : "Vape"
+    } ],
+    "description" : "",
+    "hash" : "41a5e3ce84367eb987c95d60b6103a919d0ac5c0fba0d962790dd142c9698456"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #123",
+    "ethscription_id" : "0x3ecabd8a7acc4bd1270d7bbef444fa64c5af9ff91c7ba272b79577658661c023",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Lambo Tractor"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Brown"
+    }, {
+      "trait_type" : "Beard",
+      "value" : "Luxurious"
+    } ],
+    "description" : "",
+    "hash" : "3ee97feb85b4ac157cab2784254e904e17c02588a46b2463489d7f7bee3a2c3c"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #124",
+    "ethscription_id" : "0xb860db27adcebda19567d2524c3daee72c253ff4ec01ee21b44acffddf88ac21",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Jade"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Cool Blue"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Cap"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Deal with it"
+    } ],
+    "description" : "",
+    "hash" : "d211092c40747322d667bb13136276bb1049be66ee43a7c70f50700e3288b202"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #125",
+    "ethscription_id" : "0x27d783b485b42cb48a4bd519ce5e5c8239367cfa6742cff6ce7529e6910cae6a",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Cosmic Purple"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Orange"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Snapback"
+    } ],
+    "description" : "",
+    "hash" : "8916e2cd3f290b37698ba6f01bca587f77f66ffc5795b32855dc11e631c8741f"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #126",
+    "ethscription_id" : "0x1ab4315798e64be854388258e8a4a124582e2318ea768cf6340dfe30c4315045",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Elephant Graveyard"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Light"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Ape Coat"
+    } ],
+    "description" : "",
+    "hash" : "daf4075954cd44ae07cf303518d0113b38e3549b35145bf5531e20efe7e18e33"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #127",
+    "ethscription_id" : "0x3e70b9ccf76c0fd3dad5f3c654df9d495af3c66e5c8eb5bfece12c1467d7dcc9",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Dickbutt Green"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Dickbutt"
+    } ],
+    "description" : "",
+    "hash" : "5a99a351392c0583cadb680403a8a49b49288fb4adf6f1090363cba08422b0ef"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #128",
+    "ethscription_id" : "0x6c94ab8df9d98047a873fd0c041a7be45e84cdcc2c9aa767ba9801c336f376ef",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Dickbutt Green"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Pepe Dickbutt"
+    }, {
+      "trait_type" : "Prop",
+      "value" : "Flies"
+    } ],
+    "description" : "",
+    "hash" : "fc5dd1075e5a7b0b685d243a601a8c85eb09aac2490469337e2ef424bfbcecc5"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #129",
+    "ethscription_id" : "0xd5321de439618ffc2c79ee7470dfd384a84949152738e2939939ad247a0bd428",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Glitch"
+    } ],
+    "description" : "",
+    "hash" : "b86d5ce129e89305f8773f5173773550702a49bfee06dd2609f9435c8a0bf17e"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #130",
+    "ethscription_id" : "0xc5c2418538db61d18aa2975e4707d513028eb51275ebf60ed355027dc5e3c11b",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Phunk"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Medium"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Black Hoodie"
+    }, {
+      "trait_type" : "Beard",
+      "value" : "Normal Beard Black"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Clown Eyes Green"
+    } ],
+    "description" : "",
+    "hash" : "dd892737a0ce4eae1b666dfc3590acf47a01759364c5af78ced8db74117c0060"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #131",
+    "ethscription_id" : "0x683b084f91ac9437c4c71dbbb7852c15b382d477281c40f00c2ebf149d750d4e",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Jade"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Bot"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Scriptcat Black"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Cyborg"
+    } ],
+    "description" : "",
+    "hash" : "23a8d1ac9d5efb484814c7736bf58ea9cdd89596fe66299d209fb4a3ec75b4c5"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #132",
+    "ethscription_id" : "0xe255cc4bcc6448a890218fb62179f173abc838b726af7400daea2a3e04dbd376",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Phunk"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Ethscriboor"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Black Hoodie"
+    }, {
+      "trait_type" : "Prop",
+      "value" : "Anonymous Mask"
+    } ],
+    "description" : "",
+    "hash" : "a3c0e2b6eed05a06a79b6f26832f02a3006e3b8d912d5d10f46ef3230e7f1965"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #133",
+    "ethscription_id" : "0xfee7d9c5047cf85ffcfe2d372914bc5b7429fbb8298ee81d1ce4a391a8a63b59",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "RedBull"
+    } ],
+    "description" : "",
+    "hash" : "cc187e7137afe6af8bb8050c03a1a827563aafe4dd70c9580545792ac69eb6ab"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #134",
+    "ethscription_id" : "0xe7d6cd63525fadf13de7da10a30430afeb60371ab005bb0141cca2e228760e5d",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Blue Sky"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Pepe"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Top Hat"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Smile"
+    }, {
+      "trait_type" : "Prop",
+      "value" : "420"
+    } ],
+    "description" : "",
+    "hash" : "7b330f965f9729f1e61ff691c39c3cc718cfb8e2b0758e3134b7266e2298cbc2"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #135",
+    "ethscription_id" : "0xd7c737ab6eab64bb0dc9e0ae37674c6b5fc51fc15801c1501d484d56c094fabe",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Homer"
+    } ],
+    "description" : "",
+    "hash" : "3ebd2cc9cd7caa9d36e756fa9cbf1ae89104837cc0137c33498249a27d771b90"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #136",
+    "ethscription_id" : "0xd3bd89f53bc42c66c552a3667e7f443647f36aab5f9c5d6902830994c0ce4db3",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Marge"
+    } ],
+    "description" : "",
+    "hash" : "bfbc962eb360bb1cea83bfb4f55de0befe7999d567a5a63d78b3001a8a8e7701"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #137",
+    "ethscription_id" : "0xf507dda9d9029a3ef30bcddd6d184776edbd6d3c3374105c033b9f72616b667a",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Bart"
+    } ],
+    "description" : "",
+    "hash" : "c8cf96523a8831f5b8214e04e56ff8bfb5b8aecfa1585c84c1e4e4775caf077a"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #138",
+    "ethscription_id" : "0xe2e21cb445dcec45edeae7e4030bde2cb388fc5fa59b155f098888fb62db1cb5",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Lisa"
+    } ],
+    "description" : "",
+    "hash" : "79970a01b1dec9ee4160d62ec8499de2a7fd369041706948911fc6b767343091"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #139",
+    "ethscription_id" : "0x5dab25a4d19d1fa897704a19955f08608e21463fa7fb9ca0689ac614897768a2",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Red"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Pepe"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Little Pepe"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "3d Glasses"
+    } ],
+    "description" : "",
+    "hash" : "e1dc061a18945b4bad771af11422d6369b4f6b72a5c32503ce7a9d2c45c75cd2"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #140",
+    "ethscription_id" : "0xee2e3b9a891ab9f235d6d6a3210d3fa88ad5f6601f5390a36f77383f1bc1102e",
+    "item_attributes" : [ {
+      "trait_type" : "Background",
+      "value" : "Barn"
+    }, {
+      "trait_type" : "Bull",
+      "value" : "Blood Bones"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Brains"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Deal with it"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Teeth"
+    } ],
+    "description" : "",
+    "hash" : "9f3530e7c0756cd183cc0447dab9dc4db1b94f6f1081cfc6ec3a1114e42b69b8"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #141",
+    "ethscription_id" : "0x531491b7b4beab2be9b8bb6192d29f00fd157475326e7a0d65b3b24d4b65eb48",
+    "item_attributes" : [ {
+      "trait_type" : "1/1",
+      "value" : "Toad Wizard"
+    } ],
+    "description" : "",
+    "hash" : "72ffcbb44190eda9dc6fb8e3b72762b16e9e5cb907419e4a2edc4419b1c70136"
+  }, {
+    "id" : 0,
+    "name" : "EthBull #142",
+    "ethscription_id" : "0x743a4df32a77b9b5aa8ccb331e4a4400cb2878bbdffd7daf7717e3ba64134113",
+    "item_attributes" : [ {
+      "trait_type" : "Honorary",
+      "value" : "Digivatar"
+    } ],
+    "description" : "",
+    "hash" : "958cb8b5c7cdd1404f13a59b3c9e398a99439ea07db7e06f5179f450f9528ba4"
   } ],
-  "hash" : "edc61d5be5757f661c160f574621d68f26a27c88c9d333dbe8bcf61aa71fea0e"
+  "hash" : "e97e23eab994de75924119f154efa31aa6cdb8ef08ec28a66052c87569a246fe"
 }
