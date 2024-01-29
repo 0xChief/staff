@@ -2,7 +2,7 @@
   "name" : "SHPunks",
   "logo_image_uri" : "https://media.discordapp.net/attachments/1199702783398531073/1199705844393185352/Collection-Image.png?ex=65c38422&is=65b10f22&hm=ef6b316569e26944cdb48d23549e61f2eb04fc8821297fc3d7d4afff66307080&=&format=webp&quality=lossless&width=960&height=960",
   "banner_image_uri" : "",
-  "total_supply" : 61,
+  "total_supply" : 73,
   "slug" : "shpunks",
   "description" : "Fully on-chain via Ethscriptions custom made SHPunks. What does SH stands for? Strange History, Super Heroes, Super Hyped, you name it!",
   "website_link" : "",
@@ -618,6 +618,126 @@
     } ],
     "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
     "hash" : "cc0de5cc0a833013d1d316daef09cbec4a161f20d925a52d37960cc5a66ac999"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #62",
+    "ethscription_id" : "0x2727c9035efdf37e42bd462f94eba970e3eddf03b72fb27c7fce1a212e6b3fdd",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Vasiawow"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "bc5fc18d11b7c74fc332e4b15a2a606bcd9de052a98c3ea562934da2e4194ff8"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #63",
+    "ethscription_id" : "0xf3f0cab021e8160a33cecb9ac04c9abc585df1770dc087c947a70ea6ccb0abbb",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Saeed"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "9932a37664092130a09c1b9e7af7a095e149b6f5b23a8c250f43c69086bb2b15"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #64",
+    "ethscription_id" : "0x42601487b893938cd1532ea7168d80f13d3f8ca05f2e6842941f2bb3c95ffd92",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Krawnic"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "f59062ffd3711ef1d0a9f0a55265e064f664d83512292eb2ca7411c04a180c9b"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #65",
+    "ethscription_id" : "0x4d34fc07376b3127558baa2f9ba83d7bc07ed6c6edf7df5cafc35b3a423cbebf",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Mind Wank"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "59a00bc592671634c9ce868e37984a6d5609ff0f2b597e5dcccdf20ac3ac3d2b"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #66",
+    "ethscription_id" : "0x5aede65f00b0eb83666ce2ca9ca54c3ed50337e09602222520dca1954fb54206",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Open Plains Studios"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "93a3a6a69a2b7ab0f0bc694c86aba3cceeca55111155adfe0fc2ab4b7f25277a"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #67",
+    "ethscription_id" : "0x6efd1c6233f6de8fa98ebd4d7e5f6e4845c7feae39e5c77f2d8357dd7a629e99",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Peng1"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "de85b3ec8aa0df93a76c62b7d58150810401226cf9c699fae9a5d33b4382a774"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #68",
+    "ethscription_id" : "0x600d18edb306ba8bb5dadbcdf1a20aec3e147b6157d1e4d4890c49d9a35e85ae",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Micks"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "13730e421c0a2cc7f76ee1f52419980e0a59ee2903f1f1b3e2ddff690e76d915"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #69",
+    "ethscription_id" : "0x4e9d5e8381e461d0204f40a2b8009173e0bb9fa4c9090bc503a358248a585318",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "BB"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "dc4e2d7fadcd2784321e52f3b8d969ae619b03941d064265f51774b0d3280ce6"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #70",
+    "ethscription_id" : "0xc6722660855d2eab56d02368bc97ee2a6f7558debb40be47e5e816707cb57f3f",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "PhoJaxx"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "35b22f665981f5c9efb9cb7e0ea237ff10401a1637c237e4a19a0b712445c32f"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #71",
+    "ethscription_id" : "0xda682903ca0f1955a0ba2200c44efa19a4260691fbc3ac746cf2d58b69567b69",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Jacob"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "d01f3721e927f3af1b4327f4ed5db606d87c95a8529074cf3fff38f2de417aa6"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #72",
+    "ethscription_id" : "0x14ef831831f0ad79bf4a7d2fc62ef3d82d0155d7812f29a80b1f210d7c346b47",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Samanta"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "4642ab14a47f2e740933e6b0ee40edda57e00df142a1506ea5d8d01d1f5932af"
+  }, {
+    "id" : 0,
+    "name" : "SHPunk #73",
+    "ethscription_id" : "0x9f1ded3fb88397a59c0c8b1f5255a730e4e974a1cee11d60d8ffc91e23d33ada",
+    "item_attributes" : [ {
+      "trait_type" : "Name",
+      "value" : "Maneki Neko"
+    } ],
+    "description" : "Fully on-chain via Ethscriptions custom made SHPunks.",
+    "hash" : "b7311afe5dc03e1bc73bf4e7f7d3a728c5d2d037dcf7c0a057bbf60475db317a"
   } ],
-  "hash" : "e6d1b0ee74e637bcf1eaacbb62b173d4d8f66d35418f0fa0f3b8cf5e39ab998c"
+  "hash" : "995e0e928329b837e66c4661be479ec640a4d54f48c66b0dc711fb1d7d831296"
 }
