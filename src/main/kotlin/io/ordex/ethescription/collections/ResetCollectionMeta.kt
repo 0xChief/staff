@@ -1,13 +1,15 @@
 package io.ordex.ethescription.collections
 
 import io.ordex.ethescription.collections.state.CollectionRepository
+import io.ordex.ethescription.collections.utils.WebClientProvider
 import kotlinx.coroutines.async
 import kotlinx.coroutines.awaitAll
 import kotlinx.coroutines.runBlocking
-import org.springframework.web.client.RestTemplate
+import org.springframework.web.reactive.function.client.awaitBody
 
 fun main(args: Array<String>) = runBlocking<Unit> {
     val repository = CollectionRepository()
+    val rest = WebClientProvider.initTransport()
 
     listOf("thedarwins")
         .map { repository.get(it)!! }
@@ -19,11 +21,15 @@ fun main(args: Array<String>) = runBlocking<Unit> {
                 async {
                     while (true) {
                         try {
-                            RestTemplate().delete("https://api.ordex.ai/v0.1/items/ETHEREUM_ETHSCRIPTION:${it.ethscriptionId}/resetMeta")
+                            rest
+                                .delete()
+                                .uri("https://api.ordex.ai/v0.1/items/ETHEREUM_ETHSCRIPTION:${it.ethscriptionId}/resetMeta")
+                                .retrieve()
+                                .awaitBody<Unit>()
                             println("Updated for ${it.ethscriptionId}")
                             break
                         } catch (ex: Throwable) {
-                            println("Can't reset ${it.ethscriptionId}")
+                            println("Can't reset ${it.ethscriptionId}, $ex")
                         }
                     }
                 }
