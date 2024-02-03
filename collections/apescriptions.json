@@ -1,0 +1,1657 @@
+{
+  "name" : "Apescriptions",
+  "logo_image_uri" : "https://www.apescriptions.xyz/logo-avatar.svg",
+  "banner_image_uri" : "",
+  "total_supply" : 48,
+  "slug" : "apescriptions",
+  "description" : "Simian Vector Graphics on Ethereum",
+  "website_link" : "https://www.apescriptions.xyz/mint",
+  "twitter_link" : "https://x.com/apescriptions",
+  "background_color" : null,
+  "collection_items" : [ {
+    "id" : 698,
+    "name" : "Apescription #698",
+    "ethscription_id" : "0x895ffbc503f07c3b74edaf43f5be317a4b426a107f133fd41fd2ec8a4d6cad2f",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Cream"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Tshirt Striped"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Crazy"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Bored"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "INPPI"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "51394"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "74376"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "70000 - 79999"
+    } ],
+    "description" : "",
+    "hash" : "738894cee2992196218ba9656b849bf465bee59832b7cd9a43fab13c51dcffab"
+  }, {
+    "id" : 1435,
+    "name" : "Apescription #1435",
+    "ethscription_id" : "0x7229739aabfa0093ad17d84b95e7aea6b830ec5f45fa983ade527a4588b87be5",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Grey"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Tshirt Tuxedo"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Cyborg"
+    }, {
+      "trait_type" : "Hat",
+      "value" : "Flipped Brim"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Diamond Grillz"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "IPAPN"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "19034"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "103408"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "100000 - 109999"
+    } ],
+    "description" : "",
+    "hash" : "9aff7917b6bfcfe6354db94a5fcb3be988f1c07328145d6f54d6d16b05a90b7b"
+  }, {
+    "id" : 3,
+    "name" : "Apescription #3",
+    "ethscription_id" : "0xb8bd33666e8710a745fdd2e566f980060959e46485d90dca6e7e1500a0e389d1",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Siberian"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Laser"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Tongue"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "NIIIN"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "135376"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "69838"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "100000 - 999999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "60000 - 69999"
+    } ],
+    "description" : "",
+    "hash" : "6240f1f7107311a7fbd07857b78101e70ebe28adf7167cf745b682da20d25f1b"
+  }, {
+    "id" : 1103,
+    "name" : "Apescription #1103",
+    "ethscription_id" : "0x784f74994d5a31eb95b0af96f133262f2f6f1234220095b2958affa4e89111ce",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "DMT"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Angry"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Dumbfounded"
+    }, {
+      "trait_type" : "Piercing",
+      "value" : "Gold Stud"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "AAIEN"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "33903"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "95377"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "90000 - 99999"
+    } ],
+    "description" : "",
+    "hash" : "e0a57233e37a959767b1971092d8b3a78433eccab1996e4822a2e7efd20fa243"
+  }, {
+    "id" : 191,
+    "name" : "Apescription #191",
+    "ethscription_id" : "0x62af1eaa4dce99034c052417ed35eec99ab8755f016804c5ab423dacae69dff3",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Cream"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Sad"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Rage"
+    }, {
+      "trait_type" : "Piercing",
+      "value" : "Silver Stud"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "AEPAA"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "72049"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "52565"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "50000 - 59999"
+    } ],
+    "description" : "",
+    "hash" : "7a4a57262c5081ff915b6c3d52b098baed2960b540e715cabd86bba7c08d9cf4"
+  }, {
+    "id" : 299,
+    "name" : "Apescription #299",
+    "ethscription_id" : "0xe2d67cbf01633ad83e39b9f5c52623b02a1b7beeca05ec5f636c0f078ea23120",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "White"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Angry"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Bored"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "NINPP"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "35437"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "41161"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "0 - 49999"
+    } ],
+    "description" : "",
+    "hash" : "18afc240c9270b05b81ee4f9cd21db838177304fc75c2dfc045ea3a03ee6ad07"
+  }, {
+    "id" : 1213,
+    "name" : "Apescription #1213",
+    "ethscription_id" : "0xf86126394d57a1251fad4d4c914be2172a2eaec7c60d952423e5a3a70416cf37",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Prism"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Leather Jacket"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Wide"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Grin"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "NEAPE"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "5632"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "62320"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "1000 - 9999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "60000 - 69999"
+    } ],
+    "description" : "",
+    "hash" : "32b9f1cee6c855243321dba5dc81d8f1f6f750b62773a2d6107c6a2ce79136ab"
+  }, {
+    "id" : 17,
+    "name" : "Apescription #17",
+    "ethscription_id" : "0x3adddfa6b35cc1e4944f474611c49babdc12cd8df6afc329073aa295f52fd952",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Black"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Cyborg"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Rainbow"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "AEEAN"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "111722"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "73191"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "100000 - 999999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "70000 - 79999"
+    } ],
+    "description" : "",
+    "hash" : "6854b497ebad5e2bacffc745dc6f30ff30988a24345a2a4e3f8a2b99509c8ead"
+  }, {
+    "id" : 110,
+    "name" : "Apescription #110",
+    "ethscription_id" : "0xcfe929050fef41f2b69bfba5ef3e97ddd03417aca5a55440ee3b05ad534422b9",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Banana"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Undead"
+    }, {
+      "trait_type" : "Hat",
+      "value" : "Apescription Beanie"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Urgh"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "INANI"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "22275"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "75919"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "70000 - 79999"
+    } ],
+    "description" : "",
+    "hash" : "d959c4e0f6ff497f6cb5592050db6804ec423b0ea3b91e488a431afc0238da7f"
+  }, {
+    "id" : 1100,
+    "name" : "Apescription #1100",
+    "ethscription_id" : "0xc941882d68a24a9fa27336ddd981d59126f89e8fad6adbc1f6b618ec1bec2e78",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Dark Brown"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Hoodie"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Beams"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Bored"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "NPINA"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "44540"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "57950"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "50000 - 59999"
+    } ],
+    "description" : "",
+    "hash" : "c2f2e6e2c399248ff71f330ea1de4e720f734afbf120ae7e33792454c5bba5ba"
+  }, {
+    "id" : 1099,
+    "name" : "Apescription #1099",
+    "ethscription_id" : "0xefc20a8de20515f3b04d0abb99b7ac77b42b2628105d45b64122c710d5b235de",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Noise"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Closed"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Oh"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "PIANP"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "23384"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "43879"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "0 - 49999"
+    } ],
+    "description" : "",
+    "hash" : "521794c9b19b3d9a3b4854461016a6533940b66fcd22e96f9d29cae5e6226945"
+  }, {
+    "id" : 1102,
+    "name" : "Apescription #1102",
+    "ethscription_id" : "0xa5990f9e2ecdac7a1b20c14a3fb8ad2e659855ea9f6e23ec8cd36ed14a80ab01",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Brown"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Bloodshot"
+    }, {
+      "trait_type" : "Glasses",
+      "value" : "Shades"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Wah"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "ANIIN"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "117761"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "52306"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "100000 - 999999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "50000 - 59999"
+    } ],
+    "description" : "",
+    "hash" : "15b192f91f1fdd143f87885e7f99766b01bbe6fca4d3cf1fe1e9d5937dad614a"
+  }, {
+    "id" : 1513,
+    "name" : "Apescription #1513",
+    "ethscription_id" : "0xe0b13ca589254d12e2124d815c3c61b487eee915515b6f129b2730844666c9a9",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Bengal"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Tshirt Bones"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Laser"
+    }, {
+      "trait_type" : "Hat",
+      "value" : "Horns"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Oh"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "ENEAP"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "127231"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "86646"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "100000 - 999999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "80000 - 89999"
+    } ],
+    "description" : "",
+    "hash" : "6f866c5a030ff6962bb57bef88c1d5ec7701139ba54900caab8da07955ec6247"
+  }, {
+    "id" : 1517,
+    "name" : "Apescription #1517",
+    "ethscription_id" : "0xefd60fd4bd78bf742a3332497ae12c2b2161ab39b1a7532711353cdab678bced",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Brown"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Tshirt Black"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Closed"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Rainbow"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "INENE"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "48986"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "68051"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "60000 - 69999"
+    } ],
+    "description" : "",
+    "hash" : "90224b28623eb4c104331002b93b77acf6b6f4b134e2d4690609968f4b9f7a34"
+  }, {
+    "id" : 1516,
+    "name" : "Apescription #1516",
+    "ethscription_id" : "0x144fe6153dda607bb787c21bc8f3693f5b2c7b7e4c2d496bbaf1a30c266da495",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "DMT"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Undead"
+    }, {
+      "trait_type" : "Glasses",
+      "value" : "Horn-Rimmed"
+    }, {
+      "trait_type" : "Hat",
+      "value" : "Flipped Brim"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Urgh"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "AAIAI"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "67739"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "112458"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "110000 - 119999"
+    } ],
+    "description" : "",
+    "hash" : "59b9c9f41946275cd39ec82b677f1d41b7e39056f9783f2051e13dcdbf90184f"
+  }, {
+    "id" : 1514,
+    "name" : "Apescription #1514",
+    "ethscription_id" : "0x8a9dcad3a24007878a75e6e42f9db0c4d1c516c1bbeba5e10adf867cbae108c4",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Red"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Tshirt Bones"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Wide"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Tongue"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "IIEPP"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "152768"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "62233"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "100000 - 999999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "60000 - 69999"
+    } ],
+    "description" : "",
+    "hash" : "83b002842df0dbfdeeda76307dcfb8c14686cc69a886e4fc31256fe4d68e296c"
+  }, {
+    "id" : 1512,
+    "name" : "Apescription #1512",
+    "ethscription_id" : "0xb3a034935f0d8d7e328d35ab93fa06712fad76d3d0663eb98245a35dd4734d82",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Golden Brown"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Bored"
+    }, {
+      "trait_type" : "Hat",
+      "value" : "Halo"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Bored"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "IINEA"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "64184"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "44160"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "0 - 49999"
+    } ],
+    "description" : "",
+    "hash" : "2f5c5cd68f9cc12bd3f84c03650323b8a2bf970b6cd0be08645120d6c57fde42"
+  }, {
+    "id" : 1515,
+    "name" : "Apescription #1515",
+    "ethscription_id" : "0x13d25d35cea1109f2d10e9b79cc3e923f92b9365cb9ed0b95601d6588c2737bc",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Chromatic Aberration"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Undead"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Tongue"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "NINAA"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "47379"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "57439"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "50000 - 59999"
+    } ],
+    "description" : "",
+    "hash" : "5153a96f97a53545dd95a3b627d647e03c7e5bd4911f71a235398ec81719d33e"
+  }, {
+    "id" : 844,
+    "name" : "Apescription #844",
+    "ethscription_id" : "0x75e6ade19ff831350285de77786b9320893a8cc75e329eec8ee387c673558527",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Black"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Cutoff"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Beams"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Grin"
+    }, {
+      "trait_type" : "Piercing",
+      "value" : "Silver Stud"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "EIANN"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "132400"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "58009"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "100000 - 999999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "50000 - 59999"
+    } ],
+    "description" : "",
+    "hash" : "33caacd753e80fddb617a5f96cc751db1e04d3518b883ff4a7382d72675eb93d"
+  }, {
+    "id" : 391,
+    "name" : "Apescription #391",
+    "ethscription_id" : "0x96a0cd988b3f74a16dbbe20db59b7b342db9fcfe9676e89cad5c545ac582de8b",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Brown"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Hoodie"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Laser"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Stubble"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "NPIAP"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "48415"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "74947"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "70000 - 79999"
+    } ],
+    "description" : "",
+    "hash" : "77e20eb933bcf2d6d7f52b316a83b31738dfc289e5b1cf7d9ca0bba6a045a9ff"
+  }, {
+    "id" : 18,
+    "name" : "Apescription #18",
+    "ethscription_id" : "0x8e03c01ba8c52db29d226c9800f5c8dc99c6ef1b7935ca5b573dee356bd9ee03",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Bengal"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Beams"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Ell"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "NAAPN"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "42610"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "63559"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "60000 - 69999"
+    } ],
+    "description" : "",
+    "hash" : "9a6afe4460ab92e96a042295c612b0b497ed609e608967648e3ae731a713fd73"
+  }, {
+    "id" : 392,
+    "name" : "Apescription #392",
+    "ethscription_id" : "0x3ac8746bf5c7d6e9f8f1ac22141a8bd1b40784d088d890496a921d27412c8697",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "White"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Tshirt Tuxedo"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Sad"
+    }, {
+      "trait_type" : "Hat",
+      "value" : "Apescription Beanie"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Stubble"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "NEPII"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "248"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "80027"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "100 - 999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "80000 - 89999"
+    } ],
+    "description" : "",
+    "hash" : "d3f64de845ae4bd044763416237edc78cf17af51a8a09ee991f55b4cdaa1333f"
+  }, {
+    "id" : 1377,
+    "name" : "Apescription #1377",
+    "ethscription_id" : "0xe9973798867a4cb43c3c7a8d5cc151d3b106672d7907de7c304a9a29193bfe1c",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Tan"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Tshirt Black"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Beams"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Rage"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "EAPIE"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "24268"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "54379"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "50000 - 59999"
+    } ],
+    "description" : "",
+    "hash" : "5ee621e97ce358699103bc2538a2bbb62954f6096749143a41f59be92ce934ad"
+  }, {
+    "id" : 1588,
+    "name" : "Apescription #1588",
+    "ethscription_id" : "0x116f043c9112e4e02aa1edb940ed949a46720a452c810a54dcaf718c92995d59",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Golden Brown"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Cutoff"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Hypno"
+    }, {
+      "trait_type" : "Hat",
+      "value" : "Cowboy"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Tongue"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "PEEAE"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "230572"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "73669"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "100000 - 999999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "70000 - 79999"
+    } ],
+    "description" : "",
+    "hash" : "aadacb77f2796392c9b6da7bfae6ddfce08812173683229bc9bebbe1fa0127c6"
+  }, {
+    "id" : 1584,
+    "name" : "Apescription #1584",
+    "ethscription_id" : "0x53137470bba4ce7e631adee80136d27aa5e087545777e014020cd06271d57071",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Noise"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Leather Jacket"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Sad"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Diamond Grillz"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "EIANE"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "122947"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "85472"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "100000 - 999999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "80000 - 89999"
+    } ],
+    "description" : "",
+    "hash" : "76f9b6c9d6c73a38eb789a79347f768d50cae8d1bd5895edfcf316b9361fcf24"
+  }, {
+    "id" : 1587,
+    "name" : "Apescription #1587",
+    "ethscription_id" : "0x9fece5174342372e3baf25b5a8280677dd9a5faa5d4a30864ac901330a8c72d8",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Noise"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Tshirt Striped"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Beams"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Tongue"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "PPPPA"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "12604"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "71092"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "70000 - 79999"
+    } ],
+    "description" : "",
+    "hash" : "4a59d137ce65077e46f7e33c9735f3cd4d1eb9552984091144fb40b34a983404"
+  }, {
+    "id" : 393,
+    "name" : "Apescription #393",
+    "ethscription_id" : "0x6a7dd8d9a9335af988db5b768a244b29de0f18129d08fb37e329f334066fbd28",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Black"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Crazy"
+    }, {
+      "trait_type" : "Hat",
+      "value" : "Apescription Beanie"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Dumbfounded"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "ENNPI"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "47495"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "75538"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "70000 - 79999"
+    } ],
+    "description" : "",
+    "hash" : "b86b6b3df76c1bc49c991551f8466f64b9a6e55417d8288b467b896e73433198"
+  }, {
+    "id" : 1586,
+    "name" : "Apescription #1586",
+    "ethscription_id" : "0x17a1dfd808263956b309007b466441b509b4e852d9d9f7d9207fdcf5bd1e380b",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Dark Brown"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Bored"
+    }, {
+      "trait_type" : "Glasses",
+      "value" : "Horn-Rimmed"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Urgh"
+    }, {
+      "trait_type" : "Piercing",
+      "value" : "Drip"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "EPEAA"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "23091"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "59917"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "50000 - 59999"
+    } ],
+    "description" : "",
+    "hash" : "2078fcb8a6b57bad72596d19f4d51a720e8ac5d3d8c1077706eb89b2670bb7ff"
+  }, {
+    "id" : 551,
+    "name" : "Apescription #551",
+    "ethscription_id" : "0xf90edb5ea3ef44b606e11297e3bd6438d42f5c493a2f495c50f4abafb58dc365",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Bengal"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Closed"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Rage"
+    }, {
+      "trait_type" : "Piercing",
+      "value" : "Silver Stud"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "EPAIP"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "22082"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "66195"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "60000 - 69999"
+    } ],
+    "description" : "",
+    "hash" : "cede639f8380c02732626d6ca0843d4dee73f86cf54d915cc5a35b49701e24bc"
+  }, {
+    "id" : 482,
+    "name" : "Apescription #482",
+    "ethscription_id" : "0x30bfbb00e098c7c5f06281a593516c9321cdec84dbc1d193949fd7ff8995b904",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Pink"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Bored"
+    }, {
+      "trait_type" : "Glasses",
+      "value" : "Shades"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Jovial"
+    }, {
+      "trait_type" : "Piercing",
+      "value" : "Gold Stud"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "IEAPA"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "230387"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "58767"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "100000 - 999999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "50000 - 59999"
+    } ],
+    "description" : "",
+    "hash" : "366249b86d1ce02e281f011228c6b7ba5f65ecb7fe2a0ed0a59476ec961ca070"
+  }, {
+    "id" : 1633,
+    "name" : "Apescription #1633",
+    "ethscription_id" : "0x3eb86b2b2140a33413f2dc6b1aa4a25b320e0dd60f22327eafcd02019acbc64d",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "White"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Wide"
+    }, {
+      "trait_type" : "Hat",
+      "value" : "Halo"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Rage"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "PPAAP"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "46729"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "51735"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "50000 - 59999"
+    } ],
+    "description" : "",
+    "hash" : "7043825b1b64a008093db4284386b9803cd888910d8ed73c5b08ef7e519d9638"
+  }, {
+    "id" : 394,
+    "name" : "Apescription #394",
+    "ethscription_id" : "0x61e8adb071d81dcb589ec3f74d503d932bcbf6cdcfd0d3c8c70c618e9801cd7c",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Tan"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Tshirt Logo"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Beams"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Urgh"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "ANNIE"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "25610"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "61536"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "60000 - 69999"
+    } ],
+    "description" : "",
+    "hash" : "3593e1324023e5b881589c211311fc6ebeccb15b183e5cae9fc7d4c8340185a8"
+  }, {
+    "id" : 167,
+    "name" : "Apescription #167",
+    "ethscription_id" : "0x8267dae08ac4c87e60a0a73785f536df3c2468b52e11b03c5e8acd135551aaab",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Brown"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Sad"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Bored"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "NAAIA"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "27449"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "42934"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "0 - 49999"
+    } ],
+    "description" : "",
+    "hash" : "d5f22250ba33e4fe8bd784bc26e6d65db05851cf1958e5858bdc35b7b024e7fe"
+  }, {
+    "id" : 1105,
+    "name" : "Apescription #1105",
+    "ethscription_id" : "0xf5ae3f324e8e9f315cd34d97352a4f7d82cd0cba85f174d9d8150b93ea943b9e",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Prism"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Bone Necklace"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Cyborg"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Wah"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "PNAAP"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "132719"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "82251"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "100000 - 999999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "80000 - 89999"
+    } ],
+    "description" : "",
+    "hash" : "0beca30b9cf826ac4310ed92f334ba10fe02e0db3f2a4c28a213de1f49fc3592"
+  }, {
+    "id" : 223,
+    "name" : "Apescription #223",
+    "ethscription_id" : "0xbe8a96cee3af8dd86a5e6cb777276d0aa40c456698a802ef21415f5f7267cf34",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Dark Brown"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Cyborg"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Vuh"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "EAANA"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "26299"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "55330"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "50000 - 59999"
+    } ],
+    "description" : "",
+    "hash" : "cfb54f697aeac69e26e2f95ba1a8afd75f6c2a4b14429d22757f4b49438b2eff"
+  }, {
+    "id" : 233,
+    "name" : "Apescription #233",
+    "ethscription_id" : "0xa91a4738f94d33956afd158e8b44b108c7d4f872c8f9c348e621d0fb8580bae0",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Black"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Angry"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Gold Grillz"
+    }, {
+      "trait_type" : "Piercing",
+      "value" : "Silver Stud"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "APAEP"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "16307"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "71159"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "70000 - 79999"
+    } ],
+    "description" : "",
+    "hash" : "7c06384985a2188c3e15445f074206c8adaa65c6ce9e6f2ec8e8379aeed44f00"
+  }, {
+    "id" : 1306,
+    "name" : "Apescription #1306",
+    "ethscription_id" : "0x28ea2c5278159c2f82f84220d6b66077b62a56911544d6deaa5125d44780ee70",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Dark Brown"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Tshirt Striped"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Laser"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Oh"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "PIENA"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "1046"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "73849"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "1000 - 9999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "70000 - 79999"
+    } ],
+    "description" : "",
+    "hash" : "e85253dacf8ee44c3870857f8ac1054dbb1fb3a729d566060d24a5b7f92f3e07"
+  }, {
+    "id" : 671,
+    "name" : "Apescription #671",
+    "ethscription_id" : "0x6f01d50468728ae8baee098673d046636e99f04039c612c89283be41859e0d31",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Golden Brown"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Undead"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Oh"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "IEPNE"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "27802"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "45027"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "0 - 49999"
+    } ],
+    "description" : "",
+    "hash" : "9590c7c53de8d4a786280e697b53ec4c50cd322b228cc54e99d145061b3dff59"
+  }, {
+    "id" : 1673,
+    "name" : "Apescription #1673",
+    "ethscription_id" : "0x65ade6c7bf0c26fd70dc9bebc1f00ea5a4ef1f5cb0de1d922094a4ad2983ab5f",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Tan"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Smoking Jacket"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Laser"
+    }, {
+      "trait_type" : "Hat",
+      "value" : "Cowboy"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Rainbow"
+    }, {
+      "trait_type" : "Piercing",
+      "value" : "Drip"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "EEPEN"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "81283"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "98375"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "90000 - 99999"
+    } ],
+    "description" : "",
+    "hash" : "9cd538fc8cfbf31820c266cc74fa9cbd386d9fea138ac5bc8c52e16e2ddd2467"
+  }, {
+    "id" : 1685,
+    "name" : "Apescription #1685",
+    "ethscription_id" : "0x84441a1d894d1156bcc921462eab16f515b0511651cc53d9c8d5ed33a68e7cb7",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Tan"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Hobie Punk"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Beams"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Urgh"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "NEIAI"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "84199"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "80364"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "80000 - 89999"
+    } ],
+    "description" : "",
+    "hash" : "e50cde519f10dcb5309e2a3b5a0ab68a2f53e2722a56ddd6669dbc629f110c34"
+  }, {
+    "id" : 821,
+    "name" : "Apescription #821",
+    "ethscription_id" : "0xb87f1224c36764fc14695ffb01e58e94a39217668e54df5121a601ce28306446",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Cream"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Undead"
+    }, {
+      "trait_type" : "Hat",
+      "value" : "Snapback"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Bored"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "APIAA"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "62734"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "48316"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "0 - 49999"
+    } ],
+    "description" : "",
+    "hash" : "0d57030890260e1b55830540c53c22669335d00e633659c34319733e26a47481"
+  }, {
+    "id" : 635,
+    "name" : "Apescription #635",
+    "ethscription_id" : "0x880810cee0efe7c0cace66bbe71f51c7b688ee0a10cc8a6321b48fda447ff6cb",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Platinum"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Leather Jacket"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Wide"
+    }, {
+      "trait_type" : "Hat",
+      "value" : "Cowboy"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Diamond Grillz"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "NENNE"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "18852"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "99777"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "90000 - 99999"
+    } ],
+    "description" : "",
+    "hash" : "f362552c5f908f51eaf28cf9727547a5c197300a0ed6229ab2bf8d4ff95f6b4b"
+  }, {
+    "id" : 1727,
+    "name" : "Apescription #1727",
+    "ethscription_id" : "0x16a0a1e0d0712bc98f0025aab937d6421acd547f17214e0622407e5fa6e38401",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "White"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Tshirt Black"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Bored"
+    }, {
+      "trait_type" : "Glasses",
+      "value" : "Shades"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Vuh"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "PAAPI"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "26332"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "53921"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "50000 - 59999"
+    } ],
+    "description" : "",
+    "hash" : "f42cbe274459fa32877d5412f8ca17772295350e59469724893caeadac4b821c"
+  }, {
+    "id" : 1097,
+    "name" : "Apescription #1097",
+    "ethscription_id" : "0xa3501c4895bb726a3914a5c42b6058cfcdaebb65e7775260c21840b73cffd7db",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Brown"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Crazy"
+    }, {
+      "trait_type" : "Hat",
+      "value" : "Apescription Beanie"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Gold Grillz"
+    }, {
+      "trait_type" : "Piercing",
+      "value" : "Drip"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "EEIPP"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "1330"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "98154"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "1000 - 9999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "90000 - 99999"
+    } ],
+    "description" : "",
+    "hash" : "dfe22053aa0e453a8c6d219beb27a6ff4e6644fa58cc35a37b510b1a4ee2bf9c"
+  }, {
+    "id" : 1726,
+    "name" : "Apescription #1726",
+    "ethscription_id" : "0x6d3e399ef604edfbd5f31f2e0cf4a19f4a7e46c0870ae325eef6ca07b672e11f",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Brown"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Bloodshot"
+    }, {
+      "trait_type" : "Glasses",
+      "value" : "Shades"
+    }, {
+      "trait_type" : "Hat",
+      "value" : "Horns"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Gold Grillz"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "IAIPE"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "34833"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "82675"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "80000 - 89999"
+    } ],
+    "description" : "",
+    "hash" : "610953cc832ed797376198831a95ab3182f974ddd156403e9fa6504c446b5f6b"
+  }, {
+    "id" : 453,
+    "name" : "Apescription #453",
+    "ethscription_id" : "0x9af23fd26908227eddc60ebd65013667c75d72991833e0192ea39814deb0d314",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Golden Brown"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Beams"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Stubble"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "AEPPE"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "65106"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "50167"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "50000 - 59999"
+    } ],
+    "description" : "",
+    "hash" : "0a985f7b98b4c403f9aa03942f2291d7f797b10509f5338b08d2caad554c6570"
+  }, {
+    "id" : 1283,
+    "name" : "Apescription #1283",
+    "ethscription_id" : "0xc00550a4087cf98afb14273b175984a506d949073b18d6d1a0b2d5b458abc444",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Cream"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Laser"
+    }, {
+      "trait_type" : "Hat",
+      "value" : "Apescription Snapback"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Rage"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "AIPIA"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "17895"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "60286"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "60000 - 69999"
+    } ],
+    "description" : "",
+    "hash" : "98650bfb23561ee5d9900237c678353094cc3122dc5c3e917d2ce1f8f825675b"
+  }, {
+    "id" : 1285,
+    "name" : "Apescription #1285",
+    "ethscription_id" : "0x69e04e002500856a1886077ff8014110f97b9884412c040f722cce6f1e37e367",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Dark Brown"
+    }, {
+      "trait_type" : "Clothes",
+      "value" : "Hoodie"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Wide"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Vuh"
+    }, {
+      "trait_type" : "DNA Core",
+      "value" : "PAIIE"
+    }, {
+      "trait_type" : "Hash Attempts",
+      "value" : "43504"
+    }, {
+      "trait_type" : "Bytes",
+      "value" : "60111"
+    }, {
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
+    }, {
+      "trait_type" : "Bytes Range",
+      "value" : "60000 - 69999"
+    } ],
+    "description" : "",
+    "hash" : "d4dd831c0fe674f9606855b5286e0fc744b3a507a12acfab698259f97a7f479c"
+  } ],
+  "hash" : "38420b83fd1c55830b3d503d8baa6e7584aa1289ef7cddfe4aa799ed4a28a4b2"
+}
