@@ -5,8 +5,8 @@
   "total_supply" : 10000,
   "slug" : "digijoint",
   "description" : "10000 Digijoint Ethscriptions",
-  "website_link" : "https://digijoint.vercel.app",
-  "twitter_link" : "https://twitter.com/donofrio_blake",
+  "website_link" : "https://digijoint.vercel.app/",
+  "twitter_link" : "https://twitter.com/gethypedigital",
   "background_color" : "#C3FF00",
   "collection_items" : [ {
     "id" : 0,
@@ -15418,6 +15418,2181 @@
     } ],
     "description" : "",
     "hash" : "77ca91eaabc82405add7a5011122de83f62241214aa0eac67ed1d959c770d113"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #618",
+    "ethscription_id" : "0x2fa5033f2ae931fe829bacd3208916cb5eabfe4fe449e101956fc1e0b3fa4da6",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Alien OG"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Iron Lungs"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Cheeba Rising"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Wylin Out"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Duck Wit It"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Shiller"
+    } ],
+    "description" : "",
+    "hash" : "be9b280cac3cc2c89e83da5de6ad3d85ec55ed180ddf64b87ef0265d764ad30d"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #619",
+    "ethscription_id" : "0x03ca52ea8a58fbaf320a23aa36fb61b1d95ed2612fb2bd0ab7e26abe96969844",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Slurricane"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Space Cowboy"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Smoking Os"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Grey"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "MrsK47"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Skully Pink"
+    } ],
+    "description" : "",
+    "hash" : "45f475e1abcfc939fee59a751d3ae23aa29f8f50f922bed53cb7a83a84f93640"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #620",
+    "ethscription_id" : "0xe3fec3ef71eafb2c13fb708c2fcd0c92c492a462f3875be9dea83bb076d86b74",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Gushers"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Blastasaurus Rex"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Muggle Smirk"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Mighty Maxxed Out"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Grape Ape"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Herbal Hat"
+    } ],
+    "description" : "",
+    "hash" : "db6313ba6ef736f23f951ab528f977d7905ddcd1347dc271e410bf536dd9d449"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #621",
+    "ethscription_id" : "0x9ca2c32ea6cdaacac3f071b40ac34331ace35e1b11f796bc9ef25c856a42416c",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Bubba Kush"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Herbalist"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Rainy Day"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Mighty Maxxed Out"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Duck Wit It"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Headband Pink Green"
+    } ],
+    "description" : "",
+    "hash" : "3c6efbe031b93a3cc6bb6a54fdaa8a0cb9eb2dbec0017869da07db649acb9c3d"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #622",
+    "ethscription_id" : "0xbc053d9507972f13515e774556e55d24a50b3e39e8378226e0f7030cd8628b1a",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Green Crack"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Space Cowboy"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Smoke One"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Cannabis Kaleidoscope 3D"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Orange Crush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Headband Yellow Blue"
+    } ],
+    "description" : "",
+    "hash" : "2075ebb48be21a5f545b8a7fbd6e78f95ddba5c30aa6bf7fb48ecd4a8ead2508"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #623",
+    "ethscription_id" : "0xd5c44d40a6a970233ebaef5396edf6b5dd996f784728ebeeed646fb21ad46e15",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Orange Creamsicle"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Herbivore"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Rainy Day"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Blazed Blue"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Orange Crush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Laughing Lid Blue"
+    } ],
+    "description" : "",
+    "hash" : "0d8e2afd6f64c4a6240377fbe9d06b1b08634fbe0f639cc9ad4ccff0f0301eaf"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #624",
+    "ethscription_id" : "0x6d2afdec2573d031fbcc6371778a89374d17b7a4c5c85c3e20ff81aef754cf8e",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "StarDawg Matrix"
+    }, {
+      "trait_type" : "Body",
+      "value" : "High Flyer"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Cheeba Rising"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Caught"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Special K Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "LogicCap Green"
+    } ],
+    "description" : "",
+    "hash" : "69e5242c22c724f019dd76a3cab460542a3ea7d15b72cff44088d88a11284eba"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #625",
+    "ethscription_id" : "0x437adb4c0c50a9b59fc334afba45cc3d5ce5a33c6ea81993e5b93705643c4b5a",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Alien OG"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Cannabisseur"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Smoke One"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Shaggy AF"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "SkyWalker"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Loco Lid Green"
+    } ],
+    "description" : "",
+    "hash" : "8fb89d014f0c449d149c8afc30f28ff542fb3f190084d357b0eb44a42e098d2d"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #626",
+    "ethscription_id" : "0x462a50d4f49d6cfe8ec6b07ba00e9c99e1bed8716be729df7d2aff2f70d72d86",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "TrainWreck"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Sativa"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Ganja Smoke Blue Dream"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "OnGod Goggles Blue"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Smokin Dice"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Headband Yellow Blue"
+    } ],
+    "description" : "",
+    "hash" : "49a9c222e1599f87ae373995df5eefa71cb79de8e7d04f4d5adbda42202a605b"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #627",
+    "ethscription_id" : "0x768b16ff3b039627da696b59a786d74a043a8cb05ccee703844e137cae26e41d",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Mimosa"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Indica"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Cheeba Smoke"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Smokey"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Special K Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Laughing Lid Blue"
+    } ],
+    "description" : "",
+    "hash" : "ce97c68e0fb66e222cc10dba2106e8c9aefc45494472ee48d7ac24d20bdd2ee9"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #628",
+    "ethscription_id" : "0x27c41c9a63318d7fd55bc8d53adab9fe10dc055c916c745a489c3b8daf75ead6",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Hindu Kush"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Cannabisseur"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Ganja Smoke Blue Dream"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Dank Dazzlers Green"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Northern Lights"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "LogicCap Gold"
+    } ],
+    "description" : "",
+    "hash" : "f0c0256d14aa2e206b90b222e7b2c0cc2b7ca49b95f484c6e29eea93e6519527"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #629",
+    "ethscription_id" : "0x8949cf658db756eaccf829974f24cfcce676b4cdb6ff394f4bdf8dbfd9298cc9",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "MAC"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Herbivore"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "What Happened"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Respecter Me"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Northern Lights"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Loco Lid Red"
+    } ],
+    "description" : "",
+    "hash" : "a423f7508153418eebc66bfb6247ae7b45c3b27fc91480af5982ba4daa371e64"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #630",
+    "ethscription_id" : "0xc9c1cd324821a32fbba0f9b2d3184f53c35fe6eaed0e046e2e49e5f878bad3d6",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Strawberry Cough"
+    }, {
+      "trait_type" : "Body",
+      "value" : "High Flyer"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Stoner"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Blazed Green"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Orange Crush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "LogicCap Green"
+    } ],
+    "description" : "",
+    "hash" : "44e4a7918983c640dc42985e06a67a93e6349132b310b3b82196b2a644ce3989"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #631",
+    "ethscription_id" : "0xbc5d30776310884e4b3953b68fa8f10f4228a863eeaca1422ef06e064e34fa5c",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Wedding Cake"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Space Cowboy"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Cheeba Rising"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Shaggy AF"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Duck Wit It"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Headband Yellow Blue"
+    } ],
+    "description" : "",
+    "hash" : "96636680359405d43e199abec8109344a542d3703ae02e34a9433c4660b270d2"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #632",
+    "ethscription_id" : "0xc2ab8f4e745d935f5f06bba740265bafbbf6f19f1419e37bf0a737092b1c1416",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "TrainWreck"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Space Cowboy"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Ganja Smoke Sativa"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Wylin Out"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "SkyWalker"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Im Stoned"
+    } ],
+    "description" : "",
+    "hash" : "dd0720f8bc7a1727196ef88f014f3069380e2f8eea03e388e2e1090cbaaa37bd"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #633",
+    "ethscription_id" : "0x31e81248fffd67e129fb19ba7179c92c5b9b8713a92f964357ca4a521c62e4aa",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Wedding Cake"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Indica"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Ganja Smoke Sativa"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Zig Zag Laser Green"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Special K Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Skully Pink"
+    } ],
+    "description" : "",
+    "hash" : "b477d55b9c7ed36407693890628e0760abbcc14c14939ad7ea12bd990e638383"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #634",
+    "ethscription_id" : "0x5c69d623a14a315ad574986036fb9e0b2b095962d1fa13d86ae0e7f917936919",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Do Si Dos"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Goodfellow"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Dona Juanita"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Purple"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Grape Ape"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Skully Pink"
+    } ],
+    "description" : "",
+    "hash" : "99c34180b27348d56d4e92b08ed8a5278a72b66a39ff96a1f92d3bb42d474c37"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #635",
+    "ethscription_id" : "0x0913285bc2a439f87b72405d93c8311f2f8a565a6886bb130dc06de67aeee35a",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Zkittlez"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Chiefer"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Sissy Lips"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Blazed Blue"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Purple Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Herbal Hat"
+    } ],
+    "description" : "",
+    "hash" : "b289e808238aa9d486679033b59b9888035d9adf6879ed37da45e283d3a1a27d"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #636",
+    "ethscription_id" : "0x6aa3cdd9e29019a9f4b42f9b8b05345c996b9e94d4022fab86df881df7b16e35",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Wedding Cake"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Sativa"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Cheeba Rising"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Tech G Goggles"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Smokin Dice"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Skully Pink"
+    } ],
+    "description" : "",
+    "hash" : "0ac002b998d4c88026b13e07e8d038062c8c12a50d55466b7263b32d73167859"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #637",
+    "ethscription_id" : "0xfe4daa0baf99fd6b86a72b521a87edd40ac9149b66fe997fda3ed254e33a3435",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Do Si Dos"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Herbivore"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Cheeba Rising"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Respecter Me"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Blue Dream"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "LogicCap Gold"
+    } ],
+    "description" : "",
+    "hash" : "b4098df15a505b66ae93b00d962d54ec41506da46c7270c93dc104b142ca9ecb"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #638",
+    "ethscription_id" : "0x1285ae7a4f7bd0500eab0d99ab80c786c100b159e6213b098931312086ea78e4",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "White Rhino"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Iron Lungs"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Dona Juanita"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Shaggy AF"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "MrsK47"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Headband Yellow Blue"
+    } ],
+    "description" : "",
+    "hash" : "750bebb5b1d2374ac2ae88a82e0b235be8b340d03372b9f9c8d676cc9b8a2545"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #639",
+    "ethscription_id" : "0xfbfaab6cec32b28658af0e8c4f0ac1ae0d17948a4c34867eb4ccb74c06d7a2e9",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "White Rhino"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Blastasaurus Rex"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Ganja Smoke Blue Dream"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Respecter Me"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Special K Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Im High"
+    } ],
+    "description" : "",
+    "hash" : "c5d982939c60d3c983822ac9a3e4f61c09e8ea38830574e526e5f1b0174c77d8"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #640",
+    "ethscription_id" : "0x8324b812e2e174b751957a3191c383fe683e778c49ea763130849e09118d3fd0",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Gushers"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Sativa"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Smoking Os"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Tree Wrecked"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Grape Ape"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Loco Lid Red"
+    } ],
+    "description" : "",
+    "hash" : "7f0a23c1fd118dda68a694a3236c1f973236f69c2e1bc77b9f6ca1ea8b3e3245"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #641",
+    "ethscription_id" : "0x5d05660b3789ef2c319fc2ac2f9235b795416a83ce331b6b92d7e70eebc28eb1",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Wedding Cake"
+    }, {
+      "trait_type" : "Body",
+      "value" : "High Flyer"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Stoner"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Blazed Green"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Duck Wit It"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Laughing Lid Green"
+    } ],
+    "description" : "",
+    "hash" : "96d5bcc293c85d816f0fd03f26a7845a55f6258ccaf3202f41d7bd7f484cfafd"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #642",
+    "ethscription_id" : "0xa5e2b1485fa3d300684a6afa185b43309de701221a574d9fddd7c2048fa798d7",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Slurricane"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Goodfellow"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Cheeba Rising"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Ziggy Red"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Golden Ticket"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Laughing Lid Green"
+    } ],
+    "description" : "",
+    "hash" : "c78156a2071a49644b9f22c611c6ee201e293697955bcc9a93beb9b4a36aa3a8"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #643",
+    "ethscription_id" : "0xc9d81bbb51d855e7a875a2f787cf35c9231ff1657241a97de2471e0db0a07472",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "GMO Cookies"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Space Cowboy"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Ganja Smoke Sativa"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Blazed Green"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Blue Dream"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Headband Yellow Blue"
+    } ],
+    "description" : "",
+    "hash" : "e278c7e2629acb1f835a79265981935ec51d8798a2782cadb4c1cadb80f7a2f8"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #644",
+    "ethscription_id" : "0xe5fa6d5704f9679ee7825d6ce965dcb7c0e6291aba6a61c25ef249777d9732e2",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "LA Confidential"
+    }, {
+      "trait_type" : "Body",
+      "value" : "High Flyer"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Burning One Down"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Wylin Out"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "SkyWalker"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Laughing Lid Blue"
+    } ],
+    "description" : "",
+    "hash" : "3d734db66aef0ffcfa4b78f2acfb0617e6f0b31cf42ca885c0407433f6c90b9b"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #645",
+    "ethscription_id" : "0x1721d2cfc85d75844fae675f6b4e05ba46711b0d41b4f6cfdf300d47b38eb62b",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Gushers"
+    }, {
+      "trait_type" : "Body",
+      "value" : "High Flyer"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Rainy Day"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Caught"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Special K Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Headband Yellow Blue"
+    } ],
+    "description" : "",
+    "hash" : "70609101bc06910eb4274d64dc4dc24e854040f076aee45ceb66336033ff020b"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #646",
+    "ethscription_id" : "0x4131e40d40d202e578268a1a38c67972b702166b63c728744cb77aef04c09a22",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Purple Urkle"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Space Cowboy"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Ganja Smoke Indica"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Sheeeesh"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Special K Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Im High"
+    } ],
+    "description" : "",
+    "hash" : "4b8c0802c73b9c8970f9702a66677b3515de259490024909a0925bd0503b120a"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #647",
+    "ethscription_id" : "0x8e50ee2c70605158de34051040cc72dac4d802b253ef2938abd82910dea9970a",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "ChemDog"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Blastasaurus Rex"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Rainy Day"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Cannabis Kaleidoscope Red"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Special K Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Skully Green"
+    } ],
+    "description" : "",
+    "hash" : "66c1fba5eefeb7d5c680a700ca62938a0637051896aac25f0fe6354268c62ee7"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #648",
+    "ethscription_id" : "0x1e293f4ad74d162231a8d2407f65a3245f386deac4b9c4ac42e299bb5fc8e998",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Slurricane"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Space Cowboy"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Smoke Os Rising"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Stoned Red"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Blue Dream"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Im Stoned"
+    } ],
+    "description" : "",
+    "hash" : "7e01111db65cad4c293d7213413eff8885b224efe4f2f95daa5ae934896a5174"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #649",
+    "ethscription_id" : "0x7605fdecf8e09ffd2a51cb8d1f0fdf5e9cde11fd835e61a8226b4a03a7f15455",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Bubba Kush"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Indica"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Ganja Smoke Indica"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Grey"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Smokin Dice"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Headband Pink Green"
+    } ],
+    "description" : "",
+    "hash" : "bc3fba608e8ebde10bb9e994303a8d192021133c60c90fbfe9ae98453a7ee0eb"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #650",
+    "ethscription_id" : "0x4516e77fa17ad21b4d96873cf2c5ed732d6f7e4fb003e57cf56412808694427a",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Zkittlez"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Laughing Hyena"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Ganja Smoke Blue Dream"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Zig Zag Laser Red"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "MrsK47"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Skully Pink"
+    } ],
+    "description" : "",
+    "hash" : "32699d0c29f07c9161f6637ef36b03193ec19ee46570bdac603c38f1ac90816a"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #651",
+    "ethscription_id" : "0x40e8de8c2ee963a72f4a5817e6ff16cdca74b2640ef1e3b10a4971b56ee8116c",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Hindu Kush"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Sativa"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Stoner"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Grey"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Special K Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Hot Lava Lid"
+    } ],
+    "description" : "",
+    "hash" : "5f2fc55ef70b357fe7c4812cd2869ef1cd207b95a3d02e54629887e57954b78e"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #652",
+    "ethscription_id" : "0x1b6ec8da1b8a461b944bf2567b691f9a9487de1427d629d857cabe3301d073a3",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Wedding Cake"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Sativa"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "What Happened"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Tree Wrecked"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Smokin Dice"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Laughing Lid Blue"
+    } ],
+    "description" : "",
+    "hash" : "d4045c2824135778e75b1e3e52661f4ea4e48d830b6d1097fa085e7afed387e7"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #653",
+    "ethscription_id" : "0xe6168d603129b54655ccb7c64ed78500aaa965a2bd57ef449675084a44e6b6e6",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Bubba Kush"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Sativa"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Smoke One"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Caught"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Golden Ticket"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Loco Lid Red"
+    } ],
+    "description" : "",
+    "hash" : "94eff82aad5c1d66b37801fefe8f748625dcb33f544ee52ff1c87139dd6443dd"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #654",
+    "ethscription_id" : "0xac079d4648ee5926ba246876af8a040b306fdc48841e6b324088dcd70102a79d",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Do Si Dos"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Goodfellow"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Sideways"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Shaggy AF"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Golden Ticket"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "LogicCap Purple"
+    } ],
+    "description" : "",
+    "hash" : "cac0d435ef26b53d9b7bc7c93a9b794f8f2768a579c854a06e05dc2b6382ea11"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #655",
+    "ethscription_id" : "0x753a8e7d362856f2d2c57483802a82e9ef4ddcdb6a077fe4ac3a67f267705415",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "ChemDog"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Sativa"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Burning One Down"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "PickleBall Purps"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Duck Wit It"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Skully Green"
+    } ],
+    "description" : "",
+    "hash" : "892c6d0714dd2a0a837719fd11b96d02c5c9f9cc52ea23c67ee9c22b3adf6d61"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #656",
+    "ethscription_id" : "0xcab4dcb350bf5048d68681024a84e4215c49e81d42e0fab0f4034104b3db9ed5",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Alien OG"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Goodfellow"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Smoke One"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Green"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Orange Crush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Herbal Hat"
+    } ],
+    "description" : "",
+    "hash" : "04a96079550702ac2d7738291b4b62d074cd10a66faae75ea194aff4c24141c9"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #657",
+    "ethscription_id" : "0xc973d12eb34c82f01be5e3beafeb4abf1e19c8e40a57a8409595e0fe4bf55160",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Hindu Kush"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Space Cowboy"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Ganja Smoke Blue Dream"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Cannabis Kaleidoscope Suspect"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Purple Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Skully Yellow"
+    } ],
+    "description" : "",
+    "hash" : "be1d09c52afbffbe3e540972fce7b87fc5f0bfa19fe8f133b18ceceea162787e"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #658",
+    "ethscription_id" : "0x502b5f598d2abd1030509e358911dbe404a2a31ba5ad0d2f6ed4e17147c1ab85",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Gushers"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Herbivore"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Ganja Smoke Blue Dream"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Grey"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Duck Wit It"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Im High"
+    } ],
+    "description" : "",
+    "hash" : "7ad9cbf068646045b729f80e01204d87717270ceed0a8cf0b937fa6118ae50fe"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #659",
+    "ethscription_id" : "0x1ceff40c53ffdbc0c656675d69d37c6184193b6ab44e4e213784435426195687",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Grape Pie Matrix"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Iron Lungs"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Smoking Os"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Smokey"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Grape Ape"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Im High"
+    } ],
+    "description" : "",
+    "hash" : "1c12dbdbd502f22112786f90e5cd7f3229152e5e2a1131339631e99dcfcb2126"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #660",
+    "ethscription_id" : "0x60537823de58358fb5aa75276ab2ead9909d039edb105e557798eb586ba8be22",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Mimosa"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Cannabisseur"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Smoking Os"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "PickleBall Purps"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Special K Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Headband Yellow Blue"
+    } ],
+    "description" : "",
+    "hash" : "1f8ed2b5f13e8414ba21eb0e6b1529e1ae0c98df4c3282a7a128c3e8c69e7643"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #661",
+    "ethscription_id" : "0xfb05046b57ae8e5dba875ec1ae7f52deac749c0409e65dac634e67b55060e706",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Forbidden Fruit"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Herbivore"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Smoke One"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Sheeeesh"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Grape Ape"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Shiller"
+    } ],
+    "description" : "",
+    "hash" : "5af134bfda718f1f77831be6522890f7203e7cdbae0f9fcb7dbd27d3bf58ae7f"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #662",
+    "ethscription_id" : "0x1202cd95f032659ccc6e9a969786461f69df9dd24aab0b6be021f3bcd0447fa0",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Wedding Cake"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Indica"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Stoner"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Cannabis Kaleidoscope Suspect"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Northern Lights"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "LogicCap Gold"
+    } ],
+    "description" : "",
+    "hash" : "e9058db1798cc6b5246420a011fd3bb6a2310926b53c6931ec41830df01ee54b"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #663",
+    "ethscription_id" : "0x7d6a24ed6a23f7a5c46cd5be763ea84c610d4a8bff032972cd70c2992e107910",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Orange Creamsicle"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Laughing Hyena"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Rainy Day"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Shaggy AF"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "MrsK47"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Loco Lid Red"
+    } ],
+    "description" : "",
+    "hash" : "95cfe860c5770cec166ceb4694ced1549ac5bc7aacd913831fdfc2a76890d588"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #664",
+    "ethscription_id" : "0xc9c096c3f99c9ec6701f4ff2a897a3035ac84bd39fb6bbaf407905f0acb2124a",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Purple Urkle"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Blastasaurus Rex"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Dona Juanita"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Purple"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Blue Dream"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Hot Lava Lid"
+    } ],
+    "description" : "",
+    "hash" : "ca8fabc655d4d28fe250485a40f0e25b8281096b2d59d05e34155b2be06ccc57"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #665",
+    "ethscription_id" : "0x23419dacdd6b497a54efdc1f9923e326a26892ecc5ad5bbd89e49fdf82d43c0e",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "White Rhino"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Indica"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Sissy Lips"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Zig Zag Laser Red"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Northern Lights"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Herbal Hat"
+    } ],
+    "description" : "",
+    "hash" : "a3cf91edc29a078c888b5441d7e41f5744129326fc4461ef4d6ac4bed96a2ea9"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #666",
+    "ethscription_id" : "0x508f5a4ef26ab314f674a559b61f1842385d0d11108961af427019e62a175d0b",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "MAC"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Herbivore"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Muggle Smirk"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Blazed Blue"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Northern Lights"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "LogicCap Green"
+    } ],
+    "description" : "",
+    "hash" : "6aa27c02ef660a7b517749f2c69333d0569ee4be70a8000d3171ed0b7cae4e05"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #667",
+    "ethscription_id" : "0x64d078a9deae1442cd8745b29fcd5e8498d7d384d646670b7fbf3bfc64ec7a42",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Strawberry Cough"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Indica"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Smoke Os Rising"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Mighty Maxxed Out"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Special K Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Skully Pink"
+    } ],
+    "description" : "",
+    "hash" : "6cc675825571495759bb1a691400d0531e01e8bc5d5c00c60b8bd5563dcf85ae"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #668",
+    "ethscription_id" : "0x209019744a2aee673108391b440cdc807ae36a890bd3d05e1606122081a65400",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Purple Urkle"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Herbalist"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Bogart"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Smokey"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Golden Ticket"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Herbal Hat"
+    } ],
+    "description" : "",
+    "hash" : "c05f3de94ec4edef281e88ff1555383f8e8e8eaadf7ef8f3e2a0eb183a16a3d2"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #669",
+    "ethscription_id" : "0xe76c91d8aa4e32f6dc73816bb2a3c7afe59e0cdfb93ae7cb9d240e12f772539c",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Gushers"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Goodfellow"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Bogart"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Green"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Purple Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Skully Yellow"
+    } ],
+    "description" : "",
+    "hash" : "70815bcf979c93cb18d76de4eb12eb5f75eb028c122ca341ea8a66dd5e6addcd"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #670",
+    "ethscription_id" : "0x65953621e6df0cd4a9d666b0d0173d5fa42dce9dfb05fa1d4994776458c2689c",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Green Crack"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Space Cowboy"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Stoner"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Smokey"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Grape Ape"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Herbal Hat"
+    } ],
+    "description" : "",
+    "hash" : "2b526c9e37779f83747b02048c77daafe8ccd45ff84e31c4e48406f926beed34"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #671",
+    "ethscription_id" : "0x4be6cbd3442f437fafa6c18a1b77938e6cf1d8a48b46311236f321d6f918cc84",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Do Si Dos"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Laughing Hyena"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Smoke Os Rising"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Ziggy Red"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Orange Crush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Skully Yellow"
+    } ],
+    "description" : "",
+    "hash" : "fac128038d7a1f550f1b53825e0d6e3de36261c1da9904edefff8d3abca6ce29"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #672",
+    "ethscription_id" : "0xef7eb499bbceeaf2469d5ab3a4a4a97ec0d734f58ca448fb8c70f922cd1ac7ad",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Hindu Kush"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Goodfellow"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Sideways"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Grey"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Golden Ticket"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Headband Pink Green"
+    } ],
+    "description" : "",
+    "hash" : "5795b892eb41400adc0f72717964575be8eb104e121b4d2ccfbb74ce9340fc6b"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #673",
+    "ethscription_id" : "0x51a407554241db5e2a7b807a0fc1cd0239bc0a95dc4a407076577f276274d732",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "GMO Cookies"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Laughing Hyena"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Ganja Smoke Blue Dream"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Tree Wrecked"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Grape Ape"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "LogicCap Green"
+    } ],
+    "description" : "",
+    "hash" : "7e03c90c04381374eea675bef79b764af950342c9d1cd361f04703316184ac94"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #674",
+    "ethscription_id" : "0xc0543c92206ac770c471eab257b319903745e85613eff3f21c3fd2eb05c10970",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Slurricane"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Herbivore"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Woo Woo"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Stoned Red"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "SkyWalker"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Im High"
+    } ],
+    "description" : "",
+    "hash" : "e56d18f995a5735563c922ac65fbd6a1f0b2d4bc7d72a336919489938165726b"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #675",
+    "ethscription_id" : "0x74ebe432796728e5bfe16d71454176d20a805cbc428f2e8bfea23f6e8f1cc90a",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Orange Creamsicle"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Herbivore"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Smoke Os Rising"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Zig Zag Laser Red"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "MrsK47"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Shiller"
+    } ],
+    "description" : "",
+    "hash" : "9f3a7f26d419a6413ccf51a5cd65ec7f77b9149fc14008cb3b60a57e96c43851"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #676",
+    "ethscription_id" : "0x73d59d5930d7fadbfa74b08bf4e0b13676030572321e7868ad61fe9921987085",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "White Rhino"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Chiefer"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Smoke Os Rising"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Tech G Goggles"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "SkyWalker"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Herbal Hat"
+    } ],
+    "description" : "",
+    "hash" : "10a9788da76f8ce70bdb74c4b62ab23fc6abd7e3238051a0dbad6a00ce02a0da"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #677",
+    "ethscription_id" : "0x8d0c5efda674d3baa9d77473f5cc7770f80abf33a5b9453cb994af71532a6654",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "GMO Cookies"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Herbalist"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Woo Woo"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Tree Wrecked"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Duck Wit It"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "LogicCap Green"
+    } ],
+    "description" : "",
+    "hash" : "0a0134483c6341e56cfc4a01013f39df42e83fb99be8aaa739ec5787b6319ca3"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #678",
+    "ethscription_id" : "0x698810efb071c1232707a7fe3a5ee689bfd6851f008e457ac06b9bc3c93a3add",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Purple Urkle"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Space Cowboy"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Dona Juanita"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "PickleBall Purps"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Blue Dream"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Headband Yellow Blue"
+    } ],
+    "description" : "",
+    "hash" : "9bf1de2b2bb3bf223e4c5f0e4f2f7312c2c784243f24a4132995d476b7d8944d"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #679",
+    "ethscription_id" : "0xfb3d11379aee9bd04aaeccc09aa8e732b45a92b744872919a0cc53eebf3e22d2",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Hindu Kush"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Herbivore"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Dona Juanita"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Zig Zag Laser Red"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Grape Ape"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "LogicCap Gold"
+    } ],
+    "description" : "",
+    "hash" : "02c1c098fbc0129511cbc16638b599b90cf0adcb2cd75d8bc3bc5f4b10e5a75b"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #680",
+    "ethscription_id" : "0xc6a96adacd506b907868b43cda71ca8d56bfc9e71e665d3b973cba78683fb1be",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Zkittlez"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Weedpreneur"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Cheeching"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Suspect"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Special K Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "LogicCap Purple"
+    } ],
+    "description" : "",
+    "hash" : "ea01b3a844615da4f067f3d3c3dc2977e18b5cb4b42434296e53ae3476ac7dba"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #681",
+    "ethscription_id" : "0x2606129609a8361b672bcb1f0926bd5014d5bf22b53065f34b4c90cc3e60ade3",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Gushers"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Goodfellow"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Bogart"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Shaggy AF"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Blue Dream"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Skully Yellow"
+    } ],
+    "description" : "",
+    "hash" : "cb7ea7a6d980719fdfe28ec52a82e9400d8da363e065be47d48b2f073cd6c5db"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #682",
+    "ethscription_id" : "0x4ff937698ffadb2e5180d2906facf63e32648019c6d7496d747f63a62aaf4eec",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Forbidden Fruit"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Space Cowboy"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "What Happened"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Shaggy AF"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "MrsK47"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Headband Yellow Blue"
+    } ],
+    "description" : "",
+    "hash" : "4487d5f04811c66cbd3a5a2ca7c8059535f6c3e2d2c66abff44cf6b3ddc35469"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #683",
+    "ethscription_id" : "0x15184ae985832af57333b79a2da4968324731e459a87f722532da1e432e18a23",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Gushers"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Chiefer"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Smoke Os Rising"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Grey"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "SkyWalker"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Skully Pink"
+    } ],
+    "description" : "",
+    "hash" : "e464b8b82369daecad34e6badf5dd9db8e2cbcb4c10e5e41b80c059d82bf3d0c"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #684",
+    "ethscription_id" : "0x173b3fa6937af84fa54c8f9f1f76bd0ebfe0faa20e1706db859a6cffe068ac07",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "ChemDog"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Herbivore"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Dona Juanita"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Caught"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Blue Dream"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Headband Yellow Blue"
+    } ],
+    "description" : "",
+    "hash" : "2caf503b974f0c03903005c78030f17e8d61282aee0d94a69d74a99bf691d87b"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #685",
+    "ethscription_id" : "0x3736ae1208b19e950ffbfc20eff2c99f0084ed9494717bfb3316faedfb792786",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Forbidden Fruit"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Iron Lungs"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Woo Woo"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Caught"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Duck Wit It"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Loco Lid Green"
+    } ],
+    "description" : "",
+    "hash" : "b6870dfe734fae8748f6303eeca1c755c3d9b7e6a2ec7d5aeb5bc00b0547ffb9"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #686",
+    "ethscription_id" : "0x3659c6ac587c5fefa57c179e7810b322f1786ddb88c952d134ccddd60481058c",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "TrainWreck"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Laughing Hyena"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Cheeba Smoke"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Smokey"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Orange Crush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Im High"
+    } ],
+    "description" : "",
+    "hash" : "9537f1529c663a8b39061dcae469c819767924ea97a2cba0d9f505a35f2a4e9f"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #687",
+    "ethscription_id" : "0x0c7f2e9ee54b7f4cdc1982d919ae101d9ca1891d1002bfed57d0df494882cb2e",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Grape Pie Matrix"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Goodfellow"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Smoke Os Rising"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Smokey"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Blue Dream"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "LogicCap Green"
+    } ],
+    "description" : "",
+    "hash" : "e6d022231660c676f22f9c55013d456caf2c867d9a743af67fb15059f52a9728"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #688",
+    "ethscription_id" : "0xc9c05d856863c053f8b40119bbfcf11b8f4ba0ad923563b35148edcad5de52d1",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Slurricane"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Space Cowboy"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Ganja Smoke Indica"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Cannabis Kaleidoscope Green"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Smokin Dice"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Herbal Hat"
+    } ],
+    "description" : "",
+    "hash" : "f34ba886eb93b4c424a2aa9cbfa002c1226e9e61812a98567f26c77350536a5b"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #689",
+    "ethscription_id" : "0x04098800a3a87cbb1af02bcacc864b9b2d9f159b23b86033c372dd1b54325b34",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "White Rhino"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Laughing Hyena"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Sissy Lips"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Infused Optics Blue"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "MrsK47"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Laughing Lid Green"
+    } ],
+    "description" : "",
+    "hash" : "36660083bd20b70e10a3f84c25488d64d7f7d0a3336f9bafc51fc1b0e3c284fb"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #690",
+    "ethscription_id" : "0x04573b6d5fc5dd19518d0ba59dc54caabddbbfa0a392fbf154f6ce82c1e087f6",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Gorilla Glue"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Indica"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Rainy Day"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Mighty Maxxed Out"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Northern Lights"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Skully Green"
+    } ],
+    "description" : "",
+    "hash" : "ca6249a9792ffafef11b37e6a52b5385b1c9ea80eb12f09683275c749a50e5e8"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #691",
+    "ethscription_id" : "0x367e335f1dbc75996cb78ee5008f3ae9d639fee587daee084abe055f8a46a615",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Slurricane"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Sativa"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Bogart"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Tech G Goggles"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Purple Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Skully Green"
+    } ],
+    "description" : "",
+    "hash" : "ec1669492f86d9b4395430bc7459beeee282112aa8f9c334fd288de3fe492639"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #692",
+    "ethscription_id" : "0xace94235a24dde31b2f8a8688781fb01b25f734623e06e76568886bd6f1a39b0",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Mimosa"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Goodfellow"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Cheeba Rising"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Zig Zag Laser Green"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Blue Dream"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Headband Yellow Blue"
+    } ],
+    "description" : "",
+    "hash" : "91c479b0a1fd63463fdb4b6fef35b35031a12e2256ca155f5c8de8888de08629"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #693",
+    "ethscription_id" : "0xe15b14c6719741ac1b58b9fa698fdd9b520520e032971207ac783ae626de60d3",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Purple Urkle"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Goodfellow"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Dona Juanita"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Infused Optics Blue"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Grape Ape"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Herbal Hat"
+    } ],
+    "description" : "",
+    "hash" : "77372e4df95aae3168203421a153c06cca5adf0441f7272f05f77a8b9a30fb10"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #694",
+    "ethscription_id" : "0x28259d9861e2010fcb4df2fdbfa0d950170c43d1169d6c523f457982cf7300cb",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "White Rhino"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Herbivore"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Cheeba Rising"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "5_ Ninja"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Duck Wit It"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Laughing Lid Green"
+    } ],
+    "description" : "",
+    "hash" : "67922f3d0ff2c5f960fcd061d1e40046c402738c84221cb6816f241d2b9f4485"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #695",
+    "ethscription_id" : "0x1db91a03c9504124ff60f2649233ba586ac899400c9815397ceb91afb462b2a9",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Purple Urkle"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Blastasaurus Rex"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Woo Woo"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Blazed Blue"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Smokin Dice"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Loco Lid Green"
+    } ],
+    "description" : "",
+    "hash" : "9307a2be54159a71a05b3e5c46ad254ec7d3d13a3c704cb71d34eab76f27dd8b"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #696",
+    "ethscription_id" : "0xa9c567da157ce2e1af417ba5c7e0d1a9914233b0f44485963dc9ba81a91b4ab8",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Zkittlez"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Herbivore"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Woo Woo"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Grey"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "MrsK47"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "LogicCap Green"
+    } ],
+    "description" : "",
+    "hash" : "05c1a7b3e1fbec6d2d40207d9ce68847adc01df35ddc503ed58d2a64b3d08cee"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #697",
+    "ethscription_id" : "0xbd1a70a1cbdb7b4801915f31300a825d01d209c8147e5600c4a14b3634c8d828",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "White Rhino"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Sativa"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "What Happened"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Respecter Me"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Northern Lights"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Im High"
+    } ],
+    "description" : "",
+    "hash" : "fd8cef871c0b022edf24e1c335eec0b12265fb942dbcee125815a3c022569083"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #698",
+    "ethscription_id" : "0xc1d17bd2be475ad2480dfc79c9d161c897d69f88f993658510c9f6da50d13934",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Wedding Cake"
+    }, {
+      "trait_type" : "Body",
+      "value" : "High Flyer"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Burning One Down"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Cannabis Kaleidoscope Orange"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Blue Dream"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Skully Yellow"
+    } ],
+    "description" : "",
+    "hash" : "c86eba15a7651bdb3c380248bd76b7da89d76c5ac51162359a4fe8afdb022a2b"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #699",
+    "ethscription_id" : "0x26b01b73ddbe85c48ed2dc9ee22e4f5d2b1032785cb1d327e504c9d22bac8482",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "GMO Cookies"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Blastasaurus Rex"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Burning One Down"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Green"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Golden Ticket"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Laughing Lid Green"
+    } ],
+    "description" : "",
+    "hash" : "98b4c989911c5242fc187e0b3beb7cff570bb8b97460d6f05484ad8f99806945"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #700",
+    "ethscription_id" : "0x9f63c275d8068ccef016c7d0de1870adbc1affaaa39c1e450e6ed32faa8cea39",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Slurricane"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Goodfellow"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Cheeba Rising"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Smokey"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Purple Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Laughing Lid Green"
+    } ],
+    "description" : "",
+    "hash" : "ecc759b5d763de764e31865f1fb6899380c202fe3e90d83674f5860952612511"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #701",
+    "ethscription_id" : "0xfab612a365b215f7704c183583b8b599528b95da181d2a69a983c473e3a5c042",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Forbidden Fruit"
+    }, {
+      "trait_type" : "Body",
+      "value" : "High Flyer"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Rainy Day"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Lazy"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Northern Lights"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Muzik Vibes"
+    } ],
+    "description" : "",
+    "hash" : "642d93443f078558438c779c8988790f66fefffe0dc16d2f5e98f20af0172a27"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #702",
+    "ethscription_id" : "0xdc9945340aed2c8d1cf16a435a67f63f54b8c506fd86cc837d36263579b02bfd",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Mimosa"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Weedpreneur"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Dona Juanita"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Wylin Out"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Orange Crush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Skully Pink"
+    } ],
+    "description" : "",
+    "hash" : "1e3360a316eaf23cfadab99fa789c2197ecba61ca3760c923c0953728558613a"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #703",
+    "ethscription_id" : "0x64b95f9d2f3110be2cdefcee56e1e71343cfaea3f296624315bea58715ffbea7",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Green Crack"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Sativa"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Ganja Smoke Blue Dream"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Wylin Out"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Golden Ticket"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Loco Lid Green"
+    } ],
+    "description" : "",
+    "hash" : "b8232218c7a16fa6152166594e2007f7d2911f82b1dad4cbad95b1dc23c5413d"
+  }, {
+    "id" : 0,
+    "name" : "digijoint #704",
+    "ethscription_id" : "0xd0ba1feda667cc496ec334b7462f9c833deb17177fc5bf00f7c4e12bac290103",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Slurricane"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Space Cowboy"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Muggle Smirk"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Grey"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Purple Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "LogicCap Gold"
+    } ],
+    "description" : "",
+    "hash" : "d0ce6fecfe8c5791c561643a1973b45840304b4d7ba88031450357ab629e767a"
   } ],
-  "hash" : "8acb254e5ebd5fedc94a69dcf9bcec2a1671fa714f509f68ee02a7c6731eafee"
+  "hash" : "166e8040153956e963b6a8ac10f524304e15d8eb83063e5bddf8bb9da8338e10"
 }
