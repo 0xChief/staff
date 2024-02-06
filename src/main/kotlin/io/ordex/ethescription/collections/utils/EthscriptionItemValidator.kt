@@ -11,4 +11,13 @@ object EthscriptionItemValidator {
             throw IllegalArgumentException("Invalid item: id=${item.id}, ethscriptionId=${item.ethscriptionId}")
         }
     }
+
+    fun isValid(item: EthscriptionCollectionItem): Boolean {
+        return runCatching {
+            validate(item)
+            true
+        }.getOrElse {
+            false
+        }
+    }
 }

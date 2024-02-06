@@ -2,7 +2,7 @@
   "name" : "Apescriptions",
   "logo_image_uri" : "https://www.apescriptions.xyz/logo-avatar.svg",
   "banner_image_uri" : "",
-  "total_supply" : 110,
+  "total_supply" : 111,
   "slug" : "apescriptions",
   "description" : "Simian Vector Graphics on Ethereum",
   "website_link" : "https://www.apescriptions.xyz/mint",
@@ -25,15 +25,6 @@
       "trait_type" : "Mouth",
       "value" : "Bored"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "INPPI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "51394"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "74376"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -41,7 +32,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "738894cee2992196218ba9656b849bf465bee59832b7cd9a43fab13c51dcffab"
+    "hash" : "879f3911543789c26b394243709733fa4764bb7342c10a2bea102f71e622a3a7"
   }, {
     "id" : 1435,
     "name" : "Apescription #1435",
@@ -62,15 +53,6 @@
       "trait_type" : "Mouth",
       "value" : "Diamond Grillz"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "IPAPN"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "19034"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "103408"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -78,7 +60,7 @@
       "value" : "100000 - 109999"
     } ],
     "description" : "",
-    "hash" : "9aff7917b6bfcfe6354db94a5fcb3be988f1c07328145d6f54d6d16b05a90b7b"
+    "hash" : "adb4b20534ea85f731fc25d904f65ac12ee142626a411bba7668b3c63d9b0112"
   }, {
     "id" : 3,
     "name" : "Apescription #3",
@@ -93,15 +75,6 @@
       "trait_type" : "Mouth",
       "value" : "Tongue"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NIIIN"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "135376"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "69838"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -109,7 +82,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "6240f1f7107311a7fbd07857b78101e70ebe28adf7167cf745b682da20d25f1b"
+    "hash" : "240c7c425603969e4dc5635c8c8913dc82bd34ddcba0faf35dfb0bab71c1a81e"
   }, {
     "id" : 1103,
     "name" : "Apescription #1103",
@@ -127,15 +100,6 @@
       "trait_type" : "Piercing",
       "value" : "Gold Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "AAIEN"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "33903"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "95377"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -143,7 +107,7 @@
       "value" : "90000 - 99999"
     } ],
     "description" : "",
-    "hash" : "e0a57233e37a959767b1971092d8b3a78433eccab1996e4822a2e7efd20fa243"
+    "hash" : "5a2972f7ba7392a5d098407cc3a85d16870230bbfdbf1281360aadef4e0786cb"
   }, {
     "id" : 191,
     "name" : "Apescription #191",
@@ -161,15 +125,6 @@
       "trait_type" : "Piercing",
       "value" : "Silver Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "AEPAA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "72049"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "52565"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -177,7 +132,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "7a4a57262c5081ff915b6c3d52b098baed2960b540e715cabd86bba7c08d9cf4"
+    "hash" : "e450c406a2ee4fd18107c56cb6cfe9c7fdab8fd71794b8be6ad94f0b36fa2016"
   }, {
     "id" : 299,
     "name" : "Apescription #299",
@@ -192,15 +147,6 @@
       "trait_type" : "Mouth",
       "value" : "Bored"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NINPP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "35437"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "41161"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -208,7 +154,7 @@
       "value" : "0 - 49999"
     } ],
     "description" : "",
-    "hash" : "18afc240c9270b05b81ee4f9cd21db838177304fc75c2dfc045ea3a03ee6ad07"
+    "hash" : "d1810f6c821cb47ea7cb8e15384a1b4ea517aca3fa80c86562b6659ad8b64eae"
   }, {
     "id" : 1213,
     "name" : "Apescription #1213",
@@ -226,15 +172,6 @@
       "trait_type" : "Mouth",
       "value" : "Grin"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NEAPE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "5632"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "62320"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "1000 - 9999"
     }, {
@@ -242,7 +179,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "32b9f1cee6c855243321dba5dc81d8f1f6f750b62773a2d6107c6a2ce79136ab"
+    "hash" : "dee783cd4749b937d52f66a65a2eb88977d3d0b4eda6e8b4ddd383f59e6db3ab"
   }, {
     "id" : 17,
     "name" : "Apescription #17",
@@ -257,15 +194,6 @@
       "trait_type" : "Mouth",
       "value" : "Rainbow"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "AEEAN"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "111722"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "73191"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -273,7 +201,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "6854b497ebad5e2bacffc745dc6f30ff30988a24345a2a4e3f8a2b99509c8ead"
+    "hash" : "2e8b56bb9140929ca4e6f3aa8947455ae211e3c97dd0bf6d5bd6e6a1dc761579"
   }, {
     "id" : 110,
     "name" : "Apescription #110",
@@ -291,15 +219,6 @@
       "trait_type" : "Mouth",
       "value" : "Urgh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "INANI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "22275"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "75919"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -307,7 +226,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "d959c4e0f6ff497f6cb5592050db6804ec423b0ea3b91e488a431afc0238da7f"
+    "hash" : "f84d65899ce56db918116c6c0a700731bda93e8b216c6a457179bd0f4ec08a78"
   }, {
     "id" : 1100,
     "name" : "Apescription #1100",
@@ -325,15 +244,6 @@
       "trait_type" : "Mouth",
       "value" : "Bored"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NPINA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "44540"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "57950"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -341,7 +251,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "c2f2e6e2c399248ff71f330ea1de4e720f734afbf120ae7e33792454c5bba5ba"
+    "hash" : "d956e5874dadb4609d62741ba9c7d837d527c7744dcfd29a1c5fe5a7c6de7265"
   }, {
     "id" : 1099,
     "name" : "Apescription #1099",
@@ -356,15 +266,6 @@
       "trait_type" : "Mouth",
       "value" : "Oh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PIANP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "23384"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "43879"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -372,7 +273,7 @@
       "value" : "0 - 49999"
     } ],
     "description" : "",
-    "hash" : "521794c9b19b3d9a3b4854461016a6533940b66fcd22e96f9d29cae5e6226945"
+    "hash" : "d7c35a6aece0c5e1490cfa6564f417fd8d83ab788bfb89028fe687982731c3f7"
   }, {
     "id" : 1102,
     "name" : "Apescription #1102",
@@ -390,15 +291,6 @@
       "trait_type" : "Mouth",
       "value" : "Wah"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "ANIIN"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "117761"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "52306"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -406,7 +298,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "15b192f91f1fdd143f87885e7f99766b01bbe6fca4d3cf1fe1e9d5937dad614a"
+    "hash" : "8a4a12315d301c45377abf21ce49542ee2a80070c94911bec208b8182b38cf3e"
   }, {
     "id" : 1513,
     "name" : "Apescription #1513",
@@ -427,15 +319,6 @@
       "trait_type" : "Mouth",
       "value" : "Oh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "ENEAP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "127231"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "86646"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -443,7 +326,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "6f866c5a030ff6962bb57bef88c1d5ec7701139ba54900caab8da07955ec6247"
+    "hash" : "543647f57839097874aa9fe6d8f2d35b6836d9e14e68516b445f55f3622c7821"
   }, {
     "id" : 1517,
     "name" : "Apescription #1517",
@@ -461,15 +344,6 @@
       "trait_type" : "Mouth",
       "value" : "Rainbow"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "INENE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "48986"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "68051"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -477,7 +351,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "90224b28623eb4c104331002b93b77acf6b6f4b134e2d4690609968f4b9f7a34"
+    "hash" : "1dd9e34ecd43effa3d1fb116ac1be15f0ddd333922b4dd72fdc2b3e501f79ca0"
   }, {
     "id" : 1516,
     "name" : "Apescription #1516",
@@ -498,15 +372,6 @@
       "trait_type" : "Mouth",
       "value" : "Urgh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "AAIAI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "67739"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "112458"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -514,7 +379,7 @@
       "value" : "110000 - 119999"
     } ],
     "description" : "",
-    "hash" : "59b9c9f41946275cd39ec82b677f1d41b7e39056f9783f2051e13dcdbf90184f"
+    "hash" : "9d7bc925859fe0569afde96a0ab10401727fc09f02b3dcb2e9f79ba493ea305c"
   }, {
     "id" : 1514,
     "name" : "Apescription #1514",
@@ -532,15 +397,6 @@
       "trait_type" : "Mouth",
       "value" : "Tongue"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "IIEPP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "152768"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "62233"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -548,7 +404,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "83b002842df0dbfdeeda76307dcfb8c14686cc69a886e4fc31256fe4d68e296c"
+    "hash" : "2eb7fac0281a5cceb02629dacaee9dd01cb021974aadf0d426cf43cb80a77ba1"
   }, {
     "id" : 1512,
     "name" : "Apescription #1512",
@@ -566,15 +422,6 @@
       "trait_type" : "Mouth",
       "value" : "Bored"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "IINEA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "64184"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "44160"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -582,7 +429,7 @@
       "value" : "0 - 49999"
     } ],
     "description" : "",
-    "hash" : "2f5c5cd68f9cc12bd3f84c03650323b8a2bf970b6cd0be08645120d6c57fde42"
+    "hash" : "8022a908d87725d1de515f412ce84c538347d015e44ed0009fa9585123882e4c"
   }, {
     "id" : 1515,
     "name" : "Apescription #1515",
@@ -597,15 +444,6 @@
       "trait_type" : "Mouth",
       "value" : "Tongue"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NINAA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "47379"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "57439"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -613,7 +451,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "5153a96f97a53545dd95a3b627d647e03c7e5bd4911f71a235398ec81719d33e"
+    "hash" : "a666a5b62b63918b5fa416b91593601be6c119cb207dd1fba64ff51b8cb84be9"
   }, {
     "id" : 844,
     "name" : "Apescription #844",
@@ -634,15 +472,6 @@
       "trait_type" : "Piercing",
       "value" : "Silver Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "EIANN"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "132400"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "58009"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -650,7 +479,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "33caacd753e80fddb617a5f96cc751db1e04d3518b883ff4a7382d72675eb93d"
+    "hash" : "79e0263cc715380f67cdb8ed335684502671bc779ebe914d530108607dbf8cfd"
   }, {
     "id" : 391,
     "name" : "Apescription #391",
@@ -668,15 +497,6 @@
       "trait_type" : "Mouth",
       "value" : "Stubble"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NPIAP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "48415"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "74947"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -684,7 +504,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "77e20eb933bcf2d6d7f52b316a83b31738dfc289e5b1cf7d9ca0bba6a045a9ff"
+    "hash" : "65db968544a0f685bd683b088f19763208e6cc16363b2733e8213a7d6fe5d2df"
   }, {
     "id" : 18,
     "name" : "Apescription #18",
@@ -699,15 +519,6 @@
       "trait_type" : "Mouth",
       "value" : "Ell"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NAAPN"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "42610"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "63559"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -715,7 +526,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "9a6afe4460ab92e96a042295c612b0b497ed609e608967648e3ae731a713fd73"
+    "hash" : "545497347794565c17d11687aa42680f8ae938147d612a63acde4e8b842d251a"
   }, {
     "id" : 392,
     "name" : "Apescription #392",
@@ -736,15 +547,6 @@
       "trait_type" : "Mouth",
       "value" : "Stubble"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NEPII"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "248"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "80027"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100 - 999"
     }, {
@@ -752,7 +554,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "d3f64de845ae4bd044763416237edc78cf17af51a8a09ee991f55b4cdaa1333f"
+    "hash" : "53d372ebab916d96faecae581fc955053b6161e698707a1458a7a2756d96f68e"
   }, {
     "id" : 1377,
     "name" : "Apescription #1377",
@@ -770,15 +572,6 @@
       "trait_type" : "Mouth",
       "value" : "Rage"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "EAPIE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "24268"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "54379"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -786,7 +579,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "5ee621e97ce358699103bc2538a2bbb62954f6096749143a41f59be92ce934ad"
+    "hash" : "22921f3da529f86a3f27fdd1e104833d0349f3fcc79a2f536d9b05104b2c6a82"
   }, {
     "id" : 1588,
     "name" : "Apescription #1588",
@@ -807,15 +600,6 @@
       "trait_type" : "Mouth",
       "value" : "Tongue"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PEEAE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "230572"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "73669"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -823,7 +607,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "aadacb77f2796392c9b6da7bfae6ddfce08812173683229bc9bebbe1fa0127c6"
+    "hash" : "39a1d756895844b00668114ac897cb389bf1752b9f5e67d84044a1eb82edd203"
   }, {
     "id" : 1584,
     "name" : "Apescription #1584",
@@ -841,15 +625,6 @@
       "trait_type" : "Mouth",
       "value" : "Diamond Grillz"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "EIANE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "122947"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "85472"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -857,7 +632,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "76f9b6c9d6c73a38eb789a79347f768d50cae8d1bd5895edfcf316b9361fcf24"
+    "hash" : "c9b51473207de219ccaedcec3b8224b2e3000a0a3aca2a469147d00d94553215"
   }, {
     "id" : 1587,
     "name" : "Apescription #1587",
@@ -875,15 +650,6 @@
       "trait_type" : "Mouth",
       "value" : "Tongue"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PPPPA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "12604"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "71092"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -891,7 +657,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "4a59d137ce65077e46f7e33c9735f3cd4d1eb9552984091144fb40b34a983404"
+    "hash" : "625841d33c1240473fb4f22f1eff814133ce93961db8042e82a78902a4dec634"
   }, {
     "id" : 393,
     "name" : "Apescription #393",
@@ -909,15 +675,6 @@
       "trait_type" : "Mouth",
       "value" : "Dumbfounded"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "ENNPI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "47495"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "75538"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -925,7 +682,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "b86b6b3df76c1bc49c991551f8466f64b9a6e55417d8288b467b896e73433198"
+    "hash" : "01432da025b04d660e1f2da7edf5890276d8a2058b91f0fdd7d976a64d3312de"
   }, {
     "id" : 1586,
     "name" : "Apescription #1586",
@@ -946,15 +703,6 @@
       "trait_type" : "Piercing",
       "value" : "Drip"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "EPEAA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "23091"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "59917"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -962,7 +710,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "2078fcb8a6b57bad72596d19f4d51a720e8ac5d3d8c1077706eb89b2670bb7ff"
+    "hash" : "94ce4a85c89146e7d04ec21811d102ae023c9ef59125117af225fc004d0445ae"
   }, {
     "id" : 551,
     "name" : "Apescription #551",
@@ -980,15 +728,6 @@
       "trait_type" : "Piercing",
       "value" : "Silver Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "EPAIP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "22082"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "66195"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -996,7 +735,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "cede639f8380c02732626d6ca0843d4dee73f86cf54d915cc5a35b49701e24bc"
+    "hash" : "f221c464f7c465eb33bec757571b97f0224f3c973a374ffc3dcccd0a038596b3"
   }, {
     "id" : 482,
     "name" : "Apescription #482",
@@ -1017,15 +756,6 @@
       "trait_type" : "Piercing",
       "value" : "Gold Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "IEAPA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "230387"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "58767"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -1033,7 +763,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "366249b86d1ce02e281f011228c6b7ba5f65ecb7fe2a0ed0a59476ec961ca070"
+    "hash" : "9f89f4ae833f615f6a5929a008f513eda3338dd0cc7ce2301a73f2212b8cf8d0"
   }, {
     "id" : 1633,
     "name" : "Apescription #1633",
@@ -1051,15 +781,6 @@
       "trait_type" : "Mouth",
       "value" : "Rage"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PPAAP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "46729"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "51735"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1067,7 +788,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "7043825b1b64a008093db4284386b9803cd888910d8ed73c5b08ef7e519d9638"
+    "hash" : "93d856064feec6142b9b8595a2dd3c6057de5752dd27f68cfb4290d7a41c03ea"
   }, {
     "id" : 394,
     "name" : "Apescription #394",
@@ -1085,15 +806,6 @@
       "trait_type" : "Mouth",
       "value" : "Urgh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "ANNIE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "25610"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "61536"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1101,7 +813,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "3593e1324023e5b881589c211311fc6ebeccb15b183e5cae9fc7d4c8340185a8"
+    "hash" : "62678eb9f8d60af841fc03995a9dd257754cbf821266afd79f7d4cbf3dbdfb55"
   }, {
     "id" : 167,
     "name" : "Apescription #167",
@@ -1116,15 +828,6 @@
       "trait_type" : "Mouth",
       "value" : "Bored"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NAAIA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "27449"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "42934"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1132,7 +835,7 @@
       "value" : "0 - 49999"
     } ],
     "description" : "",
-    "hash" : "d5f22250ba33e4fe8bd784bc26e6d65db05851cf1958e5858bdc35b7b024e7fe"
+    "hash" : "0bce89e1e55d2560216900f66f6e69f9d4dfc212910467bee56fcfa3d8eeb95a"
   }, {
     "id" : 1105,
     "name" : "Apescription #1105",
@@ -1150,15 +853,6 @@
       "trait_type" : "Mouth",
       "value" : "Wah"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PNAAP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "132719"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "82251"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -1166,7 +860,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "0beca30b9cf826ac4310ed92f334ba10fe02e0db3f2a4c28a213de1f49fc3592"
+    "hash" : "05b4e8765d1a2c776853d4ebcc2954c4385604a43ea9f89041491bbbe76245ba"
   }, {
     "id" : 223,
     "name" : "Apescription #223",
@@ -1181,15 +875,6 @@
       "trait_type" : "Mouth",
       "value" : "Vuh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "EAANA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "26299"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "55330"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1197,7 +882,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "cfb54f697aeac69e26e2f95ba1a8afd75f6c2a4b14429d22757f4b49438b2eff"
+    "hash" : "b75e07ac67fd24e35746d615791e143c6185c6973a72852e41a04044a3a399b6"
   }, {
     "id" : 233,
     "name" : "Apescription #233",
@@ -1215,15 +900,6 @@
       "trait_type" : "Piercing",
       "value" : "Silver Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "APAEP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "16307"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "71159"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1231,7 +907,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "7c06384985a2188c3e15445f074206c8adaa65c6ce9e6f2ec8e8379aeed44f00"
+    "hash" : "c7e8937d178632596c085b6fd4efb9590b5fda8cbadd38d12301b7165dc59ca9"
   }, {
     "id" : 1306,
     "name" : "Apescription #1306",
@@ -1249,15 +925,6 @@
       "trait_type" : "Mouth",
       "value" : "Oh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PIENA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "1046"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "73849"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "1000 - 9999"
     }, {
@@ -1265,7 +932,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "e85253dacf8ee44c3870857f8ac1054dbb1fb3a729d566060d24a5b7f92f3e07"
+    "hash" : "0835d42e2c1cab7638d92dfd0103ce7fe99b8a233ae0d2bfdb3b8d468e509c72"
   }, {
     "id" : 671,
     "name" : "Apescription #671",
@@ -1280,15 +947,6 @@
       "trait_type" : "Mouth",
       "value" : "Oh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "IEPNE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "27802"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "45027"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1296,7 +954,7 @@
       "value" : "0 - 49999"
     } ],
     "description" : "",
-    "hash" : "9590c7c53de8d4a786280e697b53ec4c50cd322b228cc54e99d145061b3dff59"
+    "hash" : "760ba3fcc8ccd4a8918a2108ed91778458d57dfe659cd8e57acb208bc4236321"
   }, {
     "id" : 1673,
     "name" : "Apescription #1673",
@@ -1320,15 +978,6 @@
       "trait_type" : "Piercing",
       "value" : "Drip"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "EEPEN"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "81283"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "98375"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1336,7 +985,7 @@
       "value" : "90000 - 99999"
     } ],
     "description" : "",
-    "hash" : "9cd538fc8cfbf31820c266cc74fa9cbd386d9fea138ac5bc8c52e16e2ddd2467"
+    "hash" : "2a3730ecc9757b1d35a1ac5af432f947ec81406d9158c462bca652cfdcec05ee"
   }, {
     "id" : 1685,
     "name" : "Apescription #1685",
@@ -1354,15 +1003,6 @@
       "trait_type" : "Mouth",
       "value" : "Urgh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NEIAI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "84199"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "80364"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1370,7 +1010,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "e50cde519f10dcb5309e2a3b5a0ab68a2f53e2722a56ddd6669dbc629f110c34"
+    "hash" : "731f6ab0f79afca70109c22d80aea5d7fdf668174b65945d3d692d1023a1605c"
   }, {
     "id" : 821,
     "name" : "Apescription #821",
@@ -1388,15 +1028,6 @@
       "trait_type" : "Mouth",
       "value" : "Bored"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "APIAA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "62734"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "48316"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1404,7 +1035,7 @@
       "value" : "0 - 49999"
     } ],
     "description" : "",
-    "hash" : "0d57030890260e1b55830540c53c22669335d00e633659c34319733e26a47481"
+    "hash" : "25a76c2b6f6c12ae584345564ded7d01f86373f0d59fe9e67f62fdcc13400b43"
   }, {
     "id" : 635,
     "name" : "Apescription #635",
@@ -1425,15 +1056,6 @@
       "trait_type" : "Mouth",
       "value" : "Diamond Grillz"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NENNE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "18852"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "99777"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1441,7 +1063,7 @@
       "value" : "90000 - 99999"
     } ],
     "description" : "",
-    "hash" : "f362552c5f908f51eaf28cf9727547a5c197300a0ed6229ab2bf8d4ff95f6b4b"
+    "hash" : "f128f5e5ff75ccfe3616e773fe98adeb694afcd30abd8e2cec448cc7df14bbb4"
   }, {
     "id" : 1727,
     "name" : "Apescription #1727",
@@ -1462,15 +1084,6 @@
       "trait_type" : "Mouth",
       "value" : "Vuh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PAAPI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "26332"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "53921"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1478,7 +1091,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "f42cbe274459fa32877d5412f8ca17772295350e59469724893caeadac4b821c"
+    "hash" : "f3dfdaac37611371eb9f0eb44bb12f156b217a49f8a5a652dacbca210f1b3296"
   }, {
     "id" : 1097,
     "name" : "Apescription #1097",
@@ -1499,15 +1112,6 @@
       "trait_type" : "Piercing",
       "value" : "Drip"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "EEIPP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "1330"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "98154"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "1000 - 9999"
     }, {
@@ -1515,7 +1119,7 @@
       "value" : "90000 - 99999"
     } ],
     "description" : "",
-    "hash" : "dfe22053aa0e453a8c6d219beb27a6ff4e6644fa58cc35a37b510b1a4ee2bf9c"
+    "hash" : "9b32261c79df4493c5edfae4110208b2ec68a553d7d222b3ffd565c236455924"
   }, {
     "id" : 1726,
     "name" : "Apescription #1726",
@@ -1536,15 +1140,6 @@
       "trait_type" : "Mouth",
       "value" : "Gold Grillz"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "IAIPE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "34833"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "82675"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1552,7 +1147,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "610953cc832ed797376198831a95ab3182f974ddd156403e9fa6504c446b5f6b"
+    "hash" : "72cdc9c5dcabcc59f5c1091265afdac76bb38640b0c7568857191a0763b8f62f"
   }, {
     "id" : 453,
     "name" : "Apescription #453",
@@ -1567,15 +1162,6 @@
       "trait_type" : "Mouth",
       "value" : "Stubble"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "AEPPE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "65106"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "50167"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1583,7 +1169,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "0a985f7b98b4c403f9aa03942f2291d7f797b10509f5338b08d2caad554c6570"
+    "hash" : "3d49e9d08048a2ece75e1091487815f236d7735438edcdae7212019d356204e6"
   }, {
     "id" : 1283,
     "name" : "Apescription #1283",
@@ -1601,15 +1187,6 @@
       "trait_type" : "Mouth",
       "value" : "Rage"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "AIPIA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "17895"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "60286"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1617,7 +1194,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "98650bfb23561ee5d9900237c678353094cc3122dc5c3e917d2ce1f8f825675b"
+    "hash" : "6240a485fe45560f869c33b1df5a655aca113eebc9b2646a6ad77a63aff66698"
   }, {
     "id" : 1285,
     "name" : "Apescription #1285",
@@ -1635,15 +1212,6 @@
       "trait_type" : "Mouth",
       "value" : "Vuh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PAIIE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "43504"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "60111"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1651,7 +1219,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "d4dd831c0fe674f9606855b5286e0fc744b3a507a12acfab698259f97a7f479c"
+    "hash" : "5959953161ba45f3292e05b0807dc29dd31bc4402eb9b57fc2c8a5bb4f5b48d6"
   }, {
     "id" : 553,
     "name" : "Apescription #553",
@@ -1669,15 +1237,6 @@
       "trait_type" : "Mouth",
       "value" : "Stubble"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "AAPIA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "209647"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "67898"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -1685,7 +1244,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "59e3306f9fb0d2d16af9a40de037f4eaa15a2f7799ae49dfa7dd105308a439a1"
+    "hash" : "9a24b81674b875af390235810fa4f5e0adb4c3e1ba3d9e33a5d6be863c32bc59"
   }, {
     "id" : 563,
     "name" : "Apescription #563",
@@ -1703,15 +1262,6 @@
       "trait_type" : "Mouth",
       "value" : "Gold Grillz"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NPAIP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "24035"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "120344"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1719,7 +1269,7 @@
       "value" : "120000 - 130000"
     } ],
     "description" : "",
-    "hash" : "d254e9ccf3a475b12177ab4bba181161350bd2bb1efcb998e17231f31163b024"
+    "hash" : "2139f452207214a0384a3f430beffa703f36bfdbbf86a7f6c27cd40f9e33cf71"
   }, {
     "id" : 565,
     "name" : "Apescription #565",
@@ -1740,15 +1290,6 @@
       "trait_type" : "Mouth",
       "value" : "Dumbfounded"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "EIEPI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "5081"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "71447"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "1000 - 9999"
     }, {
@@ -1756,7 +1297,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "5abde870cf0ee7eada9880721fa5360029e8bb817a3166be2c55fa444c4a4161"
+    "hash" : "7db54f91beba6dd4973eeda5d4d28fa8a8e95846cd49a7cbeb7288aa8e06ba3d"
   }, {
     "id" : 713,
     "name" : "Apescription #713",
@@ -1774,15 +1315,6 @@
       "trait_type" : "Mouth",
       "value" : "Vuh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NNIPI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "41998"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "61686"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1790,7 +1322,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "6e0faf1164eb516b62ba81bc928c42c215e82306a5b08021a6ec1928e667baa9"
+    "hash" : "7efa06f07f6aa16facb2316c8aca2d31cb3e079e4c4b378136d78af1cdac8cfe"
   }, {
     "id" : 566,
     "name" : "Apescription #566",
@@ -1805,15 +1337,6 @@
       "trait_type" : "Mouth",
       "value" : "Rainbow"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "EEENI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "151758"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "65583"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -1821,7 +1344,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "e2fe3d004654cf12023ae845e66e7176e7b1917f672d99f19be4fcabf4dffb02"
+    "hash" : "6b8a1bd87235a2f38c674c06961c9aa41c976d23f21ce94ba1cfcdd128917466"
   }, {
     "id" : 564,
     "name" : "Apescription #564",
@@ -1839,15 +1362,6 @@
       "trait_type" : "Piercing",
       "value" : "Silver Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "EAEPE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "2270"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "77920"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "1000 - 9999"
     }, {
@@ -1855,7 +1369,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "e08a4b6ecacb04d4e0cedc8a931f3ed9269e9b02c792cbc34a3b9dc896c56f1f"
+    "hash" : "1ab44a2f364dd9ac64c6bcaa9d491a0e875301323bd8ad8a431dc92b9d482317"
   }, {
     "id" : 552,
     "name" : "Apescription #552",
@@ -1873,15 +1387,6 @@
       "trait_type" : "Mouth",
       "value" : "Ell"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NANIP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "27587"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "75828"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -1889,7 +1394,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "f78f0383da099dcde9c984c3fc0d083a9d774162de840a19c13d50ab209e29e3"
+    "hash" : "408b06d08b5b279146b3c8d66c9f6424cb36bb18d930bccfeb225be3437d0fb2"
   }, {
     "id" : 562,
     "name" : "Apescription #562",
@@ -1907,15 +1412,6 @@
       "trait_type" : "Mouth",
       "value" : "Vuh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "APAPN"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "170634"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "60323"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -1923,7 +1419,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "93ed3aa3ce63849379b9f7ae7d9181b6ada90cc852c54707c48e7d1da41b2542"
+    "hash" : "9f77240791be33727b41b4bebf631612f009798a6b6e106355e2b44dc89d49db"
   }, {
     "id" : 1307,
     "name" : "Apescription #1307",
@@ -1941,15 +1437,6 @@
       "trait_type" : "Mouth",
       "value" : "Rainbow"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "IPNNP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "1999"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "83987"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "1000 - 9999"
     }, {
@@ -1957,7 +1444,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "d4272f16c3ab2aec90b574c0ff1075915aa9c9ea1008f1d9f642843125498dc1"
+    "hash" : "1a3afdfc26af561b3bdaa86cb1dc44601bd764cbda6bc74a50aa9d09e38ae1bd"
   }, {
     "id" : 187,
     "name" : "Apescription #187",
@@ -1972,15 +1459,6 @@
       "trait_type" : "Mouth",
       "value" : "Tongue"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "APEEA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "142644"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "47079"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -1988,7 +1466,7 @@
       "value" : "0 - 49999"
     } ],
     "description" : "",
-    "hash" : "e35b5c23f2d398fe5c26c9200377be969e7ad3cd36651d9ffc4890749911d8f7"
+    "hash" : "816bd3b161252c1856c1fe2f83aeb74f6d07b141df4a6510f81ce3a5a2ac1182"
   }, {
     "id" : 1835,
     "name" : "Apescription #1835",
@@ -2006,15 +1484,6 @@
       "trait_type" : "Mouth",
       "value" : "Rage"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "IIPPI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "88285"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "59050"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2022,7 +1491,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "78a36076007623ea88ccb902e8fb15a03d50e2fa940fdf9d25650a768483ccdf"
+    "hash" : "79de80f7fcbb0d1248cc0f0166ff069ded8013d5e1f362d55432caa663bcb3a1"
   }, {
     "id" : 1834,
     "name" : "Apescription #1834",
@@ -2043,15 +1512,6 @@
       "trait_type" : "Mouth",
       "value" : "Teeth"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "IPEAN"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "54918"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "74720"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2059,7 +1519,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "6c01323f4cb7a826e3e07362fe2ed6ec37fafc74823988aa01ed3be33aaf26c3"
+    "hash" : "86353a16cb0f30ca5ccdab4378715c3fac05cf97bf80f7a346c98a14921b370b"
   }, {
     "id" : 1833,
     "name" : "Apescription #1833",
@@ -2077,15 +1537,6 @@
       "trait_type" : "Mouth",
       "value" : "Diamond Grillz"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PEAPI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "12925"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "83727"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2093,7 +1544,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "ce78bdb9e953a5b89fda4413a6e98abc7b48027b8544eb5bf6eb5fb9c35268c7"
+    "hash" : "b3a192f226e073241b1a082910e69a05fe0b6f247cc1258f8d8c71b754367d09"
   }, {
     "id" : 1507,
     "name" : "Apescription #1507",
@@ -2111,15 +1562,6 @@
       "trait_type" : "Mouth",
       "value" : "Grin"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "IIAII"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "9081"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "57599"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "1000 - 9999"
     }, {
@@ -2127,7 +1569,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "8e1156163785019379d0b1f60013698b1f9a9c458881886cbc1bfb0d0baeeac2"
+    "hash" : "15baa35a7e89ee483eea8b1460097fb98f36fdbb00fc99702e41adce8943bed2"
   }, {
     "id" : 1831,
     "name" : "Apescription #1831",
@@ -2148,15 +1590,6 @@
       "trait_type" : "Mouth",
       "value" : "Ell"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "ANIPN"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "16293"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "72600"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2164,7 +1597,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "9840f2b074884b66b17e3412155394575bb9d388772c2a631bb310be9e47823b"
+    "hash" : "6f8767dd172a9c7ec498bc7de166b226216e8852cabfe66ebb23f49d61d66a9d"
   }, {
     "id" : 1830,
     "name" : "Apescription #1830",
@@ -2182,15 +1615,6 @@
       "trait_type" : "Mouth",
       "value" : "Vuh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PEAIA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "29856"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "76034"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2198,7 +1622,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "ff5640eab7cf7217a1925e854c4ebffe9f5ccac217af28358aabab06362dae02"
+    "hash" : "50753bab9354add58f259f53f070e0f80124febd9ba99a22025bb1da0aa65823"
   }, {
     "id" : 1828,
     "name" : "Apescription #1828",
@@ -2219,15 +1643,6 @@
       "trait_type" : "Piercing",
       "value" : "Gold Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "ENENP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "13464"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "82164"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2235,7 +1650,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "2be112c9c38453db3da1f754e5a2e807f73edccf29c49720036fc0963380d0ea"
+    "hash" : "f5018cb500f33fcfbbed476ac17e3ec61505fca71af52efd76dbfd887b1b5ec8"
   }, {
     "id" : 1832,
     "name" : "Apescription #1832",
@@ -2256,15 +1671,6 @@
       "trait_type" : "Mouth",
       "value" : "Teeth"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "ENANI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "6715"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "82419"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "1000 - 9999"
     }, {
@@ -2272,7 +1678,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "fc67a9016e03d162b00ad2f6dfeb2e2d841dce37ec5517bab14b18213fc1540d"
+    "hash" : "6449c2ea7ce135ee57515e4de960641ee1bef6650bf28539527c303673d4a722"
   }, {
     "id" : 1829,
     "name" : "Apescription #1829",
@@ -2293,15 +1699,6 @@
       "trait_type" : "Piercing",
       "value" : "Gold Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "AENEE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "133907"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "105292"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -2309,7 +1706,7 @@
       "value" : "100000 - 109999"
     } ],
     "description" : "",
-    "hash" : "0d6e07c71dff15558abcffb77a5b2d4314c2f30c288c103bd7f927973c1ea7fe"
+    "hash" : "a4e40f7bc05cb05d655a91bd072c3d53d37aea6f0559b7ba6572c26c788ac56d"
   }, {
     "id" : 835,
     "name" : "Apescription #835",
@@ -2327,15 +1724,6 @@
       "trait_type" : "Mouth",
       "value" : "Ell"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "ANAPE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "46679"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "59475"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2343,7 +1731,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "bacfd137fdd4961afa66161aba80a60d27f85f88bef0c89d1dc51d67bf536f6e"
+    "hash" : "bdb0eeadb828eeac5b1e0544216c5231d913ef09f49f36536236c0160986f710"
   }, {
     "id" : 1558,
     "name" : "Apescription #1558",
@@ -2361,15 +1749,6 @@
       "trait_type" : "Mouth",
       "value" : "Wah"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "IPIEN"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "124791"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "108339"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -2377,7 +1756,7 @@
       "value" : "100000 - 109999"
     } ],
     "description" : "",
-    "hash" : "0afed602b02038d404f2feafe7aa734e31299ea1cbb11ca210d58e8d3779a8e1"
+    "hash" : "6d1ac9ca2a7cbcdf60707040dd5a286fd028d68f7401653bf1a764c22608b325"
   }, {
     "id" : 1559,
     "name" : "Apescription #1559",
@@ -2395,15 +1774,6 @@
       "trait_type" : "Mouth",
       "value" : "Diamond Grillz"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PANAI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "45818"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "85670"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2411,7 +1781,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "26d0cb461d7970f775acff3d939cff047ed547bbfe5bd902d87085ce34602d03"
+    "hash" : "e0fbb40b28e9f10bed53bb59fe077b7b80fb321c67d8179c49fed73cbd027026"
   }, {
     "id" : 1907,
     "name" : "Apescription #1907",
@@ -2429,15 +1799,6 @@
       "trait_type" : "Mouth",
       "value" : "Urgh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PPEEA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "105254"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "88859"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -2445,7 +1806,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "bf6b5d1cf4962802c991303d07f49dd27d200aeb511e4595d812ac6003acaa1c"
+    "hash" : "274e6f8aef940e1c0c67cdd4b8193b5847f8cd4da2ddd1b31c4c64f1e29f183b"
   }, {
     "id" : 1895,
     "name" : "Apescription #1895",
@@ -2466,15 +1827,6 @@
       "trait_type" : "Mouth",
       "value" : "Gold Grillz"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "EAIPA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "104632"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "115073"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -2482,7 +1834,7 @@
       "value" : "110000 - 119999"
     } ],
     "description" : "",
-    "hash" : "a0ddc7acfbc8d1cdc59bc0cf041131eb2de437165aad6054958208f5dd38fe44"
+    "hash" : "91f755193b1130aebd5f560faf8bd44352e60e09b4c147adf99d130102166c47"
   }, {
     "id" : 1378,
     "name" : "Apescription #1378",
@@ -2500,15 +1852,6 @@
       "trait_type" : "Mouth",
       "value" : "Stubble"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PNEEA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "97103"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "62931"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2516,7 +1859,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "79e965d7c7a6a52cd5fa17b95dcec2eb024ac615ee11abd5b2f78c89c2a8b55b"
+    "hash" : "e64262d409fd8ae46bef267dc23ae436fd0112701e0834ed610f69945cb79023"
   }, {
     "id" : 466,
     "name" : "Apescription #466",
@@ -2534,15 +1877,6 @@
       "trait_type" : "Piercing",
       "value" : "Silver Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "IPEAP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "18607"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "52100"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2550,7 +1884,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "ebbdca48f8b909a718968bd4c21e0ab3da46b2f7d812f73a4d2d4c0038dfc1a1"
+    "hash" : "86229da97ece9fab7f08403609775b5aa25099002c79d963043786c39cdab3f0"
   }, {
     "id" : 1327,
     "name" : "Apescription #1327",
@@ -2568,15 +1902,6 @@
       "trait_type" : "Mouth",
       "value" : "Oh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PPPAI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "15141"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "51582"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2584,7 +1909,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "cd6fb08f900d6eba57c976a7afae4385b19eb47157718d9b106b9079d5547c35"
+    "hash" : "0669ca0acef6e1bb7ad0772057cba977fa69abdbd7c8322aff5418c825a1e3ad"
   }, {
     "id" : 60,
     "name" : "Apescription #60",
@@ -2605,15 +1930,6 @@
       "trait_type" : "Mouth",
       "value" : "Rage"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PIEEE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "50050"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "69420"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2621,7 +1937,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "18bc8189538a34a4c1bca8039a8ac881aad39dbc74bf89b8526cc910b7542afb"
+    "hash" : "613c23f69415eedd64080cac1589d9b57a55c3e04c4ba255aaaf70ebe3a94ae2"
   }, {
     "id" : 1315,
     "name" : "Apescription #1315",
@@ -2642,15 +1958,6 @@
       "trait_type" : "Piercing",
       "value" : "Silver Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "ININE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "94811"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "69334"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2658,7 +1965,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "fcd3ba274d3e027260e78b195079a40851785e85709ffae0ee7b82081afc63bf"
+    "hash" : "b86a4bf6b8c79a7054599c2a1cfb9ebc2cadd4a107241e2f3918e5bbe5b40d76"
   }, {
     "id" : 97,
     "name" : "Apescription #97",
@@ -2676,15 +1983,6 @@
       "trait_type" : "Mouth",
       "value" : "Vuh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "ANAEP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "250827"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "53795"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -2692,7 +1990,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "45b1bfa57391e5a6658c97c960c863325eb31a620f6d5373498f3d87dfdf1319"
+    "hash" : "66450ce59a5a42b00541370e7a6b341caf34dfe1b7ee7311c477b60dbeedc7c4"
   }, {
     "id" : 541,
     "name" : "Apescription #541",
@@ -2707,15 +2005,6 @@
       "trait_type" : "Mouth",
       "value" : "Tongue"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "AAIPN"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "6801"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "64823"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "1000 - 9999"
     }, {
@@ -2723,7 +2012,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "7f74b72c8bd2fe63f36e14ee8a4d5f86e25592851c30c4de7eaa136814301929"
+    "hash" : "cf607e00ec5ffcdaf0df0c74c46f6554c333877bdda8251c9f1fda1164b3122c"
   }, {
     "id" : 539,
     "name" : "Apescription #539",
@@ -2738,15 +2027,6 @@
       "trait_type" : "Mouth",
       "value" : "Gold Grillz"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "IIPPE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "15899"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "72647"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2754,7 +2034,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "c1f744e0cfa3baab75f19387485eb1e44e45c6a95e8a103bb90bc2d9f5f683ed"
+    "hash" : "96df39c7446d1e55b8f01c5900a983b61168ed90be04c0388b9c3e1134befad2"
   }, {
     "id" : 545,
     "name" : "Apescription #545",
@@ -2772,15 +2052,6 @@
       "trait_type" : "Mouth",
       "value" : "Stubble"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PINEE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "31217"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "64600"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2788,7 +2059,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "c9e9fb511e17cef3da9caddfc231b09ec5e9cdfc1fe44e64172277102004d28f"
+    "hash" : "f4a93d51ce2c1cff838886fa9590f75349a57f462c8f1cc248cf082985cfc8b8"
   }, {
     "id" : 372,
     "name" : "Apescription #372",
@@ -2803,15 +2074,6 @@
       "trait_type" : "Mouth",
       "value" : "Teeth"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "IEEIP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "67912"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "81464"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2819,7 +2081,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "fac1e6445f34c95bdce947747e8ef8d324b650e73b0a2a9e2765f7e1e8b606e1"
+    "hash" : "64b701f5c620e0dd3816ddde1918db8203a5c4cd4bddf910d40aeb00fded5664"
   }, {
     "id" : 1227,
     "name" : "Apescription #1227",
@@ -2840,15 +2102,6 @@
       "trait_type" : "Piercing",
       "value" : "Drip"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "IIPPE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "31992"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "59824"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2856,7 +2109,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "c1e797a63a304430f001de624b61bcae9d41e753ccf0e052cdf9ad87b886feda"
+    "hash" : "0ccd458af0a49d69b44d1228e4b22fa3317df8f15fc943afd97429635691b81e"
   }, {
     "id" : 1995,
     "name" : "Apescription #1995",
@@ -2877,15 +2130,6 @@
       "trait_type" : "Mouth",
       "value" : "Urgh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NNPIE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "691"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "78544"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100 - 999"
     }, {
@@ -2893,7 +2137,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "411253a9b17046ad2e834fb3591a728e632cc04090e6a5fe6d5da67fb1ef1ac5"
+    "hash" : "c238f3498151862602c8162635bed70f78a39cd1f367e59498333114c115a72b"
   }, {
     "id" : 1997,
     "name" : "Apescription #1997",
@@ -2914,15 +2158,6 @@
       "trait_type" : "Mouth",
       "value" : "Stubble"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "INNPE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "103562"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "82150"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -2930,7 +2165,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "9471ec3688b4eda97259f68648bb93016df15138a33063b211db993f56bb2d44"
+    "hash" : "4abe2e4dd1e340f5824016a73c027594a84bd7f65e891e697f3b16510fe4361b"
   }, {
     "id" : 1969,
     "name" : "Apescription #1969",
@@ -2951,15 +2186,6 @@
       "trait_type" : "Piercing",
       "value" : "Drip"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "AAAAN"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "56849"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "91801"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -2967,7 +2193,7 @@
       "value" : "90000 - 99999"
     } ],
     "description" : "",
-    "hash" : "e90aac18452b748933d4789c3c0e69760325e8b5b2f8ce3509fd909f5c947b86"
+    "hash" : "cc78b7919762155065a5cfdb8bb8443f5da6a24c0fd1fc9830836590e6179ee1"
   }, {
     "id" : 2000,
     "name" : "Apescription #2000",
@@ -2991,15 +2217,6 @@
       "trait_type" : "Piercing",
       "value" : "Silver Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NAEEN"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "35095"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "92621"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -3007,7 +2224,7 @@
       "value" : "90000 - 99999"
     } ],
     "description" : "",
-    "hash" : "40cd88362fa0e832039b10ca16729538e278688119f6d7bae66a8758764fd4af"
+    "hash" : "88039b5aef9533b0327f2b453c3a6e42e60597469f0a8adfde774a8b66d9ffad"
   }, {
     "id" : 1999,
     "name" : "Apescription #1999",
@@ -3031,15 +2248,6 @@
       "trait_type" : "Mouth",
       "value" : "Urgh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PAPAE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "52582"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "73119"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -3047,7 +2255,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "39ed32eb24d7bdf06000e9fd12f6ed5800fd09be46b35b4c05040047621439f7"
+    "hash" : "3e679a8d757bf12cba0ef5dbc31b008add19b22d39d2b486cf65532ea041c4b0"
   }, {
     "id" : 1996,
     "name" : "Apescription #1996",
@@ -3065,15 +2273,6 @@
       "trait_type" : "Piercing",
       "value" : "Gold Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "EPAIE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "97798"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "56532"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -3081,7 +2280,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "b10c29b86557758c3feafc1e7ade46f865dfd8a9997691fd6e461bb4f65e3d16"
+    "hash" : "43737fd93f1af694e9d7d3f42d4d992ab70124712d416665640e9bc2a1200984"
   }, {
     "id" : 1998,
     "name" : "Apescription #1998",
@@ -3102,15 +2301,6 @@
       "trait_type" : "Mouth",
       "value" : "Vuh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "AAINP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "68698"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "66050"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -3118,7 +2308,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "7796f0a58f0b9f79631e9c93d100145a751484b90f061a7370dbb2fa9c584271"
+    "hash" : "45f33c554958dd2f319fb6f7acf867d73c83e4ba39aa62d387ead5ded06f3de5"
   }, {
     "id" : 327,
     "name" : "Apescription #327",
@@ -3133,15 +2323,6 @@
       "trait_type" : "Mouth",
       "value" : "Grin"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "AAPNE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "12606"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "47661"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -3149,7 +2330,7 @@
       "value" : "0 - 49999"
     } ],
     "description" : "",
-    "hash" : "588dcf267c43eccd4a9f9c4d8ee630df6f1057ba45f04ea999485256c265e513"
+    "hash" : "219b82fa6bc9d28a7a4c2b315e4959965676c0a65cc52057cb5a8e04df48bfca"
   }, {
     "id" : 1732,
     "name" : "Apescription #1732",
@@ -3170,15 +2351,6 @@
       "trait_type" : "Piercing",
       "value" : "Silver Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NNENI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "11822"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "62152"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -3186,7 +2358,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "f92251d07f8a220622edad665a8016bd3d9b5124bdc3571a1e6eea5b1ab9aec9"
+    "hash" : "959ffbe112a0d0910eff31ee41b28213ad776beb295c22fb25974688f8e558aa"
   }, {
     "id" : 688,
     "name" : "Apescription #688",
@@ -3207,15 +2379,6 @@
       "trait_type" : "Mouth",
       "value" : "Bored"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "EPIEE"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "121100"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "67398"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -3223,7 +2386,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "bd5e15f46e8b8f9a5bc31fe15214b905f9e1d5d08ad622fdb26732ed21f09362"
+    "hash" : "da3eff1d5b0c11fa777dbbf22020dfafcbc3dbeb0d87b5a418fc1c39562671bf"
   }, {
     "id" : 478,
     "name" : "Apescription #478",
@@ -3241,15 +2404,6 @@
       "trait_type" : "Mouth",
       "value" : "Oh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PPPII"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "49240"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "63643"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -3257,7 +2411,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "77bb1be39211d4a598ad6f06b9f81dca51ff12f7d5ca2f97bcb94bfca5a657f8"
+    "hash" : "800941e9d174f68050edef031511fa0841e92e45ac7de798b970df14c8273ec1"
   }, {
     "id" : 702,
     "name" : "Apescription #702",
@@ -3275,15 +2429,6 @@
       "trait_type" : "Mouth",
       "value" : "Grin"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "EEIIN"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "76739"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "94284"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -3291,7 +2436,7 @@
       "value" : "90000 - 99999"
     } ],
     "description" : "",
-    "hash" : "45d897f794e1dd60a93d93ad354e4c64698e58012b364bab2d8352906a82643f"
+    "hash" : "b3ef2bf6964f27ef9b8b08d6bfbb5f509b9f03e3b7f9196d07ff0c0ff7111170"
   }, {
     "id" : 701,
     "name" : "Apescription #701",
@@ -3309,15 +2454,6 @@
       "trait_type" : "Piercing",
       "value" : "Silver Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PIEIA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "101359"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "44904"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -3325,7 +2461,7 @@
       "value" : "0 - 49999"
     } ],
     "description" : "",
-    "hash" : "b3e66bac60e638d7ba2bd7e1a53dc8daad95d6e5aa7b5610984a4798f3956c62"
+    "hash" : "f018148cd47688497b160bfd647d2dd810f75219295f1cac5998cb779eab4411"
   }, {
     "id" : 1878,
     "name" : "Apescription #1878",
@@ -3346,15 +2482,6 @@
       "trait_type" : "Mouth",
       "value" : "Oh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "EAAII"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "54014"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "64412"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -3362,7 +2489,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "9f441be9854ca154946ba8fa863c32aa1551b992d327c2b8ec47b23e8cce672b"
+    "hash" : "91ac219ed26b7836f162df36d94f19480fa0f0c0b658e5204485dc5909f63ccd"
   }, {
     "id" : 1803,
     "name" : "Apescription #1803",
@@ -3383,15 +2510,6 @@
       "trait_type" : "Mouth",
       "value" : "Jovial"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NEPPA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "55554"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "87122"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -3399,7 +2517,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "4d1410fd1c7f8ba23aa84c6d2b937d785b264a3a9b000e1b156d0832fd1c3d96"
+    "hash" : "9c71bba0ef269bc0532af00d6b3790969e1b834e5305247915feecbfb0a13b62"
   }, {
     "id" : 1802,
     "name" : "Apescription #1802",
@@ -3420,15 +2538,6 @@
       "trait_type" : "Mouth",
       "value" : "Ooh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "PNAEP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "125608"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "57587"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -3436,7 +2545,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "c8821dc4760d31b85c19a087d00050a5e6eadaefec06c1f604664be8318c9617"
+    "hash" : "db69af209dd2fc1064dca2e369fcf2a2bf5e5161a8d9b52f4379f077e880452e"
   }, {
     "id" : 420,
     "name" : "Apescription #420",
@@ -3451,15 +2560,6 @@
       "trait_type" : "Mouth",
       "value" : "Jovial"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "ANIAP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "35555"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "58933"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -3467,7 +2567,7 @@
       "value" : "50000 - 59999"
     } ],
     "description" : "",
-    "hash" : "584a30437d1fbd9ccf85a8a308a5223a365b9f4507a6b9eb56db08e38dfe4b99"
+    "hash" : "0f22e665f7d0f0bc5e26a23cad661881b4590bc8acb2a7734168f73d996d3da4"
   }, {
     "id" : 683,
     "name" : "Apescription #683",
@@ -3485,15 +2585,6 @@
       "trait_type" : "Mouth",
       "value" : "Rage"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NENPA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "64497"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "75822"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -3501,7 +2592,7 @@
       "value" : "70000 - 79999"
     } ],
     "description" : "",
-    "hash" : "9d3b006e1686982515f807a173b708c15846bcb8d3d815ad971af2cb177cba74"
+    "hash" : "e312c4827234c538d52cc5242104683e2ab93dc179b6d0880765e9ebaad70178"
   }, {
     "id" : 681,
     "name" : "Apescription #681",
@@ -3525,15 +2616,6 @@
       "trait_type" : "Mouth",
       "value" : "Rage"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "NNPAI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "34678"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "63284"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -3541,7 +2623,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "bdd3f11efef88c11d310c3e13b1208327ac261ca2b36650818067c4bb48fabf4"
+    "hash" : "5e4e1f2410814ef7d3e9d2fd4215fd2e856dc125fff3434839638359be1ac01e"
   }, {
     "id" : 938,
     "name" : "Apescription #938",
@@ -3562,15 +2644,6 @@
       "trait_type" : "Piercing",
       "value" : "Silver Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "AEANN"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "188340"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "88506"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -3578,7 +2651,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "cb331a60e74845d142fdd6fdd1c64f557ce287d81620e41767111130cf8a4878"
+    "hash" : "46fe502c0d10729e9e14059621e1fbecce1cc7c5b8a26b5be9e649ff58ee2394"
   }, {
     "id" : 1920,
     "name" : "Apescription #1920",
@@ -3596,15 +2669,6 @@
       "trait_type" : "Piercing",
       "value" : "Silver Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "INIEI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "3815"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "61710"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "1000 - 9999"
     }, {
@@ -3612,7 +2676,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "f590f2a84a4bbcb510ab00022d34347a5d23c59927d53020900531879c658332"
+    "hash" : "1d68a42d31772d1b2eb953d3523e13adf5918bea9038670e3a66f3465d21b162"
   }, {
     "id" : 173,
     "name" : "Apescription #173",
@@ -3630,15 +2694,6 @@
       "trait_type" : "Mouth",
       "value" : "Gold Grillz"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "APAAI"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "14828"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "82749"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -3646,7 +2701,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "3ffa9af2407e1a13febb09188c82d13be2a8dd39b5325826a1effde4e5f6948c"
+    "hash" : "6f8edbbd9c56b591de45d83ac3f99cb727605c8187a49d8b6130423f2c066c53"
   }, {
     "id" : 2002,
     "name" : "Apescription #2002",
@@ -3667,15 +2722,6 @@
       "trait_type" : "Piercing",
       "value" : "Drip"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "IPNAP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "32118"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "108609"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -3683,7 +2729,7 @@
       "value" : "100000 - 109999"
     } ],
     "description" : "",
-    "hash" : "1cb0cf0c68f385401377f306f96f9d0b57eecf47eeea816f0609faa2ae9b744d"
+    "hash" : "3832e39800e99c10ee45e73850dfefd6d8068fdfd64c5847aa712c10317443ad"
   }, {
     "id" : 786,
     "name" : "Apescription #786",
@@ -3701,15 +2747,6 @@
       "trait_type" : "Piercing",
       "value" : "Silver Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "INEII"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "9952"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "84953"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "1000 - 9999"
     }, {
@@ -3717,7 +2754,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "6b68f34718f1597c08921280c90d245bc4d652fa7fe9bc17c69073a6ffe28a5f"
+    "hash" : "2112c503e6ec2578b3eb7375103e640631f0b59244f4395ac514723f3d34e647"
   }, {
     "id" : 1471,
     "name" : "Apescription #1471",
@@ -3744,15 +2781,6 @@
       "trait_type" : "Piercing",
       "value" : "Silver Stud"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "AIPIA"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "22688"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "89405"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
     }, {
@@ -3760,7 +2788,7 @@
       "value" : "80000 - 89999"
     } ],
     "description" : "",
-    "hash" : "f84a0d68bcb46b8be4b02b87bc716627bb696419eabd52ca35a8cd379deacaa6"
+    "hash" : "0fe166624cdef17dadec8efdb7bba61922a0aef83fda51801f298c401c9e149d"
   }, {
     "id" : 2024,
     "name" : "Apescription #2024",
@@ -3781,15 +2809,6 @@
       "trait_type" : "Mouth",
       "value" : "Oh"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "IENNP"
-    }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "224462"
-    }, {
-      "trait_type" : "Bytes",
-      "value" : "65503"
-    }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "100000 - 999999"
     }, {
@@ -3797,7 +2816,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "3a9f4a512d3c63eacf5e6f862a95d4de25f7fffdc35fe7ebcf6e3adc7a94a810"
+    "hash" : "89107b55c6f5eba83265581e93c6888cd52da2ccdc47d9a967e2e057daef82b6"
   }, {
     "id" : 2023,
     "name" : "Apescription #2023",
@@ -3815,14 +2834,30 @@
       "trait_type" : "Mouth",
       "value" : "Jovial"
     }, {
-      "trait_type" : "DNA Core",
-      "value" : "EIPEN"
+      "trait_type" : "Hash Attempts Range",
+      "value" : "10000 - 99999"
     }, {
-      "trait_type" : "Hash Attempts",
-      "value" : "99880"
+      "trait_type" : "Bytes Range",
+      "value" : "60000 - 69999"
+    } ],
+    "description" : "",
+    "hash" : "64960937ac4fd6b57bf7a9e8188618da02773930868f4b09733c3ab6fb388f8b"
+  }, {
+    "id" : 2064,
+    "name" : "Apescription #2064",
+    "ethscription_id" : "0x294925dca204cc61f07f4256c681b09cf7844159323585f742d7ab834e491133",
+    "item_attributes" : [ {
+      "trait_type" : "Body",
+      "value" : "Dark Brown"
     }, {
-      "trait_type" : "Bytes",
-      "value" : "65046"
+      "trait_type" : "Clothes",
+      "value" : "Tshirt Bones"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Beams"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Dumbfounded"
     }, {
       "trait_type" : "Hash Attempts Range",
       "value" : "10000 - 99999"
@@ -3831,7 +2866,7 @@
       "value" : "60000 - 69999"
     } ],
     "description" : "",
-    "hash" : "0ebf3bd20ef3aa091a5cd99fe17851b3ac707eae9be194a77b69102a198d3547"
+    "hash" : "f93ba9af3359b23f70c3dbda6b40b8c2579ad096d146c001b105fc21972b9330"
   } ],
-  "hash" : "7d24ea9e0d498305a2c99690a292430d7af2f0349c1b410e4373d5e9c65e6acb"
+  "hash" : "83c87761122fb96d0a7926f495ec1dd8008d8eda4f31f89b808b71792e32c3eb"
 }
