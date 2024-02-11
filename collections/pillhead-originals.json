@@ -14,112 +14,128 @@
     "ethscription_id" : "0x2c3198e7de29206fd58fe46b70465497beb864b31fe194ee4b96a7ecd67c106e",
     "item_attributes" : [ ],
     "description" : "by CFW",
-    "hash" : "4c26f0bf1ec4353cf67484ce131236fbae8e74b999a8752d6bbc5a69a6e040c5"
+    "hash" : "bb8dbc2265dbb10381ee3875e6d7a4567229041bcc6abdc71fd0692e631dd2a6",
+    "alternative_image_url" : null
   }, {
     "id" : 2,
     "name" : "Menhir",
     "ethscription_id" : "0x59fc3a38e1723c4851a5f4978f316faee27d784c4019abcf3c03aa91a937fa57",
     "item_attributes" : [ ],
     "description" : "by CFW",
-    "hash" : "77b6aa5c66a64e14e677af62d70432bde61f42fab43a6ba442c92f61feb37fb7"
+    "hash" : "97338038112d5f518d358d7f20eaa01fbd9353ac7f043666cf0e1b86fe7c3eac",
+    "alternative_image_url" : null
   }, {
     "id" : 3,
     "name" : "DUDE",
     "ethscription_id" : "0x6e72ed150ed53768575292688c7ecb7cf8dad3c8bf852703f8df42bfc68c316e",
     "item_attributes" : [ ],
     "description" : "by CFW",
-    "hash" : "07df8157ff9b52f237864b28960e0a830cf7882c94318f702c88845a0760a1e1"
+    "hash" : "00582c622016b8f87d4d4fbb539ae78cae93d586bb9573832162d92ba8fbf6c4",
+    "alternative_image_url" : null
   }, {
     "id" : 4,
     "name" : "Ancestor",
     "ethscription_id" : "0x604cbba1d3f1aa66102fa4e87524562479e7ea3f3bbc7a6bef1f2d007c218a1c",
     "item_attributes" : [ ],
     "description" : "by CFW",
-    "hash" : "032662f3682c19978bd3df1786a75da01a480d96c53db7c16e912cf709242fa6"
+    "hash" : "2e80b6ac92e0d5e7abd530a2912b752f50c89933adf32658c74945235885d58c",
+    "alternative_image_url" : null
   }, {
     "id" : 5,
     "name" : "Nox",
     "ethscription_id" : "0x5743d32c77a1daf827be4427409cec3b625f14efeaf8fc3dba9a43a2196e7f32",
     "item_attributes" : [ ],
     "description" : "by CFW",
-    "hash" : "2cf97e423437690cbe61f048b34c27de9a69405adeee7be0d37751d9d14f3462"
+    "hash" : "34e81e80b1d1b5951bb61ba239e57fa0d42438e2261f09f5d22fc2a9a5157202",
+    "alternative_image_url" : null
   }, {
     "id" : 6,
     "name" : "Drip",
     "ethscription_id" : "0x52f3a3292c3a93848f6dea169977a8dc21ffa7696b5dc87e3a4bb518ea584cc5",
     "item_attributes" : [ ],
     "description" : "by CFW",
-    "hash" : "964be9ab71eefe7e6efa34a7063f5ae271e69c6927f3a934bfb8053c58894676"
+    "hash" : "e09689d3632baa2a238adac0c9f322d86e2685611bf2e2ee8cd40c791056885e",
+    "alternative_image_url" : null
   }, {
     "id" : 7,
     "name" : "Mother",
     "ethscription_id" : "0xb030f03e3291e1b0e633b641769283230f3c3c59306a18ee0ee06ac6b1a2719f",
     "item_attributes" : [ ],
     "description" : "by CFW",
-    "hash" : "8337dc29a01df431303eab3347a52f866849b8ce9f4368459235d03418810a45"
+    "hash" : "2da297c5d6a460e2c11659a197381da89b915a90892d51dfb780baf8757a5dbf",
+    "alternative_image_url" : null
   }, {
     "id" : 8,
     "name" : "pop",
     "ethscription_id" : "0xb06bc0cd67b64045c1829164c023a3e5d3df9b281f392dc7c1bd4baa7a1f4cb0",
     "item_attributes" : [ ],
     "description" : "by CFW",
-    "hash" : "5cd680bc8ce9dc0e9090799e01ba1b38e4c17ecce7d5f99119c23836bfe11e38"
+    "hash" : "7b9ce904431a612b69e6a959153dfbf36c98b51f01d5dcd3c4acd709882c4fa6",
+    "alternative_image_url" : null
   }, {
     "id" : 9,
     "name" : "Bep",
     "ethscription_id" : "0x24dfcedf0507db6cbeea062e8812c28b9147315c3b13db4c09f0641286f26ce9",
     "item_attributes" : [ ],
     "description" : "CFW x Zack Ritchie",
-    "hash" : "2cee7abf7672d58786fbfec15437b7dd9657b91d8ba46bc3b3b569eb63e86764"
+    "hash" : "b89de563344627d3355dd5aa9e57fe1b5c3a567e66dc5173ad401434ea703abb",
+    "alternative_image_url" : null
   }, {
     "id" : 10,
     "name" : "Layout",
     "ethscription_id" : "0x95879b56b4594468d722a66223d65783fde4f651e438e8ada6c57fef31c1730b",
     "item_attributes" : [ ],
     "description" : "CFW x Foxrockett",
-    "hash" : "185a4f0207db3e009a1e5d298d58bd465c7b0d6943d22a7714ee875f24134cbe"
+    "hash" : "070f306f133df70ae09d9356e8243f3c974b072041263f738c71bc681149f9b1",
+    "alternative_image_url" : null
   }, {
     "id" : 11,
     "name" : "+BOI",
     "ethscription_id" : "0x6efb5d731800b721de13261cf71c0f1b020ac45599ee1d98ee443648059cf7f0",
     "item_attributes" : [ ],
     "description" : "CFW x La+ch",
-    "hash" : "98953ace54e8aac0d152b0c5bfbcf2ea5f5dc7da8377a9f7a8b25baf6dd28aea"
+    "hash" : "bc99ce84131438e2d064be75efc215c790ed78c8eb0caa4020d3895c3355d040",
+    "alternative_image_url" : null
   }, {
     "id" : 12,
     "name" : "Normal",
     "ethscription_id" : "0x74d2e95a318e86e52cf8efddfe60d85c0673176b4e3198ed0032a82cfb93b8d3",
     "item_attributes" : [ ],
     "description" : "CFW x Waxbones",
-    "hash" : "765a9721dd983fdcfd242eef61874ab14a9c4015f637899ce3cabbe8e47ba211"
+    "hash" : "b2c3024bbcad66559a17657209422ec7c40754c80e239b8b0a5a7c0cb44be573",
+    "alternative_image_url" : null
   }, {
     "id" : 13,
     "name" : "ROM",
     "ethscription_id" : "0x596f9581e0e3ced02cbe13ee1155d7dd017f7db1b10fd8a8c94895082b2dccd1",
     "item_attributes" : [ ],
     "description" : "CFW x ROMbrandt",
-    "hash" : "bf7dcdef0aa86791c9d12f18cbd0f3d1fcda4be8ec185e7b0cd7bd06d404e604"
+    "hash" : "b96c45bb854f02b496f5ef51bdbb5fa0c80d1b6d348513f953db1b996b00dfca",
+    "alternative_image_url" : null
   }, {
     "id" : 14,
     "name" : "Bloom",
     "ethscription_id" : "0xd550629e89c798bd126d1bc0c57843f86403091652873df67e2c5d2c3799621b",
     "item_attributes" : [ ],
     "description" : "CFW x Liquid Density",
-    "hash" : "6b8f69423979def0407f6c2eacdb6cbb6dbbbacb97c450174a66bd6ea4f67985"
+    "hash" : "7ca29237ff982ce4278edd2dc2b7d9786cd6f26fa45936e059611561fd33d11f",
+    "alternative_image_url" : null
   }, {
     "id" : 15,
     "name" : "Spacegirl",
     "ethscription_id" : "0xe2803eb6bde0d5f48de07d420ca7dd2a0b7c30324e9bd1eb2589d67b462671ac",
     "item_attributes" : [ ],
     "description" : "CFW x Diela Maharanie",
-    "hash" : "ae585ef30315f11a98b7e09a67ed3d844447d1b834745fd5a61c04dae74f642f"
+    "hash" : "0f29e5d53088730bdccad43ac3896fe23867c9958cedd38f0baf1925c5eac75e",
+    "alternative_image_url" : null
   }, {
     "id" : 16,
     "name" : "Dreamer",
     "ethscription_id" : "0x95ad34270dece6cf0730f34438ec08a5c96173263647029a5ed7708be4bb6811",
     "item_attributes" : [ ],
     "description" : "CFW x Tedslittledream",
-    "hash" : "b01d61882da630bb6be7d6849947f0a0a73719b1c0a79319a75c085a9690d761"
+    "hash" : "d3c0dcbdf45896ac1a93a1fe861a8ea9024564020fa20faf34971853c87c03f0",
+    "alternative_image_url" : null
   } ],
-  "hash" : "5d7d1e39b617b1497837b5a892fbec5d9717749daa88ba58cd9adf6d61d50cbb"
+  "hash" : "a2cb9219f7edb5e63d12860accf2e1b14da68bd593f202b14b7ac0882554d4f8"
 }

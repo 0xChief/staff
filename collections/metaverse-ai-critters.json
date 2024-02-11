@@ -38,7 +38,8 @@
       "value" : "The Source"
     } ],
     "description" : "The Crypto Crow",
-    "hash" : "5ea196e108199f17b47a741214e4aa49f22f7b7e4d89992d20c4839a3c299950"
+    "hash" : "91aa8d94415bbdd0846462b1a388d38b3af246c0dad84d8865d030ba9aa2e772",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Frostbite",
@@ -69,7 +70,8 @@
       "value" : "Ability to Control Winter Weather"
     } ],
     "description" : "Frostbite",
-    "hash" : "e52f85ad3e52f136898e488815d3c2ece6e328fb839020c9b9490ebd7e57be90"
+    "hash" : "59a92bdd7dad64daca19123acc6b8513ba6bcebd294ec25a26720d0016b7adbb",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Dragon Defender",
@@ -100,7 +102,8 @@
       "value" : "Dragon Fire"
     } ],
     "description" : "Dragon Defender",
-    "hash" : "a4df5f1d1315ba00a535084c78dfbadd07f42980ec62fd63efb3303fd9abd7a4"
+    "hash" : "044c1f9a78b7e97e27e32646959608764b5eb6ef804d3746cfc0ac6f5a2501d8",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Aurora",
@@ -131,7 +134,8 @@
       "value" : "Magic Shielding"
     } ],
     "description" : "Aurora",
-    "hash" : "dbfc0cd6bd5d0eb589bed11673c796743c04fb47c38d5d026c75f52aaffeb7aa"
+    "hash" : "71f850c4dfc2d87073e0bc025c6dfe393d82608f5cfd7b544721303bd0a3802c",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Dark Marauder",
@@ -162,7 +166,8 @@
       "value" : "Magic Shielding"
     } ],
     "description" : "Dark Marauder",
-    "hash" : "4f51ab988371e463cd48face4c0403ef42513d0f92c024ee1c30b6c323023301"
+    "hash" : "868eeb36c65a3c952a3e55962192238abffd451e45b25a42a68b90f02b80a16c",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "The Calavera, The Skeleton Queen",
@@ -193,7 +198,8 @@
       "value" : "Necromancy"
     } ],
     "description" : "The Calavera, The Skeleton Queen",
-    "hash" : "a0d4c94e70abf8ec3088bb106650262692adde3978eb5474ab62d9b846ee435f"
+    "hash" : "15ad273d09c16cb6cf7463f6afea0807cbc388cec0282e020aec296d9514e9f7",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Quillfire",
@@ -224,7 +230,8 @@
       "value" : "Quill Short Blade"
     } ],
     "description" : "Quillfire",
-    "hash" : "474fe715cd89aa0cc533312325177da872a864c92d2170f3173dfd6981d50ea3"
+    "hash" : "78d091c065010412d30645c47e1f86f3a8265a2ddbcda16250bc9d824c0f0819",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "The Oni Malphas",
@@ -255,7 +262,8 @@
       "value" : "Dark Magic"
     } ],
     "description" : "The Oni Malphas",
-    "hash" : "c22c4b4c224102735d7c78d46b5b27e0de16b1c6b51a1373bbb6ee2de53a37c5"
+    "hash" : "20cafcf8da79a8428ada197b43530df1d4ee027a1eb6f03fc1738497ba035c4c",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Björn - The Moon Hunter",
@@ -286,7 +294,8 @@
       "value" : "Moonlight"
     } ],
     "description" : "Björn - The Moon Hunter",
-    "hash" : "5b9afcdc27e1ae8c16616a7d0e7cb34e6a20004f575309c7afdf0f924c548882"
+    "hash" : "6bf4fe79ce35fa1d7d73cfa2de4432113097266129bdaef740ca236a363994a3",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Chumley",
@@ -317,7 +326,8 @@
       "value" : "Mithril Teeth"
     } ],
     "description" : "Chumley",
-    "hash" : "54a5838b63f584fd5d9a67a87800b2325e973debb2925a768b7c216dde325028"
+    "hash" : "8def21c0884ac8e6288f7025078424e08be07a3a6147fb1bdfa3531d3e355a2a",
+    "alternative_image_url" : null
   } ],
-  "hash" : "b9376c46e6927aeb77ff353f878c974206b5762e4ce54b276fe612fbaf803b0d"
+  "hash" : "cc1079c7eac2d432516ac1292a6b9500728535fb9c079b0772e0ee42238e1b11"
 }

@@ -38,7 +38,8 @@
       "value" : "BTRC-00000-3463512"
     } ],
     "description" : "A knight whose dark past remains shrouded in mystery...",
-    "hash" : "7541592614fa4af6813637622e0b727566aa77f3e79f70d0654c8af840d234d9"
+    "hash" : "958f88abf99c1800f6c7ba4bfc3d2d1073748c6c35876ea8e36650105b7a1d4b",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Saint Panore",
@@ -69,7 +70,8 @@
       "value" : "BTRC-00001-3462764"
     } ],
     "description" : "Outer purity masks hidden darkness... A legendary paladin said to have fought demons from the dawn of time... ",
-    "hash" : "623c46e79bba77829b246af4a3a4ab6bdb2abb6e5a729f2171c9f2ecb475a5cf"
+    "hash" : "7ddb9e7a6217cc8f89002aa6fe198b76c4e924baf8e5ce6ff6f6325307bc3e61",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Lord Middlemarch",
@@ -100,7 +102,8 @@
       "value" : "BTRC-00002-3191176"
     } ],
     "description" : "A commander beloved by his men, but rumors say a darker power fuels his mind...",
-    "hash" : "ef5c8c2b71bf939a9e0761e24fc36bc753e01a4c89937d4dcb4ee7b210b9b2d1"
+    "hash" : "0781a9367eddebc5c9920fd0228d4c31481f2e8fd6019af97d1d2d3c7fd32750",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Saolee Xuo",
@@ -131,7 +134,8 @@
       "value" : "BTRC-00003-1993655"
     } ],
     "description" : "Behind mystery lurks vulnerability, an enigmatic champion whose expressionless face reveals nothing...",
-    "hash" : "3f5cb08b78dcc7a4853f2838b399d252e7e9bb98e5fdd9d063020890ff07e981"
+    "hash" : "887e5e025f90a2d668899bc910c4110138bc2617d9742ddc5397028c342b5762",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Swordmaster Melody",
@@ -162,7 +166,8 @@
       "value" : "BTRC-00004-3460662"
     } ],
     "description" : "Though hailed as liberator, whispers suggest insecurity hides behind this swordmaster's skill...",
-    "hash" : "f240800342a33769a9c77e0cb5018c734a7e74a0f28ec3b078d2d328cbcc49f0"
+    "hash" : "a678ccfc6be5f53fb32c31335db7eb2fb13a7674b5d351e3392165c52def8c4e",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Kris the Valiant",
@@ -193,7 +198,8 @@
       "value" : "BTRC-00005-3460521"
     } ],
     "description" : "A brave knight bearing a cursed ancestral blade said to steal the souls of fallen foes...",
-    "hash" : "db3711db4319195a178a7a50b343b200b53860d96a003bd72b7cafa8da712ee5"
+    "hash" : "1dd9359a915155ba59cf648ed4bc8a4177459e5c604382ab47109ac014b7d1ba",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Young Yustin",
@@ -224,7 +230,8 @@
       "value" : "BTRC-00006-3460339"
     } ],
     "description" : "A squire's journey from youthful caution to chivalric bravery, with every lesson etching deeper resolve.",
-    "hash" : "ecddb0940e4c7be39533b4c702bd1c2cf856796364e723bbdb313fe7ecca3098"
+    "hash" : "912c246665efd96d222aaaaec40220876af8348d35e3de80da04c30fc2bd535a",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Quovix the Strong",
@@ -255,7 +262,8 @@
       "value" : "BTRC-00007-3460299"
     } ],
     "description" : "A voice for all yet void of warmth, one wonders what shadows spawn such passionless, principled strength...",
-    "hash" : "bc02a1df990fd246914efa0c0c699788c6eeb755e16667c870f8a37b964e769f"
+    "hash" : "8f6b4dc9f00540a6004810c757303e2ae3147cccffc293225cda1d1efcd4cdf3",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Juan the Mystical",
@@ -286,7 +294,8 @@
       "value" : "BTRC-00008-3460367"
     } ],
     "description" : "A mage of great power, but whispers in the night question whether knowledge or ego guides his ambitions...",
-    "hash" : "04f0cf7a934d1e427c6429a9fec53d6007f329e1cb07e7ae8ffa3c86594e4c93"
+    "hash" : "e2cbcdd5ce45f30bd58dc6dd2048aa91914fa39f1f17ad94f0971d26c17e7160",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Knight Jadeakin",
@@ -317,7 +326,8 @@
       "value" : "BTRC-00009-3461230"
     } ],
     "description" : "A virtuous knight loyal to the end, or so it seems - what dark forces Manipulate her from the shadows?",
-    "hash" : "6da95619d30bbc60751379c2f72e4ee3b2b8f7016d10ddcdb0603af90c34fa30"
+    "hash" : "04d8e2aa052117049035b4170ccc22898d165898c4517f166dd2814ca69ddc4b",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Soldier of Umbria",
@@ -348,7 +358,8 @@
       "value" : "BTRC-00010-3461184"
     } ],
     "description" : "Umbria is a land of chaos and brutality... and its Soldier equally so.",
-    "hash" : "ca9e25b73fc11e077e9c59ceb37c45dd4ed97d32d31fa7877fd759ae5937b6dc"
+    "hash" : "9709993d6aff5c56b1315c4d551eb0a172ff46c4419eb1511115cecc01bc8169",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Warmaiden Otsna",
@@ -379,7 +390,8 @@
       "value" : "BTRC-00011-3052722"
     } ],
     "description" : "A maiden of war whose every action seems calculated, one wonders what nightmares spawn each calculated step.",
-    "hash" : "5c3dde8c54b158dedab2467a454e539fb81590d894b694c5d857709384aea3fc"
+    "hash" : "d0cf99fef39f071c092b5b2354a169bdc0caa20f828c536a77fd4483832e2ecf",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Princess Erani",
@@ -410,7 +422,8 @@
       "value" : "BTRC-00012-3120828"
     } ],
     "description" : "A princess celebrated for her kindness.",
-    "hash" : "64ce2830ba2dff72d044250cba00d63e45b91d94448421a1f6bd30ad5ade3510"
+    "hash" : "07e40db0c5bdf208e3ee6acfdb76702ffee4851b0293a8cf7dacd304651ef9cc",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Warmaiden Idamee",
@@ -441,7 +454,8 @@
       "value" : "BTRC-00013-3183497"
     } ],
     "description" : "A renowned shieldmaiden.",
-    "hash" : "17ce3f5ad459038586569dbc76e23a0fa061e2b8a2a9e2fb3f3866d60af1fba8"
+    "hash" : "265a872e7621cccab0ae827a5aa3d94c26f790c84ec4adba03526cb320fec21f",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Lord Michael",
@@ -472,7 +486,8 @@
       "value" : "BTRC-00014-3141337"
     } ],
     "description" : "Chaos and strength define this champion.",
-    "hash" : "b4200dcad756d6a68a61472de50e51e1fb84524cf1a6f94af2d9e41da196e63f"
+    "hash" : "0d31738c1034fdb69041942caa5837d1623bf146b4cc13bb31aca4b5e7226ee4",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Knight Sharlet",
@@ -503,7 +518,8 @@
       "value" : "BTRC-00015-3141347"
     } ],
     "description" : "A paladin whose skills and loyalty are beyond question.",
-    "hash" : "e60e11a29c09fb7e679feab248c7eb26b7751b0fae46cd61bfd5a409d4e013d0"
+    "hash" : "388eb719cc24ce9aa4a6a1f2437b3618e63d1f3f00a54998fa067b4bd458d0da",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Gloria of Xescarda",
@@ -534,7 +550,8 @@
       "value" : "BTRC-00016-3147145"
     } ],
     "description" : "A champion shrouded in mystery - what eldritch powers grant her preternatural skills and prowess?",
-    "hash" : "7955abaa8de9a22916772f763733829349ac32b250d0e102bd918da9d893b5a8"
+    "hash" : "c283de9cca81af0b06074c9e9628982f1b56b8c925c3f959bbd3a4ae66130e0d",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Dorrok of Ages",
@@ -565,7 +582,8 @@
       "value" : "BTRC-00017-3156267"
     } ],
     "description" : "Stories tell of a demigod’s wrath and glory - his true nature remains a mystery to all but a hidden cabal.",
-    "hash" : "ba9343d705e12d7bd6abb33b756bdcc0118f2162024b155c1308ec5575ba62a5"
+    "hash" : "cf297a9b9af35fe3b1125dddee7b6680554c993288e5e8a656c69965c9e5d970",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Lord Anthony",
@@ -596,7 +614,8 @@
       "value" : "BTRC-00018-3140581"
     } ],
     "description" : "A noble commander whose ambitions are whispered to surpass all mortal men, what unholy pact fuels his drive for domination?",
-    "hash" : "15b74666ec06337b1420e64f827dc51134ae16b054daec8049912c53a7690414"
+    "hash" : "4250c215548c1d8b790a25f791c6fe1a7aa71c86e9f41d76902678e4cf4ca614",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Countess Danielle",
@@ -627,7 +646,8 @@
       "value" : "BTRC-00019-3140521"
     } ],
     "description" : "A leader whose charisma inspires all but even so - dark whispers hint at nameless sacrileges of her shadowed past.",
-    "hash" : "b8d77d1f2fb2801ed115b01632508fca0eb328589f0d8859d884039b2063db05"
+    "hash" : "525c84bb87c01107655e252453bf62f03bb683e94bd241da0edf743db8f5bd54",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Kathera of Imor",
@@ -658,7 +678,8 @@
       "value" : "BTRC-00020-3140846"
     } ],
     "description" : "Though praised for courage, something in her eyes hints at storms within, and trials not yet faced.",
-    "hash" : "03c737996cedccb755a6dfe1a6c97a5b1f9707915aedb38a2115f67669d31ad9"
+    "hash" : "dc35d316c18c855781ea7ff89273584499b9b14acdeb88425ccebcf5756146a4",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Ressna of Shadows",
@@ -689,7 +710,8 @@
       "value" : "BTRC-00021-3723828"
     } ],
     "description" : "Beauty and skill define this rogue.",
-    "hash" : "1763e77338e8997a5395eb182f529ac128284d4ab24c5acc4c6e5203172d82c1"
+    "hash" : "c2a6e8d9c22816023d2ca13f4a65f7eb18923eee539cf88baadf2e9d8ed2d277",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Captain Laeowitch",
@@ -720,7 +742,8 @@
       "value" : "BTRC-00022-3146547"
     } ],
     "description" : "A captain cloaked - prowess proves power yet purpose perspires darkness.",
-    "hash" : "f5916c76f49ccc4020c912b5e32921da09627a9b5bec9546515bb8f6f018a0dc"
+    "hash" : "038e3e5544884331a15e641a7a9bc47a4765dcca03c5e01d4e329a1ac236c1f1",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Itoria of Iuonia",
@@ -751,7 +774,8 @@
       "value" : "BTRC-00023-3146707"
     } ],
     "description" : "A warrior of moonlight - mystery masks a secret mission.",
-    "hash" : "fa8419a63de820d1953e44b603ccd460238e98fdc46c6e6b8ac5a3aba1811ab5"
+    "hash" : "66bd1b0efbfe104607c3452e4b97ccc07d3d413b1d29fec42062baf68f8d21e2",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Natell of Aumbsu",
@@ -782,7 +806,8 @@
       "value" : "BTRC-00024-3183644"
     } ],
     "description" : "A cunning infiltrator whose skills seem too sharp to be mundane - what sinister patrons grant sponser?",
-    "hash" : "9068c5748a6355c4311e0038aa2f4b736e3226db77428d33bcd852df41089193"
+    "hash" : "d3e0788556163229da4ecfa56a51b01e7ed36308a0fede496ebb2765f7538312",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Merc Velno",
@@ -813,7 +838,8 @@
       "value" : "BTRC-00025-3183729"
     } ],
     "description" : "A sellsword whose prowess inspires allies and terrifies foes.",
-    "hash" : "4328e800b376fda9c629d66717b9421083a1d376569c42e1af1a9a4b775a0ef6"
+    "hash" : "385099d896bfdd618b7e911d79fda85bfc004ffb066a7339097052afddc83cfe",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Dawnseer Orenna",
@@ -844,7 +870,8 @@
       "value" : "BTRC-00026-3183567"
     } ],
     "description" : "A mystic whose foresight and incantations can turn the tide of battle.",
-    "hash" : "d7412b96665e0882b091e8ad47f2327731b6fe7e67ff96890f286fae181f413d"
+    "hash" : "b2e4d95ab4a0e9bb0cfde18b20aac78a2be30b5a206dee6e8badfc772a3a0804",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Cragnok",
@@ -875,7 +902,8 @@
       "value" : "BTRC-00027-2284591"
     } ],
     "description" : "A primordial monster...",
-    "hash" : "5bb72ae8d01a9ab857ba9a55abaac1310633cb1bc811c2eca650e5aeb9cd8ec6"
+    "hash" : "c99ac1ef5f0152a391ecbc8b8233840f9ff9ebd821249ed2b064ade18633a2b0",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Simon of Estenworth",
@@ -906,7 +934,8 @@
       "value" : "BTRC-00028-3155700"
     } ],
     "description" : "A stoic knight bearing arms against the dark... the void in his eyes betrays nameless horrors that still consume his soul.",
-    "hash" : "9f974447c15b30142f6a270b7139bb54d3168621d61d7c4887b99dcd973ad279"
+    "hash" : "6eab6cbf28668dccfc3a25baf49d2e58b678d3bc85ef68edde7c32d913ee37f8",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Rogue Gnona",
@@ -937,7 +966,8 @@
       "value" : "BTRC-00029-3147208"
     } ],
     "description" : "A mage who escaped from captivity... her magic carries the scent of curiosity and madness.",
-    "hash" : "86f53551fde110caea8dbbe620c6cfa46707651f29a2d3103173efa83ba8ecc9"
+    "hash" : "2dda5f9bc725a5944e3057b4f07753bb18ac24c8e55e2dffcce45aa2e60d5ad5",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Scalefin",
@@ -968,7 +998,8 @@
       "value" : "BTRC-00030-3146484"
     } ],
     "description" : "A serpentine abomination said to herald a nameless King beneath the waves.",
-    "hash" : "56c2d6d0d9da4197b92ea6ab96614be1648983b6cb5abc5b9468796d6bcf0683"
+    "hash" : "27ccad56305e89ac9d90281c36ffddc59fa1ecf7c5d968411a435c77c61766de",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Lord Fennar",
@@ -999,7 +1030,8 @@
       "value" : "BTRC-00031-3142900"
     } ],
     "description" : "A noble whose court masks schemes whispered to enrich a dark cult beneath shining spires.",
-    "hash" : "3ae874ae43642d23ab58002ce66ec9e725c5e78982c5888ae6bd7d86b791d7eb"
+    "hash" : "19de610d455aefeed5e1b2a732f87258d99e2c00509f346b69783e8a1c8c4656",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Geusma the Runeknight",
@@ -1030,7 +1062,8 @@
       "value" : "BTRC-00032-3142859"
     } ],
     "description" : "A knight without light - a tool of terror that triumphs lofty ambitions.",
-    "hash" : "a1a6b38f7e78bc2992638a955b5eccf51c19d8b7af3b192735797db0b2865037"
+    "hash" : "3bde68ef85642f6bb09b2d9c8be935fa3b280dfdcdb307ba349bfd0fd3184d46",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Lady Heskiema",
@@ -1061,7 +1094,8 @@
       "value" : "BTRC-00033-3142801"
     } ],
     "description" : "A regal sorceress whose beauty hides ruthless cunning.",
-    "hash" : "7b66367242a5d66d1e527be36eac2f03e197362775e565cb279ec34fa0491c74"
+    "hash" : "10b9f24110e62e8c4aff94abc0d899ace42682862d66a0e78f67e646a84be155",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Merc Corvek",
@@ -1092,7 +1126,8 @@
       "value" : "BTRC-00034-3142389"
     } ],
     "description" : "A veteran mercenary, his sorrow burns behind eyes that have seen too much.",
-    "hash" : "948d6777fd9023bfbaa05041c95b2c24a1b90cb8b631c20e0d27887188334177"
+    "hash" : "a8a8baa3ee219a24c933484db0cbf8c5c8b5f7f5758409b817f5da771e99f4c5",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Sinhunter Prista",
@@ -1123,7 +1158,8 @@
       "value" : "BTRC-00035-3142352"
     } ],
     "description" : "A paladin sinhunter, a title given to appease a dark obsession.",
-    "hash" : "ae9db5678537acb8d468394eb8574a92e432f8578bfd0067c1d484a2cf8c42a4"
+    "hash" : "9fa7bf1b01d98cc15e8260383e5d36a998b5127f4aa3ba5f9e41fbc21943c523",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Lord Payne",
@@ -1154,7 +1190,8 @@
       "value" : "BTRC-00036-3142304"
     } ],
     "description" : "A crimson warlord, uniting allies through fear and brutality.",
-    "hash" : "dfb4cdab3c42d5404d726b72572d8c18d75532bfe9b5cfb9c16b9a45c10ba6ab"
+    "hash" : "a5a0dde7c1c21a73e855cd43c9296459d0d3cacbaf83ce9282660ddec1561da8",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Paladin Ntorri",
@@ -1185,7 +1222,8 @@
       "value" : "BTRC-00037-3142300"
     } ],
     "description" : "A virtuous guardian, a fanatic whose wrath would see all unbelievers perish.",
-    "hash" : "a3e62840f5b0ec8dcfb51bfa4124badc26b24644af7be5774e0fea70b314d356"
+    "hash" : "ac5c7128ea5f055199baa04a1c4d28a506b6ed793c7f8f6d16cf476ec6671e2a",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Safari of Hunt",
@@ -1216,7 +1254,8 @@
       "value" : "BTRC-00038-3142297"
     } ],
     "description" : "A proud monster hunter.",
-    "hash" : "2f911c47da23b754ddc3aad6d1771a961100c6cde0bae60ce6d5d20136e02082"
+    "hash" : "c579fb630ab82a7b6c99cb17d073629e5cb2da532eb589e9e9706952f643c49b",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Dwafthunter Eleejinn",
@@ -1247,7 +1286,8 @@
       "value" : "BTRC-00039-3141359"
     } ],
     "description" : "A warrior from one of the last tribes of Lizardmen.",
-    "hash" : "f7d28d30476c59d547aeaf09ee7ae39e9fdc41c9553fff839c8f2247420f133e"
+    "hash" : "7cddd7a5d2c10b6db5f88c8392f8d5b2fb81f0f4ed063a47e906c541d6ac3a2b",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Darklight Torgomo",
@@ -1278,7 +1318,8 @@
       "value" : "BTRC-00040-3130093"
     } ],
     "description" : "A mysterious hybrid abomination, the first of a new blasphemous race whose emergence may mark the return of an ancient power...",
-    "hash" : "fb2c3976e0408ba31fe56b531a6ffcd7a931b7b0396b3b4afd35608204b671a1"
+    "hash" : "4e96cc2e90a29c1492cdaeb96d21425dc5c28fb61720e5d486854a2f2d520a99",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Syiann the Forsaken",
@@ -1309,7 +1350,8 @@
       "value" : "BTRC-00041-3121827"
     } ],
     "description" : "An exiled thief whose skills could dismantle nations.",
-    "hash" : "ed52f802386fd23aeb9bdfbf8656c0cdc0e44a90bf1b782b1a53ed6844f88eb4"
+    "hash" : "404a316546eadcd06856651d636ac1c37e04b3270039cea7ce559e5db22657c1",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Naidea the Gambit",
@@ -1340,7 +1382,8 @@
       "value" : "BTRC-00042-3121696"
     } ],
     "description" : "A warrior who weaves the fabric of fate - time flows to the questions that remain for her standing.",
-    "hash" : "2ffa312f4da80643307867b629474f2f2cb473b6e4235fa53e1f18569e2e5a6b"
+    "hash" : "95326d180c2ffabf10632cd2a7664a97fdf2c880716c792a78aa7b3cb006994e",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Dwarven Raider",
@@ -1371,7 +1414,8 @@
       "value" : "BTRC-00043-3460774"
     } ],
     "description" : "Dwarven folk are regarded throughout the lands as extremely violent and sadistic... be warned...",
-    "hash" : "ede0627c797d4e44a843037dcbecc7a2e97b716544025dff2f3ceadb4c929ee2"
+    "hash" : "b2bf44593f2b768a36f36c105b7a545bbefcbea6b917af8906a6c4dea9572be8",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Countess Minia",
@@ -1402,7 +1446,8 @@
       "value" : "BTRC-00044-3460712"
     } ],
     "description" : "A regal mystic guiding allies to glory through incantations older than names.",
-    "hash" : "07a1dd1cbf54eb7ce4a4f83d7ea1674a74f3ca14beb8949ae112c3648a28f072"
+    "hash" : "7d6c34ff59ebbe3d550444140018a2d0f9181e0fe90ffb2fb2c5885825e31e36",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Winstin",
@@ -1433,7 +1478,8 @@
       "value" : "BTRC-00045-3734742"
     } ],
     "description" : "Legacy bides behind bladesong, what ambitions hone such hitwork?",
-    "hash" : "3952b351104436266b422d7679dee609edcd4eda2bd742476a6d5cdd15a41ae2"
+    "hash" : "625bb8cd488b44bd906768be682d6e5549ff1034b053756d0984eabd1aedaf40",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Yuvanna",
@@ -1464,7 +1510,8 @@
       "value" : "BTRC-00046-3460388"
     } ],
     "description" : "A stalwart Soldier shielding hope against all darkness, or a flesh puppet enacting an inhuman plot?",
-    "hash" : "c420c5c220749263872c1248640e2abc1e0094853e0dc5520bf0a6858512f71f"
+    "hash" : "63cef3293c3b2674bc11c3622374f788f75154ffcc43cff4a62a784a921db305",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Battlemage Esteray",
@@ -1495,7 +1542,8 @@
       "value" : "BTRC-00047-3354649"
     } ],
     "description" : "A prodigious mage wielding sorcery like steel.",
-    "hash" : "d6921b169bac2d2d90e42bb8569167811a6480fbce5b70a4e5866a3f6c909842"
+    "hash" : "fe89c9ce26897c2dda268bc089dcf454dca05b5e2e458d0736ee6d063d45a9dd",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Antonius of Renown",
@@ -1526,7 +1574,8 @@
       "value" : "BTRC-00048-3353752"
     } ],
     "description" : "A renowned sage educating and instilling wisdom in a new generation of mages.",
-    "hash" : "30ebf7d036272b59b161b33e9397ad7ef07b0949f9da93d51bb021b412847f7d"
+    "hash" : "dbc67b8722d1d869968bef4399de8ba0f0924851da5782743196ece39bc0872e",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Battlemage Delamay",
@@ -1557,7 +1606,8 @@
       "value" : "BTRC-00049-3353302"
     } ],
     "description" : "Power corrupts, as this mage knows - but confronting shadows demands confronting one's place among them.",
-    "hash" : "10086b34dd704855a6021a1e27f7494a622d6b7382da6d30fa3c23fbf48478bb"
+    "hash" : "49e669aadbd1ff58f0e5afb4f4bd59b14fbe5ca8c58a94bee0230daa9dacacb9",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Justicar Gavin",
@@ -1588,7 +1638,8 @@
       "value" : "BTRC-00050-3353148"
     } ],
     "description" : "An honorable enforcer upholding royal justice.",
-    "hash" : "13e5b52c38b97dbeae3a24b0c6881824a0dbb056646fa31f7a0954df2e7d236b"
+    "hash" : "1f29346bd6ec8f14e21f93ddb81a812427b885d887fbe1ae3c65c3af3e102552",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Methus Kale",
@@ -1619,7 +1670,8 @@
       "value" : "BTRC-00051-1993655"
     } ],
     "description" : "A great hero defending the innocent against evil.",
-    "hash" : "3ea0511e212e7858fe6689c3b4ab4ae827d50889029e61748e58b4c0ebaf8c12"
+    "hash" : "539f93be781e51f7445b4029ed31e8e22b3634ce821eb6b8f87a00bd4fedf243",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Wanderer Yaska",
@@ -1650,7 +1702,8 @@
       "value" : "BTRC-00052-3120392"
     } ],
     "description" : "A nomad warrior exploring and traveling through the land.",
-    "hash" : "898f971dfee27306be6400457b0703fe1246cd4224aa40168277cb11cd921c3e"
+    "hash" : "5f9137f949581861f9cdadc5c38d1aab961f54dc8f5c34501256d8d81f551c92",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Ivonis",
@@ -1681,7 +1734,8 @@
       "value" : "BTRC-00053-1978546"
     } ],
     "description" : "A legendary champion whose triumphs echo throughout the land.",
-    "hash" : "24ab46b94771b4c413279325127ac1018c77a0565c97ac31a4ccd77768393f8e"
+    "hash" : "dd789f58e3480ae28815fc0eb02eb683f961cb66442eea2ce20c1461c50b3bcb",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Guinaveen",
@@ -1712,7 +1766,8 @@
       "value" : "BTRC-00054-3121606"
     } ],
     "description" : "A guardian whose shield seems to be as breakless as her indomitable will.",
-    "hash" : "722063af18174c6e07edbe9b645dfbbfaadd2908966c58ec0269b06c8c1cb59e"
+    "hash" : "8e6c291119d66023b3b5ef6a5c42ee759dcae1e889281250063013499bf794b9",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Scout Linfey",
@@ -1743,7 +1798,8 @@
       "value" : "BTRC-00055-1978549"
     } ],
     "description" : "A swift infiltrator preserving allies through stealth and skill.",
-    "hash" : "7402371c12c4d2195d799e73285195fe5dad7c3b0fa2420b3652d9a79f90b990"
+    "hash" : "c9313307ccaea2350bae21ef7490e48210a14b76df53aa3dedbac0b84e76ea9d",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Navigator Salean",
@@ -1774,7 +1830,8 @@
       "value" : "BTRC-00056-2006973"
     } ],
     "description" : "A cunning guide navigating harsh air currents towards fortune.",
-    "hash" : "eb6c3ba2760c13de268de962d615510ef29f810b46eb60f4414d5b43e5565cb6"
+    "hash" : "6688daa1a6ce47eaaf6bf7575fa5e61bbeea6489f6cee8768917010b8844aae8",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Zerra",
@@ -1805,7 +1862,8 @@
       "value" : "BTRC-00057-3352981"
     } ],
     "description" : "A daring knight exploring mysteries and unanswered questions at swordpoint.",
-    "hash" : "d26f704853ceeac4e92c88716f0f62f59a6b7e706bf0f162a74ccbf1026ff1ca"
+    "hash" : "ea736cf19d7cf4e6a72cccb54328a610ebb963b54551357643ee3bcfc69ea0c2",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Narlsa",
@@ -1836,7 +1894,8 @@
       "value" : "BTRC-00058-2006990"
     } ],
     "description" : "A fierce warrior who embraces her predatory spirit in battle.",
-    "hash" : "ad77686cc1ada5eca43567717f512519cf695bb2df70757d78f7c3807a18df3f"
+    "hash" : "b6f017f0ab4b31bc1668d847ff7807ff0f050323a1a417ef64dc0ed63415793d",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Merc Jasmin",
@@ -1867,7 +1926,8 @@
       "value" : "BTRC-00059-3735769"
     } ],
     "description" : "A battle-hardened sellsword fighting for coin and glory.",
-    "hash" : "a1e7be82bd4845c81fb19d7d3d47f5c697fd4d5e4ad0df4ec4b8017899bf5f73"
+    "hash" : "01d23a98fc0465e59d3040b7c68498e2e12afd32c57e417ec5510376bcd36557",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Knight Jakarde",
@@ -1898,7 +1958,8 @@
       "value" : "BTRC-00060-2007017"
     } ],
     "description" : "An evasive knight who turns foes' strength against them.",
-    "hash" : "2d554615d852e9f18ba21612a7fdf2c70660d9327e7f3b200f428598a097dc88"
+    "hash" : "37794eaeca2b2bd741484bb20d4d520f04a4f40c8749b5641584f463c0264371",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Headhunter Zelfua",
@@ -1929,7 +1990,8 @@
       "value" : "BTRC-00061-3351956"
     } ],
     "description" : "A formidable sorceress with unknown motivations.",
-    "hash" : "07de5605657abb55b8990549451ccd2c0de7d0322c5e28764e5c978125035d3e"
+    "hash" : "eca0704156e89f24f3a526a6d670ac8543e721d885e1c0ca3f8d7cf00467b920",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Velna",
@@ -1960,7 +2022,8 @@
       "value" : "BTRC-00062-2284534"
     } ],
     "description" : "A virtuous rogue whose skill equals her discretion.",
-    "hash" : "2be03e32ff8cb499f6b3f01196d2e82a84cc2c27fbbb85df817eda6506300d44"
+    "hash" : "5fa3db32856e7d5c06c82402cbf84f1aacd5bd9906c552b02e94536bac4384f6",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Captain Rainy",
@@ -1991,7 +2054,8 @@
       "value" : "BTRC-00063-3351806"
     } ],
     "description" : "A captain defending the kingdom through strength, skill, and loyalty.",
-    "hash" : "43048dd839b3175662eebb1109699ff36ce7fc752d41e0471e4843113ad99a10"
+    "hash" : "31f4ba427a29e61cd3e8d88a32cc2a012b86dcbfbb1f211cd2073b08ceb0b4ce",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Lagartha",
@@ -2022,7 +2086,8 @@
       "value" : "BTRC-00064-2284680"
     } ],
     "description" : "A deceptive warrior who exploits guile as readily as steel.",
-    "hash" : "b51184fc7d1acca9120bc5679ea09fa4f6b2103ace17a505c4728217841400dc"
+    "hash" : "d2a80bf7c7a1f3d0ccd0d0ad6b03b26da92ea04b6aa002cdba1f557514db01bd",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Captain Qesse",
@@ -2053,7 +2118,8 @@
       "value" : "BTRC-00065-3351534"
     } ],
     "description" : "An aggressive soldier commanding through fury and fear.",
-    "hash" : "e6f048bdcf07d945d1faaec6a46260086276f30ece6a3171d123cd273d65bc04"
+    "hash" : "d056b03190d09ba2cc266181cb18c3338f3930d68086b6d8ebddcaafcc1ae06e",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Lady Brene",
@@ -2084,7 +2150,8 @@
       "value" : "BTRC-00066-2284723"
     } ],
     "description" : "An eccentric mystic guided by ancient incantations.",
-    "hash" : "643ff950b67f77fe24f1491a80eb45459c1236c12d280622f6b427fcd599447b"
+    "hash" : "fa5eaf3cc2b90478013996daf3644be9743a2c284081ef8bbdea2d0895f2f54c",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Merc Blair",
@@ -2115,7 +2182,8 @@
       "value" : "BTRC-00067-3351360"
     } ],
     "description" : "A cautious fighter navigating war's tides with care.",
-    "hash" : "b6d3f9d83abeac3498f4dde5eec8986b464b910c6549bb0b489106d9d0d37cb9"
+    "hash" : "759bfbd84a763d1dfc70ef1b0cfb7f55fae9e8ed7155b9ae09c3f094fa86c6f3",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Lady Loria",
@@ -2146,7 +2214,8 @@
       "value" : "BTRC-00068-2284736"
     } ],
     "description" : "A tactful sorceress subtly guiding events through magic's weave.",
-    "hash" : "9457191252e05799480d2b40196e819a4ac3cdcc8dd873a1168d0f9e70dd7a07"
+    "hash" : "a2a123105337036c052feeb991ef98705b8abb223b527ac7d79403961570790b",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Militant Armen",
@@ -2177,7 +2246,8 @@
       "value" : "BTRC-00069-3204842"
     } ],
     "description" : "A swift soldier dancing between foes' blows.",
-    "hash" : "a74238ee126167f65aadde25f705eb487b65fadb098f892cb3240af58a3877c4"
+    "hash" : "a0e5a40396720fd26e2dc38a1554c71794ae1260ccd958097a66952799b6cd24",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Trader Xuenfet",
@@ -2208,7 +2278,8 @@
       "value" : "BTRC-00070-2284748"
     } ],
     "description" : "An exotic mage practicing strange foreign magics.",
-    "hash" : "1fbe78e2fb070e012c9b535de94b795dcd7f1ad8df1e24235e0c1299d4feb5c7"
+    "hash" : "1ec9104b8231bbcb0425d4edfa501c8ea7d9ccbe647849f877f595f35820b01c",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Paladin Vance",
@@ -2239,7 +2310,8 @@
       "value" : "BTRC-00071-3191293"
     } ],
     "description" : "A stalwart sentinel devoted to shielding the innocent.",
-    "hash" : "df415f2f2b8089f6c39c3335c4c4788d82132565dd82eae2c2c25130c80bd3b5"
+    "hash" : "d1c31e6bac281f20402475ffd39d0bb6d7f4987dafee8ebc3e7d2a3612f19ed2",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Ailifona",
@@ -2270,7 +2342,8 @@
       "value" : "BTRC-00072-3191256"
     } ],
     "description" : "A steadfast guardian faithfully upholding her vows.",
-    "hash" : "7ee15e691c7bb4f34a9f96c12b2f55647e12b8782a322565a400be91dc87c90f"
+    "hash" : "9ebfa92fffd841eeddc3927762f2239b65e89e5155273f8ffc86281f9217a634",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Commander Ismosic",
@@ -2301,7 +2374,8 @@
       "value" : "BTRC-00073-3190134"
     } ],
     "description" : "A barbarous warlord dominating all in his path.",
-    "hash" : "0e893e6fa61049faed8c2c29ade8a07c2b0a47d6dcc8c7b988af43ef7a4b3c11"
+    "hash" : "81c0845b743d4bdf3adf835a54ba1cac77ce03922b1528f3e5edf25d971001fd",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Lady Geusma",
@@ -2332,7 +2406,8 @@
       "value" : "BTRC-00074-284915"
     } ],
     "description" : "A noble mystic pursuing hidden knowledge.",
-    "hash" : "16c31d3c0d8d9d935b2d34c07e465b3d78a5bb04f776b946b7f06228d46d8cf4"
+    "hash" : "dde883b9ef73dcf0f7a10bba258de3125d52fba3491e23d595c845fee62bcad7",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Countess Vivian",
@@ -2363,7 +2438,8 @@
       "value" : "BTRC-00075-3190106"
     } ],
     "description" : "An aggressive sorceress hungry for power and riches.",
-    "hash" : "a6625b988af164b8e473c5b3b8bd2482e6611cfb1ec78c0c173dd8cb32ce9205"
+    "hash" : "f32b0875b39a3eda3ff002ed34d76d71ba9b170f20ccb3448cb0f9534ccc139a",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Countess Ivona",
@@ -2394,7 +2470,8 @@
       "value" : "BTRC-00076-2285052"
     } ],
     "description" : "A ruthless noble using guile and betrayal in pursuit of power.",
-    "hash" : "f0078389bc4009516dd32032e6fea54ee2882fc856fd12eb92fc0381535e6f91"
+    "hash" : "0df4c37966b62092bc4d3ab5ac248a41ebbf3ace37cb1497da2aef8782862d88",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Lautia of Umbria",
@@ -2425,7 +2502,8 @@
       "value" : "BTRC-00077-3190047"
     } ],
     "description" : "A cunning warrior from a land of chaos and deceit.",
-    "hash" : "554aa09f0488361c4d91d025064c75123988e488e223fcea6aee501db70a7ee4"
+    "hash" : "c1ace76155cadd2eb2bcea6dd128755066a59660e31c507ad464d51210e0693d",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Headhunter Deshna",
@@ -2456,7 +2534,8 @@
       "value" : "BTRC-00078-2285175"
     } ],
     "description" : "A ruthless monster hunter stalking creatures in darkness.",
-    "hash" : "3157a64dfc7048f07d37b43863884ca78d564b31f829f72504177f307c9deffb"
+    "hash" : "1c7bfdd72ff2df844aa2dcb0c94b259989774b2dc3407bd0f382bb55bde32ea6",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Demigod Evermoore",
@@ -2487,7 +2566,8 @@
       "value" : "BTRC-00079-3190021"
     } ],
     "description" : "An ancient hero whose triumphs become legend.",
-    "hash" : "ab8cec0d271694611979c7326c1600bda713759892be6cb91a72e049801a8607"
+    "hash" : "cabfc19df23719b1253cdd394e00464b178279918ad8cb144f1ac36dd1f51c3b",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Vaulta Redblade",
@@ -2518,7 +2598,8 @@
       "value" : "BTRC-00080-3734781"
     } ],
     "description" : "An exotic thief who plunders riches through sorcery and guile.",
-    "hash" : "b9d5705dd0db7eb81e61c3d9eb8cd833a876428e33697c62624aefd102718486"
+    "hash" : "3a4eed79c6dbf61712778484553f3ff31b406dea0c1f671444b7e6240c2640e5",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Demigod Gladmoore",
@@ -2549,7 +2630,8 @@
       "value" : "BTRC-00081-3189997"
     } ],
     "description" : "An ancient armored champion of mythic strength.",
-    "hash" : "b39a92163d67b74f864e5ea5b6e1c9728d32c8e21e76f8ad6dba7a5c1c23e00f"
+    "hash" : "fb79ca7cc6a2adf756d01fd99995ab63c7fa0e57b71b5e1525ffd9c66f88b1cf",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Enchantress Monika",
@@ -2580,7 +2662,8 @@
       "value" : "BTRC-00082-2408826"
     } ],
     "description" : "A mystical battlemage bending magical currents to her will.",
-    "hash" : "40cbf1997e9a489b49645f6f0d1b24349deff195f9ed1e95b5dce9e5e51cb9c3"
+    "hash" : "aafd661a988f3b76885b85073f19253b8dc106cc1702e83aa700f800a2359b9e",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Geralt of Mecil",
@@ -2611,7 +2694,8 @@
       "value" : "BTRC-00083-3189971"
     } ],
     "description" : "A wrathful warrior who crushes foes with relentless force.",
-    "hash" : "12ceaf5bbbb4e7f634b4dea3fe7083df73a6c7785b867a3e990d67576af158bf"
+    "hash" : "5fc8860e081250ef033d699b98e0008a545b1dd2b9d8674687ec79be37178421",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Veteran Frano",
@@ -2642,7 +2726,8 @@
       "value" : "BTRC-00084-2408934"
     } ],
     "description" : "A cautious knight who carefully measures each strike in battle.",
-    "hash" : "351d616eadab5eca0fd9d862ec148b51e781f7a785170d91fb9032df9bee95d8"
+    "hash" : "33a7d4d6ea513c68f0032dde87f65d0a6f8c01a7d3b5a7f5776d0e100113de7e",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Milady Vixen",
@@ -2673,7 +2758,8 @@
       "value" : "BTRC-00085-3189953"
     } ],
     "description" : "A cunning rogue who exploits guile to claim riches and power.",
-    "hash" : "ac91ebbeb0b300bdf5b6643e668b4adf53752ad30a45d401a1c106ba12d40b6f"
+    "hash" : "77944d6057f1096cef7b18bd345bb2a58e87429927677124f3a28aac95c38a74",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Merc Isodore",
@@ -2704,7 +2790,8 @@
       "value" : "BTRC-00086-2416697"
     } ],
     "description" : "A worldly fighter employing exotic foreign techniques in battle.",
-    "hash" : "062a1b1612e1f262bb39c1e841c1f0ceb0ae8d93b3a83e72a6f00e91a66b92e1"
+    "hash" : "bf797154ead8f75d0bae970b5058af892deb982fce4f5ae3190e911eeeacc503",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Ira Spellsword",
@@ -2735,7 +2822,8 @@
       "value" : "BTRC-00087-3189724"
     } ],
     "description" : "A tactical spellblade combining sorcery and steel.",
-    "hash" : "6da345e1d36ecdd57e24bac8ced7e21bed78923434a2a21b70f1a4dfcde90bd5"
+    "hash" : "996183e9112d4ec765e8ffe2efef428ff1d849e6ff071cbe1ecce6fd6d0c9f21",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Militant Kalmo",
@@ -2766,7 +2854,8 @@
       "value" : "BTRC-00088-2416796"
     } ],
     "description" : "A deceitful soldier who uses trickery to triumph in war.",
-    "hash" : "501c1ae0de0f43a8afd768185784fee5d229bc7a4b1c4caf33b059dcee44ffed"
+    "hash" : "d317c80072e6d27e72b6b636cad2f5c9dd2ce74342d1fe87279917619aacf324",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Wendi of Descarda",
@@ -2797,7 +2886,8 @@
       "value" : "BTRC-00089-3189702"
     } ],
     "description" : "A methodical warrior meditating upon each movement in combat.",
-    "hash" : "53bb6303dc2634370f77b600896fe1e049151b76beb94aad14c25641615ceb9d"
+    "hash" : "bcc16a2465ecae6ea1db63276092c5c6e39819beb2754d80d063613e71b7d292",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Veteran Roland",
@@ -2828,7 +2918,8 @@
       "value" : "BTRC-00090-3189687"
     } ],
     "description" : "A skilled archer who evades foes while raining lethal arrows.",
-    "hash" : "d557eed866fc7863545f29cba71214534245852c33fb1f0369db0f5fc9fb6b2e"
+    "hash" : "34a0361842cbff110bee31e61f3743355c721ac84478a6416de092a7860f6a0d",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Naga Warrior",
@@ -2859,7 +2950,8 @@
       "value" : "BTRC-00091-3121994"
     } ],
     "description" : "A mystical serpentine fighter defending ancient ruins.",
-    "hash" : "937d149f8817aa286875a65019051238c0d2be14ace7c7af708da1bfa7f1d2d1"
+    "hash" : "a6d736d67967dc7c9226f863a036c77bec1168e223b0a61eba729a659f727c74",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Enchanter Mistra",
@@ -2890,7 +2982,8 @@
       "value" : "BTRC-00092-3121530"
     } ],
     "description" : "An occult sorcerer weaving ancient spells to sway war's tides.",
-    "hash" : "ae8d5ffbcc0d0af70370fd624a0b12e120347b19b42436fbca91fa4a256f5921"
+    "hash" : "52c8c3ee6d08a89a6e893d9f6835b7d6c96a78a0e398a4c823c01fd34c99d5eb",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Veteran Zezima",
@@ -2921,7 +3014,8 @@
       "value" : "BTRC-00093-3121427"
     } ],
     "description" : "A barbarous warrior relying on fury and power to crush enemies.",
-    "hash" : "209cf661d3f790dac17ac79ffa05f84630c564f213f54f3ac43deb8b47cb6526"
+    "hash" : "f0acb0d17c055ba6f3521bfce5f09fd5eeb5a80812be53c6aa7cd2e35e7d21d9",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Veteran Gregor",
@@ -2952,7 +3046,8 @@
       "value" : "BTRC-00094-3121341"
     } ],
     "description" : "A stalwart soldier weathering all trials with shield and faith.",
-    "hash" : "909c90a42c149afacae447ca60deeb9ed59c624c004639066844b56ae8e0bbff"
+    "hash" : "d294e130514d309021ed514b4548e16a3c3aaa487c51c218f19bc4f80ad5fb12",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Epharie of Twilight",
@@ -2983,7 +3078,8 @@
       "value" : "BTRC-00095-2007036"
     } ],
     "description" : "A tactical warrior using the shadows as a cloak and weapon.",
-    "hash" : "58d26b7066cd22cd8522bd899314a412681bd45173451861596aea612b967f26"
+    "hash" : "f4981139cd88584bbaf2d781ba523e07101848867dd903efc7e8bf58262061b5",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Tailiya Songsword",
@@ -3014,7 +3110,8 @@
       "value" : "BTRC-00096-2006927"
     } ],
     "description" : "An exotic dervish wielding blade and dance in hypnotic harmony.",
-    "hash" : "05cd3be050a13ce8a6111e0597328cc04205b7f9cd5f179876ba3a166cc26a6a"
+    "hash" : "d45d7fd6d92c935bed6ee7beb66207df21ffadd9d6e75a86e51626abf65483ed",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Young Stella",
@@ -3045,7 +3142,8 @@
       "value" : "BTRC-00097-2029973"
     } ],
     "description" : "A gentle-hearted royal pursuing kindness rather than power.",
-    "hash" : "97019772622a4d82053c9721d5a3255dbd4c6951ae131b0696d7c9dc03a04b7d"
+    "hash" : "a9f9208d22240bcc12130c9c89582220ee976923643d266c1f967339a09e5530",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Pathfinder Velmont",
@@ -3076,7 +3174,8 @@
       "value" : "BTRC-00098-3463313"
     } ],
     "description" : "A questing knight exploring the world's mysteries and secrets.",
-    "hash" : "d506b452ffe9a13e0fe01cbb4ad4461349f46a6ca774d8eebb2e0e87e5a81881"
+    "hash" : "c9fb5d597cbeeb4c8403f45aac1ab14c932d946e3e0ac8576c3f7efa536f1b3f",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Countess Cassia",
@@ -3107,7 +3206,8 @@
       "value" : "BTRC-00099-1984392"
     } ],
     "description" : "An eccentric mystic blending spell and steel in an unorthodox style.",
-    "hash" : "93c2b1ae9d3786e7cadf45153f22b99b0ce667f9e170f1ef092003d1a6dd6a02"
+    "hash" : "8a983caab55cf97ba8b87d72916a6833d18fc42728ee2428e16046007c19382c",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Delva",
@@ -3138,7 +3238,8 @@
       "value" : "BTRC-00100-3723189"
     } ],
     "description" : "A stalwart soldier whose shield protects the innocent from all shadow.",
-    "hash" : "c987e45c62df4fc30e93e7e932dad13a9c46516c2bf5690d08bbbb6d37800100"
+    "hash" : "20aecf34e951ca161b5f721bf99935b26d4e54e35aad18c936b7db9ed89bde4c",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Lyandra",
@@ -3169,7 +3270,8 @@
       "value" : "BTRC-00101-3723228"
     } ],
     "description" : "A cunning rogue who strikes from the darkness before foes detect her presence.",
-    "hash" : "3e6cbe91ff396ff0bfe403bc613e6b26143ec5506868e495d2f10e39f9850fd3"
+    "hash" : "886e29faed47728c45af35b25c2965695ac0166b7ea342183311dfae98cde080",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Liora",
@@ -3200,7 +3302,8 @@
       "value" : "BTRC-00102-3723317"
     } ],
     "description" : "A steadfast knight wielding ancient magics to smite evil forces.",
-    "hash" : "867a786fda1545f188e9d6f486e9e6ce06b906477887712703e16dbe0defbd04"
+    "hash" : "63ea2e221729520e1cee11fbeea8402cc0fd776624cc813c24fc81193319c324",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Iron Knight",
@@ -3231,7 +3334,8 @@
       "value" : "BTRC-00103-3723354"
     } ],
     "description" : "Iron Knight's are unyielding champions whose heavy plate turns aside most blows.",
-    "hash" : "8f4749c2ccd36faeb69abd0328e66220baf5b0b4389243d29a7032efed3a46cb"
+    "hash" : "d7d31bfb59ab7683c82b598aba8fd61cad6051c59e3826f6dd8dc4c2c86feb39",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Battlemage Fayin",
@@ -3262,7 +3366,8 @@
       "value" : "BTRC-00104-3723809"
     } ],
     "description" : "A wrathful sorcerer channeling chaotic energies against all those who oppose him.",
-    "hash" : "942e289ad08207cd1849eca933c549d809c991a001b5b6d237639f79668985c3"
+    "hash" : "1533131f5baa823584cb4465450852ada5c6acd7dc6607779e37e29f02793e2c",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Nyxaril",
@@ -3293,7 +3398,8 @@
       "value" : "BTRC-00105-3723408"
     } ],
     "description" : "An elegant warrior whose graceful bladework conceals masterful skill.",
-    "hash" : "e8166cca08f4442545b68dc97fe0b0a16734397116c6fbfaea7a44c6c05819af"
+    "hash" : "7f3dde18bf46655da63e72e12a396bdd24a417ffcc705da506e4f7376494729d",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Dravolo",
@@ -3324,7 +3430,8 @@
       "value" : "BTRC-00106-3723980"
     } ],
     "description" : "A fearsome knight whose massive axe cleaves foes in a storm of gore.",
-    "hash" : "57ab78f308598477e7fd8043b575d2137736c850cc5281bb4611a508dc3e6fa8"
+    "hash" : "c934494790316da6b0bed70ff37cc5fb9b6c695f1a4d5f204cd9f2b99299207f",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Zhorvax",
@@ -3355,7 +3462,8 @@
       "value" : "BTRC-00107-3730197"
     } ],
     "description" : "An occult magus communing with eldritch powers beyond mortal reckoning.",
-    "hash" : "9b984cb25ea17328ede98001e665fb0867a320059460934b131f64dddce9fef6"
+    "hash" : "3ca973e062d1fefcf1f52ca57722207a2283cfd176957d62cc2cfd7a62ccf471",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Blue Knight",
@@ -3386,7 +3494,8 @@
       "value" : "BTRC-00108-3730227"
     } ],
     "description" : "A virtuous knight upholding honor with shield, sword, and unbreakable will.",
-    "hash" : "14714671097e741009915e6f3aa92e417d8d3b7e4f4158c2d2294a78e0b5f87f"
+    "hash" : "df1b01ccf4bd874bd85e021f93eedb72973a8f964fe3354e99ce9956c9718378",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Corvexia",
@@ -3417,7 +3526,8 @@
       "value" : "BTRC-00109-3730381"
     } ],
     "description" : "A cunning skirmisher maneuvering foes into vulnerable positions for the kill.",
-    "hash" : "27a5659685bd2e6bb514dd17ce3b24a2ba6327ac142fd362f916b6fc68c618a2"
+    "hash" : "bf9fcce4073635b60ffd1525c8830671f95954c6d1c1cf8c5f1fb0ae8b86ee59",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Yonelee",
@@ -3448,7 +3558,8 @@
       "value" : "BTRC-00110-3731100"
     } ],
     "description" : "A vigilant guardian patiently awaiting the perfect moment to counterattack.",
-    "hash" : "b5048a8e31ff8092a0fa28d22b2dcad97b02084b61f33964169f2d14a21ad119"
+    "hash" : "4834b4fa04c5c7e212f310b1006290e6b60bfd004b0c6d47ae1e56d91be2187b",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Vyndrae",
@@ -3479,7 +3590,8 @@
       "value" : "BTRC-00111-3733841"
     } ],
     "description" : "A swift warrior evading all blows while pursuing lethal strikes.",
-    "hash" : "af38370e9ccf0bbb8b02957da97aa6740d0f58007e3397bb9e47eab899b6541b"
+    "hash" : "3be45ff3155e5c49edf4c2340903ce03e1be4c92dedb3a56dae200b40f946193",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Bronze Knight",
@@ -3510,7 +3622,8 @@
       "value" : "BTRC-00112-3734268"
     } ],
     "description" : "Bronze Knight's are methodical crusaders dismantling enemies with heavy mace swings.",
-    "hash" : "b21437324b3677bb41325229ae1806a00b249db76a78a4f62c03e9c416f9d352"
+    "hash" : "de217f381d67f69d10da48aa2d5923e8118f39c49f8f00c954d4912b45f87096",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Enchanted Knight",
@@ -3541,7 +3654,8 @@
       "value" : "BTRC-00113-3734311"
     } ],
     "description" : "Enchanted Knight's are empowered by ancient magics to smite enemy forces.",
-    "hash" : "aef63ebad0407fd8175a817676bbf40735b6992f603fda6ec77ab9a07434bbb7"
+    "hash" : "fc5315c58b45e777cea57c1ecd2c6396063096ed8dc3bb161000035bca3d375c",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Nyxarila",
@@ -3572,7 +3686,8 @@
       "value" : "BTRC-00114-3734333"
     } ],
     "description" : "A ruthless champion exploiting guile and brutality to crush enemies and ambitions alike.",
-    "hash" : "531ae5bae03a46a6271693f2678814ec113031e0658f1f84e8d753c22e64e1ec"
+    "hash" : "ef4cf961e6f3a48a50cf189b1c8bf33e42ab2b121f9fb8bff65e88bf15b4cd9a",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Dancer Eaxomi",
@@ -3603,7 +3718,8 @@
       "value" : "BTRC-00115-3734530"
     } ],
     "description" : "A graceful dervish employing hypnotic dance and daggers in perfect synchronicity.",
-    "hash" : "2ead22d68e5b4004c182d8c769b7e618e45042fa4967511c016267e8bc0a6c9f"
+    "hash" : "cf2bfa05c43b399f307c81ab926f89fe7b8f060b1d84249884f3faaf1796007d",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Battlemage Wynvul",
@@ -3634,7 +3750,8 @@
       "value" : "BTRC-00116-3734715"
     } ],
     "description" : "A tactical spellcaster subtly shaping battles through occult manipulations.",
-    "hash" : "72964e3577642dbd36abf40ab09ca63d3acf6298c149d4dc8b78c8f7e34d939b"
+    "hash" : "95df86a0ed164907e57283a7360d969e351e3a9b7c6801ff6dd78812521a5158",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Brystan",
@@ -3665,7 +3782,8 @@
       "value" : "BTRC-00117-3790828"
     } ],
     "description" : "A cunning rogue adept at exploitation and deception in pursuit of wealth.",
-    "hash" : "4d3c410b99aabf19a2ad6da0529e2eee06deacfac029111a49de710dc89796e7"
+    "hash" : "0eed545517a3c94e74af84f50de34dddc15b4a9fef992532ab126e48b93625d5",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Tyrvan",
@@ -3696,7 +3814,8 @@
       "value" : "BTRC-00118-3740102"
     } ],
     "description" : "A rampaging warrior-berserker overwhelming foes through sheer fury.",
-    "hash" : "5e1e6fea4af8c38cd8a429d78186e475cb752659526f78dc3c0dcdaa46fd5ea1"
+    "hash" : "c5d7bd2213e05052662f665f384ac68415cc93b13539757158ffdd0e45f1cc88",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "Fiona",
@@ -3727,7 +3846,8 @@
       "value" : "BTRC-00119-3778251"
     } ],
     "description" : "Fiona is a royal mage whose mastery over the arcane arts is whispered to be unrivaled.",
-    "hash" : "37c994f6bb0c113146462c521d1909ad8239b4a511416a08633fde5ad974df13"
+    "hash" : "c1d9565ef07adbfada1a023782468af09fcc6b7128b29d76cb9a8a64621d9f33",
+    "alternative_image_url" : null
   } ],
-  "hash" : "fce8ae3c59bb898a617be673767d61557b7da453eeed37a748a3957d061810c1"
+  "hash" : "582f4ae459ac10e150ea0d539a5d3c57ea6d390df3657f55e8406fa509b5c492"
 }

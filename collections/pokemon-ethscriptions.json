@@ -17,7 +17,8 @@
       "value" : "Starter"
     } ],
     "description" : "",
-    "hash" : "c0e296a5f1f7ce0a0fe26f31039703ba2b2d2f27e56bff428745dab32ec77586"
+    "hash" : "55a5fed9d48164545ba489b593fc826d6822089a553172e67d828b04870439d2",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "002 Ivysaur",
@@ -27,7 +28,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "0702bf5d8ecaa4f3d69fcf029d5c4b87d565784900363da45a8d5eb824559c36"
+    "hash" : "a0c569d823e89f11bfdef3c902a0a5c5936f15a45ca1e589aa0870ef2f3043ed",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "003 Venusaur",
@@ -37,7 +39,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "749874aaccc3cb55418940d6a9efd5390b259208f272201c2fd87901851fad21"
+    "hash" : "77f7ba055be1391a19081fd37473fef19f6ba6f28a29b53a81f8e6ae70a74267",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "004 Charmander",
@@ -47,7 +50,8 @@
       "value" : "Starter"
     } ],
     "description" : "",
-    "hash" : "4615012d5fea234376e67387b466f1968f545ebbe42b4787cd27cfd8106ba557"
+    "hash" : "e44f6bc98979896d79ba28a469024736b5bbab3b7f1e8f2bf5506bcdad390eae",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "005 Charmeleon",
@@ -57,7 +61,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "8e1d542bd41fe2980781f1e722ba9cdb4072e1326dbc96d96b4956180a1236ab"
+    "hash" : "9c3daf6f0dd3e3c7b9a48d48df0db5f14c32800d5387c61bfd0d8c771847b510",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "006 Charizard",
@@ -67,7 +72,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "f795da1d4e09c40e15d273539aa3eaefaf3c8d34ad75252cf4c3061a92221b04"
+    "hash" : "c38024d3dae4d5d5b0ae44e16b6fa8a63e119a1af99832b585ded2247b67d668",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "007 Squirtle",
@@ -77,7 +83,8 @@
       "value" : "Starter"
     } ],
     "description" : "",
-    "hash" : "5ef8de5ce6a061b1d4aa6e511c4d1bc165b2f579630038d83d28080b016ca53b"
+    "hash" : "6fe011f1128bf818ea93f9fad4b0ca915ce556e0f62460fb2c40a6d438e326b5",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "008 Wartortle",
@@ -87,7 +94,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "415ee24561968dcc737e65a7b2915e56c6b1146a2fda14125e7cdb88f4acf8db"
+    "hash" : "f3a6a0d64e18c9105208dd616c71e75881e69216af5061c6c083ccef84542fd4",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "009 Blastoise",
@@ -97,7 +105,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "6155fa7a036d43eded110f109e9b56e6340509e5abb4f887c67e3a58f8416a9d"
+    "hash" : "8f9738a1241de54130440777d47f2fc1428b56fe94aa34cd6bc755a3be7a8f2c",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "010 Caterpie",
@@ -107,7 +116,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "886b7206d7e67ccdc1d9466f4fab2d22d164fab1ec3695da5a2a8f4ca65e338b"
+    "hash" : "d563bb67710625a2850a5f6aa18f456aec0a5c7e1c86331ca8220e282d1e6608",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "011 Metapod",
@@ -117,7 +127,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "cdd73cb295cd1dc3d02421f8c7e2bf7b6b4b8796e0c717fb6de0fdaae8219454"
+    "hash" : "fd6b18fbe4e457b15be6ebdae29870c47554da97366cc8b9d527c628d13c6b84",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "012 Butterfree",
@@ -127,7 +138,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "b19172ecf9eee2e01e63a28851fa48120d02a81a78897bd4c01a357f0c4f290c"
+    "hash" : "6c4007a6edb4f0a8b7ba730647baf6b39c95c055849eecc459705096daffc9f8",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "013 Weedle",
@@ -137,7 +149,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "afa4904b87f9011940aea43bcc183d8ca10c583106b94208af0c81706ee1b2db"
+    "hash" : "0f84165e57f15b9bc7c7803f2308bd42a34f12bc081e169cc1d254e108b778a6",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "014 Kakuna",
@@ -147,7 +160,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "43a36d1c874251fc54b1e39598f24021d89233fcd4d03a61953d27ec5770447f"
+    "hash" : "b305daf4359c9b209140d7b15e74807e7b70d362f0f1eff5c4a296f60a212b82",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "015 Beedrill",
@@ -157,7 +171,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "3fc63457164f545f2c6db9f19f9a7899790f4aabcd87fbe53e9dfa58a27473e3"
+    "hash" : "9afdd765898edbd47ba195312c486483d0f69ba07351eeeb144dbd1368348c6f",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "016 Pidgey",
@@ -167,7 +182,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "49ab133e85000eae138ed9c319cbc857514f0c1528af04594620df7911560616"
+    "hash" : "dd7ef86018b8f3d2aff4f016c463cd2b3f6c10f7f945355454a6a93589f99e0f",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "017 Pidgeotto",
@@ -177,7 +193,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "de23733923f0b87619259f7cfc99e5f26c9d97266b967641c0fd17f42fa7b92c"
+    "hash" : "46e5c2a73df9e3c3b5331f568a868336ba71289bb3bcc599780d8cc6f2174f58",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "018 Pidgeot",
@@ -187,7 +204,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "a59927914ff59611d8d4a50c1245cfe9823e951db40bee19c5dbf81b36d98c0e"
+    "hash" : "99ec56379737a4e91056343355172851ef3421bc00b60d3e4ef98ae238788f79",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "019 Rattata",
@@ -197,7 +215,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "8df8ab25a29b4dcc9a182b44754d1635e13f0d5481063c18a07690847e1ef5ca"
+    "hash" : "7ba51675953c365ef1bf6f3b9ab7a57461e429d970dbbb03335900514406bc33",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "020 Raticate",
@@ -207,7 +226,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "5ee994f475009d67c658d5b7955b4b933930e54978109b59c01ae5a1b4f1a4da"
+    "hash" : "99d3e2eb76106d81108373f0330744d71c53020b39f5dfc2984e8a698565858f",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "021 Spearow",
@@ -217,7 +237,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "c2842b0c550f394f229b9d5e2543df97113a36ea293e6b73b5af19d32e005145"
+    "hash" : "86c1a6e5a2686c5f0e495f0b015754d84d763f986bfded5365a488b6fa3fa2e8",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "022 Fearow",
@@ -227,7 +248,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "befa7612ac7dc48422d42e57b3cd8de0a2b780e95355e4b713788f2dee2a19fb"
+    "hash" : "2181ff01b1ecac5596129566f5abb435f4c816804a7db0da109706baf40cecd0",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "023 Ekans",
@@ -237,7 +259,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "2a5b1a34ebd1238b2de7e5daf55d60b78ccc1f8334a9cd01d67ead784a1e3a8f"
+    "hash" : "7de943b60da3be31e740fea6742de1219a29007059716122ceb17c578621b509",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "024 Arbok",
@@ -247,7 +270,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "6aaa7671c2f46e99a0053d53b53a28a45b749e68b7800544aeea0e50b9ca4aef"
+    "hash" : "e679f2739bcc398e51141004af12f023aadb4db2c3e01043ae3201ff9ac0f191",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "025 Pikachu",
@@ -257,7 +281,8 @@
       "value" : "Starter"
     } ],
     "description" : "",
-    "hash" : "0bdffefdd0857f3e77b8814f02b2beccaf4a5ed6a9c05b3f8ee81fb7350e81fc"
+    "hash" : "0a7386b5fc5e74b073b948ab8487e9d9384f1822aee98a7f540689047a991852",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "026 Raichu",
@@ -267,7 +292,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "bdada6da6ecad5fb655b811d7727392bf9306a9045d7dffc1ae41ecab26160a3"
+    "hash" : "355da5dd455309940804fce4edc310e79badc87e1f967ec9db990bda6e5d6cd0",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "027 Sandshrew",
@@ -277,7 +303,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "609aec8380c706971c02dcbc5e9c07befb05374bf6e25ba1a5e0906fcdb8edb8"
+    "hash" : "d56ec4f82912426295056b91668f58f9c4e7fc43442cc6ef1e1a4b1d52461008",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "028 Sandslash",
@@ -287,7 +314,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "2ae1139f933d9a23b831605342c671a593e9389639e4d19e6fa2ccbc548f8eae"
+    "hash" : "54b06318d629b82db563f6aed03866537f41fef9eb81524f03db80953f5b663b",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "029 Nidoran F",
@@ -297,7 +325,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "99dba7ba24fdea4634d55a77fa73df9d4d6a400392978f8066503d1a94aa5407"
+    "hash" : "ab43e1c43aeb99d16cc5f0e1b9a58e45325c9386a44018171ba1a9009ef8f84f",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "030 Nidorina",
@@ -307,7 +336,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "2e0ab4e3610031c8a572b043cdd8462be80d2af6bd137ba01b22e4200f60d3ff"
+    "hash" : "ce90eeb8ffa8133996c6145db8b3ad2b4b2fa71f84619b5dffffd425de28b03c",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "031 Nidoqueen",
@@ -317,7 +347,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "5fcdb26aa6d37e4643707cdfb147f0359ba64e19b9ec745246875723a63bf9f1"
+    "hash" : "d2775dba1512efaa35606b2fcca51457471a8897490b234309731983e5cd0ff2",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "032 Nidoran M",
@@ -327,7 +358,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "727b528f74acae6609c448e822bc6b13c05d0fc2fb4a70f8a3c12999ed6d222b"
+    "hash" : "ab4ebf13dc9f647045b934b3ffa6c037e1726e90cddefde9d2d01cd16ac077f4",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "033 Nidorino",
@@ -337,7 +369,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "83540c13fd6688bd2387bb11e346acbf7817a106a2eba2e636d89169560c1976"
+    "hash" : "3abcfbe6ef4e0b0066165b3205a3c1ca9515b83cbd1287bc685916467b85661f",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "034 Nidoking",
@@ -347,7 +380,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "6d8faadc9c09cb0206cf41149b2c885b8e50102a7d2c844c88fe82583d11daab"
+    "hash" : "35952f4c8fa26c702c1782ccd61e919a13574eb3a87519a762404e9d4de4fc06",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "035 Clefairy",
@@ -357,7 +391,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "3c3f94e2afc86bbf23fccf66e0e1ccb20e63c55b0ae30fc42c15327917e3b07d"
+    "hash" : "a241e159af92777019139da74ec707115a48d9d51dc94b85f8af3ef4e0239f43",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "036 Clefable",
@@ -367,7 +402,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "bb49607033ae33ca9e2bb5053efcc3e9fab061b496daaaf8f06991c5e304f567"
+    "hash" : "e4aedad0c301cded2965ddf6e4ed2f93e02be176c062319a446669c74af22208",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "037 Vulpix",
@@ -377,7 +413,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "f7ed9d4dd3e15d049b785e4feef0cba985fb2759ef6e69e477bf538c8d6842f7"
+    "hash" : "952491742027edfdf58dab3fda1f0ad8884f3b5b352a452def5e8bfbcca933fc",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "038 Ninetales",
@@ -387,7 +424,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "045fd14c45b9341e971b9de075796e4e1a2bb84f465c2fc38d0176b6bc5abc93"
+    "hash" : "e59e15cde93a394c2931f78f0f557d04986e1a49bc459bf75642779fddb4595b",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "039 Jigglypuff",
@@ -397,7 +435,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "8b700b741e976922ad6030506dd44ca4f87c2b46d0b7630582856d9eac01ac8e"
+    "hash" : "48fbb8505492176a2f0c1f2aba86e972707445790ed00e75539e5393a6668cbf",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "040 Wigglytuff",
@@ -407,7 +446,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "a4821876f36c9a53407371bfa8de35bbb516d8afe927dff038d475aa8a118e75"
+    "hash" : "4af2482646b8c8f8a1a752b4b17bcf9706c4e552e5b685060f216b301511a968",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "041 Zubat",
@@ -417,7 +457,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "4a7464f687e72801cda5a7739e32b40a9bec9a3c98873447aa53f75b5a348041"
+    "hash" : "7c90f01f9d5f483eb2fda83750fac13914f955ddeeefcf12195e1eef94e3124d",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "042 Golbat",
@@ -427,7 +468,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "f9582ffcbf2db00c4b9dfa48f7cf80048b0adb10762177d60e2846a4267d56ce"
+    "hash" : "771b16f6b3c5ba12d1baa3ba89c1980afdd2cc95a8618adc014cbd42db11e20c",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "043 Oddish",
@@ -437,7 +479,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "221ea44f3dc59220bc8385170409eb528ea8803ecb623b9c0aaa1432b70fa2d6"
+    "hash" : "f463a6ae5aadc7b93eb211fd600a19e8c45754da1f23a89617fd35a0e2899a44",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "044 Gloom",
@@ -447,7 +490,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "0d2bed79a21507b258555bae773a5114351ee230db13078ce5a878fbfbdb270d"
+    "hash" : "24087ebe7f2895bf9111f25359381bb1303bfb149000e8691f76c25e14e2cfc9",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "045 Vileplume",
@@ -457,7 +501,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "fee811423b9548f4540840ae3d28ed19fc7b0bfe25b90a63e78549ecb1a5ef63"
+    "hash" : "1e1b3bd45edb9995e98caf87d3eb7fe5c873695858db6c8e07281a1221b2973e",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "046 Paras",
@@ -467,7 +512,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "fc349821ff60ea7c42d4333660ed52eb73635c692943312eb45f14d16967e279"
+    "hash" : "976b92861198bab9018d6518a3471858b0fa1bf7519e8c8fa8b13ccceff571af",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "047 Parasect",
@@ -477,7 +523,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "4094e3f142cca0a06e87505a6be8b8febd15a039914074306a85f11fdb0459fd"
+    "hash" : "01fea8f46b622b2283912e4423803428acdf2dff5d4ec4689ce6cf12bbd66422",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "048 Venonat",
@@ -487,7 +534,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "eeb1e10e43679ed16ea007fae56e107fd920d60be25c85673706ed7392c682e2"
+    "hash" : "c280e5f21558e870d72bcbb2eccd4e3341521ea8cd80524a8f92a4475e1970b1",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "049 Venomoth",
@@ -497,7 +545,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "e613e6e821fb4f93b0d0414ac4033acbf8d02920576ded6cd68cf895b5118ebb"
+    "hash" : "a4fb12d9ebae72585d135fa3eb8aaf86d4086e9806a8a15ccd9e4d2213bfef0c",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "050 Diglett",
@@ -507,7 +556,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "f7691f49b13f7055646c2db9354fae32d27e068562fa4153ed11e85bc3d3bba9"
+    "hash" : "3725ebb6cd1ebaddb386ba8f5a137fd4f41c9d895bbf5120f8f4b922154a7b10",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "051 Dugtrio",
@@ -517,7 +567,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "19c0003c573760a4fea04391a315d776e0e22462bb09e0a2f4d2ce6ba4e93937"
+    "hash" : "4342a0f86da423fb5a0c3588ae91fd678e7a37921314a4a17bfc7f0a07af3fb8",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "052 Meowth",
@@ -527,7 +578,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "e180c82dfaad432b1de3c74afac884e00fd6e2f6da1148a44d05ab7e7e469ffd"
+    "hash" : "5d18b83fb03b5c511f008ad7222a9faf377f36e3e6ba450ddc72872eef2941ac",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "053 Persian",
@@ -537,7 +589,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "82a63756ea85d21748bb2c0448ac5520795a132134af84a790c48ece9db0dd24"
+    "hash" : "c1f7c28c0c910dc451fd6c2e3fac8802d6f19d844016405a3af4f64a3bdb3db5",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "054 Psyduck",
@@ -547,7 +600,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "628d76c782de4a537c44bdc843c4a74e6f86b54241dceefea064b51c7c0b5cde"
+    "hash" : "73f2966ff3d8b9b626c9c86b971e9cc03f4691973a81f24ffa61648476cf75d0",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "055 Golduck",
@@ -557,7 +611,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "4d1b9a350540f91d4d109dbe2cfce902a3bb076ba08566510711690231a2d7ec"
+    "hash" : "290c67f0c624469020dbfb94f99a198f0b73d285045567527476873e7f7dd355",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "056 Mankey",
@@ -567,7 +622,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "06f5c3ca66aca886cd18ce7ef6759270b214471bf4a79ab4da5d7e7b316a973a"
+    "hash" : "adbd75ca4face75829c83df5f534cdf39d24b47ac3ac6015663e90ac3226b722",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "057 Primeape",
@@ -577,7 +633,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "c954d3044e56cb3324fa761656a5caac6a2a596b7dd19049b171cb6f37bd1bbc"
+    "hash" : "76647be967af8d00364d44201de3b3a34eab65c5bc291c567d7c287a2a4f7f96",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "058 Growlithe",
@@ -587,7 +644,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "445b0916fe118b58119af06ef794e0c88477d18de139b239b0cf7689a298c98a"
+    "hash" : "03735bc7ab69d6a79dbd5dca93b26ac338549f162fa7f9ffce44a419f87ab3b6",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "059 Arcanine",
@@ -597,7 +655,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "f0049bc9a56ac26e713bab8314981d3802f35a7e7545909cffe351b6d1afbfe4"
+    "hash" : "77d96aa5e91cdc970d2f500b71b3c74046a82cb6070939caa7979f5cc3b70c8b",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "060 Poliwag",
@@ -607,7 +666,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "081e08b8dd221e436e4f11611eaa19fa9b23968cc4ccc6efd19d296be9a10052"
+    "hash" : "5331c3cf4408db8e0f3300a6340fdad2e8a03685c3f7dbaac8c36862a3450390",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "061 Poliwhirl",
@@ -617,7 +677,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "c7c16885bb2a3ea72d680ecd36f5b026d731aa7c754172b2eb08ccfb3240043a"
+    "hash" : "a3113b66eb195fccbb2f21ef9a9203c66d5910c4ac96a62b0560f5fbe854cc21",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "062 Poliwrath",
@@ -627,7 +688,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "514c93b053b2a4418f28f9d961d3065da93a7dedf2dbc1cab1a948161b1959f7"
+    "hash" : "5fe59f3c81e3b68f033f8dd62069f9ff1b0c9a65ddb00d3fa927184b269c9f59",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "063 Abra",
@@ -637,7 +699,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "e358697ac87eda2db44485b69bf2cd4f7c7c54cf58263b6c7543956e5f3d1866"
+    "hash" : "7e9caab581cba6a9b6742d330af6d7f2f7b63c491134fed6480ef88e18fc495d",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "064 Kadabra",
@@ -647,7 +710,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "a47523b3300337d38011af006b0f2123b272791bbd3e45a0d7c007bf81a465f3"
+    "hash" : "55c05e523080fa993108d3c26f9061aee74dd86e9d1fc9833afb77d2b3137284",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "065 Alakazam",
@@ -657,7 +721,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "19097307aa85dee7a745d047c69fa91e8aacf9224377835923d2e2e0b4403267"
+    "hash" : "c85c17a978937b54d23b86a92c2220a3618cb11ec3aaa8fef6cca841a90588f6",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "066 Machop",
@@ -667,7 +732,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "011c32757e02cdbdcb72d3f9b5a3686d7ddecd5e125113647f720de3bd2a183c"
+    "hash" : "3599333a005db3766d47433dbb5a77877b9e6ecd61584ac5669ac4be913d0d87",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "067 Machoke",
@@ -677,7 +743,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "c46a0cdb50eb92662ff37ad380804527a0fd3309e584ff3c912769f36860ee3f"
+    "hash" : "074dfe52973bcdcffce6309c4c83c966e4f03ef91cb2a730edf82723949e2674",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "068 Machamp",
@@ -687,7 +754,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "1f8f67e4b4f7303a45591b5d7f2ac5fffdc5e4c7b041ddfc264599ce3ce07971"
+    "hash" : "3d151e111f09ab44588ca4548eed2c8e51b72c43cde215fcc5fa9a8fa3e642eb",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "069 Bellsprout",
@@ -697,7 +765,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "bbc27d0878bb1d885b7d0d3c2d6dd60687f2793fa4ccd20a76d16508643c8d08"
+    "hash" : "d814188f7b2a3dd543f477575b64ddb403d0cc368a4d4a9fa32f1b33402c9053",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "070 Weepinbell",
@@ -707,7 +776,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "f538f3d0bf1d7e6afb0d8ed0b0b45843df87cf98aef12c84027d4edc37b0f6eb"
+    "hash" : "d7b1b2388eab96aa2f04ea74d43fc8279bf0bd760b9878670ad2d2a5311146f3",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "071 Victreebel",
@@ -717,7 +787,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "58238cf86b9f649170addccb709e23a02f43efeb8bb395c8a9692d6c48fee82c"
+    "hash" : "6229317f52287cc8a575ebe694cb36f5a24f238824f7edf310897458beb03db9",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "072 Tentacool",
@@ -727,7 +798,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "40cf74369ef3d52e6976d5c8a4ac0e45709560a3886d0d4140b8b22940dfd16a"
+    "hash" : "8007d42af2ca97d4fdbe6ebdf22a7f408d85b9cc64812e94bbddf02c7bd345f9",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "073 Tentacruel",
@@ -737,7 +809,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "599b8c682ebd6326482269a0df286da90e6fe18206b16b4c172be5625570fad8"
+    "hash" : "423d6396e9a04fe27a290b505d57efcfc54095d3aa04de6e902d2264c4058be9",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "074 Geodude",
@@ -747,7 +820,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "af0b84a5c42e8752822bf07a7fe666a0c997a43671cd544e4af840538ca2c4a4"
+    "hash" : "4fe868cfabd38917615393c6f68bda59f91314a210b934868626cff28e6c97c2",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "075 Graveler",
@@ -757,7 +831,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "443fa9551daf800b0110431e5f832545ea45eba23f1b9cb20b49e706bf203659"
+    "hash" : "35760a57b30dcac67bc249e3cb17855e1a9f4ed7889fffd596828b3fcaea79b5",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "076 Golem",
@@ -767,7 +842,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "db62580b03b9eb52854abdd3bb2e345d5c7a2563c9b22bd16546438c9f49342b"
+    "hash" : "f76294346ef50fbd70ad41f5d53c501e465e7b8a156a3024d3cf0844f6e6b7bf",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "077 Ponyta",
@@ -777,7 +853,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "70a711baf5a3c92216c38a03a9a487340e33c2b2c3c745e516610dc8bf697bc7"
+    "hash" : "3590240cecccdf7dc128b34407ca91ae3811aa23d78f99b9841b9352d17e5d40",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "078 Rapidash",
@@ -787,7 +864,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "5227812f13c31791d52d97e5e71c0adab945f9018f04c434c584bae051fe8092"
+    "hash" : "f2c624d233edc5d45dc6227f18a3b8f04bf2711534765a31727f956389fc4c03",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "079 Slowpoke",
@@ -797,7 +875,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "a1805082bee598596092be04d5324853de004e1e8b2b9d6f52d4da9deff56db1"
+    "hash" : "2602b1dfe1750ab9ef400292a95262d3b53f1bd01cae2a4673389d58a0fd30cd",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "080 Slowbro",
@@ -807,7 +886,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "4c83589eb697c47477012160fb552b1c8015669b6d7b8bcb5ee2e901bd10d9f1"
+    "hash" : "1cd4a720b5a13849f20ed2c3d22725553ac203266b2e734c56832434ffa288ca",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "081 Magnemite",
@@ -817,7 +897,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "2266861ec0451847b42bb9da09d4114d9fe510f4df41cb222e5561bd73bb448c"
+    "hash" : "2901277b1be571be52b08b02f6ca40984c1670fd91b24e357917c4babcf1bbe5",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "082 Magneton",
@@ -827,7 +908,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "699c2d6795ca65186b7c47c88bbd7322ff2eae95e36e3ffcadf8c553d9128d8e"
+    "hash" : "9d65b503afd564c20190d5027a4dd66ca46a907c4bd1a570711d73bf95e893b0",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "083 Farfetch'd",
@@ -837,7 +919,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "680e9372a6bd1f4d72f6aed93f212e9853bae145e054abdc53533fb8d857a44d"
+    "hash" : "314a8a37f5c8c0bd33db79c9c1f55ce10d0b2ae2273ee4ef4c2e53ab98032ad8",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "084 Doduo",
@@ -847,7 +930,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "618b05a98a53f2e06918246d60ec4a2c9fef9ad06367c712852143901b08188c"
+    "hash" : "1930f03ef2a50aa5a7a920bf5e43f6a0e737faa2a08d71b820043ea6e7ed82b7",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "085 Dodrio",
@@ -857,7 +941,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "a7626b0281b4905c151e9f7fc15c8d5959ad97eb378f634e0b9a0ae5bcc7608f"
+    "hash" : "42d9ef5724841f0ed21e2b55a7c5991aa6324f6beddd1fa8ddd6e87c16d5389d",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "086 Seel",
@@ -867,7 +952,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "a889b75c98386484a227b7c704f4a12572a7c8b504dfa470badb331b11fed903"
+    "hash" : "a8ccbc31daba49bac4d1d57ce25b51ab5af9ddad631e123d1f9820f4fdc2f2a2",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "087 Dewgong",
@@ -877,7 +963,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "6750e6de50aa9e779f9c599528c2163ce433bbf880498229d6d25915dc81fd2a"
+    "hash" : "f0c989553a259feadd51f00dd32c05bdc2caffbafa049ab33746c1291c80a70c",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "088 Grimer",
@@ -887,7 +974,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "528bbbd97501ee33ca1568cfb5bebb3a3de1aed93d0319e1bec1a22dc742425d"
+    "hash" : "67d70b54ba8183a5d26f6633cc269c73f4efbddb66db8fd59708ea95e398d06c",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "089 Muk",
@@ -897,7 +985,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "8d49a978fc45eda96c1627fdec6275f73f28df8df70fb4949b7b3e31ab79f78f"
+    "hash" : "c05ed3aa43b7ac54beb5477821122d5065f70b25287b57701fe2d533c2ad313a",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "090 Shellder",
@@ -907,7 +996,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "e66b0bc841fe964e26ca009eac817babf3ba34926faf36dfedfa8747ac9bb102"
+    "hash" : "98d738b12e94ac11286aea876eb5ac965c810b2eafe5ba2547e64517c6b58d55",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "091 Cloyster",
@@ -917,7 +1007,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "069e12d02942ddfc4dd23baf38095b78faa6f93410edf1ebdf1109cb6931c9b0"
+    "hash" : "cba53044844d1359156ffd2d9b9ecb06fa1f5c0084fe7df2be9fc745f5af0583",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "092 Gastly",
@@ -927,7 +1018,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "319c7ff48448626832eed3480c8f42579a3f7b5a44b0d7d4283e87e46c077103"
+    "hash" : "9c39431c106464fdce798d58f7f266935be5b4c44cdb129e94b93250eeebf65a",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "093 Haunter",
@@ -937,7 +1029,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "9b8f379e9dcf4279dd2e078d217779a93b612b0c2f2ff4ae67cff304c4a31c89"
+    "hash" : "7a2df84905091d56e2593522de863cd45bded94921fa026e7368362ba4e1bd94",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "094 Gengar",
@@ -947,7 +1040,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "b6a5763d041dab4dbd1f170b2caadafbbc720c0e76ead16e489d8d915ee3c2a9"
+    "hash" : "01d41a407642ac86f1c047846e1dbeb6e3f5bf7f0672c8baf070d218720e9fe1",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "095 Onix",
@@ -957,7 +1051,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "bcb16c3ab13f4cd325b0a9a662638a30d940334392b8a9b89ce24723af934f0e"
+    "hash" : "cc53552ec026f892ef643885dd1bca8979ce01e8da46c0fa3f198b061301986c",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "096 Drowzee",
@@ -967,7 +1062,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "afdb3b816ca5580515a8ae4335e7ae4788cf3ee96df33d0c86de539f67db960a"
+    "hash" : "6edb9eb43f794d3a5e1b1d9ee8d2e61c310ca8849b35e7609e696ed174ada428",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "097 Hypno",
@@ -977,7 +1073,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "609ade1d243a37f3704ecadd5901ae4628d6f30ab51d09df0101bf875c9f9dd9"
+    "hash" : "cc12f530e8564494c3ba76ef3521d56174d4d71ff7c571dcdb355fd254ec7503",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "098 Krabby",
@@ -987,7 +1084,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "6fa012357ead54ad04fb320db687d0c1db01ba29f4225da3aae58a7fa41ad798"
+    "hash" : "036f28ce07545ef22b0f1204cf87d50510159f47ebbff1a57258e1dde95e2577",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "099 Kingler",
@@ -997,7 +1095,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "dfddc95a315b4140a11f9a704a02925bd4cd1ae09e21030ba0546c4c7b02fa43"
+    "hash" : "dae024f6c94b2cbe22c1839ad282c6903790a4161ae5b16925777858c8f36013",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "100 Voltorb",
@@ -1007,7 +1106,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "54156b25ea3a8048f62481612b7334ab67fc15405a0e189ac2a78b1f2c280352"
+    "hash" : "f9ccf55459edd69922b9d027ee47c84ccdf20d07082342bf6572eaabe26354f2",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "101 Electrode",
@@ -1017,7 +1117,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "5038cc4873ecd9fe5855b1193a5ec4935dc5341629ba45e73e6447df42550a2e"
+    "hash" : "4171d445b4de2c7a9912f773b41ce653f28c99a56973dd5d8fed32102c7c342a",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "102 Exeggcute",
@@ -1027,7 +1128,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "da5271b0b72204da1d14cc068a34e7ae8fcfeeb2960fa8dc4cfed06fe3ebe1c6"
+    "hash" : "fda4debe02133ff1f12db36e5825b2e36a1116a7f7d5ed53f89b8872151e614d",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "103 Exeggutor",
@@ -1037,7 +1139,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "37184a63e4ba07f10e954fcc1394e643bcaa38341cdc61ba73a67f2f33f6dff9"
+    "hash" : "3b244ef3521615a80435be59067e3af7c608d6114d3ad9b6adcc6a4adf1883ce",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "104 Cubone",
@@ -1047,7 +1150,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "cb9e53a67c0cf60e109526407a92990c20ecca8ffde41e5e491b9ef260a63aa2"
+    "hash" : "e87f3945ccd1fbbf3bb99755464cb2b7d5d8878a3aff545fd4a7e7536153889b",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "105 Marowak",
@@ -1057,7 +1161,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "31d26cfea358f191db5043c59ad1c325760e652796a099821e0cebce05b61a68"
+    "hash" : "b0007784b1522832a8f43a090ffe0bcee1e99328ac30fc737855da69fa28cc89",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "106 Hitmonlee",
@@ -1067,7 +1172,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "fe3c58062b7e196d47aa245164d3ce81d5cbe07240c2ed81e8c7f3bdafdd5d61"
+    "hash" : "deed14b25d94f966995033780eeb1f7fda8eab20a16d8af485d3aa96565eab2f",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "107 Hitmonchan",
@@ -1077,7 +1183,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "cb182a2bafe6e0e3b9e81674cda5858871998ae3230544d9149fd07f1e931c78"
+    "hash" : "08c321b1e3cb2c9a89732aac26f7b1a7ac2e805b037ee3b8f2855e0ea75e8964",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "108 Lickitung",
@@ -1087,7 +1194,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "02d7bfd95a2fc2e9268f81201f4447304e30aad4e4b61b3f2a5b9a97bb867147"
+    "hash" : "91d8766d376515630db2486c7615a162b1eada56493edb63fab0fb8f315e6826",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "109 Koffing",
@@ -1097,7 +1205,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "df28de2c0b2805037112dcfec3f30fe4228a8ebd7df26e8e467198318894d8b4"
+    "hash" : "5c423ce7def257b85ed1af909d751f20fac89ce8eb5530ba80a039b645d1115e",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "110 Weezing",
@@ -1107,7 +1216,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "91ea2fd81fd2a1039a31486fcda317859f90776670a29dba8632071564044e35"
+    "hash" : "29959304ce848d9ed0b705e2a18cf702d098f6b85efbd29f03935b184bf9fd47",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "111 Rhyhorn",
@@ -1117,7 +1227,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "73e7432bf95526c86a519354b550ddb77c2fd75a74ced490eece432d45cdb394"
+    "hash" : "3e1a61f5c01395b2ad05fadf23656d201777ff68fc9cb90ad6d765700535f763",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "112 Rhydon",
@@ -1127,7 +1238,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "79eba957f8421bff75d1e38ce283e9bd8876ac433525ff1ed0c18a8c61ee8461"
+    "hash" : "5bf5df8c5b83ebf9f110d4ff78d41924edac1f8ab0d5360425c6a49ef0e763d8",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "113 Chansey",
@@ -1137,7 +1249,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "13c8e0e5b13475764307e040d0d9b660434589755b1b57218f714fbcc52e8ee2"
+    "hash" : "71b8c7a79bcf2cc9485268bcbceddbcb049af4b278335f4797457a5ba6893f96",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "114 Tangela",
@@ -1147,7 +1260,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "6e7b77a87d93ab4ef3ed0b8a699020413d14f1beb4f4d90b07c7dca8fda0a324"
+    "hash" : "7f6802c86b2c1bd1f7ea97938c3f10c1b101a185169fa42b21b8481bac376058",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "115 Kangaskhan",
@@ -1157,7 +1271,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "1adf7bea1cf0c6b49ff74c267c38dad64b2328f978a32b9ae7cbd71dd7d20be7"
+    "hash" : "8003db872326948414eb43fc2420a1931fb61d128d5872a17b3c31c1bebb7e9e",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "116 Horsea",
@@ -1167,7 +1282,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "6812c8d57e098d5aedad51859f15d4420b5ff67e69678fcad83f88dfa6d610c1"
+    "hash" : "8f848dd5b8e3ae1f342fe33db9db76804d5158c875a778ea7ab45e493e90dd1a",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "117 Seadra",
@@ -1177,7 +1293,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "c3399555c32e468855c0cc00012736f31e443e761dcd1ff88501d632323b34ea"
+    "hash" : "67496c4c68efbb95657b8c8117052cf680f01f2de3a3e74d1d68c4d12d914e50",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "118 Goldeen",
@@ -1187,7 +1304,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "71c500a6e7a996e76aa0b7cd45056a53c705ef7431fa2f3dd946a5d890d53947"
+    "hash" : "b181c76ab625c76a11cd16d9a758206bdbf912a4912960c771dcf1dcbd338dd5",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "119 Seaking",
@@ -1197,7 +1315,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "8d5776921e830fd82f2b3b08535d7aef466c38e2b37a173dfa3ca3d4a37533ed"
+    "hash" : "b60b63f49bcfa577c91a41f37dddb940db811dea75ab64e05872117b259fec9d",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "120 Staryu",
@@ -1207,7 +1326,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "df30c76041c4b34b6f8bb434d0322b2fb6468723081cb9a7deb96dae05b99c11"
+    "hash" : "4cc8087e70a87997ce54e01f8e39304164789a2690333b9b78480383aa1629da",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "121 Starmie",
@@ -1217,7 +1337,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "b93dc4ebb08c2b7a4935c83af14287434f7cd37136c3ac5e2871c7b07ea3aefc"
+    "hash" : "0f8f65bc29a7aab6d6fb2fc0205328459ea7c5feebcf7aaf80432d9d29d2c749",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "122 Mr. Mime",
@@ -1227,7 +1348,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "aa17d600efc0c83f908956976896d02cf146d8dab8ec4ffe23a55e82b3944160"
+    "hash" : "e49af2c642e4f7c930b1bf0e5b53c543d8a57e6a9c19ab3b4ed73c697bce8385",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "123 Scyther",
@@ -1237,7 +1359,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "d8b630a6a2e08087128e2fe087275197758476253edbca689f0de8f93473835e"
+    "hash" : "278a6ead7d7d3b07c7b150304f9b104abe91fd829c3e5367f8543570f56aee93",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "124 Jynx",
@@ -1247,7 +1370,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "c7edd0a6b0f9461910df638d3dad10fdad166a335dcf7ae1e6c939f4109e6ea1"
+    "hash" : "3e30a0017a006092f0744da0b5f670b5446f98ee485ce10e2f1b6efd894b9de2",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "125 Electabuzz",
@@ -1257,7 +1381,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "4c81c46f3b8019f1cec06cdcda46f6676cd895be7c72e48e8390ad44377fad5a"
+    "hash" : "3e4b2a2165d073e0917eb59c0bbfe298c8251e303cbaec286cca61dc71b941c5",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "126 Magmar",
@@ -1267,7 +1392,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "369340f3bda0aa26211d5405dd53f46857837f8b86102be0a0d058a0263aa36f"
+    "hash" : "8aa5739666c1553539ee7f05ca130caaa2a23253c47910f878b74f50415c3e4d",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "127 Pinsir",
@@ -1277,7 +1403,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "0df5b72ab5f9f4dabc328087bbc8fef70ef503cbdebd4f4e3d9659e8e24f8a12"
+    "hash" : "9600b4d3487e4ee1eee1148f06e180236baf26df405fed2ec31137c73c589fac",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "128 Tauros",
@@ -1287,7 +1414,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "6077ef1691df41e0f4b7b3df3ba0d9e8950917c931cb9e1368de2f03f145d20c"
+    "hash" : "8ba200a8f34ccae27ad4ea39c70e2a497f786bda7ecba6516bb69b41b7a54f21",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "129 Magikarp",
@@ -1297,7 +1425,8 @@
       "value" : "Common"
     } ],
     "description" : "",
-    "hash" : "952c12b9491a3bec9f70c3774d435b97b5451e638a04b9686c5e2bd2cae6f834"
+    "hash" : "b2c34e31865255db102a7d6f87c42bb3b5c229d1678400238484b1ff923b2149",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "130 Gyarados",
@@ -1307,7 +1436,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "f4bdf638c134f3abf668529b16fab146d96d716b8790046c4490d9942499c58f"
+    "hash" : "949114a232725b57191e2278c870290994bebc9f85d5f2bc661c5e66d59910b4",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "131 Lapras",
@@ -1317,7 +1447,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "d683b7505c7c778a18e71c045298d60ee87dde6a1ee68ff4d5af6d943e889669"
+    "hash" : "60f6fdac726358ae6dec70ec0780dfb6e108b06d9669f249403b20a120a11794",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "132 Ditto",
@@ -1327,7 +1458,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "68d8ca5cd4ac96fd357a72a2a8a53a46b80b739bb09903cd1533dbd70f8194ad"
+    "hash" : "87782d8fee95a056db82501c2b6bbf940159cb09c5381fe48b733fc185c4a068",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "133 Eevee",
@@ -1337,7 +1469,8 @@
       "value" : "Uncommon"
     } ],
     "description" : "",
-    "hash" : "1f35e47df9431793362eed9e5c0b32a76a0008018c021053efdbf78e70cd3a31"
+    "hash" : "ea98b93d99eed9d12d441a1b6db37cc2339608ad5a785423a0c1115820b8a66f",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "134 Vaporeon",
@@ -1347,7 +1480,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "620a364c9bd14a75781550a36404b0d25f5b53d584bd358926ec43cd9389deca"
+    "hash" : "4c13a673ab5a9b94ee7090ea76bf9c97e31a50743b9d2038443ba8214131816f",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "135 Jolteon",
@@ -1357,7 +1491,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "7a7210be1120e07f19e01072555592b737ca814dbcef60b0880a61acc4ce2d7a"
+    "hash" : "0582cc5bdc04d854bbd23b0fb27364c3d6c1f83a11ef4f76c9aa54098d207627",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "136 Flareon",
@@ -1367,7 +1502,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "87312bb8992e780f8b53c75bfeb82c12ff6dcbce72bfeaeac68ea76e1dff5678"
+    "hash" : "8a09e144e83f04335a127ce7fdcfd7477692597a028bbd8254a43c9a306ca6a9",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "137 Porygon",
@@ -1377,7 +1513,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "09cbe2f33a2331063ed71acd06bdb7c5b386cea24751c59751c200d9d8625379"
+    "hash" : "8318257c14010d3f35eddcaedd4ede1b3af102154438a30d816281a4f8c14fa6",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "138 Omanyte",
@@ -1387,7 +1524,8 @@
       "value" : "Fossil"
     } ],
     "description" : "",
-    "hash" : "aac1f68d7a2fa1386dd1b321ef071b65e05a587fe741d0cd82533faeee5e7636"
+    "hash" : "b2c7d09289063ae06b9b773fc4bf1d10e542a141a67af90e1885fc50eabc9a8b",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "139 Omastar",
@@ -1397,7 +1535,8 @@
       "value" : "Fossil"
     } ],
     "description" : "",
-    "hash" : "8945e7188792e53cf4776c3eb2bdc47ca171aa130c186ef0014da2c6c0daace0"
+    "hash" : "e5a6c3a3f28f6ad31a0fcf970b06c0caf4c3b9a20e14e915fc7d998f067e6a6b",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "140 Kabuto",
@@ -1407,7 +1546,8 @@
       "value" : "Fossil"
     } ],
     "description" : "",
-    "hash" : "b84bba9c617610b73091cef0f6dc52753c17d6b08eb60d1c8c3960e5c61a22cf"
+    "hash" : "4ff039c41abfc100d1f863fd78e7878e86c710abb4102c97f734e5dc08567043",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "141 Kabutops",
@@ -1417,7 +1557,8 @@
       "value" : "Fossil"
     } ],
     "description" : "",
-    "hash" : "1b997add4da9fad2f3d1c09f242d3a559c1a8d4b55083635494cac3a59d79647"
+    "hash" : "9ba17aa3aeebd76275957cd02239a766b3158365c2e76bf51e6e48c904e5b4ce",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "142 Aerodactyl",
@@ -1427,7 +1568,8 @@
       "value" : "Fossil"
     } ],
     "description" : "",
-    "hash" : "2300ee5e7f3e32c032f1b76b296a8693d62b1dc91916d73f4166e467192fae89"
+    "hash" : "2eef8ff424ed5c933b200e3b3a31ec85932b74614a885cde740905f0a7a4b123",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "143 Snorlax",
@@ -1437,7 +1579,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "87339fa22dcc2a1c2412be24403ded71de7ba65228524252c8818538a6e0cfaa"
+    "hash" : "587501cd6521dca48ebe124f6f94f25af008acc1a836257f8b40f586d4f9d5a6",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "144 Articuno",
@@ -1447,7 +1590,8 @@
       "value" : "Legendary"
     } ],
     "description" : "",
-    "hash" : "1b866a6d921eedb2dbe58db6b48b5cc63047bb793f23a6f1f6596769b45c92ee"
+    "hash" : "6fc876f3ed8ce91feea908951a10d6ebfd14ca16441e917f308463fc3572979e",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "145 Zapdos",
@@ -1457,7 +1601,8 @@
       "value" : "Legendary"
     } ],
     "description" : "",
-    "hash" : "00464b033ffd9a9bd52e21e83a850e69f5993e8ed4818f641c23b62adef16c63"
+    "hash" : "0489f8739a528bcdc1c261f2da23ff22b2c338ae58d193f3abe891be3e24c5b1",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "146 Moltres",
@@ -1467,7 +1612,8 @@
       "value" : "Legendary"
     } ],
     "description" : "",
-    "hash" : "0c9b19f43926856f4f333744a634f9dd6fb8dd229f3748e2d525aac321536c15"
+    "hash" : "d2aed66dc1348556f9decf88a8d3b421d53552ab0b6c337fe77b2846c3940465",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "147 Dratini",
@@ -1477,7 +1623,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "151a8d3fc992d4122a3d07bbbb8e09f0a42df9fa1b1356de06854fe53ca15073"
+    "hash" : "2a17511e7961f6f85066d11b79b64dfd2a865a9a7c7a5275c964f1871e132569",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "148 Dragonair",
@@ -1487,7 +1634,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "9e9c65ae16420a701024cd2c935d52656a5447586d2f5363008cf3fa543d305b"
+    "hash" : "161a71405d2cff2678baaa35ca2769eed38aba02a63f8aa72b64d8a12ef89318",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "149 Dragonite",
@@ -1497,7 +1645,8 @@
       "value" : "Rare"
     } ],
     "description" : "",
-    "hash" : "357c0f5d7b1e7c108ae72a2e68745e19150524a2e0ba242011934a97519bf58a"
+    "hash" : "c188700712aea1be4a3abbfe10bd4208a325f4b78c5bd0eaf8f0a7eacb1359f4",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "150 Mewtwo",
@@ -1507,7 +1656,8 @@
       "value" : "Legendary"
     } ],
     "description" : "",
-    "hash" : "0cd2746e660bd18d907f694a6245ff196366a216430f10507f32e0eb6b8c3180"
+    "hash" : "666605a3c91634f980ff0af25c489f561f3280e7ef92ce6fbd4bc205b9ec05db",
+    "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "151 Mew",
@@ -1517,7 +1667,8 @@
       "value" : "Mythical"
     } ],
     "description" : "",
-    "hash" : "b92fbc3876f737be751c96d674e014662d9cef4a5969bd9bf5889a1e94bc7667"
+    "hash" : "29b97a71f9dc7f1c8fb97c1d2ce1a8a96811ba83d9485e420949a97d5f9bae51",
+    "alternative_image_url" : null
   } ],
-  "hash" : "5ad88e31137b4d37bf5f18b67e110253d75e7e12029f6ac1ba34714146362e0e"
+  "hash" : "80333b4386a095659d06254e19d525da2cc29638c67550c63ad1a80359a31176"
 }

@@ -47,6 +47,9 @@ data class EthscriptionCollectionItem(
     val description: String?,
 
     val hash: String?,
+
+    @JsonProperty("alternative_image_url")
+    val alternativeImageUrl: String? = null,
 )
 
 data class EthscriptionItemAttribute(
