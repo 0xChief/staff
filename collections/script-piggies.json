@@ -1,6 +1,6 @@
 {
   "name" : "Script Piggies",
-  "logo_image_uri" : "https://media.discordapp.net/attachments/1159532828552343605/1204968782599168070/ordex_image.png?ex=65d6a9a1&is=65c434a1&hm=1687c766f4342566a3db30782dd1991322fba2094f8ab312145f93dfd814ca10&=&format=webp&quality=lossless",
+  "logo_image_uri" : "",
   "banner_image_uri" : "",
   "total_supply" : 1169,
   "slug" : "script-piggies",
@@ -36316,5 +36316,5 @@
     "hash" : "fa3cb21f473c085d68d6688b40eadb5e9c8ba2a8c6d2241271cec997f3253f7e",
     "alternative_image_url" : null
   } ],
-  "hash" : "1d13153388dba339fbf898ced45591953690df72de23fc2caa4cb790f045e2dd"
+  "hash" : "be2426028cbebfff6c2bedb385b288f2ba879d58cd08bd2b150ebdb773499ef3"
 }
