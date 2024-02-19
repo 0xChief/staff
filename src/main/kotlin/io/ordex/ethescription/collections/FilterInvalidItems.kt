@@ -7,7 +7,7 @@ import io.ordex.ethescription.collections.utils.EthscriptionItemValidator
 fun main() = runBlocking<Unit> {
     val repository = CollectionRepository()
     val collections = listOf(
-        "cryptosquaries"
+        "pixelhuahuas"
     )
     collections.forEach { collection ->
         val meta = repository.get(collection)!!
