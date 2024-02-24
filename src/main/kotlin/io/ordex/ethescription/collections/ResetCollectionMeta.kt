@@ -11,7 +11,7 @@ fun main(args: Array<String>) = runBlocking<Unit> {
     val repository = CollectionRepository()
     val rest = WebClientProvider.initTransport()
 
-    listOf("pixelhuahuas","thedarwins")
+    listOf("cryptosquaries")
         .map { repository.get(it)!! }
         .map { it.collectionItems }
         .flatten()
