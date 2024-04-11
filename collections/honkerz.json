@@ -1445,6 +1445,41 @@
     "alternative_image_url" : null
   }, {
     "id" : 0,
+    "name" : "Şımarık",
+    "ethscription_id" : "0x4e75aa5eae06dec075ed756015d8cb0e8f37149191a816a62260253caf5af697",
+    "item_attributes" : [ {
+      "trait_type" : "Hand",
+      "value" : "Blank"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Generational-Wealth"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Spa"
+    }, {
+      "trait_type" : "Diaper",
+      "value" : "Spa"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Blank"
+    }, {
+      "trait_type" : "Skin",
+      "value" : "Meh"
+    }, {
+      "trait_type" : "Background",
+      "value" : "Shonen"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Blue"
+    }, {
+      "trait_type" : "Generation",
+      "value" : "Gen-2"
+    } ],
+    "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
+    "hash" : "f3a513e0354244e966130a43f42bbe9bf946fd5565f9f0bf0d514dbb7990667e",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
     "name" : "Xiulan",
     "ethscription_id" : "0xdab5895979b687fa0f2ee3bdb0892bd6d730d55041c05867bd4520ee7d409c38",
     "item_attributes" : [ {
@@ -4560,6 +4595,76 @@
     "alternative_image_url" : null
   }, {
     "id" : 0,
+    "name" : "Cazador",
+    "ethscription_id" : "0x467066d6d9b5e9c8e843a18bb3057261cbd353bbbebcc583130c980d3d9ead4b",
+    "item_attributes" : [ {
+      "trait_type" : "Hand",
+      "value" : "Blank"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Puffer"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Rebel"
+    }, {
+      "trait_type" : "Diaper",
+      "value" : "Rebel"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Rebel"
+    }, {
+      "trait_type" : "Skin",
+      "value" : "Pride"
+    }, {
+      "trait_type" : "Background",
+      "value" : "Rug-Pull"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Red"
+    }, {
+      "trait_type" : "Generation",
+      "value" : "Gen-2"
+    } ],
+    "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
+    "hash" : "57edfc70f1d4b8187134489f0a74ad51baf00ca6cddf276b63e59ac7dcd261d2",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
+    "name" : "Aysun",
+    "ethscription_id" : "0x6cf8287571c31a5356dd1a11b7245109d542a049edf2ff28ec7d8787d2386998",
+    "item_attributes" : [ {
+      "trait_type" : "Hand",
+      "value" : "Cosmic"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Blank"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Blank"
+    }, {
+      "trait_type" : "Diaper",
+      "value" : "Blank"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Blank"
+    }, {
+      "trait_type" : "Skin",
+      "value" : "Cosmic"
+    }, {
+      "trait_type" : "Background",
+      "value" : "Bust"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Red"
+    }, {
+      "trait_type" : "Generation",
+      "value" : "Gen-2"
+    } ],
+    "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
+    "hash" : "4c4ca9cf4e27988870b38032df3f37c929821cac3858fe06ad0e500f9cfb1fe8",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
     "name" : "Ricardo",
     "ethscription_id" : "0x05cf3e2892ea65c9ecd0e1a469702e55f1ddb8abf81cf5185d0bb8fe90e9d8bf",
     "item_attributes" : [ {
@@ -4712,8 +4817,8 @@
       "trait_type" : "Eyes",
       "value" : "Viper"
     }, {
-      "trait_type" : "Shirt",
-      "value" : "Warzone"
+      "trait_type" : "Diaper",
+      "value" : "Blank"
     }, {
       "trait_type" : "Head",
       "value" : "Hyppo-O"
@@ -4731,7 +4836,77 @@
       "value" : "Gen-2"
     } ],
     "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
-    "hash" : "db91b12568f76e5d0c6d10749b4f7564d7508a13d273c2fbb38ce419059e2525",
+    "hash" : "9847c721291a10657834f5bc6880f21db0de145bddddaa3ab39dccc93d7bc91e",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
+    "name" : "Jumbo",
+    "ethscription_id" : "0xd3961094a395e58c7dda9aa578a0be80dc8a8fb76b487e9819382d648f729678",
+    "item_attributes" : [ {
+      "trait_type" : "Hand",
+      "value" : "Diamond-Hand"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Puffer"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Diamond-Hand"
+    }, {
+      "trait_type" : "Diaper",
+      "value" : "Diamond-Hand"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Diamond-Hand"
+    }, {
+      "trait_type" : "Skin",
+      "value" : "Meh"
+    }, {
+      "trait_type" : "Background",
+      "value" : "Blockchain"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Red"
+    }, {
+      "trait_type" : "Generation",
+      "value" : "Gen-2"
+    } ],
+    "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
+    "hash" : "628a95d4c6d35171c986b92ae829b8dba0108faf7e4b93b880ae8045dee36d21",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
+    "name" : "Çilek",
+    "ethscription_id" : "0x848fc2fa2b409dfbb19f44d0f29ed168605573efcb5990cd8a2d056ee605dd3d",
+    "item_attributes" : [ {
+      "trait_type" : "Hand",
+      "value" : "Dev"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Dev"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Blank"
+    }, {
+      "trait_type" : "Diaper",
+      "value" : "Dev"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Dev"
+    }, {
+      "trait_type" : "Skin",
+      "value" : "Pride"
+    }, {
+      "trait_type" : "Background",
+      "value" : "Ipfs"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Red"
+    }, {
+      "trait_type" : "Generation",
+      "value" : "Gen-2"
+    } ],
+    "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
+    "hash" : "883118f37f3e642ca8941b12574f2fd567490dc75c6d1c77a9872c74a065fed2",
     "alternative_image_url" : null
   }, {
     "id" : 0,
@@ -9320,6 +9495,111 @@
     "alternative_image_url" : null
   }, {
     "id" : 0,
+    "name" : "Ibrahim",
+    "ethscription_id" : "0xae0cd75664fd2fb252351b9cc8959a503c9917099afc0e57aec411acbbf0faa6",
+    "item_attributes" : [ {
+      "trait_type" : "Hand",
+      "value" : "Free-Mint"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Rage"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Blank"
+    }, {
+      "trait_type" : "Diaper",
+      "value" : "Fez"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Taxpayer"
+    }, {
+      "trait_type" : "Skin",
+      "value" : "Meh"
+    }, {
+      "trait_type" : "Background",
+      "value" : "Eths"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Red"
+    }, {
+      "trait_type" : "Generation",
+      "value" : "Gen-2"
+    } ],
+    "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
+    "hash" : "d7b5fc1f4720c68cef915a2d0627f064be2e59aa7886213d46129cf12e02805a",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
+    "name" : "Matcha",
+    "ethscription_id" : "0xf20f5f64d6c823a3e0e4583f7d51af0971d9aeaad066b8dac21702b72d6707b8",
+    "item_attributes" : [ {
+      "trait_type" : "Hand",
+      "value" : "Hitman"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Fez"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Viper"
+    }, {
+      "trait_type" : "Diaper",
+      "value" : "Glider"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Fez"
+    }, {
+      "trait_type" : "Skin",
+      "value" : "Meh"
+    }, {
+      "trait_type" : "Background",
+      "value" : "Humility"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Blue"
+    }, {
+      "trait_type" : "Generation",
+      "value" : "Gen-2"
+    } ],
+    "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
+    "hash" : "b78228106fbbe1fd57da2020e5a7a153082e6787766ac3ae9602d88509055d16",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
+    "name" : "Bruce",
+    "ethscription_id" : "0x58ae204909c14a89c91de4a4f5a6c96178fbcf4501668347389f0d43073d34a7",
+    "item_attributes" : [ {
+      "trait_type" : "Hand",
+      "value" : "Cook"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Fez"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Boner"
+    }, {
+      "trait_type" : "Diaper",
+      "value" : "Spa"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Warzone"
+    }, {
+      "trait_type" : "Skin",
+      "value" : "Rhyno"
+    }, {
+      "trait_type" : "Background",
+      "value" : "Sloth"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Blue"
+    }, {
+      "trait_type" : "Generation",
+      "value" : "Gen-2"
+    } ],
+    "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
+    "hash" : "25ca63f6128566e5159c38d27de073a971cca9c70312cf496f7ab294b316f487",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
     "name" : "Outback",
     "ethscription_id" : "0x5727e011c6f33e94030cc6027ce708d17a636f3762f37c8a88e3cb174432fde7",
     "item_attributes" : [ {
@@ -9422,6 +9702,41 @@
     } ],
     "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
     "hash" : "f1cf10660062e729a5f61d9b299ac2e80ce364016a8e12611a888b87ef162dae",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
+    "name" : "Banshee",
+    "ethscription_id" : "0x854642e44e1150d4eff52fbf40885be5c4aefec96f12217fbffa40145505f5de",
+    "item_attributes" : [ {
+      "trait_type" : "Hand",
+      "value" : "Builder"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Rhyno"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Rotten"
+    }, {
+      "trait_type" : "Diaper",
+      "value" : "Freedom-Fighter"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Shonen"
+    }, {
+      "trait_type" : "Skin",
+      "value" : "Panda"
+    }, {
+      "trait_type" : "Background",
+      "value" : "Shonen"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Blue"
+    }, {
+      "trait_type" : "Generation",
+      "value" : "Gen-2"
+    } ],
+    "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
+    "hash" : "d00c71b4b58f959c3a652a53b1e81119e1c37be45128072eafbf3d073be707a8",
     "alternative_image_url" : null
   }, {
     "id" : 0,
@@ -11000,6 +11315,146 @@
     "alternative_image_url" : null
   }, {
     "id" : 0,
+    "name" : "Jetli",
+    "ethscription_id" : "0x9e2fe66dfa6d3d375cab9d66da74145d3fbbb2a6d723fc3cd0eb9c919df8550f",
+    "item_attributes" : [ {
+      "trait_type" : "Hand",
+      "value" : "Muscle"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Glider"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Blank"
+    }, {
+      "trait_type" : "Diaper",
+      "value" : "Pepe"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Spa"
+    }, {
+      "trait_type" : "Skin",
+      "value" : "Lust"
+    }, {
+      "trait_type" : "Background",
+      "value" : "Eths"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Blue"
+    }, {
+      "trait_type" : "Generation",
+      "value" : "Gen-2"
+    } ],
+    "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
+    "hash" : "b9e3d73a9df9e685a67838858361075e0e7bd94dbb8bca0966775d2b9875f7ca",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
+    "name" : "Ares",
+    "ethscription_id" : "0xc7f6b66fd402cb583083fb366aae13618af09839e21c61a866c6d8a804bf6da6",
+    "item_attributes" : [ {
+      "trait_type" : "Hand",
+      "value" : "Cook"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Rhyno"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Muscle"
+    }, {
+      "trait_type" : "Diaper",
+      "value" : "Spa"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Shonen"
+    }, {
+      "trait_type" : "Skin",
+      "value" : "Meh"
+    }, {
+      "trait_type" : "Background",
+      "value" : "Lust"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Blue"
+    }, {
+      "trait_type" : "Generation",
+      "value" : "Gen-2"
+    } ],
+    "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
+    "hash" : "bc409db0dfa1d32f68095071d70e55b651b91841d8a580fcba0fb6564bc37ff5",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
+    "name" : "Iguana",
+    "ethscription_id" : "0x7dd182355100d6f22c749dba5772bc91ff0994c1ac84ce0b0b7493683072ad5e",
+    "item_attributes" : [ {
+      "trait_type" : "Hand",
+      "value" : "Barbarian"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Shiny"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Diamond-Hand"
+    }, {
+      "trait_type" : "Diaper",
+      "value" : "Windy"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Zoo-Keeper"
+    }, {
+      "trait_type" : "Skin",
+      "value" : "Shiny"
+    }, {
+      "trait_type" : "Background",
+      "value" : "Hyped"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Blue"
+    }, {
+      "trait_type" : "Generation",
+      "value" : "Gen-2"
+    } ],
+    "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
+    "hash" : "a2030ecb13f3fcbc737c096649d95d74a6e3a318d1274e0abaf7ccd62f1181c1",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
+    "name" : "Hodl",
+    "ethscription_id" : "0xa07959be875acaffa6f5ab965f1877c2bc44bdf0fbb194520e44eec680e32f36",
+    "item_attributes" : [ {
+      "trait_type" : "Hand",
+      "value" : "Dev"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Fez"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Rage"
+    }, {
+      "trait_type" : "Diaper",
+      "value" : "Pepe"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Generational-Wealth"
+    }, {
+      "trait_type" : "Skin",
+      "value" : "Generational-Wealth"
+    }, {
+      "trait_type" : "Background",
+      "value" : "Windy"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Blue"
+    }, {
+      "trait_type" : "Generation",
+      "value" : "Gen-2"
+    } ],
+    "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
+    "hash" : "0b2caee8361aff679a7be650566680c171c29eb5f631ce9d2bccab1578a0c284",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
     "name" : "VGod",
     "ethscription_id" : "0x065eae4fc9fd92591483dee30aa352b5c52446e095a1ef1f78d981c4f5208f54",
     "item_attributes" : [ {
@@ -11032,6 +11487,41 @@
     } ],
     "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
     "hash" : "bbffbe21c1673b6168c6fb41ff2c9683d6ddd21f7d1ea56ae7bb05dce217ab86",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
+    "name" : "Tootoo",
+    "ethscription_id" : "0x31464f6f315fbd061a77ca77eea844d9ca96153da73548ff06fd38735d88133c",
+    "item_attributes" : [ {
+      "trait_type" : "Hand",
+      "value" : "Rotten"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Just-Admirers"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Hodler"
+    }, {
+      "trait_type" : "Diaper",
+      "value" : "Spa"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Blank"
+    }, {
+      "trait_type" : "Skin",
+      "value" : "Windy"
+    }, {
+      "trait_type" : "Background",
+      "value" : "Prosperity"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Red"
+    }, {
+      "trait_type" : "Generation",
+      "value" : "Gen-2"
+    } ],
+    "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
+    "hash" : "496ad7dc0e83dbeeb9cbfb7d57f2d32c31d98fa0df6f29b032cd672b9d80dc6b",
     "alternative_image_url" : null
   }, {
     "id" : 0,
@@ -11207,6 +11697,41 @@
     } ],
     "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
     "hash" : "925d7289750e91a7cd7c68c7ea2f15ed812e369bceb2effd9448781eb7996e88",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
+    "name" : "Yumak",
+    "ethscription_id" : "0xec92f470d2bf8cef62e3dfcaf997c7f72ad68adaae7129fccad06f821aba347c",
+    "item_attributes" : [ {
+      "trait_type" : "Hand",
+      "value" : "Home-Runner"
+    }, {
+      "trait_type" : "Mouth",
+      "value" : "Hitman-Ray"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Welder"
+    }, {
+      "trait_type" : "Diaper",
+      "value" : "Muscle"
+    }, {
+      "trait_type" : "Head",
+      "value" : "Panda"
+    }, {
+      "trait_type" : "Skin",
+      "value" : "Rhyno"
+    }, {
+      "trait_type" : "Background",
+      "value" : "Meh"
+    }, {
+      "trait_type" : "Team",
+      "value" : "Blue"
+    }, {
+      "trait_type" : "Generation",
+      "value" : "Gen-2"
+    } ],
+    "description" : "HONKERZ are the descendants of the original Hyppocritez, the pioneer settlers of Ethscriptions Land.",
+    "hash" : "c2d526ca4b54ca215e1f2f74e284a785956abc9b35876d72bcc12eac06d93e7b",
     "alternative_image_url" : null
   }, {
     "id" : 0,
@@ -12084,5 +12609,5 @@
     "hash" : "8cc710a1d0d7f2007ac98da9bf70ed5f4006b3bb5126920d84136b9070fd90a0",
     "alternative_image_url" : null
   } ],
-  "hash" : "576c096c47b0205ed34a8021b7de5e166d7ce10141743cd7698d8cd54d3cabe7"
+  "hash" : "d74018b8b207f21a85b46ae404e136021f37d7f04c06fc0bbd260d12432e27ee"
 }
