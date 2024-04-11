@@ -11,11 +11,11 @@ fun main(args: Array<String>) = runBlocking<Unit> {
     val repository = CollectionRepository()
     val rest = WebClientProvider.initTransport()
 
-    listOf("cryptosquaries")
+    listOf("nakamingos")
         .map { repository.get(it)!! }
         .map { it.collectionItems }
         .flatten()
-        .chunked(100)
+        .chunked(1)
         .map { chunk ->
             chunk.map {
                 async {
