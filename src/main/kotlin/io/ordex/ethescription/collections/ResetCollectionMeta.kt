@@ -4,6 +4,7 @@ import io.ordex.ethescription.collections.state.CollectionRepository
 import io.ordex.ethescription.collections.utils.WebClientProvider
 import kotlinx.coroutines.async
 import kotlinx.coroutines.awaitAll
+import kotlinx.coroutines.delay
 import kotlinx.coroutines.runBlocking
 import org.springframework.web.reactive.function.client.awaitBody
 
@@ -11,11 +12,11 @@ fun main(args: Array<String>) = runBlocking<Unit> {
     val repository = CollectionRepository()
     val rest = WebClientProvider.initTransport()
 
-    listOf("nakamingos")
+    listOf("blob-punks")
         .map { repository.get(it)!! }
         .map { it.collectionItems }
         .flatten()
-        .chunked(1)
+        .chunked(10)
         .map { chunk ->
             chunk.map {
                 async {
@@ -32,6 +33,7 @@ fun main(args: Array<String>) = runBlocking<Unit> {
                             println("Can't reset ${it.ethscriptionId}, $ex")
                         }
                     }
+                    delay(5000)
                 }
             }.awaitAll()
         }.lastOrNull()
