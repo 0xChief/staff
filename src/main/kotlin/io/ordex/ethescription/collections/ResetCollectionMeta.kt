@@ -12,7 +12,7 @@ fun main(args: Array<String>) = runBlocking<Unit> {
     val repository = CollectionRepository()
     val rest = WebClientProvider.initTransport()
 
-    listOf("blob-punks")
+    listOf("digijoint")
         .map { repository.get(it)!! }
         .map { it.collectionItems }
         .flatten()
