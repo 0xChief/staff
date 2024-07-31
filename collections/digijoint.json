@@ -1,11 +1,11 @@
 {
   "name" : "Digijoint",
-  "logo_image_uri" : "https://i.imgur.com/qqmhXwf.png",
-  "banner_image_uri" : "https://i.imgur.com/eOlGnGP.jpg",
-  "total_supply" : 823,
+  "logo_image_uri" : "https://i.imgur.com/x7rh2Xw.jpg",
+  "banner_image_uri" : "https://i.imgur.com/8XrFzIC.jpg",
+  "total_supply" : 800,
   "slug" : "digijoint",
-  "description" : "Digijoint Ethscriptions",
-  "website_link" : "https://ordex.io/collection/eth/digijoint",
+  "description" : "800 Digijoint Ethscriptions",
+  "website_link" : "https://linktr.ee/digijoint",
   "twitter_link" : "https://twitter.com/digijointz",
   "background_color" : "#C3FF00",
   "collection_items" : [ {
@@ -215,58 +215,6 @@
     } ],
     "description" : "",
     "hash" : "c401365abc531dcf7541d2001878e9d1cbaf35bbdc4d02f77415c8f3370a81a9",
-    "alternative_image_url" : null
-  }, {
-    "id" : 0,
-    "name" : "digijoint #9",
-    "ethscription_id" : "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "item_attributes" : [ {
-      "trait_type" : "Backgrounds",
-      "value" : "Bubba Kush"
-    }, {
-      "trait_type" : "Body",
-      "value" : "Indica"
-    }, {
-      "trait_type" : "Lips",
-      "value" : "Sissy Lips"
-    }, {
-      "trait_type" : "Eyes",
-      "value" : "Blazed Green"
-    }, {
-      "trait_type" : "Buds",
-      "value" : "Special K Kush"
-    }, {
-      "trait_type" : "Hats",
-      "value" : "Hot Lava Lid"
-    } ],
-    "description" : "",
-    "hash" : "eb726ce4a194641c6841f8b7a5b6769b09fcae287d75c1376a14ebea9a378150",
-    "alternative_image_url" : null
-  }, {
-    "id" : 0,
-    "name" : "digijoint #10",
-    "ethscription_id" : "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "item_attributes" : [ {
-      "trait_type" : "Backgrounds",
-      "value" : "Bubba Kush"
-    }, {
-      "trait_type" : "Body",
-      "value" : "Laughing Hyena"
-    }, {
-      "trait_type" : "Lips",
-      "value" : "Ganja Smoke Indica"
-    }, {
-      "trait_type" : "Eyes",
-      "value" : "DogeMau_d"
-    }, {
-      "trait_type" : "Buds",
-      "value" : "Northern Lights"
-    }, {
-      "trait_type" : "Hats",
-      "value" : "Hot Lava Lid"
-    } ],
-    "description" : "",
-    "hash" : "03ef12d5a0529dc794a01fd2721a4800b6a33676636b54e961231e3ade0ed1b1",
     "alternative_image_url" : null
   }, {
     "id" : 0,
@@ -3101,58 +3049,6 @@
     } ],
     "description" : "",
     "hash" : "332bfbd4962ec06a0a96053aecd9e634936fddd06c13a695bbc58a541a7fe035",
-    "alternative_image_url" : null
-  }, {
-    "id" : 0,
-    "name" : "digijoint #120",
-    "ethscription_id" : "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "item_attributes" : [ {
-      "trait_type" : "Backgrounds",
-      "value" : "Orange Creamsicle"
-    }, {
-      "trait_type" : "Body",
-      "value" : "Sativa"
-    }, {
-      "trait_type" : "Lips",
-      "value" : "Ganja Smoke Purple Haze"
-    }, {
-      "trait_type" : "Eyes",
-      "value" : "DogeMau_d"
-    }, {
-      "trait_type" : "Buds",
-      "value" : "Northern Lights"
-    }, {
-      "trait_type" : "Hats",
-      "value" : "Loco Lid Green"
-    } ],
-    "description" : "",
-    "hash" : "c93c6af98eb69dec744bb449dd55a4646292d1a412dceb6d28f78573400a4ae2",
-    "alternative_image_url" : null
-  }, {
-    "id" : 0,
-    "name" : "digijoint #121",
-    "ethscription_id" : "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "item_attributes" : [ {
-      "trait_type" : "Backgrounds",
-      "value" : "ChemDog"
-    }, {
-      "trait_type" : "Body",
-      "value" : "Iron Lungs"
-    }, {
-      "trait_type" : "Lips",
-      "value" : "Dona Juanita"
-    }, {
-      "trait_type" : "Eyes",
-      "value" : "Zig Zag Laser Green"
-    }, {
-      "trait_type" : "Buds",
-      "value" : "Northern Lights"
-    }, {
-      "trait_type" : "Hats",
-      "value" : "Skully Green"
-    } ],
-    "description" : "",
-    "hash" : "6a836e4f9b71c1acf11701c405ddd73372075679ab81fc6993a8cae990ec9526",
     "alternative_image_url" : null
   }, {
     "id" : 0,
@@ -18300,7 +18196,7 @@
   }, {
     "id" : 0,
     "name" : "digijoint #705",
-    "ethscription_id" : "0x8b3a7fb24f44dd810726405f5a01352b773133c124ee3c751ce84b8e75143550",
+    "ethscription_id" : "0xeb6b01135bdb5a3540b3b8e326f732c49a98bb269143a9217a9859887afe5180",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Do Si Dos"
@@ -18321,12 +18217,12 @@
       "value" : "Loco Lid Green"
     } ],
     "description" : "",
-    "hash" : "e1c34a893ff62e1f082743e8cb7fb09dab0588bed024ac373f8b33535172d5fa",
+    "hash" : "4dc36e2fb05dfbbcb44a27bf99cc3dc63533fdbd36826ab0cb9fd7da7339309c",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #706",
-    "ethscription_id" : "0xc49891ac1a71231a36a9427d772c50a1fdbf1bd1b80e8a91af390fda560d54c5",
+    "ethscription_id" : "0x7cc54522a15c2a7a06e7e98c92360cc2bb38b83735c543327e6cb1acf5c9ce63",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Bubba Kush"
@@ -18347,12 +18243,12 @@
       "value" : "Herbal Hat"
     } ],
     "description" : "",
-    "hash" : "126112818f0246b7e13983c0dbb2d4df2709e1c0f0100786216598ad00862017",
+    "hash" : "31900a6146b65f712314e2c0b3ca02e4fdd88fe9cffa17f1712211817e11ee1b",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #707",
-    "ethscription_id" : "0x0f41167ee7a54b578b7c0de2dd6adef18c1baff7204ce1db6a0376f84410101c",
+    "ethscription_id" : "0xff3b66f2b5308c4b18e0d94e5a7fda3dd68fd7f01f3a27f6cf5a5aae11888358",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Hindu Kush"
@@ -18373,12 +18269,12 @@
       "value" : "LogicCap Gold"
     } ],
     "description" : "",
-    "hash" : "414e83bbb14b8848d5d43ce6b3fb0b390e61f56ed34053e10ea2df144bf3e156",
+    "hash" : "f7fe438e5ba461ca5835ac122ba978fc3dc0a6028f7065d709d200795efc8ebc",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #708",
-    "ethscription_id" : "0x848230583a7e56f0e9894c585f886e848301f5cb5f323811f561fbaa8e198dcf",
+    "ethscription_id" : "0xbce9eecfef96ec8401ad707bc0769f0e7e6cac1f973e0da3a6ee8cfa9a5e7cc1",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Zkittlez"
@@ -18399,12 +18295,12 @@
       "value" : "Muzik Vibes"
     } ],
     "description" : "",
-    "hash" : "73ab6906a69810ba9526ff8859c57e890ba123f92adc62400eb34bc70f12cf00",
+    "hash" : "f8a0d5bbe73a70dd902fe8f06a531cfece753dbeea1421b3bca9cf4f3e9cbef6",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #709",
-    "ethscription_id" : "0x8478442296cac26906e00119e6224e2143ffcfd4765743534e8b6760fc369d4b",
+    "ethscription_id" : "0x8b3a7fb24f44dd810726405f5a01352b773133c124ee3c751ce84b8e75143550",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Do Si Dos"
@@ -18425,12 +18321,12 @@
       "value" : "Skully Yellow"
     } ],
     "description" : "",
-    "hash" : "0d8e0aad512abb04d79ac15fd45e4f1dcf702fd460c6e1ae626f741dfa795515",
+    "hash" : "b7cbaddaabd5e41144363c41ceaffa5b4805d3c4a3bc3293912d457b1c74ea1a",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #710",
-    "ethscription_id" : "0x82657fc32bf068e1036cc8868a753d614695421623455e8284ca4d3032d9f93a",
+    "ethscription_id" : "0xc49891ac1a71231a36a9427d772c50a1fdbf1bd1b80e8a91af390fda560d54c5",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Purple Urkle"
@@ -18451,12 +18347,12 @@
       "value" : "LogicCap Green"
     } ],
     "description" : "",
-    "hash" : "c8d4730167546d2e2074bdc43621f0f65b5caccafe60600e7a8a4e234ff009a3",
+    "hash" : "5d8773c9ec9cdbdb612f0f6fa8b63be39f6c5252512294d03c98625c8b8ca2f3",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #711",
-    "ethscription_id" : "0x6d8560ff78469e44ba009d9b3b40def04b76e7f7c037717562dd252e50eb7d94",
+    "ethscription_id" : "0x0f41167ee7a54b578b7c0de2dd6adef18c1baff7204ce1db6a0376f84410101c",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "ChemDog"
@@ -18477,12 +18373,12 @@
       "value" : "LogicCap Green"
     } ],
     "description" : "",
-    "hash" : "464211ec88dc0fe68a0e151962e39cf129565b0f0a4a731208a32763d4d4e349",
+    "hash" : "37531600e5a98c1882281703defc717563c89d39a6bd906bcc6f4282458cb216",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #712",
-    "ethscription_id" : "0xe8b28e8786473ad1814beb1b998b44ed1b25663e74174696a2664dac51c91507",
+    "ethscription_id" : "0x848230583a7e56f0e9894c585f886e848301f5cb5f323811f561fbaa8e198dcf",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Green Crack"
@@ -18503,12 +18399,12 @@
       "value" : "Skully Pink"
     } ],
     "description" : "",
-    "hash" : "082162b02735677950a94ea174c599ff3ab4a24c9c9f45fd249e291080e22314",
+    "hash" : "f9ecafc499a7dcb2efecc85c424d38b41da36ccbb78ff1d7f80e3ae647fba790",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #713",
-    "ethscription_id" : "0x293eab914be36a94f31dba7fadf7b77ed0d1ec05b495ff94f05a7953a9f797e6",
+    "ethscription_id" : "0x8478442296cac26906e00119e6224e2143ffcfd4765743534e8b6760fc369d4b",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Slurricane"
@@ -18529,12 +18425,12 @@
       "value" : "Skully Yellow"
     } ],
     "description" : "",
-    "hash" : "46c2e0b16e21666df2dc914e19521f0eff4318b32fd34d43bfec922225954886",
+    "hash" : "a4f14af027c3d731d515062be6af8a7d8e81547482cc2c5b76ef6b3598c75c25",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #714",
-    "ethscription_id" : "0xed477b97a637963ffa2157309daaefd9b76d9e2e9973139c6487bf54ae512633",
+    "ethscription_id" : "0x82657fc32bf068e1036cc8868a753d614695421623455e8284ca4d3032d9f93a",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Gorilla Glue"
@@ -18555,12 +18451,12 @@
       "value" : "Love Lewey Vibes"
     } ],
     "description" : "",
-    "hash" : "616162d8f721f5d0ce84366ea3ce544968a52334211025a883ea2ec20a3152fc",
+    "hash" : "bc533e69cd5640826083cc7d5c2ead95a8ff9a78817e2e4bbb98fa930ad0eede",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #715",
-    "ethscription_id" : "0x4d73ebd5f53252a5901b153ff996938b55ba31ba20cdff5fb549b1ffcccb3aba",
+    "ethscription_id" : "0x6d8560ff78469e44ba009d9b3b40def04b76e7f7c037717562dd252e50eb7d94",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Gorilla Glue"
@@ -18581,12 +18477,12 @@
       "value" : "Headband Yellow Blue"
     } ],
     "description" : "",
-    "hash" : "6e35a059162b0ee98ff2b64f0619a409fce066c4d36e0c711a5a383d4d782f3b",
+    "hash" : "87dd628459b528a18442d4ba3a2077f00f6859c1070588d8e80bf6c07238ea69",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #716",
-    "ethscription_id" : "0x8125e95cfce71f2ea9e0e7e92f2acfaa8613c57e987ae008feb388432ff211eb",
+    "ethscription_id" : "0xe8b28e8786473ad1814beb1b998b44ed1b25663e74174696a2664dac51c91507",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Strawberry Cough"
@@ -18607,12 +18503,12 @@
       "value" : "Loco Lid Red"
     } ],
     "description" : "",
-    "hash" : "4f65fae73604f054f26235fae2d8eb69354dea3e34c318421a01f73dbd670b3e",
+    "hash" : "1d2c76bda247c80ca897f5a1b9cc78758484d5bdbc708c92e62e0c62337e663c",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #717",
-    "ethscription_id" : "0xafce75b5a0e0e7c7fdecdaa983f46a78779214b4c86178b68bbf3d3f4817a768",
+    "ethscription_id" : "0x293eab914be36a94f31dba7fadf7b77ed0d1ec05b495ff94f05a7953a9f797e6",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Bubba Kush"
@@ -18633,12 +18529,12 @@
       "value" : "Loco Lid Red"
     } ],
     "description" : "",
-    "hash" : "e74a189c7835289072d6ef3d974943aa496d3db0d7229f7d991aa7d6044f3763",
+    "hash" : "2a997813d6478629ca2d67ace5400e21f0da1f0a0bb04dcedcd4cf715e76a71b",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #718",
-    "ethscription_id" : "0x84a2c91cd8ed4331ee1430efadbd2d2a6bc82df5f0ce6e2a1cb18bdb4e49e688",
+    "ethscription_id" : "0xed477b97a637963ffa2157309daaefd9b76d9e2e9973139c6487bf54ae512633",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "ChemDog"
@@ -18659,12 +18555,12 @@
       "value" : "His Grace Crown"
     } ],
     "description" : "",
-    "hash" : "563af5d72d2aab5d15cb4651574e758e09407ccb07cfb7fd4c8de25a86c88d4a",
+    "hash" : "39e32e7d57eccdc590ce3e319cc83191c78855e44bc4facce7b161e8149b6454",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #719",
-    "ethscription_id" : "0xf000a4f6c6d68a817df3ab880f75660d588e603619ee3e58695d2f4a5acc0927",
+    "ethscription_id" : "0x4d73ebd5f53252a5901b153ff996938b55ba31ba20cdff5fb549b1ffcccb3aba",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Bubba Kush"
@@ -18685,12 +18581,12 @@
       "value" : "Loco Lid Green"
     } ],
     "description" : "",
-    "hash" : "8efeb342ab9eedd7023be1234b74a87f5f56f6c9a16895f7334c4c1a836f9910",
+    "hash" : "26558f059150b08f329dd8dc37dfc23233836f261bc927a8eca496143758c874",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #720",
-    "ethscription_id" : "0x7aa85e326c722e13eab64caa6a6fd4c01729acfc4b19b3b518075a884c95ea30",
+    "ethscription_id" : "0x8125e95cfce71f2ea9e0e7e92f2acfaa8613c57e987ae008feb388432ff211eb",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "TrainWreck"
@@ -18711,12 +18607,12 @@
       "value" : "LogicCap Purple"
     } ],
     "description" : "",
-    "hash" : "b1516bc986e638a39c601a8560def6c0403e2314ecfb2f7454aa5b318b40a9af",
+    "hash" : "3151b4400d98d9fda8690a36706b6e171f286fc8fc9dadbfc6537c370237e21f",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #721",
-    "ethscription_id" : "0xa79a13c8c4e5cab7850cd473cebca644b41c77f3229a3efc1eb7295a676e0f93",
+    "ethscription_id" : "0xafce75b5a0e0e7c7fdecdaa983f46a78779214b4c86178b68bbf3d3f4817a768",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "9 Pound Hammer"
@@ -18737,12 +18633,12 @@
       "value" : "Laughing Lid Blue"
     } ],
     "description" : "",
-    "hash" : "83e8b22ff2cc32840742adfc6cab79d364585125d1946015c54a8866919961a7",
+    "hash" : "35021d716db1da45d5d8eb75acba710da15e8b2cbd52b6ba28bd78274188bdca",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #722",
-    "ethscription_id" : "0xfef17475a60034cca54745ea9c95850611293d3fd09cd0132685cf93d05844a6",
+    "ethscription_id" : "0x84a2c91cd8ed4331ee1430efadbd2d2a6bc82df5f0ce6e2a1cb18bdb4e49e688",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Wedding Cake"
@@ -18763,12 +18659,12 @@
       "value" : "Loco Lid Red"
     } ],
     "description" : "",
-    "hash" : "604eb2b7f715545af760ebc78d3bb164cb2f2ae997c484141318e05835ef6562",
+    "hash" : "2b149eaf5025d50012687fe9720d5f4bf03b34d824c2ab80f14cbc2e8498c3f0",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #723",
-    "ethscription_id" : "0x585eeddfd7434ea67cf2433b6edbe44f9dde052c51aba24b511c8276f9d72185",
+    "ethscription_id" : "0xf000a4f6c6d68a817df3ab880f75660d588e603619ee3e58695d2f4a5acc0927",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Green Crack"
@@ -18789,12 +18685,12 @@
       "value" : "Skully Yellow"
     } ],
     "description" : "",
-    "hash" : "d666ce8f197285c99f2d92894671b4519f094cd099b52e572f785f256d4b2736",
+    "hash" : "1a2971c7e3cf0a36f8401226115c36a6f951f23627e606c6085f280173be73ac",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #724",
-    "ethscription_id" : "0x467acaddeb7d6ab93a57100e834bd20801d36c4c5149c1bf3fe5d983bc223702",
+    "ethscription_id" : "0x7aa85e326c722e13eab64caa6a6fd4c01729acfc4b19b3b518075a884c95ea30",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "GMO Cookies"
@@ -18815,12 +18711,12 @@
       "value" : "Herbal Hat"
     } ],
     "description" : "",
-    "hash" : "d83c6d918a6f809b4c87adb4f9de7b12941a6a4c743fe701e5922c6629f8a84a",
+    "hash" : "6191c1c974e887eda338b8f6269a613a4e4cf69fb58edd64feb4d88c4788e239",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #725",
-    "ethscription_id" : "0xfeab1f032ac86ec62f46931547d5fc726d447ed7cba91f418cafaccd328d5ead",
+    "ethscription_id" : "0xa79a13c8c4e5cab7850cd473cebca644b41c77f3229a3efc1eb7295a676e0f93",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Gorilla Glue"
@@ -18841,12 +18737,12 @@
       "value" : "LogicCap Green"
     } ],
     "description" : "",
-    "hash" : "48210dea9b6c7fe656f1247d77d2dfabd2e80a921756012549281ef9ce603afe",
+    "hash" : "00e562cbadc43e260b7c3e487feb244b581e7229c312520c5ceb78c9c2d5804c",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #726",
-    "ethscription_id" : "0x96b915b31e3aa85d98d3b6fbdaf121aa441d3e75e29950f09261ed3818458f65",
+    "ethscription_id" : "0xfef17475a60034cca54745ea9c95850611293d3fd09cd0132685cf93d05844a6",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "GMO Cookies"
@@ -18867,12 +18763,12 @@
       "value" : "Headband Yellow Blue"
     } ],
     "description" : "",
-    "hash" : "c49ac6c473464401ff22cab6bcc31d21ce0c43d13a20a480334094e66dbc046e",
+    "hash" : "dec299a806e3c1f6890c1141071020559c66cf86534d7446348625e8b3fd93d0",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #727",
-    "ethscription_id" : "0xcbedc44ab90ebe023b75fe9cb05df9a4c878933b7f498e150d99283c50683faa",
+    "ethscription_id" : "0x585eeddfd7434ea67cf2433b6edbe44f9dde052c51aba24b511c8276f9d72185",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Forbidden Fruit"
@@ -18893,12 +18789,12 @@
       "value" : "Skully Yellow"
     } ],
     "description" : "",
-    "hash" : "d727e827fd9af5a62ecabbc68dc34611b34add97b3050cc229f035f769ae0c1e",
+    "hash" : "4cff2c8b2c13096de296a8a0b388cce3f54258e15b1d11cf5bdc018ea5007e44",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #728",
-    "ethscription_id" : "0x044bdd888eac4fca4fda9d4d156bcd56cf81a1574e96c31e91493a23e530ddeb",
+    "ethscription_id" : "0x467acaddeb7d6ab93a57100e834bd20801d36c4c5149c1bf3fe5d983bc223702",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "TrainWreck"
@@ -18919,12 +18815,12 @@
       "value" : "Im High"
     } ],
     "description" : "",
-    "hash" : "4935fa3826ea16edd81203079f8ba829280175a5138a98fb462d9013e90d75e8",
+    "hash" : "a1f09940e66abea81a55e3fc5bb186a993ae144eadf2732b361a508d76982875",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #729",
-    "ethscription_id" : "0x0b7478efa9d446984fdb040cdd173c4e6e4e57117f08e34da77d87dc517aa6de",
+    "ethscription_id" : "0xfeab1f032ac86ec62f46931547d5fc726d447ed7cba91f418cafaccd328d5ead",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Gushers"
@@ -18945,12 +18841,12 @@
       "value" : "Herbal Hat"
     } ],
     "description" : "",
-    "hash" : "07d45c228eeeb33a233aac5a7540891090aaa9cae4fc2bf71c66bfd61780ceaa",
+    "hash" : "095f43bd3ad4d8f129cd1bf321ed62398e0cfb182710e72c66a08a06fe7919b1",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #730",
-    "ethscription_id" : "0xcc93372f1fa008e7cf9c8b6376a8345d4cd1f161f4f5c6bad79725e123f3939a",
+    "ethscription_id" : "0x96b915b31e3aa85d98d3b6fbdaf121aa441d3e75e29950f09261ed3818458f65",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "ChemDog"
@@ -18971,12 +18867,12 @@
       "value" : "Laughing Lid Green"
     } ],
     "description" : "",
-    "hash" : "2627df61b6636e24bd970f5043b60e5e3655e2a33901ecf6045d720ff71b8297",
+    "hash" : "acb67e771ea4c59cff82412011785077e1a7dc7a4f6fd4d36aa34053156d8822",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #731",
-    "ethscription_id" : "0x87ce99458012f7eb2c5f0a26422d2ba45b821710b26ba813066164b8981c6d62",
+    "ethscription_id" : "0xcbedc44ab90ebe023b75fe9cb05df9a4c878933b7f498e150d99283c50683faa",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Gushers"
@@ -18997,12 +18893,12 @@
       "value" : "Headband Pink Green"
     } ],
     "description" : "",
-    "hash" : "ff4c7415ccce827589524c5b0fb44a0a67b4e4140fc311daafc672d6ec5a2af6",
+    "hash" : "8cca87a6df2a81e1ca7b185bcfc0d071dbe2e50326217e03f8999b1188f815ea",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #732",
-    "ethscription_id" : "0x039af0bb7b111ae08115faa5e8068aad85f246334d92315a5d7bd8e02986a618",
+    "ethscription_id" : "0x044bdd888eac4fca4fda9d4d156bcd56cf81a1574e96c31e91493a23e530ddeb",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Gorilla Glue"
@@ -19023,12 +18919,12 @@
       "value" : "LogicCap Purple"
     } ],
     "description" : "",
-    "hash" : "7f1b5b7a467301ec25c21a6be767555f6db6e25a8ca8501c3ebe6f5277f59bd6",
+    "hash" : "ffd97e55de4afee72a75b29379e8e569563ba8b4fba2901373993b31525adf79",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #733",
-    "ethscription_id" : "0x53e7f33f25e9e3faf3213313325c0a6839deaef01c710b2191725f1779f5f8db",
+    "ethscription_id" : "0x0b7478efa9d446984fdb040cdd173c4e6e4e57117f08e34da77d87dc517aa6de",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "TrainWreck"
@@ -19049,12 +18945,12 @@
       "value" : "Loco Lid Green"
     } ],
     "description" : "",
-    "hash" : "c56c8947664ded1179fd5efa4fbce6ea2b63d8e60ae3514fede2cd06f5673e11",
+    "hash" : "71b83ab6972d47198e366372989db4d00084e3d88e2b3f8925892ed871ea2332",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #734",
-    "ethscription_id" : "0x3d7165c45e5778348ad593af15f9388e394480415f071a1e6b0481dd1ffeaa15",
+    "ethscription_id" : "0xcc93372f1fa008e7cf9c8b6376a8345d4cd1f161f4f5c6bad79725e123f3939a",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Green Crack"
@@ -19075,12 +18971,12 @@
       "value" : "LogicCap Green"
     } ],
     "description" : "",
-    "hash" : "7b4c6e39a146d94c6529fc1eb4249f6b22fc8c3f04f4b75c3b51981fe6677f17",
+    "hash" : "f1ba5a091778379a5adc9c4048945c752fd51da66c5c32b1cd73b16b56f93af5",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #735",
-    "ethscription_id" : "0x8fa0a6138f2d1047f6e8bb4b16d74ef007c70bc0dae49d44651d318edd33fcb5",
+    "ethscription_id" : "0x87ce99458012f7eb2c5f0a26422d2ba45b821710b26ba813066164b8981c6d62",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Gorilla Glue"
@@ -19101,12 +18997,12 @@
       "value" : "Hot Lava Lid"
     } ],
     "description" : "",
-    "hash" : "47123c6ab1f5ff5961c2598fa0b943ab995dc901aeaff480aaa924a7689d33ba",
+    "hash" : "14f3b431bdafaa3bf7f1ba3f79d21e09d9db099c1093ee076d11b3c9b91a51d7",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #736",
-    "ethscription_id" : "0x842ff62d1f9fc67dea09cb6e4350263308aa7ee6a39b21eb93d03a00c3407bc3",
+    "ethscription_id" : "0x039af0bb7b111ae08115faa5e8068aad85f246334d92315a5d7bd8e02986a618",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Green Crack"
@@ -19127,12 +19023,12 @@
       "value" : "Skully Yellow"
     } ],
     "description" : "",
-    "hash" : "5d21965189d54d288ca6cf5ed756be385fefa0ac55c4ebeb5d2fb2be60e75525",
+    "hash" : "a95568fc955a52f6a3ce1b632be880994e5c9cb3642c7a96d09f81b722bf1496",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #737",
-    "ethscription_id" : "0xa306e7da4e4377cf9fba50c98a6ba8804367e527aeaa23f2012aec5c888b86cf",
+    "ethscription_id" : "0x53e7f33f25e9e3faf3213313325c0a6839deaef01c710b2191725f1779f5f8db",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Gushers"
@@ -19153,12 +19049,12 @@
       "value" : "Loco Lid Red"
     } ],
     "description" : "",
-    "hash" : "67c85fbf06f9768f28a5566e00133132645382838b2fe257b776fce6c5fe8056",
+    "hash" : "ca5ecb63bea7024b21e823fe0432bf24196270969a0449939d2413fc737a8808",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #738",
-    "ethscription_id" : "0x8e36057ab12804a85c84b853831ec6b623e079705851c4b09fa6f6ba485f4d0a",
+    "ethscription_id" : "0x3d7165c45e5778348ad593af15f9388e394480415f071a1e6b0481dd1ffeaa15",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Strawberry Cough"
@@ -19179,12 +19075,12 @@
       "value" : "Skully Green"
     } ],
     "description" : "",
-    "hash" : "30a9f4383acbed38de985d9cf548664215eb78eb9996c0681fc778b4652bf3a7",
+    "hash" : "86014b95faff5a51af05528c24e0cd4dde5bc1985b3ecfd09fa3412e69d55708",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #739",
-    "ethscription_id" : "0xcb1960bf9d46ff52c5a0156383758c17ffd7e58b27fd97ee61531db9c3e00556",
+    "ethscription_id" : "0x8fa0a6138f2d1047f6e8bb4b16d74ef007c70bc0dae49d44651d318edd33fcb5",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "White Rhino"
@@ -19205,12 +19101,12 @@
       "value" : "Herbal Hat"
     } ],
     "description" : "",
-    "hash" : "f9ec09294d6be6b037625ff9146ca7885434eb01592450d091c2a6c743bf7f48",
+    "hash" : "1d1c128e6b858c7c9d596652649865efc4ef0f9dc4e2b45bec29c16dfef495a5",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #740",
-    "ethscription_id" : "0x694edfa3102818c932bda5c5ed49f4a249f2032920b1dbc4c77063cdc871d37e",
+    "ethscription_id" : "0x842ff62d1f9fc67dea09cb6e4350263308aa7ee6a39b21eb93d03a00c3407bc3",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Gorilla Glue"
@@ -19231,12 +19127,12 @@
       "value" : "Laughing Lid Green"
     } ],
     "description" : "",
-    "hash" : "0239c9afd8ef226a995f2a01b329fabec64d289997ad4f81444baa06fb803123",
+    "hash" : "8d8416cde19904fdcdc02ff3eaf1203f79b590244cccb359cfa7d818b18f441c",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #741",
-    "ethscription_id" : "0xc69fc904f51d9bffb4aadf31db4e324e801b92eef7efba2e783381fbda8efea6",
+    "ethscription_id" : "0xa306e7da4e4377cf9fba50c98a6ba8804367e527aeaa23f2012aec5c888b86cf",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Zkittlez"
@@ -19257,12 +19153,12 @@
       "value" : "Skully Yellow"
     } ],
     "description" : "",
-    "hash" : "61198c29293c27130582a471c7ee5514ec9ec14ea406936a199397adfb6d100a",
+    "hash" : "5c91929cbf78ced0bd872d675f08a3d0a6b062499907226dc4fad4204945e32c",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #742",
-    "ethscription_id" : "0xf6c8079bb23def1a5ba58312085873d7b9d6964e41c76841fce892b5d494be35",
+    "ethscription_id" : "0x8e36057ab12804a85c84b853831ec6b623e079705851c4b09fa6f6ba485f4d0a",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Animal Cookies"
@@ -19283,12 +19179,12 @@
       "value" : "LogicCap Purple"
     } ],
     "description" : "",
-    "hash" : "005d28f1ae883f81ba724139ed5c6ebd0746eba8fd20576c5d070883facaa084",
+    "hash" : "f738019ee6baece7bb8a09e34ec8bad246d25b4b5235bc8283f4af54c44c5b5b",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #743",
-    "ethscription_id" : "0x23e04933376a5631b31a49aed51a1e9ad349956e7d0b61ee21f98eec36c6cae7",
+    "ethscription_id" : "0xcb1960bf9d46ff52c5a0156383758c17ffd7e58b27fd97ee61531db9c3e00556",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Hindu Kush"
@@ -19309,12 +19205,12 @@
       "value" : "Hot Lava Lid"
     } ],
     "description" : "",
-    "hash" : "586768545a99da715861ea09259f0e013b82aeb9ed12b9356d8c134c5d1d5e9d",
+    "hash" : "c9a4c33dbc780071ba17a78532c834508a24477d55101b50f49fa4e96aaeaf07",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #744",
-    "ethscription_id" : "0x9ef0bca4f317d21ce69afb3bb18bbc6bc7c8c6f4f572436a0ca915f187fcdc91",
+    "ethscription_id" : "0x694edfa3102818c932bda5c5ed49f4a249f2032920b1dbc4c77063cdc871d37e",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "TrainWreck"
@@ -19335,12 +19231,12 @@
       "value" : "Herbal Hat"
     } ],
     "description" : "",
-    "hash" : "cc23215d879eddbf5d1b23e4712c2e876db01bb3d3666cf4e84745e9d970cf39",
+    "hash" : "5d8d5d266ffe331f5d117fd158ad0261568cbe88e1ac9c06797c80c5ae16fb48",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #745",
-    "ethscription_id" : "0x81565655c91910438c7623507e8238fe94373b531fe8ef23868541c439112497",
+    "ethscription_id" : "0xc69fc904f51d9bffb4aadf31db4e324e801b92eef7efba2e783381fbda8efea6",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Purple Urkle"
@@ -19361,12 +19257,12 @@
       "value" : "LogicCap Gold"
     } ],
     "description" : "",
-    "hash" : "952edee792b9ef49489ca85bcdbbfabc5501b75b3da822ecf10b57233103500c",
+    "hash" : "ad3ba969ee47d29ba5ace56b3c4894192650fe8d729cbb425f39810a3dfb659d",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #746",
-    "ethscription_id" : "0x038576dd9dfb2b40f514094a394631416652422c4fe26acc533031d6e215391b",
+    "ethscription_id" : "0xf6c8079bb23def1a5ba58312085873d7b9d6964e41c76841fce892b5d494be35",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "MAC"
@@ -19387,12 +19283,12 @@
       "value" : "Im High"
     } ],
     "description" : "",
-    "hash" : "f601da042c3ef0afe6282a4ada11c2dfc9563ff73f7e019ac804976d8b766f9c",
+    "hash" : "5304ade2347058216a5a95eff4653866b70498e1f2820463ba57a943cb86faf6",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #747",
-    "ethscription_id" : "0xed0d148f65b661bf1ca9576f2f1b5f2c7021b03e968b3bebeab1ef39b98bbe08",
+    "ethscription_id" : "0x23e04933376a5631b31a49aed51a1e9ad349956e7d0b61ee21f98eec36c6cae7",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "ChemDog"
@@ -19413,12 +19309,12 @@
       "value" : "Headband Pink Green"
     } ],
     "description" : "",
-    "hash" : "4d066d90947fa9263a2e1d1e9963e4ec2ca1c6819714703c9315c086867d0e01",
+    "hash" : "41a66656765558ddcfb926be173893019b557ad613697176e7adfdc6c3030086",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #748",
-    "ethscription_id" : "0x18ee386a2dfed621773b02c562305014822368ed5a929584f1b6d7f03662b96e",
+    "ethscription_id" : "0x9ef0bca4f317d21ce69afb3bb18bbc6bc7c8c6f4f572436a0ca915f187fcdc91",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Wedding Cake"
@@ -19439,12 +19335,12 @@
       "value" : "Laughing Lid Blue"
     } ],
     "description" : "",
-    "hash" : "3c7522476199d53d0b89eb520aba601f595cc70984505f5e1d081bad0783b3d0",
+    "hash" : "717c1685700afc08f92a3b540ee8a7eb1f40ef639f7bc075eeb0741b2a31d89a",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #749",
-    "ethscription_id" : "0xdb8bddc2074c5780cddec3a83de5e7c3803cf8de4dafb8bac4e5cea0628c5560",
+    "ethscription_id" : "0x81565655c91910438c7623507e8238fe94373b531fe8ef23868541c439112497",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Strawberry Cough"
@@ -19465,12 +19361,12 @@
       "value" : "Hot Lava Lid"
     } ],
     "description" : "",
-    "hash" : "5d590d482692dc1dc3e111f23e048374083da91f8e738143eef9f604e5fe9b30",
+    "hash" : "2788b743a5e5afb11fc17bd35bc9debc35e146b6a58b66d2b946f1ea2c3060f7",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #750",
-    "ethscription_id" : "0x156df833b12a2a1d5860b83a117be1a9d433f9b25b67522d85f2aa450185e442",
+    "ethscription_id" : "0x038576dd9dfb2b40f514094a394631416652422c4fe26acc533031d6e215391b",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "MAC"
@@ -19491,12 +19387,12 @@
       "value" : "LogicCap Green"
     } ],
     "description" : "",
-    "hash" : "c5cf6fd30a496d8a3278e3976e320c177a5e75e5cc0f2c0503bd4d1918212aa5",
+    "hash" : "45862acbf77ec088944c603d88a609f255432fd78ff55c8d3b48b4bc548a027d",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #751",
-    "ethscription_id" : "0xe2093c57aa91f01223cf15c30163bbf4d3bf018ee32849d96bed66e48676bbf9",
+    "ethscription_id" : "0xed0d148f65b661bf1ca9576f2f1b5f2c7021b03e968b3bebeab1ef39b98bbe08",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "ChemDog"
@@ -19517,12 +19413,12 @@
       "value" : "Skully Pink"
     } ],
     "description" : "",
-    "hash" : "86109a4d2c86de8ea235bb11aae9e718514b302aa1e17754d1eeb52b2d952939",
+    "hash" : "725a76e146d0f909dedf2f93db083601e7c6c81c32e0c6336f4a1ea712f45c78",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #752",
-    "ethscription_id" : "0x1c35b284a108029a6050cbd4b4abe821b1e73179b0b95d249d6238dc2a11ed11",
+    "ethscription_id" : "0x18ee386a2dfed621773b02c562305014822368ed5a929584f1b6d7f03662b96e",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Wedding Cake"
@@ -19543,12 +19439,12 @@
       "value" : "Shiller"
     } ],
     "description" : "",
-    "hash" : "845dd662b0cd92bb5ef847a9ba9ae134c9302698be592a22f9b55282035ecce7",
+    "hash" : "34043a321710697fe74318fa6f85a27be01759ce54c7e2bd576d458d42cb3d24",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #753",
-    "ethscription_id" : "0xa94ba9cabe7835eeee17a4aca67adf3204947cc6a6312b55b8ba965281e7d215",
+    "ethscription_id" : "0xdb8bddc2074c5780cddec3a83de5e7c3803cf8de4dafb8bac4e5cea0628c5560",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Forbidden Fruit"
@@ -19569,12 +19465,12 @@
       "value" : "Muzik Vibes"
     } ],
     "description" : "",
-    "hash" : "f817b60446fef95e0328a722f9ed19d581f3629db3fb815cc9b12d075fe16f55",
+    "hash" : "f46db84fc1274459556c8170f60252e37cf557a92c1551f0cfbda86ad5e9edce",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #754",
-    "ethscription_id" : "0x3abfc7a1a7976ada870ef9cd5aa1eda486992e685c9db06a1bbec83f98e52713",
+    "ethscription_id" : "0x156df833b12a2a1d5860b83a117be1a9d433f9b25b67522d85f2aa450185e442",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Wedding Cake"
@@ -19595,12 +19491,12 @@
       "value" : "Loco Lid Red"
     } ],
     "description" : "",
-    "hash" : "26b92304ae5137304f14d4ea61cbd63edfcc15ddc9458584d038fd4cefc22904",
+    "hash" : "b6cb75c73abc0c9aab8b2d55607f939fc745529c24e113ad37122ee1ce83088f",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #755",
-    "ethscription_id" : "0x406be4f1086ae7cd2fb791f0ebb4bb64250d5b1350a5779d4938082664ecfb04",
+    "ethscription_id" : "0xe2093c57aa91f01223cf15c30163bbf4d3bf018ee32849d96bed66e48676bbf9",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Purple Urkle"
@@ -19621,12 +19517,12 @@
       "value" : "Laughing Lid Green"
     } ],
     "description" : "",
-    "hash" : "3593829454ae5af8585be6c3ab4a1afe64e4404e06027849c97e5a81577cc1eb",
+    "hash" : "4e8d8ceb0d384fd298b1febdbd11d27d57a018a62ef7ae3fa974fca68df108d7",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #756",
-    "ethscription_id" : "0xada6cdf9a485078f68f667fe45df30017127f369d3ba81c6e1a60efac14f3a09",
+    "ethscription_id" : "0x1c35b284a108029a6050cbd4b4abe821b1e73179b0b95d249d6238dc2a11ed11",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Mimosa"
@@ -19647,12 +19543,12 @@
       "value" : "Skully Green"
     } ],
     "description" : "",
-    "hash" : "3d7660319744ee48388f41cb1aa732fcc77bf2f154a17ba0045bbc4008fc9abd",
+    "hash" : "a26b482f31737826c6a4fbfa31a37063bee845e82756dcbca7c4d7300c8c2bf4",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #757",
-    "ethscription_id" : "0xf7d9887d56ecfec4d8c3f1e0e7f314b37c23099792a9e490bf9091d27590c9a6",
+    "ethscription_id" : "0xa94ba9cabe7835eeee17a4aca67adf3204947cc6a6312b55b8ba965281e7d215",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Mimosa"
@@ -19673,12 +19569,12 @@
       "value" : "Hot Lava Lid"
     } ],
     "description" : "",
-    "hash" : "ebda8d5dd86a324a50dca28d6e8eee03a620020043e1dc27317f923f752ee63b",
+    "hash" : "5cbdc91f132532f677c983e8be2bec463df73186171516eb2522039fe32c0ecd",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #758",
-    "ethscription_id" : "0x5389ef7d251a30f3ac545a223ef871574a27271e102b6a12f79249f6643195de",
+    "ethscription_id" : "0x3abfc7a1a7976ada870ef9cd5aa1eda486992e685c9db06a1bbec83f98e52713",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "MAC"
@@ -19699,67 +19595,41 @@
       "value" : "Herbal Hat"
     } ],
     "description" : "",
-    "hash" : "2f9288f4373d011fc1a69f0a0b01b9f0ea19d281510e99674a84194ae27195be",
+    "hash" : "a57b8fe14365a0cf0e09337d40b7e0be446ee9181172222dcd4880483bce09bd",
     "alternative_image_url" : null
   }, {
     "id" : 0,
-    "name" : "digijoint #781",
-    "ethscription_id" : "0x6938b45184870c6a93623d6b916c44c19a4a0827db9bcd84c6de020054fad4d5",
+    "name" : "digijoint #759",
+    "ethscription_id" : "0x406be4f1086ae7cd2fb791f0ebb4bb64250d5b1350a5779d4938082664ecfb04",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
-      "value" : "Green Crack"
+      "value" : "Alien OG"
     }, {
       "trait_type" : "Body",
-      "value" : "Herbalist"
+      "value" : "Goodfellow"
     }, {
       "trait_type" : "Lips",
       "value" : "Cheeching"
     }, {
       "trait_type" : "Eyes",
-      "value" : "Baked Blinkers Stoned Red"
+      "value" : "Blazed Blue"
     }, {
       "trait_type" : "Buds",
-      "value" : "Special K Kush"
+      "value" : "Golden Ticket"
     }, {
       "trait_type" : "Hats",
-      "value" : "LogicCap Gold"
+      "value" : "Im Stoned"
     } ],
     "description" : "",
-    "hash" : "b1ed9dfbfe946d89a7ee52330606ec7867839f5c17f0977e062a4f7b4667519f",
+    "hash" : "a8b113c79884ca4af5e2686f767e6e473e359bb3c28e24e3f0da88aad25c0778",
     "alternative_image_url" : null
   }, {
     "id" : 0,
-    "name" : "digijoint #782",
-    "ethscription_id" : "0xa97a74b0b80183f79bbce5cfad28cce850b012f7d85edeb75542b4ae8f714e02",
+    "name" : "digijoint #760",
+    "ethscription_id" : "0xada6cdf9a485078f68f667fe45df30017127f369d3ba81c6e1a60efac14f3a09",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
-      "value" : "Hindu Kush"
-    }, {
-      "trait_type" : "Body",
-      "value" : "Herbalist"
-    }, {
-      "trait_type" : "Lips",
-      "value" : "Ganja Smoke Purple Haze"
-    }, {
-      "trait_type" : "Eyes",
-      "value" : "Baked Blinkers Grey"
-    }, {
-      "trait_type" : "Buds",
-      "value" : "Blue Dream"
-    }, {
-      "trait_type" : "Hats",
-      "value" : "Headband Yellow Blue"
-    } ],
-    "description" : "",
-    "hash" : "a440dcf9aad645d815e8fb2c7359dfd978d8b847ef1843c4a8b254b69cd8de5f",
-    "alternative_image_url" : null
-  }, {
-    "id" : 0,
-    "name" : "digijoint #783",
-    "ethscription_id" : "0xa8b2be795b589e68be08743b1af1fea42b89cabb8a49122a9fca362262d7d6af",
-    "item_attributes" : [ {
-      "trait_type" : "Backgrounds",
-      "value" : "Orange Creamsicle"
+      "value" : "Do Si Dos"
     }, {
       "trait_type" : "Body",
       "value" : "Goodfellow"
@@ -19768,47 +19638,73 @@
       "value" : "Smoke One"
     }, {
       "trait_type" : "Eyes",
-      "value" : "Baked Blinkers Stoned Red"
+      "value" : "Baked Blinkers Grey"
     }, {
       "trait_type" : "Buds",
-      "value" : "Golden Ticket"
+      "value" : "Orange Crush"
     }, {
       "trait_type" : "Hats",
       "value" : "Shiller"
     } ],
     "description" : "",
-    "hash" : "f1a5fe706b6b8dda496335a9abf1136e2d4af4238353f9b6894bf528d775d1c7",
+    "hash" : "6895976b454e92a7cfaf974caf03d71247f3a749e58b6debee16c2c820534a5b",
     "alternative_image_url" : null
   }, {
     "id" : 0,
-    "name" : "digijoint #784",
-    "ethscription_id" : "0x1ae2575d9c19c06673217c9492dd00030354a74c90240a37ed25b010484be5a6",
+    "name" : "digijoint #761",
+    "ethscription_id" : "0xf7d9887d56ecfec4d8c3f1e0e7f314b37c23099792a9e490bf9091d27590c9a6",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
-      "value" : "Strawberry Cough"
+      "value" : "MAC"
     }, {
       "trait_type" : "Body",
-      "value" : "Laughing Hyena"
+      "value" : "Indica"
     }, {
       "trait_type" : "Lips",
       "value" : "Muggle Smirk"
     }, {
       "trait_type" : "Eyes",
-      "value" : "Blazed Green"
+      "value" : "Sheeeesh"
     }, {
       "trait_type" : "Buds",
-      "value" : "Golden Ticket"
+      "value" : "Grape Ape"
     }, {
       "trait_type" : "Hats",
-      "value" : "Herbal Hat"
+      "value" : "Laughing Lid Green"
     } ],
     "description" : "",
-    "hash" : "3bef3383d6361940eadba1c6f64cf966664546081b07e66398ca0c42566c5ed9",
+    "hash" : "b71d186fe392e533b4db7fb3cf025a4ae9af1758f26677f6a857785a7df87952",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
+    "name" : "digijoint #762",
+    "ethscription_id" : "0x5389ef7d251a30f3ac545a223ef871574a27271e102b6a12f79249f6643195de",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Forbidden Fruit"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Laughing Hyena"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Ganja Smoke Sativa"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Stoned Red"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "SkyWalker"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Diamond Verse Purple"
+    } ],
+    "description" : "",
+    "hash" : "9dd3d2d0b6115de5e58e436fd2f675e516bc17ba26c8e599467933678db67587",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #785",
-    "ethscription_id" : "0x979e4d32e962557a39d538619f9faa88a6bd3dc796aaa84a6db2abe6a05b2fd2",
+    "ethscription_id" : "0x6938b45184870c6a93623d6b916c44c19a4a0827db9bcd84c6de020054fad4d5",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Alien OG"
@@ -19829,12 +19725,12 @@
       "value" : "Headband Yellow Blue"
     } ],
     "description" : "",
-    "hash" : "53bb0c1a2d19d6632d62849d6e30f3a989c23168d259e7e57a0c6ee2a0c9bef8",
+    "hash" : "48449102b88b70a6b7ff34bc62ec8c424c2e47c1d3859eb6a33c3601756c077b",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #786",
-    "ethscription_id" : "0xb999c96303109f77decfd381bdecbc5b38948f5b1b1c7fcd9e7abaec84bc3860",
+    "ethscription_id" : "0xa97a74b0b80183f79bbce5cfad28cce850b012f7d85edeb75542b4ae8f714e02",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "White Rhino"
@@ -19855,12 +19751,38 @@
       "value" : "LogicCap Gold"
     } ],
     "description" : "",
-    "hash" : "73c713024f928559c62dcf102cebf17886b947e9ab864a9ff9f66f59cfcc4f33",
+    "hash" : "daa897e354532a0bee7aa4609a3e19dbd54d6f1b27127d4aa3683763c46e6116",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
+    "name" : "digijoint #787",
+    "ethscription_id" : "0xa8b2be795b589e68be08743b1af1fea42b89cabb8a49122a9fca362262d7d6af",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "GMO Cookies"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Laughing Hyena"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Dona Juanita"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Tree Wrecked"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Northern Lights"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Herbal Hat"
+    } ],
+    "description" : "",
+    "hash" : "a636ada97d89a557343180ebb25f84e7ffe7a8fcc708f51e50b4b47fac7bd7dc",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #788",
-    "ethscription_id" : "0xc43c1674cefeaef248706c17da211f9a857b1a8718bcdfcd79e28b1e69a1dff4",
+    "ethscription_id" : "0x1ae2575d9c19c06673217c9492dd00030354a74c90240a37ed25b010484be5a6",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Gorilla Glue"
@@ -19881,12 +19803,12 @@
       "value" : "Skully Pink"
     } ],
     "description" : "",
-    "hash" : "64690876220957bcdaee3bccd14e61609c3c24c707d0c34d46dca1b572fe13d0",
+    "hash" : "397e4eddc2ca26e3a70253502b701a8e4dae7a76a1c2460cf2a93e49bef30f30",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #789",
-    "ethscription_id" : "0x9b6ab0347eacd1d0a32f432ed6af80e9c3a4bf51447b25385b97d233ea7cf1f6",
+    "ethscription_id" : "0x979e4d32e962557a39d538619f9faa88a6bd3dc796aaa84a6db2abe6a05b2fd2",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "MAC"
@@ -19907,12 +19829,12 @@
       "value" : "Herbal Hat"
     } ],
     "description" : "",
-    "hash" : "c025cd37830eb7b17cd6bb98143a16be1aee595b5096098abb160f57543be7c2",
+    "hash" : "76712374b31289f5dd374755e16b7015e8fab0a7418b1d6c1dcf4e639ddf1d73",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #790",
-    "ethscription_id" : "0x74c14f28fcdce949627396c3f84d8be0c32acb69adf634995a720171f8ddb1fe",
+    "ethscription_id" : "0xb999c96303109f77decfd381bdecbc5b38948f5b1b1c7fcd9e7abaec84bc3860",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Zkittlez"
@@ -19933,38 +19855,12 @@
       "value" : "Herbal Hat"
     } ],
     "description" : "",
-    "hash" : "b70f030dfe6d1e220e90af8fb6dec3df5deb7b077ab06c9a07e6ea77cfc71b3f",
-    "alternative_image_url" : null
-  }, {
-    "id" : 0,
-    "name" : "digijoint #791",
-    "ethscription_id" : "0x71ede203ea30641d118f7d6a194d4587388fb17a6f2ff62faad6f68ae6bddfbe",
-    "item_attributes" : [ {
-      "trait_type" : "Backgrounds",
-      "value" : "ChemDog"
-    }, {
-      "trait_type" : "Body",
-      "value" : "Herbivore"
-    }, {
-      "trait_type" : "Lips",
-      "value" : "Cheeba Rising"
-    }, {
-      "trait_type" : "Eyes",
-      "value" : "DogeMau_d"
-    }, {
-      "trait_type" : "Buds",
-      "value" : "Duck Wit It"
-    }, {
-      "trait_type" : "Hats",
-      "value" : "Loco Lid Red"
-    } ],
-    "description" : "",
-    "hash" : "d529dc7bb50ad8a78e7c5b8f68893e0c32202c043c67df7a7e7d846f096d1dc9",
+    "hash" : "f82f811ddb3fadacb468edaf6a1298ff2776210d15200bf4c5a1af12f051eed0",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #792",
-    "ethscription_id" : "0x5d5c3617b0c191aa9875f4314f08a0e36045b31296e61da8f7e618f4edbfca7d",
+    "ethscription_id" : "0xc43c1674cefeaef248706c17da211f9a857b1a8718bcdfcd79e28b1e69a1dff4",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Wedding Cake"
@@ -19985,12 +19881,12 @@
       "value" : "Skully Yellow"
     } ],
     "description" : "",
-    "hash" : "a7f8681804970ee054fcc34d3a5a34271514477b94d608ad1a312827bcda6e9d",
+    "hash" : "26a69b1e9791bf2bf73f315ccbc12244793ce6c90c95795d3eb3a6f5795e5833",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #793",
-    "ethscription_id" : "0x7eb229700131a6c79d04963128ff96dc37e1d7021ff5cb1293f9e294825ed3a3",
+    "ethscription_id" : "0x9b6ab0347eacd1d0a32f432ed6af80e9c3a4bf51447b25385b97d233ea7cf1f6",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Slurricane"
@@ -20011,12 +19907,12 @@
       "value" : "Hot Lava Lid"
     } ],
     "description" : "",
-    "hash" : "0db47a35f9035ef73e46e5d2a6aeac1230104b9b5efc544e20c737f726f74432",
+    "hash" : "9adbeddaf87397e8ecaf044a49586af29b56feb9c8f00ce1dd38a00b3890cd5a",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #794",
-    "ethscription_id" : "0xf5c5f39b13e624dd2129929ed4ad1f592b16e13378887e7563ef3adfa1bbd6a5",
+    "ethscription_id" : "0x74c14f28fcdce949627396c3f84d8be0c32acb69adf634995a720171f8ddb1fe",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Gushers"
@@ -20037,12 +19933,12 @@
       "value" : "LogicCap Green"
     } ],
     "description" : "",
-    "hash" : "2986d750103cc39e86fcbc3d5ba08c03ce468f0b815a09bfb0a77314c9414a47",
+    "hash" : "ea353ee9276742957381fd53b4feb45b49ed02756e717de7143a8cd6943ccefb",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #795",
-    "ethscription_id" : "0x1f2b3f5af6f8d54b79821cbde3b4606d6cad27e0d8f873fd4c6276711fa36041",
+    "ethscription_id" : "0x71ede203ea30641d118f7d6a194d4587388fb17a6f2ff62faad6f68ae6bddfbe",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Orange Creamsicle"
@@ -20063,12 +19959,12 @@
       "value" : "Loco Lid Green"
     } ],
     "description" : "",
-    "hash" : "55c82de8a4f6ff89565486639d144c9a3837ab897bcecc3f60a224939965dde8",
+    "hash" : "36a6da15cdd864e149b4d9cacee0cefe7b98d78a54d81527cc4c5fff39b7c618",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #796",
-    "ethscription_id" : "0x3fe0e372dab74aff9a98278c694b093c28a382de844a4715b88b2cea6f86c0e8",
+    "ethscription_id" : "0x5d5c3617b0c191aa9875f4314f08a0e36045b31296e61da8f7e618f4edbfca7d",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Wedding Cake"
@@ -20089,12 +19985,12 @@
       "value" : "Headband Yellow Blue"
     } ],
     "description" : "",
-    "hash" : "77ae106b090312cff1240a302e92937f567b5b42b036163c5903d279ebc745c0",
+    "hash" : "bd9c2f885646f6936d2a8e1a4f974502a4e1695f569fca966736c915f6a52bb8",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #797",
-    "ethscription_id" : "0x67e4ed60c40804b493c9a698c5a3356432fbffc528a953e0b79835bff381e85b",
+    "ethscription_id" : "0x7eb229700131a6c79d04963128ff96dc37e1d7021ff5cb1293f9e294825ed3a3",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Alien OG"
@@ -20115,12 +20011,12 @@
       "value" : "Shiller"
     } ],
     "description" : "",
-    "hash" : "32f3a3f2080d4e83e30b819ab481de03d91271f74d6e8fb597f3e98b0f57017e",
+    "hash" : "813bf0e439ff519ec417051f1cda55e2cf15bb1107526f9fb75ecf54bb2b098f",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #798",
-    "ethscription_id" : "0x6abf68298302ca07487a5d61c74a7f89b0741f7d28f05da9a34f8042c022c2ea",
+    "ethscription_id" : "0xf5c5f39b13e624dd2129929ed4ad1f592b16e13378887e7563ef3adfa1bbd6a5",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "MAC"
@@ -20141,12 +20037,12 @@
       "value" : "Im High"
     } ],
     "description" : "",
-    "hash" : "47abc7c5a7d65f151e9b6b6d81c9724452b38f209b95b5be410d8039a4531b65",
+    "hash" : "3a1ccc47244a5d1402ae6fd3239261cb8ab2e29b30f74433e03c104b9a569aac",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #799",
-    "ethscription_id" : "0xd22bd5317395704bb64336053578963eec96d6e6833f8e8fe433ec610f43b634",
+    "ethscription_id" : "0x1f2b3f5af6f8d54b79821cbde3b4606d6cad27e0d8f873fd4c6276711fa36041",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Forbidden Fruit"
@@ -20167,12 +20063,12 @@
       "value" : "Headband Pink Green"
     } ],
     "description" : "",
-    "hash" : "2d810041433e2dccee9ca2bb85406fe1d8b4bef5a6f6f91e3311287903370b1e",
+    "hash" : "21804d3e59ddbab43a0dd816631fdff4db99ec327c733851e9c402d53a960e6f",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #800",
-    "ethscription_id" : "0x9c587e988286b95466b69512b03c1d1677edf32946488e3868f288e7f62a70d8",
+    "ethscription_id" : "0x3fe0e372dab74aff9a98278c694b093c28a382de844a4715b88b2cea6f86c0e8",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Purple Urkle"
@@ -20193,12 +20089,12 @@
       "value" : "Loco Lid Red"
     } ],
     "description" : "",
-    "hash" : "af4b625b166ea4491ca67332dfed548a8604958ce475385c28bd5fa9274fc8d1",
+    "hash" : "be7f14274e50dbbbbcb7995f721649a6a1bc3d85fd9d404e277f82f08e230d29",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #801",
-    "ethscription_id" : "0x0e93123283ada8aa198a4bf156c8f8defe54a7703dec1d8e74dc5c637588839a",
+    "ethscription_id" : "0x67e4ed60c40804b493c9a698c5a3356432fbffc528a953e0b79835bff381e85b",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Alien OG"
@@ -20219,12 +20115,12 @@
       "value" : "Skully Yellow"
     } ],
     "description" : "",
-    "hash" : "5ae11af016d23a5a85e65c06a4075de59a048ed95c4690112b495c1c73b2835f",
+    "hash" : "d65110be73ca711ed04d6ba702236bd9684582c56b605ef115b8fefa631d5a59",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #802",
-    "ethscription_id" : "0xe8b18f4df2ac05328f4c145ade6f02c6cededc23f65b0e736a49c1e1ce5e2ac6",
+    "ethscription_id" : "0x6abf68298302ca07487a5d61c74a7f89b0741f7d28f05da9a34f8042c022c2ea",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Orange Creamsicle"
@@ -20245,12 +20141,12 @@
       "value" : "Headband Yellow Blue"
     } ],
     "description" : "",
-    "hash" : "c9e4efe9ba0f23ffd169db1e85487a979443b2493fcbdd16d7e13eb8edd09dfe",
+    "hash" : "5693afe94c7d6dc6edf4899346bde9fc4f2e26f2483af514a980cb7981672851",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #803",
-    "ethscription_id" : "0xbe3910f7948f65ecf0faae8a56813ac21d5473f9b0a60850d67e7d23c65d4100",
+    "ethscription_id" : "0xd22bd5317395704bb64336053578963eec96d6e6833f8e8fe433ec610f43b634",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Gorilla Glue"
@@ -20271,12 +20167,12 @@
       "value" : "Im High"
     } ],
     "description" : "",
-    "hash" : "c9f7826dbdd0ff9b88e3dcb367169ac2a87763c9a70add89824201f3e215dc30",
+    "hash" : "6a0c244f11a29e84656828488b6b0e774465e8b240a3e89fdef2ee47e008d9a7",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #804",
-    "ethscription_id" : "0xecdda3e64f7e44f4f17cf95454e38fec6a14e4a6a916deae230fab0fda052583",
+    "ethscription_id" : "0x9c587e988286b95466b69512b03c1d1677edf32946488e3868f288e7f62a70d8",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "GMO Cookies"
@@ -20297,12 +20193,12 @@
       "value" : "Artiefishal Halo"
     } ],
     "description" : "",
-    "hash" : "a186a2c2b94c68a3d0b791b78f5bbf954dfd46095aaec88786f696c8bc6c2beb",
+    "hash" : "0cc58aed21dd1ce3ad46689e20dcb7e6c80eaca49a8ba4cbaedff4a5318d80bf",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #805",
-    "ethscription_id" : "0x6aa33af07a181914b0ad4eea6b668a1e5fcbbfb31cbcebd199cc2bf481965710",
+    "ethscription_id" : "0x0e93123283ada8aa198a4bf156c8f8defe54a7703dec1d8e74dc5c637588839a",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Orange Creamsicle"
@@ -20323,12 +20219,12 @@
       "value" : "Shiller"
     } ],
     "description" : "",
-    "hash" : "3ba48035329d9183689cda09df3126b8c174cb1aea21bb04595f6f2b01894b01",
+    "hash" : "0fae5dd563c518746e18c9dba5ccdf6ef70ac797019d47a1972222264380b24d",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #806",
-    "ethscription_id" : "0x9e4ecefe92e52303b3f86309538baf031467d58a41fc392a2b9861e28a3d959b",
+    "ethscription_id" : "0xe8b18f4df2ac05328f4c145ade6f02c6cededc23f65b0e736a49c1e1ce5e2ac6",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Gorilla Glue"
@@ -20349,12 +20245,12 @@
       "value" : "Hot Lava Lid"
     } ],
     "description" : "",
-    "hash" : "fcc10ca36918f21dfd54bcb0565ca1849453d478ee9c8405dc5cc893bfd07640",
+    "hash" : "575589938c5824c7b727ff460824843600f7063582923ab4161d8a5923ad5d5e",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #807",
-    "ethscription_id" : "0xefbf669e7c72d5b9c39ba54f87f999dce3ce23221c9519f7e11cbf57fb0cfd5f",
+    "ethscription_id" : "0xbe3910f7948f65ecf0faae8a56813ac21d5473f9b0a60850d67e7d23c65d4100",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Forbidden Fruit"
@@ -20375,12 +20271,12 @@
       "value" : "Loco Lid Red"
     } ],
     "description" : "",
-    "hash" : "dc6f7351b8b66242726bf8757563ea11b6afeabb17c72a449a5c4c3387ac6a79",
+    "hash" : "7d369f0978c28336fd6a96f757a1379bb2f2188a637dc62b1a994e101a671760",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #808",
-    "ethscription_id" : "0x89b4b0636e4fdc99e50707b8da10ce57f67d85320b8a7a444e5be0421b7e7eb7",
+    "ethscription_id" : "0xecdda3e64f7e44f4f17cf95454e38fec6a14e4a6a916deae230fab0fda052583",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Forbidden Fruit"
@@ -20401,12 +20297,12 @@
       "value" : "Loco Lid Green"
     } ],
     "description" : "",
-    "hash" : "b8ae646d6c74c860f37275c560bd6b529d5d8ff59a048c235eeda9cb21f5df53",
+    "hash" : "48069d5a7185046e9bbb6a3e094ac4e27dd1e42a0719976177253edc863b2aef",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #809",
-    "ethscription_id" : "0x1dccdf5b3eb7150f99fab2af5584992cdd94e640b6dc8f5b254499938c326e4d",
+    "ethscription_id" : "0x6aa33af07a181914b0ad4eea6b668a1e5fcbbfb31cbcebd199cc2bf481965710",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Strawberry Cough"
@@ -20427,12 +20323,12 @@
       "value" : "Laughing Lid Green"
     } ],
     "description" : "",
-    "hash" : "05ea7299527fe33cebd4e6916d011ee80ad97be779593cc73e871526b37a41b7",
+    "hash" : "d2ddc0b38fbcbd44dcff8083cda1f53b5256cdcc48483e74d1275397c169914b",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #810",
-    "ethscription_id" : "0x77d8b1a998ad9eca9f5930c2c9537a14c0424b92d496e34445a80362d59c996d",
+    "ethscription_id" : "0x9e4ecefe92e52303b3f86309538baf031467d58a41fc392a2b9861e28a3d959b",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Zkittlez"
@@ -20453,12 +20349,12 @@
       "value" : "LogicCap Gold"
     } ],
     "description" : "",
-    "hash" : "04c39062500e00a47526690b8fa1514c0cee9e3cf097e7103d8b1aaa7281d543",
+    "hash" : "87e8e748d784da911f514b8be2ab72fca6305468a85490c129e94bb6c9079a80",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #811",
-    "ethscription_id" : "0xd7e8a2e4ab6fc1b191e04bc00a08bfe4ae1fc977a6d960d358c971c3a34e8558",
+    "ethscription_id" : "0xefbf669e7c72d5b9c39ba54f87f999dce3ce23221c9519f7e11cbf57fb0cfd5f",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Hindu Kush"
@@ -20479,12 +20375,12 @@
       "value" : "LogicCap Purple"
     } ],
     "description" : "",
-    "hash" : "f610f2b952f5a46a5136ec88118561f7832f78cf967222ee213c52160f7edc48",
+    "hash" : "b5acd0f1d0a0cceff670ad06241c54a91bdc42556a9122510fce638329281929",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #812",
-    "ethscription_id" : "0x5fe5939d68dba9fa98752e41ffc1b8517cea3b7fd7d96a3b092bf2e6bdf4f937",
+    "ethscription_id" : "0x89b4b0636e4fdc99e50707b8da10ce57f67d85320b8a7a444e5be0421b7e7eb7",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Kush Mints Matrix"
@@ -20505,12 +20401,12 @@
       "value" : "Skully Yellow"
     } ],
     "description" : "",
-    "hash" : "47910cfc84a9d8e18f7c8dfa0481e193983f967a2e1cb40b5646b3bd5d20a3e6",
+    "hash" : "af5e7652fbfddf9c7031eab8eab41dc847647e1f7936781daa253e0552101e98",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #813",
-    "ethscription_id" : "0x0b1a7bd42a5e67f28e3d06ffe2ddaa2646c245c7e31078a183a48e26db97fc71",
+    "ethscription_id" : "0x1dccdf5b3eb7150f99fab2af5584992cdd94e640b6dc8f5b254499938c326e4d",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Strawberry Cough"
@@ -20531,12 +20427,12 @@
       "value" : "Im High"
     } ],
     "description" : "",
-    "hash" : "833f14b98b8974763a3a19667bca8f87596c0cccbdfcde397a14f71c759a8477",
+    "hash" : "b54cd5950ff044c1b9d8a7ee8e7f16d3976e5218e41a3ea196fe048a3cbd92c8",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #814",
-    "ethscription_id" : "0x1663e886f1897eb9e182cd1cb516356a8d8705edc727b45aaf458fd9e87ee6bd",
+    "ethscription_id" : "0x77d8b1a998ad9eca9f5930c2c9537a14c0424b92d496e34445a80362d59c996d",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Orange Creamsicle"
@@ -20557,12 +20453,12 @@
       "value" : "MoonQueen Crown"
     } ],
     "description" : "",
-    "hash" : "3e357c8da60722ca2cfe3748e34f663929b2634237f11d2088f4b259cfc09b45",
+    "hash" : "299bf51eb311a1dc23998e3dded355cb2921e102401a7a7b97d1442b4e744907",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #815",
-    "ethscription_id" : "0xb0941d445f8850065c55af9698b99c52d4d106edfdf03f8ee8747c0f1381e387",
+    "ethscription_id" : "0xd7e8a2e4ab6fc1b191e04bc00a08bfe4ae1fc977a6d960d358c971c3a34e8558",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Bubba Kush"
@@ -20583,12 +20479,12 @@
       "value" : "Loco Lid Green"
     } ],
     "description" : "",
-    "hash" : "1e2c43116d33be0551a0dffdd10eda7d690deaf8f8e73985b94df980952cdb30",
+    "hash" : "03da4a86a1452058dc554c5de9b33a76e5765c3211f1f827fd05a3605807293d",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #816",
-    "ethscription_id" : "0xdd26266aa64a04de8c3cff35c62378bb907bb4d258b7a1b6ef6d9d540f175649",
+    "ethscription_id" : "0x5fe5939d68dba9fa98752e41ffc1b8517cea3b7fd7d96a3b092bf2e6bdf4f937",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Slurricane"
@@ -20609,12 +20505,12 @@
       "value" : "Skully Green"
     } ],
     "description" : "",
-    "hash" : "e69bbba7a55c68d1315e8768c4d6400f03e7a18fe886c4aa6dbd40c1d1925282",
+    "hash" : "009b08ddaf9a80dd1fa0d3ccfe0a946e77959e2bf8ce4adf6b94b463e6725bed",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #817",
-    "ethscription_id" : "0x2e01aa725192d68dfd9d4d0dfad6bcefb80990b4407ec94c14d32bfc72f36e49",
+    "ethscription_id" : "0x0b1a7bd42a5e67f28e3d06ffe2ddaa2646c245c7e31078a183a48e26db97fc71",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Alien OG"
@@ -20635,12 +20531,12 @@
       "value" : "Laughing Lid Blue"
     } ],
     "description" : "",
-    "hash" : "2b6977332797b317e6cedce7ffd9207a374e86882f18eac22629443340952a87",
+    "hash" : "a2401ade34c10e355b6d46498692d1ce39efc089fbe862e4c044775ef5232d7b",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #818",
-    "ethscription_id" : "0x575c1716b173eff59f479c7223ea00d94ece4a7e3cf6b91f2f35624ace63a3bf",
+    "ethscription_id" : "0x1663e886f1897eb9e182cd1cb516356a8d8705edc727b45aaf458fd9e87ee6bd",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Forbidden Fruit"
@@ -20661,12 +20557,12 @@
       "value" : "LogicCap Purple"
     } ],
     "description" : "",
-    "hash" : "002925fa33df19966ddc637a05075c65a6a5565a28b3f37614549b5397a08669",
+    "hash" : "7ae565010bc5d3b4e7687b4da266828ec6298ac564b7428829dee5fd88863f67",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #819",
-    "ethscription_id" : "0x915068c1ab0e300aaaefd7180c4fb88feec30620c34f66e6e1c2a4a2715a0af2",
+    "ethscription_id" : "0xb0941d445f8850065c55af9698b99c52d4d106edfdf03f8ee8747c0f1381e387",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Hindu Kush"
@@ -20687,12 +20583,12 @@
       "value" : "LogicCap Gold"
     } ],
     "description" : "",
-    "hash" : "93c670298ed3ae79828ac2e63522d42202ca35b6d5781f79290487cd702485ef",
+    "hash" : "6e2eb60b7a500f7cc2a196c7a44f749f8740fb0d984cabf15bd9ce9e811d05eb",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #820",
-    "ethscription_id" : "0x49e5e785161a46074197c0a8a358027f67dc57552316974349fe993bbd9c5df2",
+    "ethscription_id" : "0xdd26266aa64a04de8c3cff35c62378bb907bb4d258b7a1b6ef6d9d540f175649",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Strawberry Cough"
@@ -20713,12 +20609,12 @@
       "value" : "Skully Green"
     } ],
     "description" : "",
-    "hash" : "0550dfdfb13fa0ca980126cedbbb0cd60199cd88d30ea89f3cee2d81d1b99c0d",
+    "hash" : "6610b8341f20a21d29bf4a46f51b9020eb1dbf5ea90913a0fae0d0a4445b551d",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #821",
-    "ethscription_id" : "0xb928b2c0e2f003e91143123c8c52428c475b1d5b05661d2879853c27fbd3125a",
+    "ethscription_id" : "0x2e01aa725192d68dfd9d4d0dfad6bcefb80990b4407ec94c14d32bfc72f36e49",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Gushers"
@@ -20739,12 +20635,12 @@
       "value" : "Skully Green"
     } ],
     "description" : "",
-    "hash" : "d239cfeb51f65b03621e63f18287d3ecc9f8c93a7c644e4a768eca892ce1feaa",
+    "hash" : "7cfb2b3c61e43365dab5b9fdff453ea4b6b44c986debdccffe2715a21f0c80bb",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #822",
-    "ethscription_id" : "0x278ff2f73041635c4d9280d8581233a5eb4240492cbb32e78daf58476d189d35",
+    "ethscription_id" : "0x575c1716b173eff59f479c7223ea00d94ece4a7e3cf6b91f2f35624ace63a3bf",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "MAC"
@@ -20765,12 +20661,12 @@
       "value" : "Headband Pink Green"
     } ],
     "description" : "",
-    "hash" : "70a5416bca200fabfec07cce8bfeabf7fbe1a9496911fb7f929c45906ae82eeb",
+    "hash" : "b120bdc3d3bd517446bc02ec3b92c9871320f7189959ab13465ca6e0d8053b20",
     "alternative_image_url" : null
   }, {
     "id" : 0,
     "name" : "digijoint #823",
-    "ethscription_id" : "0x695235b7abf388e0b2ea661eb6a9c31fa61e57e8f7c1bd5f0a4d78cc683805c6",
+    "ethscription_id" : "0x915068c1ab0e300aaaefd7180c4fb88feec30620c34f66e6e1c2a4a2715a0af2",
     "item_attributes" : [ {
       "trait_type" : "Backgrounds",
       "value" : "Gorilla Glue"
@@ -20791,8 +20687,112 @@
       "value" : "LogicCap Gold"
     } ],
     "description" : "",
-    "hash" : "be73e3eb8344a033f4b7e1767831840bb2b561fcf9eb74e2960a3a5f13fef43c",
+    "hash" : "ebb1a9343a47c74f076ac203e8e616abf3150548e49467d23c220b88069363dc",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
+    "name" : "digijoint #824",
+    "ethscription_id" : "0x49e5e785161a46074197c0a8a358027f67dc57552316974349fe993bbd9c5df2",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Slurricane"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Herbivore"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Dona Juanita"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Purple"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Golden Ticket"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Laughing Lid Blue"
+    } ],
+    "description" : "",
+    "hash" : "705b14517077d506569e438bc434874ba1aa67d7b88822d8062a9bd51e141556",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
+    "name" : "digijoint #825",
+    "ethscription_id" : "0xb928b2c0e2f003e91143123c8c52428c475b1d5b05661d2879853c27fbd3125a",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "TrainWreck"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Herbivore"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Smoke One"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Stoned Red"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Duck Wit It"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "LogicCap Purple"
+    } ],
+    "description" : "",
+    "hash" : "37914ab3b346212f844b18c847ae40dcae29dc1d087e8ddffe1a4498d6555ccb",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
+    "name" : "digijoint #826",
+    "ethscription_id" : "0x278ff2f73041635c4d9280d8581233a5eb4240492cbb32e78daf58476d189d35",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Alien OG"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Ganjapreneur"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Burning One Down"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Smokey"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "Purple Kush"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Shiller"
+    } ],
+    "description" : "",
+    "hash" : "182c8cd8e6ab7e4e14eaf1d71a0b90899a9eee34e000cdba40c413d7cb48a048",
+    "alternative_image_url" : null
+  }, {
+    "id" : 0,
+    "name" : "digijoint #827",
+    "ethscription_id" : "0x695235b7abf388e0b2ea661eb6a9c31fa61e57e8f7c1bd5f0a4d78cc683805c6",
+    "item_attributes" : [ {
+      "trait_type" : "Backgrounds",
+      "value" : "Ice Cream Cake"
+    }, {
+      "trait_type" : "Body",
+      "value" : "Laughing Hyena"
+    }, {
+      "trait_type" : "Lips",
+      "value" : "Ganja Smoke Blue Dream"
+    }, {
+      "trait_type" : "Eyes",
+      "value" : "Baked Blinkers Smokey"
+    }, {
+      "trait_type" : "Buds",
+      "value" : "MrsK47"
+    }, {
+      "trait_type" : "Hats",
+      "value" : "Herbal Hat"
+    } ],
+    "description" : "",
+    "hash" : "aa4759ada149f249f227b508ec1aff65f9ec14f35d7292cef2df2d8957fde86f",
     "alternative_image_url" : null
   } ],
-  "hash" : "240d1ecc1c0b8f812dce0aa15fc0f88e8ed46aa1fe86696aaa54673d721acbae"
+  "hash" : "aa1a525c8acb550c0e38d6708a75f16b9917a9fda55d556f2bf6ba3df28e93e5"
 }
