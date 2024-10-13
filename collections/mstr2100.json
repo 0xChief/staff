@@ -1,0 +1,864 @@
+{
+	"name": "MSTR2100",
+	"logo_image_uri": "https://imagedelivery.net/F3zQ5NYO6FGwocakpCyQvQ/61784066-6bc9-4a05-6a2f-cfe887589400/public",
+	"inscription_icon": "0xe68b48e935993ee88981ad95d5ce730ecd64b159727caabf6276d867f4453ce9",
+	"banner_image_uri": "",
+	"supply": "50",
+	"slug": "mstr2100",
+	"description": "$MSTR: 2100 Crypto enthusiasts, led by a bold CEO, stacked their sats, and crowned it the king of crypto stocks.",
+	"twitter_link": "https://x.com/MSTR2100",
+	"discord_link": "",
+	"website_link": "https://mstr2100.com/",
+	"collection_items": [
+		{
+			"id": "0x50b6bbd2a1e80c1c4967ce17cfdc36b97f859d194d09074580825dcc81025c26",
+			"meta": {
+				"name": "MSTR2100 #1",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041004
+					}
+				]
+			},
+			"number": 1
+		},
+		{
+			"id": "0x56f4f5a9ff34367462ea9022124d47c4b4457e425dd7b5c3e51ee329dfb1b167",
+			"meta": {
+				"name": "MSTR2100 #2",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041005
+					}
+				]
+			},
+			"number": 2
+		},
+		{
+			"id": "0x64ddc2055019436313a348f5c5d92fbb7a49fbcf9aa562cf0beb2b7bd1ab679e",
+			"meta": {
+				"name": "MSTR2100 #3",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041007
+					}
+				]
+			},
+			"number": 3
+		},
+		{
+			"id": "0x7233496e1e1cc88d37acfa883945972224128dc5168fa7006a484f2d4c5e20b1",
+			"meta": {
+				"name": "MSTR2100 #4",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041044
+					}
+				]
+			},
+			"number": 4
+		},
+		{
+			"id": "0xcaeafff3e2af026f3f513b7e86a135335202b62b85b368e160d4f2fb71b28b84",
+			"meta": {
+				"name": "MSTR2100 #5",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041045
+					}
+				]
+			},
+			"number": 5
+		},
+		{
+			"id": "0x869a411f3e62e8b03e71a5ef3fea89a87adb3ce1551a636c170eee40a21d00cb",
+			"meta": {
+				"name": "MSTR2100 #6",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041048
+					}
+				]
+			},
+			"number": 6
+		},
+		{
+			"id": "0x3deb70f004bcec1b1038be3c51d8d0eca13e628e01899ee88953ac46ec1c1827",
+			"meta": {
+				"name": "MSTR2100 #7",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041049
+					}
+				]
+			},
+			"number": 7
+		},
+		{
+			"id": "0x21628e95b7cc226c0f269b326ca6e51d2446876125e04415b5d9ce7cb77b24ba",
+			"meta": {
+				"name": "MSTR2100 #8",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041050
+					}
+				]
+			},
+			"number": 8
+		},
+		{
+			"id": "0x428df70a8e5379a9c3a97b74ecd4f1b5111aef6b2b578fbf7d8ce6c96344ba89",
+			"meta": {
+				"name": "MSTR2100 #9",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041051
+					}
+				]
+			},
+			"number": 9
+		},
+		{
+			"id": "0x385067e7ea43fbd4f2dc4524ab7c0d6bf343df2711939f23a7730e80d800aefb",
+			"meta": {
+				"name": "MSTR2100 #10",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041052
+					}
+				]
+			},
+			"number": 10
+		},
+		{
+			"id": "0x3c461daf9a1b6ddc69004ee2ae8b1ca7192dcfee23fec660e8cec60a5e503278",
+			"meta": {
+				"name": "MSTR2100 #11",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041053
+					}
+				]
+			},
+			"number": 11
+		},
+		{
+			"id": "0xa474d38583a737e2dc37d84e8f4ee5de95ab1669f97d2d1ceeef61a5dd305f9f",
+			"meta": {
+				"name": "MSTR2100 #12",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041054
+					}
+				]
+			},
+			"number": 12
+		},
+		{
+			"id": "0x0148ac59edc4fe88f411c8fcd22810f752778737a7f5f33c07a4c43236483d3b",
+			"meta": {
+				"name": "MSTR2100 #13",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041055
+					}
+				]
+			},
+			"number": 13
+		},
+		{
+			"id": "0x9fe11896ef3049f984bbdec126e969c10051b8fc1336ba85507924c474ea81a0",
+			"meta": {
+				"name": "MSTR2100 #14",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041056
+					}
+				]
+			},
+			"number": 14
+		},
+		{
+			"id": "0x630c770674522df933e4978f18a559b1ec2ab860e3d6c752afa99f0f51ecf0e8",
+			"meta": {
+				"name": "MSTR2100 #15",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041057
+					}
+				]
+			},
+			"number": 15
+		},
+		{
+			"id": "0xdb23a027312a8b13384409302fb0ace2c6b9674da90e21ae6d8ad9bf5e82d631",
+			"meta": {
+				"name": "MSTR2100 #16",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041058
+					}
+				]
+			},
+			"number": 16
+		},
+		{
+			"id": "0x91feb22fe4655f2e655ef9eb409eea6e591deafdad8307ec2ae17118a6bd9b47",
+			"meta": {
+				"name": "MSTR2100 #17",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041059
+					}
+				]
+			},
+			"number": 17
+		},
+		{
+			"id": "0xd95ab1b6397fd0c9fbb7cdd8d7104a07b7cc8cc5351b39423df53dcae6218480",
+			"meta": {
+				"name": "MSTR2100 #18",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041060
+					}
+				]
+			},
+			"number": 18
+		},
+		{
+			"id": "0x03c26bb9822a85fcc40fac8ad1902e6c0a2e3dbfafedc1fb3bb99cb2282308f6",
+			"meta": {
+				"name": "MSTR2100 #19",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041061
+					}
+				]
+			},
+			"number": 19
+		},
+		{
+			"id": "0xaaeb0d49b759dae9714689cc6f2ca1f5dd945d7cdfee3721db59cc0f1cd37c92",
+			"meta": {
+				"name": "MSTR2100 #20",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041062
+					}
+				]
+			},
+			"number": 20
+		},
+		{
+			"id": "0x8a1f4e6e14748ff5439be8c3fd948df6beea2e488c461a612f48c768708c171d",
+			"meta": {
+				"name": "MSTR2100 #21",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041806
+					}
+				]
+			},
+			"number": 21
+		},
+		{
+			"id": "0x27d7fd080d0d1d0ea9ec205dee6819736f367dd31634a476580d95130cd01938",
+			"meta": {
+				"name": "MSTR2100 #22",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041807
+					}
+				]
+			},
+			"number": 22
+		},
+		{
+			"id": "0x81853d16bba296edeb515d829483219af058ac8d13598d4986a43ac3d39a423d",
+			"meta": {
+				"name": "MSTR2100 #23",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041808
+					}
+				]
+			},
+			"number": 23
+		},
+		{
+			"id": "0x1135bf7a998505b934b829b6677c2b860bbf2b7269f1a570262fe93fdd29d82c",
+			"meta": {
+				"name": "MSTR2100 #24",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041809
+					}
+				]
+			},
+			"number": 24
+		},
+		{
+			"id": "0xf68cd37948541f31ec294915cbe7a1c259583ca52b4335dfec5da11dcbb2d0d9",
+			"meta": {
+				"name": "MSTR2100 #25",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041810
+					}
+				]
+			},
+			"number": 25
+		},
+		{
+			"id": "0xe5242371302f48df501501e45a4b7c3d26f0039aa44ac1e11aa9cbd8a86baaec",
+			"meta": {
+				"name": "MSTR2100 #26",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041811
+					}
+				]
+			},
+			"number": 26
+		},
+		{
+			"id": "0xde56d4bee18cfa70758fb272961feb1bbeabb5c0230fca50b70f6bd14917aebd",
+			"meta": {
+				"name": "MSTR2100 #27",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041812
+					}
+				]
+			},
+			"number": 27
+		},
+		{
+			"id": "0x1de1290fc325d92300c4299892a6f5ffb8e342dd127e1d1d8dac39891dc840ee",
+			"meta": {
+				"name": "MSTR2100 #28",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041813
+					}
+				]
+			},
+			"number": 28
+		},
+		{
+			"id": "0xc0dfc661f0ec6f96d1d010f588f2cb473d87d98c68d289168150c9d96d4e7842",
+			"meta": {
+				"name": "MSTR2100 #29",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041814
+					}
+				]
+			},
+			"number": 29
+		},
+		{
+			"id": "0xb61b2421cfa4123f1cd0df113822fcce6b11e3eeff5ee44533988771d27f18d7",
+			"meta": {
+				"name": "MSTR2100 #30",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041815
+					}
+				]
+			},
+			"number": 30
+		},
+		{
+			"id": "0x4a8a26983da3130979ff67d3d520db28659857ff4b7eba81fe879f23cdbf35ef",
+			"meta": {
+				"name": "MSTR2100 #31",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041816
+					}
+				]
+			},
+			"number": 31
+		},
+		{
+			"id": "0x8f860458af48f4c13c3b2233a8a1c94c4679ec93a6a8785dbff326502385b49d",
+			"meta": {
+				"name": "MSTR2100 #32",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041820
+					}
+				]
+			},
+			"number": 32
+		},
+		{
+			"id": "0xab61edc707700fcc3502e1e4379a2cef488c41976cac548c4d8b91983ecf183d",
+			"meta": {
+				"name": "MSTR2100 #33",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041821
+					}
+				]
+			},
+			"number": 33
+		},
+		{
+			"id": "0xe7bb1ba95a1b3760edcdcdb77ceeb161e797048bed9aa460922122884e90bb82",
+			"meta": {
+				"name": "MSTR2100 #34",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041822
+					}
+				]
+			},
+			"number": 34
+		},
+		{
+			"id": "0x8431d6b04afdfee8743a690687f994ed2ec30b4148acfce420e69780dfe53021",
+			"meta": {
+				"name": "MSTR2100 #35",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041823
+					}
+				]
+			},
+			"number": 35
+		},
+		{
+			"id": "0xcf2628df959c8918eef97ad17623eb304c7a8fd636afb23516053b992a0157af",
+			"meta": {
+				"name": "MSTR2100 #36",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041824
+					}
+				]
+			},
+			"number": 36
+		},
+		{
+			"id": "0x227262bcfa8c90006700dcdeacae24850c5fa5eb7202989bc9e4238da8dd1aca",
+			"meta": {
+				"name": "MSTR2100 #37",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041825
+					}
+				]
+			},
+			"number": 37
+		},
+		{
+			"id": "0x5e764ed5725901cd43c4e0665f33fc47c0dbf44b57e0c91aa53fe27efba5fcd4",
+			"meta": {
+				"name": "MSTR2100 #38",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041826
+					}
+				]
+			},
+			"number": 38
+		},
+		{
+			"id": "0x9e5d17c2b93abe28447a86eca0814667af20ca83bc322031b6cbf8a7afcd4ed6",
+			"meta": {
+				"name": "MSTR2100 #39",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041827
+					}
+				]
+			},
+			"number": 39
+		},
+		{
+			"id": "0xa28481509bb7ed3899cc5dca8b32e8ea13ef8196e0a03155df99e28fdeb1fce7",
+			"meta": {
+				"name": "MSTR2100 #40",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041828
+					}
+				]
+			},
+			"number": 40
+		},
+		{
+			"id": "0x147570ac04761f2a92118d8daa5be54e824c082f72a1947adb72c85b10279567",
+			"meta": {
+				"name": "MSTR2100 #41",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041829
+					}
+				]
+			},
+			"number": 41
+		},
+		{
+			"id": "0x82adf7427ef0c243fa271da6101ee55d3ff37527703c861e871f1eb006a69b53",
+			"meta": {
+				"name": "MSTR2100 #42",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041830
+					}
+				]
+			},
+			"number": 42
+		},
+		{
+			"id": "0x70bf878249994f7aa59428288903f2c1c1e56cfe7decece12db02190b5c46090",
+			"meta": {
+				"name": "MSTR2100 #43",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041831
+					}
+				]
+			},
+			"number": 43
+		},
+		{
+			"id": "0xdd87a0450c36de8db00d4e857d38b9c125423d08932882534a560bd53467a005",
+			"meta": {
+				"name": "MSTR2100 #44",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041832
+					}
+				]
+			},
+			"number": 44
+		},
+		{
+			"id": "0x3974298a54df2a3351f82990457ee33dc5f77dc7a3e5ea71e89e953dba9b4e77",
+			"meta": {
+				"name": "MSTR2100 #45",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041833
+					}
+				]
+			},
+			"number": 45
+		},
+		{
+			"id": "0x8b965e30218854e8b2c2ab2866b976f287ac381942324a50389f2ffae300b97c",
+			"meta": {
+				"name": "MSTR2100 #46",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041834
+					}
+				]
+			},
+			"number": 46
+		},
+		{
+			"id": "0x7991a42b7bdce30c3f9aedd01aa8d85a93cc9e616d2f6aafc453f701b7cd9910",
+			"meta": {
+				"name": "MSTR2100 #47",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041835
+					}
+				]
+			},
+			"number": 47
+		},
+		{
+			"id": "0x1a28bfde8a62c7089ffca769e9cebd02b0d6ca45af4476963cb5f99083dff660",
+			"meta": {
+				"name": "MSTR2100 #48",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041836
+					}
+				]
+			},
+			"number": 48
+		},
+		{
+			"id": "0xcd1fdfac27572cd80bb0ff1ca30368e1386d0688e886e409756e0272d40db12d",
+			"meta": {
+				"name": "MSTR2100 #49",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041837
+					}
+				]
+			},
+			"number": 49
+		},
+		{
+			"id": "0xe68b48e935993ee88981ad95d5ce730ecd64b159727caabf6276d867f4453ce9",
+			"meta": {
+				"name": "MSTR2100 #50",
+				"attributes": [
+					{
+						"trait_type": "collection",
+						"value": "MSTR2100"
+					},
+					{
+						"trait_type": "ethscription_number",
+						"value": 6041838
+					}
+				]
+			},
+			"number": 50
+		}
+	]
+}
